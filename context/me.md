@@ -1,35 +1,41 @@
 # Me
 
 **Name:** Rishit Sharma
-**Age/Grade:** 10th grade
+**Age/Grade:** 16, 10th grade
 **School:** Green Level High School
-**Location:** North Carolina (Green Level area)
+**Location:** Cary, North Carolina
 
 ## What I'm Building Toward
 
-Getting into Stanford or CMU, then building a startup there. Everything right now — Attentia, the DL/CV work, the research, the portfolio — feeds that goal. College admission is the actual north star. Attentia is the spike.
+Stanford REA (Nov 2027). North star. Everything else feeds it: shipping, the next startup, AP exams, the research pipeline, GitHub.
 
-Long-term I want to be at the intersection of technical and entrepreneurship. Not just a builder, not just a founder — both.
+Long-term: build companies, ship things, make money, compete, win.
 
-## What I'm Mastering Right Now
+## What I'm Doing Right Now
 
-Deep learning and computer vision, at a serious technical level. Not surface-level. Strong enough to lead Attentia's technical direction, publish research, and stand out in a college application.
+Finishing HOA Phase 4. Starting Tennis App right after it ships. Running the Apr 21 – May 5 startup idea sprint to pick what's next. AP prep, starting with Gov (May 5).
+
+No "my startup" identity right now. In between. That's the point of the sprint.
 
 ## How I Work
 
-- Wake up 6am, school 6:40am-2:18pm, home by 2:30
-- Work window 1: 3:00-4:30pm
-- Tennis (Mon-Thu): 4:30-6:00pm
-- Home at 6:15pm, shower, then work
-- Gym (Wednesday): 7:00pm
-- Dinner: 7:30pm daily
-- Work window 2: post-dinner to 10pm (10:30 at latest)
-- Real productive time per day: roughly 4-5 hours total on good days
+- Wake 6am, school 6:40–2:18pm, home by 2:30
+- Work window 1: 3:00–4:30pm
+- Tennis (Mon–Thu): 4:30–6:00pm
+- Home 6:15pm, shower, work
+- Gym: push/pull 4x/week
+- Dinner 7:30pm
+- Work window 2: post-dinner to 10pm (10:30 max)
+- Real productive time: 4–5 hrs on good days
 
 ## What Falls Through the Cracks
 
-Small tasks and school assignments. Things mentioned in passing that never get written down. Staying on top of deadlines without actively checking Canvas.
+Small tasks and school assignments. Things mentioned in passing that never get written down. Canvas deadlines if nothing forces them in front of me.
+
+## How I Want You to Talk to Me
+
+Direct. Blunt. No guilt, no obligation. Tell me what I need to hear, not what's comfortable. Push back when something is wrong. Ask me questions — you should know everything.
 
 ## Core Values
 
-Execute. Don't overthink. Stay close to the goal. Build things that matter.
+Execute. Ship. Compete. Win. Build things that matter.

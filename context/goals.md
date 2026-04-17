@@ -1,30 +1,59 @@
 # Goals
 
 > Update at the start of each quarter.
-Last updated: Q2 2026 (2026-03-30)
+Last updated: Q2 2026 (2026-04-17)
 
-## The 4 Pillars
+## North Star
 
-**1. Attentia Technical Ownership**
-Lead the technical direction with real depth. Phase 6 MVP is the immediate target. Long-term: be the person who built something real, not just contributed.
+**Future success as an entrepreneur.** Financial freedom. Time freedom. Building companies that matter. Never being an employee.
 
-**2. Deep Learning and Computer Vision Mastery**
-Not surface-level. Strong technical foundation. Study it seriously enough to drive Attentia, publish research, and stand out in college apps and interviews.
+College is a lever for that, not the goal itself. Stanford is bonus, not target. UMich / Georgia Tech / UC Berkeley are all "fine" outcomes. The real game is building myself into someone who can execute at the highest level regardless of where I end up.
 
-**3. Research**
-Publish a research paper, likely in CV or an adjacent area. This differentiates the college application and proves technical seriousness beyond building products.
+## What I'm Optimizing For
 
-**4. GitHub Pipeline**
-Consistent, high-quality output. DL/CV projects, Attentia contributions, iOS app. The GitHub profile should tell a story on its own.
+- Skills that compound: building, shipping, distribution, judgment, speed
+- Track record: real products in the world, real users, real revenue eventually
+- People: founders, operators, researchers I can learn from and build with
+- Leverage: compounding anything that pays forward (GitHub, network, research, brand)
 
-## College Targets
+## What I'm NOT Optimizing For
 
-- **Stanford** — primary
-- **CMU** — primary
-- Others TBD
+- College admissions theater (volunteer hours for points, clubs for the sake of it, generic extracurriculars)
+- CV mastery as an identity
+- Staying close to Attentia / past projects that don't serve the current thesis
 
-Plan: get in, then build a startup there. The whole point of college is to be in the right room with the right people.
+## The 5 Pillars (All Serve the North Star)
 
-## The Stack That Gets Me There
+**1. Ship Real Products**
+HOA this week. Tennis App by Aug 15. The new startup (picked May 5) from there. Shipping is the only proof that matters.
 
-Attentia as the spike. CV mastery as the proof. Research as the differentiator. Portfolio as the evidence. Tennis as the athlete hook.
+**2. Pick and Execute the Next Startup**
+Apr 21 – May 5 idea sprint. AI/tech. Non-CV unless the sprint reveals a CV problem worth owning. Real problem, real users, 1M+ potential, passion-backed. Decision locked May 5.
+
+**3. Crush AP Exams**
+Gov May 5 → Calc BC May 11 → AP CSP May 14. GPA helps regardless of target school. Discipline, not ambition — just get them done.
+
+**4. Research / Professor Pipeline**
+Gurbuz is the live shot (Zoom after Apr 27). Kim/Jerry active. Goal: one real lab relationship → tangible output (paper or science fair) by end of academic year.
+
+**5. GitHub Pipeline That Tells a Story**
+HOA, Tennis App, the new startup, small projects. Consistent output. Public, searchable, real.
+
+## College (Backup Framing)
+
+If admissions happen, great. Targets ranked by fit not prestige:
+- Stanford — bonus, not target
+- CMU — bonus
+- UC Berkeley — strong fit
+- Georgia Tech — strong fit
+- University of Michigan — strong fit
+
+The real filter: where can I learn faster and meet better people? Not which name is most impressive.
+
+## Values That Drive This
+
+- Be an entrepreneur, not an employee — permanent, not negotiable
+- Freedom: financial and time
+- Build things people use
+- Compete, win, enjoy life
+- Above-average person doing above-average things — don't settle for the average path

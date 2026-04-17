@@ -1,25 +1,38 @@
-# Work — Attentia
+# Work
 
-## Current Status
+## Current State
 
-Phase 6 — wrapping up the MVP.
+One ship-now build. One on-deck. One sprint in progress. No "primary startup" right now — that's what the sprint picks.
+
+### Fryars Gate HOA Chatbot (SHIP NOW)
+iOS + Python/Flask + ChromaDB. Phase 4 in progress, ship this week. Blocks Tennis App.
+
+### Tennis CV App (ON DECK)
+iOS, Swift, MediaPipe. Deadline **Aug 15, 2026 (16 weeks).** Starts the moment HOA ships.
+
+### Startup Idea Sprint (APR 21 – MAY 5)
+Find non-CV AI/tech idea. Validate with real people. Pick winner by May 5. This is where the next real company comes from.
+
+### Attentia Drive (SIDELINED — background only)
+Past co-founder involvement. On sideline. Not part of current identity. May revisit post-May 5.
 
 ## My Role
 
-Technical lead. Responsible for the full technical direction, architecture, and execution. Day-to-day this means building, reviewing code, and driving the roadmap. Future vision is being at the intersection of technical and entrepreneurship as Attentia grows.
+Technical lead on everything I build. Day-to-day builder. Long-term I'm heading toward tech + entrepreneurship intersection.
 
-## Next Milestone
+## Tech I Work In
 
-Finish CV fundamentals, then go all-in on execution. The plan is to get technically solid on computer vision first so I can lead the product from a position of depth, not surface knowledge.
+Python, Swift, PyTorch, React, Flask, ChromaDB, MediaPipe, hardware basics. Picking up radar signal processing for the Gurbuz track.
 
-## Tech Stack
+## Time-Sensitive
 
-<!-- Fill in when confirmed -->
-
-## Time-Sensitive Items
-
-Nothing critical right now.
+- HOA Phase 4 → this week
+- Batch 3 professor follow-ups → Mon Apr 20
+- Startup idea sprint → Apr 21 – May 5
+- AP Gov → May 5 (same day as startup decision)
+- Gurbuz Zoom → Apr 28 or 30
+- Tennis App ship → Aug 15
 
 ## Notes
 
-Attentia is the primary college application spike. The goal is not just to build it but to demonstrate serious technical ownership and traction — the kind that makes Stanford and CMU take notice.
+Tennis App is the college-application-visible build. HOA is proof of execution and the thing blocking Tennis App focus. The May 5 startup pick is the spike from May onward. Everything feeds Stanford REA Nov 2027.

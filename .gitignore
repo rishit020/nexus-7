@@ -2,3 +2,9 @@
 CLAUDE.local.md
 .claude/settings.local.json
 node_modules/
+
+# Canvas tracker
+workflows/canvas-tracker/.env
+workflows/canvas-tracker/__pycache__/
+workflows/canvas-tracker/*.pyc
+workflows/canvas-tracker/run.log

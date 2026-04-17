@@ -10,19 +10,27 @@
 - Spanish 2 Honors
 - AP Government
 
-## AP Exams Coming Up (May 2026)
+## AP Exams — Dates Locked
 
-- **Calc BC** — highest priority. Needs full AB review + BC content from near scratch. Most demanding class right now.
-- **AP Computer Science** — exam to prepare for (not a current class but has the exam)
-- **AP Government** — exam to prepare for
+| Date | Exam |
+|---|---|
+| **2026-05-05** | AP Government (18 days away) |
+| **2026-05-11** | AP Calculus BC |
+| **2026-05-14** | AP Computer Science Principles |
 
-AP exams are roughly 5-6 weeks out as of late March 2026. Calc BC needs the most lead time.
+**Gov comes first and shares a day with the startup idea decision. Can't let it slip.**
 
-## Mental Bandwidth
+Full study schedule: `learning/ap-exams/study-schedule.md`. Lock it this week.
 
-Low right now — new quarter just started. School doesn't consume a lot of energy in general but it varies. The risk is neglecting it and getting caught off guard by deadlines or the AP exams.
+## Assignments
+
+Canvas-driven. Automated via `workflows/canvas-tracker/` — pulls assignments, filters out quizzes/tests, appends to `tasks/backlog.md`. Run daily.
 
 ## What to Watch
 
-- School assignments fall through the cracks most often. No active Canvas monitoring — deadlines need to be logged when mentioned.
-- Calc BC is the one that could blow up without dedicated study time before May.
+- Assignments fall through the cracks most often. Backlog must be checked daily.
+- Calc BC is the most demanding class, but Gov is first chronologically — prep load shifts accordingly.
+
+## Mental Bandwidth
+
+New quarter. Low-moderate load. Risk is neglect, not overload. Small, consistent study sessions beat cramming.
