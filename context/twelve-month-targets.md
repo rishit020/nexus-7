@@ -1,35 +1,42 @@
-# 12-Month Targets (to 2027-04-17)
+# 12-Month Targets (to 2027-05-16)
 
-A great year, in concrete metrics. Set 2026-04-17.
+Reset 2026-05-16.
 
-## Startup
-- Revenue: **$10K MRR** (real revenue, real users)
-- User base: real users, not vanity signups
-- Competition: enter and place in at least one pitch / startup competition
+## Startup (Tide)
+- Revenue: real MRR — first $ as fast as possible, then grow
+- Real users, not vanity signups
+- Enter and place in at least one pitch competition / hackathon
 
-## Research
-- Real research completed — not a school project
-- Published (conference, arXiv, or similar venue)
-- Won at least one research competition (ISEF track, Regeneron STS, or equivalent)
+## Exposure
+- YC Startup School
+- Hackathon wins or placements
+- Startup competitions
+- Tide socials live and growing
+
+## GitHub
+- Consistent public output
+- Every major build shipped and visible
+
+## Body
+- 160-165 lbs (from 142)
+- Visible progress — athlete physique
 
 ## Tennis
-- **UTR 11+** (from current level)
-
-## Personal
-- Better, smarter, stronger, fitter overall
-- Became the person I want to be — not talking about it, acting like it
+- UTR: grow from current level (TBD baseline)
 
 ## How These Roll Up
 
-Each quarter, ask: am I on track to each of these by Apr 2027? If a target is drifting, fix it now, not in Q4.
+Each quarter, ask: am I on track? If a target is drifting, fix it now.
 
-## Current State (Baseline as of 2026-04-17)
-- Startup: blank slate, picking idea May 5
-- Research: Gurbuz Zoom planned after Apr 27
-- Tennis: UTR TBD (fill in)
+## Current State (Baseline 2026-05-16)
+- Startup: Tide picked, not yet built
+- HOA: still needs to ship
+- Tennis CV App: unlocked, not started
+- Lumbo GG: on table, details TBD
 - Fitness: 142 lbs → targeting 160-165
+- Hackathons/competitions: none yet
 
 ## Review Cadence
-- Quarterly: read this file, score progress
-- At `/week-review`: compare weekly output to 12-month trajectory
-- At `/daily-priority`: any drift gets flagged against these numbers
+- Quarterly: read this, score progress
+- At `/week-review`: compare to trajectory
+- At `/daily-priority`: flag drift

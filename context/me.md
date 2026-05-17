@@ -1,41 +1,37 @@
 # Me
 
 **Name:** Rishit Sharma
-**Age/Grade:** 16, 10th grade
+**Age/Grade:** 16, rising 11th grade (junior)
 **School:** Green Level High School
-**Location:** Cary, North Carolina
+**Location:** Cary, NC
 
 ## What I'm Building Toward
 
-Stanford REA (Nov 2027). North star. Everything else feeds it: shipping, the next startup, AP exams, the research pipeline, GitHub.
+Millionaire in my early 20s. Build companies, never be an employee. That's the only non-negotiable.
 
-Long-term: build companies, ship things, make money, compete, win.
+College is a tool. Targeting schools with strong startup/VC/tech ecosystems: UC Berkeley, Georgia Tech, University of Michigan, UC San Diego. Stanford REA (Nov 2027) is a stretch — not the target, not what I'm optimizing for. Nothing I do should be primarily for college apps. It has to be useful for when I'm 25 building a company.
 
 ## What I'm Doing Right Now
 
-Finishing HOA Phase 4. Starting Tennis App right after it ships. Running the Apr 21 – May 5 startup idea sprint to pick what's next. AP prep, starting with Gov (May 5).
+Summer starts ~June 10. Pure builder mode. Ship HOA, build Tide, explore Lumbo GG, stay cracked.
 
-No "my startup" identity right now. In between. That's the point of the sprint.
+## How I Work (Summer Schedule — starts June 10)
 
-## How I Work
+- Tennis: Mon/Wed 7–10am, Tue/Thu 3–6pm
+- Gym: 6 days/week (Sunday off). Timing TBD around tennis — likely evenings Mon/Wed, flexible Tue/Thu
+- Everything else: open time to build, ship, learn
+- Sleep: 10:30pm hard stop
 
-- Wake 6am, school 6:40–2:18pm, home by 2:30
-- Work window 1: 3:00–4:30pm
-- Tennis (Mon–Thu): 4:30–6:00pm
-- Home 6:15pm, shower, work
-- Gym: push/pull 4x/week
-- Dinner 7:30pm
-- Work window 2: post-dinner to 10pm (10:30 max)
-- Real productive time: 4–5 hrs on good days
+School year schedule (until ~June 10): wake 6am, school 6:40-2:18pm, home 2:30. Work 3-4:30pm. Tennis Mon-Thu 4:30-6pm. Dinner 7:30pm. Work post-dinner to 10pm.
 
 ## What Falls Through the Cracks
 
-Small tasks and school assignments. Things mentioned in passing that never get written down. Canvas deadlines if nothing forces them in front of me.
+Tasks mentioned in passing. Things I say I'll do that don't get written down.
 
 ## How I Want You to Talk to Me
 
-Direct. Blunt. No guilt, no obligation. Tell me what I need to hear, not what's comfortable. Push back when something is wrong. Ask me questions — you should know everything.
+Direct. Blunt. No guilt, no obligation. Tell me what I need to hear. Push back when I'm wrong. Ask me questions — you should know everything.
 
 ## Core Values
 
-Execute. Ship. Compete. Win. Build things that matter.
+Execute. Ship. Compete. Win. Build things that matter. Be the cracked high school founder who's different.

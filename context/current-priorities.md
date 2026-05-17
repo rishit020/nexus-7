@@ -1,40 +1,31 @@
 # Current Priorities
 
-Last updated: 2026-04-17
+Last updated: 2026-05-16
 
-## This Week (by Sunday Apr 19)
+**Mode:** Builder. No research. No curriculum. Ship things.
 
-1. **Radar signal processing reading** — 2-3 hours. Prep for Gurbuz Zoom (after Apr 27). She was explicit: domain investment is required before meeting.
-2. **Email Track A PhD students** — 30 min. Rhea Adams + Walter Zhao (Dan Ma lab), Anita Silver + Bill Chen (Dunn lab). Move independently of professor replies.
-3. **Finish HOA Phase 4** — 3-4 hours. Ship this week. Tennis App can't start until this is out.
-4. **Lock AP exam study schedule** — 30 min planning. **Gov exam is May 5 — 18 days out. Calc BC May 11. AP CSP May 14.**
+## Right Now (May 16 — school end ~June 10)
 
-## Monday April 20 (specific)
+1. **Ship HOA** — still pending. Close it out. It's dragged too long.
+2. **Finish AP exams** — AP CSP is May 14 (done if today is May 16). Confirm done.
+3. **Start Tide planning** — architecture, what's being built, first version scope.
 
-- Send Batch 3 follow-up emails (14 professors — templates needed)
-- Email Track B PhD students (Boyuan Chen, Xiaorui Liu, Horstmeyer labs)
+## Summer (June 10+)
 
-## Next 2 Weeks (Apr 21 – May 5)
-
-- **Startup Idea Sprint** — 3-5 hrs/week. Research 5-7 ideas, validate, pick winner by May 5. Non-CV, AI/tech.
-- **AP prep (Gov-heavy)** — daily. Gov exam is May 5, same day as startup decision. Can't let it sneak up.
-- **Tennis App** — **starts AFTER HOA ships.** First task once HOA is done: Week 1-4 roadmap.
-- **Gurbuz Zoom** — target Apr 28 or 30 at 5pm.
-
-## Gurbuz Meeting Prep Checklist
-
-Before the call:
-- Read basics of FMCW radar, micro-Doppler signatures, radar HAR literature
-- Skim her "Physics-Aware GANs for Radar HAR" (IEEE TAES 2023) carefully
-- Prepare: clear commitment to academic-year continuation, tangible output plan
-- Don't ask "what can I do?" — come with a suggestion she can react to
+1. **Build and launch Tide** — the main thing. Real users, first revenue.
+2. **Tennis CV App** — now unlocked. Build when Tide has momentum.
+3. **Lumbo GG** — keep moving.
+4. **Hackathons** — enter them. Win if possible.
+5. **YC Startup School** — get in, show up.
+6. **Tide socials** — launch early alongside the product.
+7. **Personal brand** — later, after Tide is moving.
 
 ## What to Not Do
 
-- Don't start Tennis App before HOA ships
-- Don't skip radar reading — Gurbuz meeting is the biggest lead right now
-- Don't let AP Gov slip (May 5)
-- Don't resume DL Spec / CS231n / PyTorch until May 5+
-- Don't email professors again outside the Batch 3 follow-up plan
+- Don't start learning tracks that aren't tied to building
+- Don't do research for research's sake
+- Don't revive professor outreach pipeline
+- Don't mention Attentia
+- Don't let HOA sit any longer
 
 Update this file when focus shifts.

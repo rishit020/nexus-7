@@ -1,36 +1,24 @@
 # School
 
 **School:** Green Level High School
-**Grade:** 10th
+**Grade:** Rising 11th (junior)
 
-## Current Classes
+## School Year End
 
-- Calculus BC
-- English 2 Honors
-- Spanish 2 Honors
-- AP Government
+~June 10, 2026. Summer starts then.
 
-## AP Exams — Dates Locked
+## AP Exams — DONE
 
-| Date | Exam |
-|---|---|
-| **2026-05-05** | AP Government (18 days away) |
-| **2026-05-11** | AP Calculus BC |
-| **2026-05-14** | AP Computer Science Principles |
-
-**Gov comes first and shares a day with the startup idea decision. Can't let it slip.**
-
-Full study schedule: `learning/ap-exams/study-schedule.md`. Lock it this week.
+| Date | Exam | Status |
+|---|---|---|
+| 2026-05-05 | AP Government | Done |
+| 2026-05-11 | AP Calculus BC | Done |
+| 2026-05-14 | AP Computer Science Principles | Done |
 
 ## Assignments
 
-Canvas-driven. Automated via `workflows/canvas-tracker/` — pulls assignments, filters out quizzes/tests, appends to `tasks/backlog.md`. Run daily.
-
-## What to Watch
-
-- Assignments fall through the cracks most often. Backlog must be checked daily.
-- Calc BC is the most demanding class, but Gov is first chronologically — prep load shifts accordingly.
+Canvas-driven. Automated via `workflows/canvas-tracker/` — pulls assignments, appends to `tasks/backlog.md`. Check daily through end of school year.
 
 ## Mental Bandwidth
 
-New quarter. Low-moderate load. Risk is neglect, not overload. Small, consistent study sessions beat cramming.
+End of year. Low load. Main risk is letting school completely fall off while focused on Tide. GPA still matters for college apps.

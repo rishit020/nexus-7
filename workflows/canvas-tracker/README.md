@@ -18,7 +18,7 @@ School assignments fall through the cracks. Canvas has notifications but they ge
 ## Setup (One-Time)
 
 ### 1. Get a Canvas access token
-- Log in to Canvas (greenlevel.instructure.com or whichever it is)
+- Log in to Canvas (https://wcpss.instructure.com)
 - Account → Settings → Approved Integrations → "+ New Access Token"
 - Name it "NEXUS-7 canvas-tracker", no expiry, save the token
 

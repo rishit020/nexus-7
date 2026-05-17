@@ -2,37 +2,46 @@
 
 ## Current State
 
-One ship-now build. One on-deck. One sprint in progress. No "primary startup" right now — that's what the sprint picks.
+Builder mode. No research. No curriculum. Ship things, learn by doing, build the startup.
 
-### Fryars Gate HOA Chatbot (SHIP NOW)
-iOS + Python/Flask + ChromaDB. Phase 4 in progress, ship this week. Blocks Tennis App.
+### Fryars Gate HOA Chatbot (SHIP — still pending)
+iOS + Python/Flask + ChromaDB. Needs to ship.
 
-### Tennis CV App (ON DECK)
-iOS, Swift, MediaPipe. Deadline **Aug 15, 2026 (16 weeks).** Starts the moment HOA ships.
+### Tide (PRIMARY STARTUP)
+AI distribution engine for indie hackers and vibe coders. You build with Cursor or an agent — Tide handles distribution after launch. Agentic system. This is the main thing.
 
-### Startup Idea Sprint (APR 21 – MAY 5)
-Find non-CV AI/tech idea. Validate with real people. Pick winner by May 5. This is where the next real company comes from.
+### Tennis CV App (ACTIVE — now unlocked)
+HOA was the blocker. Now surfaceable. Build when bandwidth opens.
 
-### Attentia Drive (SIDELINED — background only)
-Past co-founder involvement. On sideline. Not part of current identity. May revisit post-May 5.
+### Lumbo GG (ON THE TABLE)
+Still active. Details TBD — will add full context.
+
+### Attentia Drive (DEAD — do not surface)
+Past co-founder involvement. Over. Not part of current identity. Never mention unless asked directly.
 
 ## My Role
 
-Technical lead on everything I build. Day-to-day builder. Long-term I'm heading toward tech + entrepreneurship intersection.
+Technical lead and day-to-day builder on everything. Long-term: tech + entrepreneurship intersection.
 
 ## Tech I Work In
 
-Python, Swift, PyTorch, React, Flask, ChromaDB, MediaPipe, hardware basics. Picking up radar signal processing for the Gurbuz track.
+Python, Swift, React, Flask, ChromaDB. Will pick up whatever Tide requires.
 
-## Time-Sensitive
+## What's Not Happening
 
-- HOA Phase 4 → this week
-- Batch 3 professor follow-ups → Mon Apr 20
-- Startup idea sprint → Apr 21 – May 5
-- AP Gov → May 5 (same day as startup decision)
-- Gurbuz Zoom → Apr 28 or 30
-- Tennis App ship → Aug 15
+- No research pipeline (Gurbuz, professor outreach — dead)
+- No AI agents curriculum
+- No learning tracks — learn by building
+- No Attentia
+
+## Summer Priorities (June 10+)
+
+1. Ship HOA
+2. Build and launch Tide — get real users, early traction, revenue
+3. Hackathons, YC Startup School, startup competitions
+4. Personal brand socials (Tide launches first, personal brand later)
+5. Keep Lumbo GG moving
 
 ## Notes
 
-Tennis App is the college-application-visible build. HOA is proof of execution and the thing blocking Tennis App focus. The May 5 startup pick is the spike from May onward. Everything feeds Stanford REA Nov 2027.
+The goal is differentiation. Cracked high school founder who ships, not one who talks. Every build should be public, real, and compounding toward the founder story.
