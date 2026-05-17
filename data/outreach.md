@@ -239,6 +239,24 @@ notes: They replied to Rishit's own post in r/alphaandbetausers. Already warm �
 id: O-016
 date_created: 2026-05-17
 lead_id: L-014
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the ph #1 launch that died right after. that gap between getting the initial spike and then having nothing is exactly what i keep hearing about.
+
+  what ended up being the thing that actually moved the needle for you after the launch peak?
+
+  doing research on the post-launch distribution problem for solo founders. your situation is one of the more complete versions of it i've come across.
+status: draft
+date_sent: null
+result: null
+notes: They now have $1600/week — they solved the problem. Great research conversation to understand what worked. Reference PH #1 dying specifically. Don't pitch, just get them to walk through what changed.
+[RECORD_END]
+
+[RECORD_START]
+id: O-017
+date_created: 2026-05-17
+lead_id: L-015
 platform: indiehackers
 variant: dm
 draft_text: |
@@ -254,9 +272,9 @@ notes: Title literally says "23 Days of Zero Users" — lead with that number, n
 [RECORD_END]
 
 [RECORD_START]
-id: O-017
+id: O-018
 date_created: 2026-05-17
-lead_id: L-015
+lead_id: L-016
 platform: indiehackers
 variant: dm
 draft_text: |
@@ -266,5 +284,5 @@ draft_text: |
 status: draft
 date_sent: null
 result: null
-notes: They're 20 — peer-to-peer angle works well. Keep it short, 2 sentences is enough. Don't over-explain the research angle.
+notes: They're 20 — peer-to-peer angle works naturally here. Keep it short, 2 sentences is right. Don't over-explain the research angle.
 [RECORD_END]

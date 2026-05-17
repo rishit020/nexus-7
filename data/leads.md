@@ -174,13 +174,13 @@ outreach_id: O-015
 [RECORD_START]
 id: L-014
 date_found: 2026-05-17
-username: Peterjack
-platform: indiehackers
-url: https://www.indiehackers.com/Peterjack
-pain_quote: "23 days of zero users" (post title — AI dating coach, cold start feedback request)
-product_built: AI dating coach that "actually sounds like you, not ChatGPT"
-fit_reason: Post-launch solo dev, 23 days and literally zero users, explicitly seeking cold start help — textbook Tide ICP
-opener_angle: The 23 days of zero users line — ask what distribution actually looked like over those 23 days, not about the product
+username: Able_Relief925
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1tg3qoz/i_just_crossed_1600_in_revenue_in_the_past_week/
+pain_quote: "launched my saas on product hunt and got #1, and then it died because i didn't know how to market it after that"
+product_built: SaaS (unknown specifics — now at $1600/week revenue)
+fit_reason: textbook distribution failure post-PH launch, now solved — ideal research conversation to understand what actually worked
+opener_angle: reference the PH #1 then dying, ask what ended up moving the needle after the launch peak
 status: new
 outreach_id: O-016
 [RECORD_END]
@@ -188,13 +188,27 @@ outreach_id: O-016
 [RECORD_START]
 id: L-015
 date_found: 2026-05-17
+username: Peterjack
+platform: indiehackers
+url: https://www.indiehackers.com/Peterjack
+pain_quote: "23 days of zero users" (post title — AI dating coach, cold start feedback request)
+product_built: AI dating coach that "actually sounds like you, not ChatGPT"
+fit_reason: Post-launch solo dev, 23 days and literally zero users, explicitly seeking cold start help — textbook Tide ICP
+opener_angle: The 23 days zero users line — ask what distribution actually looked like over those 23 days, not about the product
+status: new
+outreach_id: O-017
+[RECORD_END]
+
+[RECORD_START]
+id: L-016
+date_found: 2026-05-17
 username: cleancorejack
 platform: indiehackers
 url: https://www.indiehackers.com/cleancorejack
-pain_quote: "my first SaaS flopped" (post title — 20yo, first product failed, building second)
+pain_quote: "my first SaaS flopped" (post title — 20yo, building second now differently)
 product_built: unknown first SaaS (flopped); building second SaaS now
-fit_reason: First product failed at 20, now actively trying to do it differently — high awareness of the problem Tide solves, fresh pain
-opener_angle: What specifically broke at launch — distribution problem or product problem? Distinguishing these matters for research
+fit_reason: First product failed at 20, now actively trying to do it differently — high awareness of the distribution gap, fresh pain
+opener_angle: What specifically broke at launch — distribution problem or product problem? That distinction matters for research
 status: new
-outreach_id: O-017
+outreach_id: O-018
 [RECORD_END]
