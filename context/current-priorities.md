@@ -1,31 +1,23 @@
-# Current Priorities
+# CURRENT PRIORITY
 
-Last updated: 2026-05-16
+THE ONE THING: talk to real potential Tide users and validate the pain
 
-**Mode:** Builder. No research. No curriculum. Ship things.
+WHY: nothing else matters until we know people actually have this problem
+badly enough to pay for a solution. no code, no design, no features until
+this is confirmed.
 
-## Right Now (May 16 — school end ~June 10)
+WHAT DONE LOOKS LIKE: 20+ conversations with solo developers who launched
+something and struggled with distribution. clear pattern in what they say.
+confidence in the MVP feature set.
 
-1. **Ship HOA** — still pending. Close it out. It's dragged too long.
-2. **Finish AP exams** — AP CSP is May 14 (done if today is May 16). Confirm done.
-3. **Start Tide planning** — architecture, what's being built, first version scope.
+WHAT IT UNLOCKS: start building. start waitlist. have something real to
+post about.
 
-## Summer (June 10+)
+STARTED: 2026-05-17
+TARGET: 2026-06-16
 
-1. **Build and launch Tide** — the main thing. Real users, first revenue.
-2. **Tennis CV App** — now unlocked. Build when Tide has momentum.
-3. **Lumbo GG** — keep moving.
-4. **Hackathons** — enter them. Win if possible.
-5. **YC Startup School** — get in, show up.
-6. **Tide socials** — launch early alongside the product.
-7. **Personal brand** — later, after Tide is moving.
+---
+RULE: one priority only. agent rewrites this file when focus shifts.
+never a list. never "also working on."
 
-## What to Not Do
-
-- Don't start learning tracks that aren't tied to building
-- Don't do research for research's sake
-- Don't revive professor outreach pipeline
-- Don't mention Attentia
-- Don't let HOA sit any longer
-
-Update this file when focus shifts.
+LAST_UPDATED: 2026-05-17

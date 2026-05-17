@@ -1,38 +1,13 @@
-# Hard Deadlines
+# DEADLINES
 
-Single source of truth. Every slash command references this.
+Format: DATE | WHAT | HARD/SOFT | NOTES
 
-## Immediate
+2026-06-13 | School ends        | HARD | Schedule shifts to summer mode
+2026-06-16 | 20+ user convos    | SOFT | Tide validation target
+2026-06-16 | Waitlist: 100+     | SOFT | Tide waitlist target
 
-| Date | Deadline | Project |
-|---|---|---|
-| ASAP | Ship HOA Phase 4 | Fryars Gate HOA |
-| ~2026-06-10 | Summer starts | Schedule shift |
+---
+Agent updates this immediately when any date is mentioned.
+Never let this be more than 48 hours out of date.
 
-## Summer (June 10+)
-
-| Date | Deadline | Project |
-|---|---|---|
-| TBD | Tide v1 launch | Tide |
-| TBD | First hackathon entry | Exposure |
-| TBD | YC Startup School | Exposure |
-
-## Long Horizon
-
-| Date | Deadline | Project |
-|---|---|---|
-| 2027-11-01 | Stanford REA application (stretch) | College |
-
-## Interpretation Rules
-
-- Anything ≤7 days out dominates `/daily-priority`
-- Anything ≤30 days out informs weekly rank
-- If a deadline slips, update here AND log why in `decisions/log.md`
-- AP exams: all done as of May 2026
-
-## Done / Cleared
-
-- AP Gov — May 5 ✓
-- AP Calc BC — May 11 ✓
-- AP CSP — May 14 ✓
-- Startup idea sprint — Tide picked ✓
+LAST_UPDATED: 2026-05-17
