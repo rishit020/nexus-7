@@ -8,3 +8,8 @@ workflows/canvas-tracker/.env
 workflows/canvas-tracker/__pycache__/
 workflows/canvas-tracker/*.pyc
 workflows/canvas-tracker/run.log
+
+# Scout runtime logs
+data/scout-launchd-error.log
+data/scout-launchd.log
+data/scout-log.txt

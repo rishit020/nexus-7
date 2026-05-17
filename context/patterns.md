@@ -22,4 +22,20 @@ TRIGGERS FOR AUTO-APPEND:
 
 [entries append here]
 
+2026-05-17 | TYPE: behavior
+OBSERVED: Rishit DM'd Stingwave24, GillesCode, Distinct_Laugh_5808 based on agent's email parse. Skipped LeaderAtLeading — "wastage of time."
+IMPLICATION: Commentary-style replies (analysis, takes) = lower priority. Personal pain stories = pursue. People describing their own struggle > people offering hot takes.
+
+2026-05-17 | TYPE: behavior
+OBSERVED: Rishit explicitly said to own the full Reddit workflow — parse emails, find leads, draft DMs, find posts to comment on. He reviews and approves, not does the legwork.
+IMPLICATION: Every session: check Gmail for Reddit + F5Bot signals. Parse, rank, draft. Bring action items not raw data.
+
+2026-05-17 | TYPE: outreach
+OBSERVED: "vibe coded" F5Bot keyword hit 50/day limit — nearly all hits were garbage. Signal keywords: "launched my saas", "distribution problem", "shouting into the void."
+IMPLICATION: Recommend tightening or killing "vibe coded" keyword. High-signal keywords get weighted higher in parsing.
+
+2026-05-17 | TYPE: mistake — NEVER REPEAT
+OBSERVED: r/SaaS and r/indiehackers auto-removed Rishit's posts via AutoModerator.
+IMPLICATION: Before posting to any new subreddit, check the rules. r/SaaS flags low-effort/AI content. r/indiehackers is strict. Research first, draft accordingly.
+
 LAST_UPDATED: 2026-05-17

@@ -3,16 +3,80 @@
 
 [RECORD_START]
 id: O-001
-date_created: [YYYY-MM-DD]
-lead_id: [L-XXX]
-platform: [reddit/discord/dm/twitter]
-variant: [dm/comment]
+date_created: 2026-05-17
+lead_id: L-001
+platform: reddit
+variant: dm
 draft_text: |
-  [full draft]
-status: [draft/approved/sent/rejected]
+  [sent by Rishit — full text unknown, log when he shares it]
+status: sent
+date_sent: 2026-05-17
+result: pending
+notes: replied to buildinpublic post, niche distribution pain
+[RECORD_END]
+
+[RECORD_START]
+id: O-002
+date_created: 2026-05-17
+lead_id: L-002
+platform: reddit
+variant: dm
+draft_text: |
+  [sent by Rishit — full text unknown, log when he shares it]
+status: sent
+date_sent: 2026-05-17
+result: pending
+notes: replied to buildinpublic post, chaotic distribution story
+[RECORD_END]
+
+[RECORD_START]
+id: O-003
+date_created: 2026-05-17
+lead_id: L-003
+platform: reddit
+variant: dm
+draft_text: |
+  [sent by Rishit — full text unknown, log when he shares it]
+status: sent
+date_sent: 2026-05-17
+result: pending
+notes: replied to buildinpublic post, week 2 builder
+[RECORD_END]
+
+[RECORD_START]
+id: O-004
+date_created: 2026-05-17
+lead_id: L-004
+platform: reddit
+variant: dm
+draft_text: |
+  hey — just saw your post about launching the mvp with no audience. genuinely curious,
+  what have you tried so far and what's felt most broken? like where does it actually
+  fall apart for you?
+
+  doing research on exactly this gap — the window between shipping something and
+  actually getting people to use it. your post was one of the most honest descriptions
+  of it i've seen.
+status: draft
 date_sent: null
 result: null
-notes: [what worked or didn't]
+notes: F5Bot find — textbook ICP, launched with no audience. needs Rishit approval before sending.
+[RECORD_END]
+
+[RECORD_START]
+id: O-005
+date_created: 2026-05-17
+lead_id: L-005
+platform: reddit
+variant: dm
+draft_text: |
+  hey — saw your comment about 6-7 months of almost no leads. that's a long time to
+  be stuck. what are you building? curious whether the problem is finding the right
+  channels or something else entirely.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot find — distribution pain, duration suggests real frustration. verify ICP fit before sending.
 [RECORD_END]
 
 [RECORD_START]

@@ -5,16 +5,72 @@
 
 [RECORD_START]
 id: L-001
-date_found: [YYYY-MM-DD]
-username: [handle]
-platform: [reddit/hn/discord/twitter]
-url: [link]
-pain_quote: [verbatim <40 words]
-product_built: [what they made]
-fit_reason: [why tide solves their problem]
-opener_angle: [suggested first message approach]
-status: [new/contacted/replied/converted/dead]
-outreach_id: null
+date_found: 2026-05-17
+username: Stingwave24
+platform: reddit
+url: https://reddit.com/r/buildinpublic
+pain_quote: "I have had a hard time distributing, especially since I'm targeting a niche industry"
+product_built: productivity app (built for self, then polished)
+fit_reason: explicit distribution pain, niche market makes it harder
+opener_angle: niche distribution specifically — ask what industry and what they've tried
+status: contacted
+outreach_id: O-001
+[RECORD_END]
+
+[RECORD_START]
+id: L-002
+date_found: 2026-05-17
+username: GillesCode
+platform: reddit
+url: https://reddit.com/r/buildinpublic
+pain_quote: "most signups came from a single Slack thread I wasn't even part of, everything I'd planned for distribution..."
+product_built: unknown (SaaS, post-launch)
+fit_reason: chaotic unplanned distribution — exactly the problem Tide systematizes
+opener_angle: that slack thread story — what would he have done differently
+status: contacted
+outreach_id: O-002
+[RECORD_END]
+
+[RECORD_START]
+id: L-003
+date_found: 2026-05-17
+username: Distinct_Laugh_5808
+platform: reddit
+url: https://reddit.com/r/buildinpublic
+pain_quote: "users signing up to potentially use the product isn't the same as them actually taking..."
+product_built: unknown (week 2 post-launch)
+fit_reason: fresh pain, in the exact window Tide targets — just launched, figuring out distribution
+opener_angle: week 2 check-in — what's been hardest so far
+status: contacted
+outreach_id: O-003
+[RECORD_END]
+
+[RECORD_START]
+id: L-004
+date_found: 2026-05-17
+username: InitialStudent9000
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tfyqua/i_just_launched_my_saas_mvp_how_can_i_get_traffic/
+pain_quote: "I just launched my saas MVP. How can I get traffic with no audience please?"
+product_built: SaaS MVP (unknown specifics)
+fit_reason: textbook ICP — launched something, zero audience, asking for help immediately
+opener_angle: curiosity about what they built + what they've tried — don't pitch
+status: new
+outreach_id: O-004
+[RECORD_END]
+
+[RECORD_START]
+id: L-005
+date_found: 2026-05-17
+username: ollyconscious
+platform: reddit
+url: https://www.reddit.com/r/developersPak/comments/1tf8psg/c/omcnpmp
+pain_quote: "Getting little to no leads from past 6,7 months"
+product_built: unknown
+fit_reason: sustained distribution pain — 6+ months of struggle signals real desperation
+opener_angle: what they're building + where they've tried to find leads
+status: new
+outreach_id: O-005
 [RECORD_END]
 
 [RECORD_START]
