@@ -170,3 +170,31 @@ opener_angle: follow up on their comment, ask what distribution has actually loo
 status: new
 outreach_id: O-015
 [RECORD_END]
+
+[RECORD_START]
+id: L-014
+date_found: 2026-05-17
+username: Peterjack
+platform: indiehackers
+url: https://www.indiehackers.com/Peterjack
+pain_quote: "23 days of zero users" (post title — AI dating coach, cold start feedback request)
+product_built: AI dating coach that "actually sounds like you, not ChatGPT"
+fit_reason: Post-launch solo dev, 23 days and literally zero users, explicitly seeking cold start help — textbook Tide ICP
+opener_angle: The 23 days of zero users line — ask what distribution actually looked like over those 23 days, not about the product
+status: new
+outreach_id: O-016
+[RECORD_END]
+
+[RECORD_START]
+id: L-015
+date_found: 2026-05-17
+username: cleancorejack
+platform: indiehackers
+url: https://www.indiehackers.com/cleancorejack
+pain_quote: "my first SaaS flopped" (post title — 20yo, first product failed, building second)
+product_built: unknown first SaaS (flopped); building second SaaS now
+fit_reason: First product failed at 20, now actively trying to do it differently — high awareness of the problem Tide solves, fresh pain
+opener_angle: What specifically broke at launch — distribution problem or product problem? Distinguishing these matters for research
+status: new
+outreach_id: O-017
+[RECORD_END]

@@ -234,3 +234,37 @@ date_sent: null
 result: null
 notes: They replied to Rishit's own post in r/alphaandbetausers. Already warm — they engaged first. DM is a natural follow-up. Don't pitch, just get them talking.
 [RECORD_END]
+
+[RECORD_START]
+id: O-016
+date_created: 2026-05-17
+lead_id: L-014
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your post about 23 days and zero users on the ai dating coach — that cold start window is brutal.
+
+  what has the distribution side actually looked like over those 23 days? like what have you actually tried?
+
+  asking because i'm doing research specifically on that gap between shipping and getting real users. your situation is exactly what i'm trying to map out.
+status: draft
+date_sent: null
+result: null
+notes: Title literally says "23 Days of Zero Users" — lead with that number, not the product. Don't pitch. Pure curiosity about their distribution attempts.
+[RECORD_END]
+
+[RECORD_START]
+id: O-017
+date_created: 2026-05-17
+lead_id: L-015
+platform: indiehackers
+variant: dm
+draft_text: |
+  your post about the first saas flopping resonated — curious what specifically broke when you launched it. was it a product problem or a distribution problem?
+
+  doing research on the post-launch gap for solo developers. sounds like you've been through exactly what i'm trying to understand.
+status: draft
+date_sent: null
+result: null
+notes: They're 20 — peer-to-peer angle works well. Keep it short, 2 sentences is enough. Don't over-explain the research angle.
+[RECORD_END]
