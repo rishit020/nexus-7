@@ -170,3 +170,17 @@ opener_angle: follow up on their comment, ask what distribution has actually loo
 status: new
 outreach_id: O-015
 [RECORD_END]
+
+[RECORD_START]
+id: L-014
+date_found: 2026-05-17
+username: Able_Relief925
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1tg3qoz/i_just_crossed_1600_in_revenue_in_the_past_week/
+pain_quote: "launched my saas on product hunt and got #1, and then it died because i didn't know how to market it after that"
+product_built: SaaS (unknown specifics — now at $1600/week revenue)
+fit_reason: textbook distribution failure post-PH launch, now solved — ideal research conversation to understand what actually worked
+opener_angle: reference the PH #1 then dying, ask what ended up moving the needle after the launch peak
+status: new
+outreach_id: O-016
+[RECORD_END]
