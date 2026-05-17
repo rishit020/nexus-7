@@ -218,3 +218,19 @@ date_sent: null
 result: null
 notes: Drop on Gionatha Bassani's thread: https://www.indiehackers.com/post/show-ih-i-launched-a-saas-with-no-audience-heres-what-happened-in-the-first-week-7d911dae8e -- Gionatha is also DM candidate if they engage.
 [RECORD_END]
+
+[RECORD_START]
+id: O-015
+date_created: 2026-05-17
+lead_id: L-013
+platform: reddit
+variant: dm
+draft_text: |
+  thanks for replying to the distribution post. you mentioned having your startup launched — what's the distribution situation actually been like for you? like what did you try first and where did it fall apart?
+
+  doing research on exactly this gap between shipping and getting users. your situation sounds like exactly what i'm trying to map out.
+status: draft
+date_sent: null
+result: null
+notes: They replied to Rishit's own post in r/alphaandbetausers. Already warm — they engaged first. DM is a natural follow-up. Don't pitch, just get them talking.
+[RECORD_END]

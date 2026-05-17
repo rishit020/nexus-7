@@ -156,3 +156,17 @@ opener_angle: The "21 products $0" line -- ask what distribution looked like acr
 status: new
 outreach_id: O-012
 [RECORD_END]
+
+[RECORD_START]
+id: L-013
+date_found: 2026-05-17
+username: clreatradeapp
+platform: reddit
+url: https://www.reddit.com/r/alphaandbetausers/comments/1tfv0g6/looking_for_solo_founders_whove_struggled_with/omdmons/
+pain_quote: "I have had my startup launched fo..." (replied to Rishit's distribution post confirming personal experience)
+product_built: unknown — has a launched startup, distribution struggles implied
+fit_reason: proactively replied to a post seeking founders with distribution pain, confirmed having a launched startup, exact ICP
+opener_angle: follow up on their comment, ask what distribution has actually looked like for their specific product
+status: new
+outreach_id: O-015
+[RECORD_END]
