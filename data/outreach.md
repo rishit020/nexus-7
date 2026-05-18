@@ -358,3 +358,111 @@ date_sent: null
 result: null
 notes: Drop on Max's thread: https://www.indiehackers.com/post/i-shipped-a-productivity-saas-in-30-days-as-a-solo-dev-heres-what-ai-actually-changed-and-what-it-didn-t-15c8876106 -- 350 comments, high traffic, great visibility play. Ends with a question to drive replies and surface DM leads.
 [RECORD_END]
+
+[RECORD_START]
+id: O-023
+date_created: 2026-05-18
+lead_id: L-022
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your show-ih post about launching tryreplify with no audience — "product hunt launch got 2 upvotes" is such an honest line.
+
+  what has distribution actually looked like since that first week? which channels did you try and where did it fall apart?
+
+  doing research on exactly this gap between launching something and getting real users. your post was one of the more honest descriptions of it i've seen.
+status: draft
+date_sent: null
+result: null
+notes: gionatha is the OP of the "launched with no audience" IH post. emotifyai (L-011, O-011) was a commenter on the same thread. O-014 is a comment to drop on this thread. This is a direct DM to the post author. Don't reference emotifyai.
+[RECORD_END]
+
+[RECORD_START]
+id: O-024
+date_created: 2026-05-18
+lead_id: L-023
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your logfolio post — "the buzz just didn't happen" is one of the more honest post-launch descriptions i've read.
+
+  before deciding to pivot or drop it, curious: do you think the problem is that the product isn't right, or that you haven't cracked how to reach the people who'd pay for it? that distinction matters a lot for what to do next.
+
+  doing research on exactly this gap for solo devs. your situation is one of the more urgent versions of it i've come across.
+status: draft
+date_sent: null
+result: null
+notes: They're considering pivoting or dropping the project — high urgency. Don't pitch Tide. The "pivot or distribution problem" question is genuinely useful and opens the door naturally. If they say distribution, follow up with a call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-025
+date_created: 2026-05-18
+lead_id: L-024
+platform: indiehackers
+variant: dm
+draft_text: |
+  "release day was the finish line. now i know it's the starting point" — that shift is real and most first-time builders hit it exactly like that.
+
+  what channels did you actually try first with docbeacon, and which ones felt like they had any signal vs just burned time?
+
+  doing research on this gap for solo devs post-launch. your post was a really honest version of the first-product distribution wall.
+status: draft
+date_sent: null
+result: null
+notes: First product, first distribution wall. Keep it peer-to-peer. Under 50 visitors, 1 paying user — ask about what generated that 1 user, not what failed.
+[RECORD_END]
+
+[RECORD_START]
+id: O-026
+date_created: 2026-05-18
+lead_id: L-025
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your checkapi post — "api developers aren't browsing product hunt" is probably the most accurate channel diagnosis i've read in a while.
+
+  where have you actually found any signal? like even weak signal — someone who engaged, a community where a post didn't completely die?
+
+  doing research on the post-launch distribution gap for solo founders. your situation is exactly what i'm trying to map out, especially the niche channel problem.
+status: draft
+date_sent: null
+result: null
+notes: Solo dev in Seoul, March 2026. The channel diagnosis angle is the hook — they're past blaming the product and are now in "which channel" mode. That's the exact conversation Tide wants to be part of. Ask for weak signal not failures.
+[RECORD_END]
+
+[RECORD_START]
+id: O-027
+date_created: 2026-05-18
+lead_id: L-026
+platform: indiehackers
+variant: comment
+draft_text: |
+  400K impressions to 4 users is a wild ratio — but honestly it means you've solved the harder problem (getting seen) and the remaining one is message-market fit.
+
+  been doing research on exactly this gap for solo builders. the pattern i keep seeing: one channel works for impressions but the audience doesn't convert because either it's the wrong crowd, or the landing message doesn't close the gap between "interesting" and "need this."
+
+  where are those 400K impressions actually coming from, and does that audience have an active reason to track their finances right now vs "i should do that someday"?
+status: draft
+date_sent: null
+result: null
+notes: Drop on NotAFinanceGuru's IH thread: https://www.indiehackers.com/post/4-organic-users-400k-impressions-0-paying-customers-building-in-public-update-7ae8f7d0a8 -- Post is ~1 week old, building momentum. Comment positions Rishit as someone who's done research on this exact pattern. Ends with a specific question that'll generate a reply and open a DM conversation.
+[RECORD_END]
+
+[RECORD_START]
+id: O-028
+date_created: 2026-05-18
+lead_id: L-027
+platform: indiehackers
+variant: comment
+draft_text: |
+  "with code you get error messages. with marketing you just get silence." — that's the best single line i've read about this problem in months.
+
+  been doing research on exactly this gap for indie builders post-launch. the silence is brutal because there's no stack trace to debug, no clear signal of what's wrong.
+
+  what ended up moving for fenly since day 3? curious whether the reddit demand-interception approach started generating actual conversations or whether it was still mostly silence.
+status: draft
+date_sent: null
+result: null
+notes: Drop on Prokopiy's IH thread: https://www.indiehackers.com/post/day-3-of-marketing-with-zero-audience-heres-what-s-actually-working-and-what-isn-t-2df9727899 -- Post is ~3 weeks old, has active comments. Asking "what happened since day 3" shows you're following their journey and generates a real reply. Thread has commenters (hemly, sean02, shahzaib101) who are also ICP — a good comment here surfaces multiple DM leads.
+[RECORD_END]

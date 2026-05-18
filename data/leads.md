@@ -282,3 +282,87 @@ opener_angle: The "pulling teeth" line — ask what channels they've tried and w
 status: new
 outreach_id: O-021
 [RECORD_END]
+
+[RECORD_START]
+id: L-022
+date_found: 2026-05-18
+username: gionatha
+platform: indiehackers
+url: https://www.indiehackers.com/post/show-ih-i-launched-a-saas-with-no-audience-heres-what-happened-in-the-first-week-7d911dae8e
+pain_quote: "Product Hunt launch got 2 upvotes. Week 1: 0 paying customers."
+product_built: Tryreplify — AI Google review reply generator ($15/mo)
+fit_reason: Post author of "launched with no audience" thread. Launched SaaS, 0 paying customers, PH failed — textbook Tide ICP. Note: we already planned O-014 as a comment on their thread but never DM'd them directly.
+opener_angle: The 2 PH upvotes line — ask what distribution looked like beyond PH in the weeks since
+status: new
+outreach_id: O-023
+[RECORD_END]
+
+[RECORD_START]
+id: L-023
+date_found: 2026-05-18
+username: simplicio
+platform: indiehackers
+url: https://www.indiehackers.com/post/from-code-to-crickets-my-struggle-to-market-logfolio-after-launch-2992573ba3
+pain_quote: "the buzz just didn't happen...now facing whether to pivot or drop the project"
+product_built: Logfolio.com — developer work log + AI summaries for performance reviews
+fit_reason: Post-launch crisis. Title is literally "from code to crickets." Considering pivoting or dropping — high urgency, live distribution pain. Solo dev, first-person pain.
+opener_angle: Ask if the decision is product-market fit problem vs distribution problem — that distinction matters a lot for what to do next
+status: new
+outreach_id: O-024
+[RECORD_END]
+
+[RECORD_START]
+id: L-024
+date_found: 2026-05-18
+username: howardshaw
+platform: indiehackers
+url: https://www.indiehackers.com/post/built-my-first-product-now-learning-the-hard-part-getting-users-68211f1c42
+pain_quote: "release day was the finish line. now I know it's the starting point"
+product_built: DocBeacon (docbeacon.io) — sales proposal tracking tool
+fit_reason: First-time builder, hit the distribution wall immediately. Under 50 visitors, 1 paying user. "SEO is slow. Marketing is hard." — explicit awakening to the distribution gap.
+opener_angle: That finish line / starting point shift — ask what channels they've tried first and what broke down
+status: new
+outreach_id: O-025
+[RECORD_END]
+
+[RECORD_START]
+id: L-025
+date_found: 2026-05-18
+username: JEONSEWON
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-launched-an-api-monitoring-tool-0-mrr-0-paying-users-heres-what-i-ve-tried-6f61831aa6
+pain_quote: "I can't crack how to reach API developers. They're not browsing Product Hunt"
+product_built: CheckAPI — API monitoring tool. Solo dev in Seoul. March 2026.
+fit_reason: $0 MRR, 0 paying users. Tried PH, explicitly knows it's a channel problem not a product problem. Named the specific distribution gap. Strong first-person pain.
+opener_angle: The "API devs aren't on Product Hunt" insight — ask where they have tried and whether any channel produced even weak signal
+status: new
+outreach_id: O-026
+[RECORD_END]
+
+[RECORD_START]
+id: L-026
+date_found: 2026-05-18
+username: NotAFinanceGuru
+platform: indiehackers
+url: https://www.indiehackers.com/post/4-organic-users-400k-impressions-0-paying-customers-building-in-public-update-7ae8f7d0a8
+pain_quote: "The hardest part right now isn't the product. It's the silence after shipping."
+product_built: Trakly — mobile-first budgeting PWA with Financial Health Score (0-100)
+fit_reason: 400K impressions, 4 users, 0 paying customers. Building in public on X. Massive visibility-to-conversion gap. Post is ~1 week old, gaining traction in IH community.
+opener_angle: Comment on their thread — the 400K → 0 paying gap is the specific question. Ask where the impressions are coming from and whether that audience actually tracks finances actively.
+status: new
+outreach_id: O-027
+[RECORD_END]
+
+[RECORD_START]
+id: L-027
+date_found: 2026-05-18
+username: Prokopiy
+platform: indiehackers
+url: https://www.indiehackers.com/post/day-3-of-marketing-with-zero-audience-heres-what-s-actually-working-and-what-isn-t-2df9727899
+pain_quote: "With code, you get error messages. With marketing, you just get silence."
+product_built: Fenly — Chrome extension, AI inline translation
+fit_reason: Launched with zero email list, zero Twitter following, zero ad budget. Post title is "Day 3 of marketing with zero audience." Most vivid pain quote of this pass. ~3 weeks old but the post generated strong community engagement with multiple commenters in the same pain.
+opener_angle: Comment on the thread — validate the silence metaphor, ask what moved the needle in the weeks since day 3. Thread has traction that will surface more DM leads.
+status: new
+outreach_id: O-028
+[RECORD_END]
