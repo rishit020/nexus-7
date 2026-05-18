@@ -926,3 +926,19 @@ date_sent: null
 result: null
 notes: Buildfield (NG) wrote two IH posts about zero paying users across 9+ weeks. buildfield.io. TikTok 42K views, 0.3% CTR, 137 visitors/month, 0 conversions. Real numbers, real pain, first-person. DM via IH. Reference the TikTok CTR stat — it's vivid and specific. Ask whether the traffic that does land converts better and what else they've tried. No pitch. Get them talking.
 [RECORD_END]
+
+[RECORD_START]
+id: O-055
+date_created: 2026-05-18
+lead_id: L-057
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your agiletask post on IH — day 46, zero paying customers, distribution is the hardest part. what have you actually tried so far, and has anything produced even a little signal?
+
+  doing research on the post-launch distribution gap for solo builders. curious what those first few weeks felt like.
+status: draft
+date_sent: null
+result: null
+notes: AgileTaskAi built an AI sprint planner for solo founders. Day 46 post / €0 MRR / 0 customers. Twitter followers: 1 — zero audience. Direct quote: "distribution is my biggest challenge." DM via IH. Reference Day 46 + zero paying customers — specific numbers make it clear you read the post. Ask what they tried and what showed signal. Get them talking. No pitch.
+[RECORD_END]

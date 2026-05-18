@@ -772,3 +772,17 @@ opener_angle: The "built during exams" story — the hustle is real but the dist
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-057
+date_found: 2026-05-18
+username: AgileTaskAi
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-built-an-ai-sprint-planner-for-solo-founders-day-4-0-mrr-0-customers-fdf056c31d
+pain_quote: "Distribution is my biggest challenge"
+product_built: AgileTask.ai — AI sprint planner for solo founders/indie hackers. €7/month Solo, €11/month Pro.
+fit_reason: Solo founder, €0 MRR at Day 46, zero paying customers after 6+ weeks live, directly names distribution as the core challenge. Built a product for indie hackers which means they ARE the exact ICP. Twitter followers: 1 — no audience, no distribution. Posted on IH asking for help. Strong fit.
+opener_angle: The Day 46 / €0 MRR data — ask what channels they actually tried and whether any showed even a small signal.
+status: new
+outreach_id: O-055
+[RECORD_END]
