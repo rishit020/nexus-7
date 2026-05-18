@@ -894,3 +894,19 @@ date_sent: null
 result: null
 notes: getcredibly commented on Angel Cee's "Why Indie Founders Fail" thread. First-person: "shipping to crickets after launch." Review collection SaaS for businesses. Self-selected into the distribution pain discussion. DM via IH. Reference their specific quote. Don't pitch. Get them talking about what distribution looked like.
 [RECORD_END]
+
+[RECORD_START]
+id: O-053
+date_created: 2026-05-18
+lead_id: L-054
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your post about building in public being harder than expected. the distribution part specifically — curious what that actually looked like for you. which channels did you try and did anything produce even weak signal?
+
+  doing research on exactly this gap. the space between shipping something real and getting anyone to find it.
+status: draft
+date_sent: null
+result: null
+notes: dfrankstudioz wrote "Building in public is harder than I expected" on IH (Mar 5, 2026). Named distribution as the core challenge first-person. Their thread was previously mined for commenter leads (Autorely, OliviaCraft, pastablekit all came from it) but dfrankstudioz themselves were never directly DM'd. DM via IH. Lead with the distribution challenge they named. No pitch. Get them talking about what they tried.
+[RECORD_END]

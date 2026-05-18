@@ -730,3 +730,17 @@ opener_angle: The "shipping to crickets" moment — ask what the first weeks loo
 status: new
 outreach_id: O-052
 [RECORD_END]
+
+[RECORD_START]
+id: L-054
+date_found: 2026-05-18
+username: dfrankstudioz
+platform: indiehackers
+url: https://www.indiehackers.com/post/building-in-public-is-harder-than-i-expected-61bd442976
+pain_quote: "The real challenge has been distribution."
+product_built: unknown — building in public (product name unclear from post title)
+fit_reason: Direct first-person post about building in public being harder than expected, explicitly naming distribution as the real challenge. Post author, not commenter — this is their own experience. Previously mined as a thread source for commenter leads (runs 10-11) but dfrankstudioz themselves were never logged as a direct DM lead.
+opener_angle: The distribution challenge they named directly — ask what channels they actually tried and whether anything produced signal.
+status: new
+outreach_id: O-053
+[RECORD_END]
