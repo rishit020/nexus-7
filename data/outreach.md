@@ -592,3 +592,39 @@ date_sent: null
 result: null
 notes: pastablekit — desktop app for Figma/Webflow designers, 3 weeks post-launch. Comment from "early-stage founders" IH thread. DM via IH. The specificity of "16 visits/week declining" is the hook — acknowledge they're tracking, ask about source of those visits. Rishit also commented on that thread as rishit020, so there's existing context.
 [RECORD_END]
+
+[RECORD_START]
+id: O-036
+date_created: 2026-05-18
+lead_id: L-035
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on manish's 3-week saas post — "building it was fun but now comes the hardest part getting customers" is exactly what i keep hearing from solo devs.
+
+  what have you actually tried so far for regexpilot? like which channels did you hit first and what was the response like?
+
+  doing research on the post-launch distribution gap for indie builders. sounds like you're right in the middle of it.
+status: draft
+date_sent: null
+result: null
+notes: RegexPilot is a visual regex builder. Comment from ManishBhusal thread (May 9). DM via IH. The "fun to build, hard to get customers" line is the hook — use it verbatim. Ask about specific channels tried, not generic "what did you try."
+[RECORD_END]
+
+[RECORD_START]
+id: O-037
+date_created: 2026-05-18
+lead_id: L-036
+platform: indiehackers
+variant: dm
+draft_text: |
+  your post about reframing $0 as an invisibility problem stuck with me — that's a sharper diagnosis than most people get to.
+
+  what has distribution actually looked like for psychoprompt since you made that shift? like which channels have you tried and what's the response been?
+
+  doing research on the post-launch gap for solo builders. your situation is one of the more honest takes i've come across.
+status: draft
+date_sent: null
+result: null
+notes: beatsprom is the OP of the "months of building, $0, psychological reason" post (May 7). Product: PsychoPrompt — clinical AI prompt system. The invisibility reframe is the hook. They've already diagnosed the problem correctly. Ask what distribution looks like since the mindset shift. Don't pitch.
+[RECORD_END]

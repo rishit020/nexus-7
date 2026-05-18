@@ -464,3 +464,45 @@ opener_angle: The specificity — 16 visits declining is precise pain. Ask where
 status: new
 outreach_id: O-031
 [RECORD_END]
+
+[RECORD_START]
+id: L-035
+date_found: 2026-05-18
+username: RegexPilot
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-built-a-saas-in-10-days-3-weeks-live-0-paying-customers-heres-the-data-7cb6b6accf
+pain_quote: "building it was fun but now comes the hardest part getting customers"
+product_built: RegexPilot — visual regex builder
+fit_reason: Solo dev who just hit the post-launch wall. Explicitly names the transition from building (fun) to distribution (hard). Named product, clear ICP.
+opener_angle: Reference the "building was fun, customers is the hardest part" line. Ask what channels they've tried first and what the response looked like.
+status: new
+outreach_id: O-036
+[RECORD_END]
+
+[RECORD_START]
+id: L-036
+date_found: 2026-05-18
+username: beatsprom
+platform: indiehackers
+url: https://www.indiehackers.com/post/ive-been-building-for-months-and-made-0-here-s-the-honest-psychological-reason-and-it-s-not-what-i-expected-d643113036
+pain_quote: "you never fail publicly. you also never win."
+product_built: PsychoPrompt — clinical AI prompt system to help people finish side projects
+fit_reason: Post author. Months of building, $0. Reframed the problem as "invisibility" not product quality — exact distribution gap Tide closes. Post author with a named product and raw honesty.
+opener_angle: The invisibility reframe — they've already diagnosed it correctly. Ask what distribution has actually looked like since making that shift, which channels they've tried.
+status: new
+outreach_id: O-037
+[RECORD_END]
+
+[RECORD_START]
+id: L-037
+date_found: 2026-05-18
+username: hazellin
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-built-a-saas-in-10-days-3-weeks-live-0-paying-customers-heres-the-data-7cb6b6accf
+pain_quote: "3 months live. 0 paying customers"
+product_built: unknown — commenter on ManishBhusal thread, product not specified
+fit_reason: 3 months post-launch with zero paying customers. Classic ICP timing. Product unknown — need to check profile before DMing.
+opener_angle: Ask what they're building and where distribution has broken down over 3 months.
+status: watch
+outreach_id: null
+[RECORD_END]
