@@ -562,3 +562,59 @@ opener_angle: Ask what they're building and what they've tried so far — they'r
 status: new
 outreach_id: O-041
 [RECORD_END]
+
+[RECORD_START]
+id: L-042
+date_found: 2026-05-18
+username: ReleaseLog
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-m-launching-on-product-hunt-in-12-days-with-zero-customers-here-s-my-exact-plan-beaab1d1e1
+pain_quote: "The product works. The only problem left to solve is distribution."
+product_built: ReleaseLog — changelog, roadmap, and feature request tool for indie founders (tryreleaselog.com)
+fit_reason: Solo founder. Pre-launch post May 1 with 0 customers, 0 signups, 2 Twitter followers. PH launch was May 13 (5 days ago) — almost certainly in post-launch reality check now. Named the distribution gap explicitly before launch.
+opener_angle: Reference the "only problem left to solve is distribution" quote and ask how the May 13 PH launch actually went vs the plan
+status: new
+outreach_id: O-042
+[RECORD_END]
+
+[RECORD_START]
+id: L-043
+date_found: 2026-05-18
+username: anvevoice
+platform: indiehackers
+url: https://www.indiehackers.com/post/2-weeks-later-still-no-paying-users-heres-what-i-ve-learned-0bc55f0cdb
+pain_quote: "22 days into a $199 LTD with 0 sales here — genuinely peer-feeling this one."
+product_built: Anvevoice — voice-enabled forms product
+fit_reason: 22 days post-launch, $199 one-time offer, 0 sales. First-person pain, specific numbers, named product. April 27 comment — recent.
+opener_angle: Reference the 22 days / $199 LTD / 0 sales data point, ask what channels they've tried and what the best response has been even if tiny
+status: new
+outreach_id: O-043
+[RECORD_END]
+
+[RECORD_START]
+id: L-044
+date_found: 2026-05-18
+username: hemly
+platform: indiehackers
+url: https://www.indiehackers.com/post/2-weeks-later-still-no-paying-users-heres-what-i-ve-learned-0bc55f0cdb
+pain_quote: "silence becomes a clock instead of a wound."
+product_built: demand validation / deposit gate tool (exact product name unclear — check profile before DMing)
+fit_reason: 0 conversions, vivid pain language, April 27 comment. Also flagged in run 10 from Prokopiy thread. Not yet contacted.
+opener_angle: Lead with the "silence becomes a clock" line, ask what the product is and where they've tried to find people willing to pay
+status: new
+outreach_id: O-044
+[RECORD_END]
+
+[RECORD_START]
+id: L-045
+date_found: 2026-05-18
+username: sara_builds
+platform: indiehackers
+url: https://www.indiehackers.com/post/zero-paid-users-heres-what-i-m-doing-to-find-the-first-ones-0a7cf1ba5e
+pain_quote: "Going through this exact phase right now with a dev tool I just launched. The 'yelling into the void' feeling is real."
+product_built: unknown dev tool (recently launched)
+fit_reason: First-person, current, in-progress pain. "Right now" timing. Dev tool post-launch. Exact ICP language ("yelling into the void"). Profile not indexable — DM via IH thread context.
+opener_angle: Reference the MealThinker thread comment, ask what the dev tool is and what distribution has looked like so far
+status: new
+outreach_id: O-045
+[RECORD_END]

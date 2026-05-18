@@ -700,3 +700,75 @@ date_sent: null
 result: null
 notes: Secret_Most_6225 posted in r/SaasDevelopers. Product unknown — keep DM open-ended so they fill it in. They're actively in "how do I find users" mode which makes them warm to the research framing. DM via Reddit.
 [RECORD_END]
+
+[RECORD_START]
+id: O-042
+date_created: 2026-05-18
+lead_id: L-042
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your may 1st post — "the only problem left to solve is distribution" is about as honest as it gets before a launch.
+
+  5 days post ph — how'd it actually go? like what happened vs what you planned?
+
+  doing research on exactly this gap for solo builders who shipped something real but can't crack distribution. your situation is textbook.
+status: draft
+date_sent: null
+result: null
+notes: ReleaseLog posted "12 days to PH launch" on May 1 with 0 customers/signups/followers. PH launch was May 13. As of May 18 they're 5 days post-launch — almost certainly in reality-check mode. The "only problem left to solve is distribution" line is perfect. Ask how launch went vs plan. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-043
+date_created: 2026-05-18
+lead_id: L-043
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the buildfield thread — 22 days into a $199 ltd with 0 sales is a real number to have.
+
+  what channels have you actually tried for the voice forms product? like where did you go first and what was the best response you got, even if tiny?
+
+  doing research on the post-launch distribution gap for solo builders. sounds like you're right in the middle of it.
+status: draft
+date_sent: null
+result: null
+notes: anvevoice commented on Buildfield "2 weeks later" post (April 27). Voice-enabled forms, 22 days post-launch, $199 LTD, 0 sales. The specific numbers make this high-signal. Ask about channels tried and weak signal, not just failures. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-044
+date_created: 2026-05-18
+lead_id: L-044
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the buildfield thread — "silence becomes a clock instead of a wound" is one of the more precise ways to describe post-launch distribution i've come across.
+
+  what's the demand validation / deposit gate product? and where have you actually tried to find people who'd pay for it?
+
+  doing research on the distribution gap for indie builders. your framing is one of the more interesting ones i've seen.
+status: draft
+date_sent: null
+result: null
+notes: hemly flagged in run 10 from Prokopiy thread, showed up again on Buildfield post (April 27). "Demand validation / deposit gate" product — exact product name unclear, let them fill it in. The pain language is vivid. Check hemly's IH profile for product details before sending. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-045
+date_created: 2026-05-18
+lead_id: L-045
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on justin's mealthinker post — "going through this exact phase right now with a dev tool i just launched. the yelling into the void feeling is real" — that phrase keeps coming up.
+
+  what's the dev tool? and where have you actually tried to reach people — which channels and what happened?
+
+  doing research on the post-launch distribution problem for solo builders. sounds like you're in the middle of it right now.
+status: draft
+date_sent: null
+result: null
+notes: sara_builds commented on JustinBuilds/MealThinker "Zero paid users" IH post. Dev tool, recently launched, first-person current pain, "yelling into the void." Profile not directly accessible via search. DM via IH through the comment thread context. Product unknown — let them fill it in.
+[RECORD_END]
