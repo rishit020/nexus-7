@@ -910,3 +910,19 @@ date_sent: null
 result: null
 notes: dfrankstudioz wrote "Building in public is harder than I expected" on IH (Mar 5, 2026). Named distribution as the core challenge first-person. Their thread was previously mined for commenter leads (Autorely, OliviaCraft, pastablekit all came from it) but dfrankstudioz themselves were never directly DM'd. DM via IH. Lead with the distribution challenge they named. No pitch. Get them talking about what they tried.
 [RECORD_END]
+
+[RECORD_START]
+id: O-054
+date_created: 2026-05-18
+lead_id: L-055
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your post about 9 weeks in with 0 paying users. the tiktok 42k views / 0.3% ctr gap is really specific. curious what you think the disconnect is there. are people landing on the product and not getting it, or are they not reaching it at all?
+
+  doing research on the post-launch distribution gap for solo founders. your numbers are exactly the kind of data i'm trying to understand.
+status: draft
+date_sent: null
+result: null
+notes: Buildfield (NG) wrote two IH posts about zero paying users across 9+ weeks. buildfield.io. TikTok 42K views, 0.3% CTR, 137 visitors/month, 0 conversions. Real numbers, real pain, first-person. DM via IH. Reference the TikTok CTR stat — it's vivid and specific. Ask whether the traffic that does land converts better and what else they've tried. No pitch. Get them talking.
+[RECORD_END]

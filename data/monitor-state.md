@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-18T16:30:00Z
-next_lead_id: L-055
-next_outreach_id: O-054
+last_checked: 2026-05-18T18:45:00Z
+next_lead_id: L-057
+next_outreach_id: O-055
 
 leads_logged:
   - Stingwave24
@@ -60,6 +60,8 @@ leads_logged:
   - sean02
   - getcredibly
   - dfrankstudioz
+  - Buildfield
+  - siddhant_jain_18
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -89,3 +91,4 @@ telegram_configured: true
 2026-05-18 (run 21) | leads: 3 (IcyInteraction8722 L-049 DM, adin_builds L-050 DM, max_flowly_run L-051 WATCH) | source: F5Bot Gmail + HN Firebase (48177974-48178555) + IH WebSearch agent. Reddit blocked. HN: 0 ICP hits. F5Bot: IcyInteraction8722 (r/buildinpublic, 8 months/0 paid conversions, AI lead magnet gen). IH agent surfaced: adin_builds (May 18, ReleaseLog thread, "building felt more controllable than talking to people" — strong fresh DM), max_flowly_run (Flowly OP, 350-comment thread author, WATCH — 6 weeks old but strong pain quote, still active). Discarded: vidifounder (already discarded run 13), GrowthWithShehroz (name suggests marketer, profile needed), filippofascetta (goal system, pre-launch, weak ICP), Curious_Club8404 (analytics tool switch), InfamousLead9912 (marketing SaaS promotion), One-Ice7086 (building distribution marketplace, WATCH), LeaderAtLeading (skipped), tand_eyes/jonnysboy12/Ok-Storage-3003 (prev discarded).
 2026-05-18 (run 22) | leads: 2 DM (sean02 L-052, getcredibly L-053) | source: IH thread commenter mining + F5Bot Gmail. Reddit fully blocked (all 7 subreddits, egress policy). HN Firebase scanned 65 new items (48178556-48179326): 0 ICP hits. F5Bot: mahfuz_nafi (DISCARD — advisor not in pain, said "distribution problem" in comment but is giving tips not expressing it), IcyInteraction8722 (already L-049), all others off-topic or prev-logged. IH thread deep mining surfaced sean02 (Prokopiy thread, freelancer review collection tool, "zero engagement" — flagged run 10, logging now) and getcredibly (Angel Cee "Why Indie Founders Fail" thread, review collection SaaS, "shipping to crickets after launch"). Discarded: renzom13m (3 BaaS auditors/0 customers, niche B2B technical tool, weak ICP), alex98075wa (Shopify app, 43% same-day churn — activation not distribution problem), Daiutovslava (doing own customer discovery, not in distribution pain), Cravo (tried 7 channels, Reddit worked — no longer in pain), Chinallmapi (API gateway B2B), 0xdevc (blockchain/crypto, weak ICP).
 2026-05-18 (run 23) | leads: 1 DM (dfrankstudioz L-054) | source: IH WebSearch agent + F5Bot Gmail + HN Firebase (48179327-48180041). Reddit fully blocked (all 7 subreddits). HN: 0 ICP hits (sampled every 15 items across 715-item range). F5Bot: all signals pre-14:30 UTC, fully processed in prior runs. mahfuz_nafi confirmed advisor (not in pain). One-Ice7086 confirmed building competing product (DISCARD). IcyInteraction8722 already L-049. All "shouting into the void" F5Bot hits from r/veganuk/r/unitedkingdom/r/NewAuthor/r/MicrosoftRewards/r/Substack — wrong contexts. IH agent surfaced: dfrankstudioz (IH post Mar 5 2026, "The real challenge has been distribution" — thread OP, never directly contacted despite being mined as commenter-lead source in runs 10-11). jeremylasne DISCARD (1M views = distribution working, conversion problem not distribution). Sukh DISCARD (Mar 2025, over 1 year old).
+2026-05-18 (run 24) | leads: 1 DM (Buildfield L-055) + 1 WATCH (siddhant_jain_18 L-056) | source: IH WebSearch — Reddit all 7 subreddits fully blocked. HN Firebase scanned 808 new items (48180042-48180849): 0 ICP hits (all tech/misc). HN Algolia multi-query (no traction/crickets/distribution/first users): 0 new ICP hits in last 24h. IH WebSearch surfaced Buildfield (NG), buildfield.io — "2 weeks later: still no paying users" (Apr 27), 9 weeks/0 paying users, TikTok 42K views/0.3% CTR/137 visitors/month. Strong first-person pain with real numbers. Thread was previously mined for commenter leads (anvevoice, hemly — both logged run 19) but Buildfield the founder themselves were never directly logged. siddhant_jain_18 (Siddhant Jain): 17-year-old CSE student, built product during exams, $0 revenue, asking IH for help (Mar 15 2026) — WATCH, product type unclear, older post. Discarded: ManishBhusal (already L-014), gionatha (L-022), max_flowly_run (L-051), NotAFinanceGuru (L-026), howardshaw (L-024), JustinBuilds (WATCH run 10), vidifounder (discarded run 13/22), sabahattink/MailTest (discarded run 22), harrisreynolds/Webase (vibe coding platform builder, not ICP), dclark312 (Jun 2025, too old), Logfolio (Oct 2024, too old), IndieAIs (educator not in pain). IH pipeline thinning — most visible posts already mined across 24 runs. Reddit unblock would refresh signal significantly.

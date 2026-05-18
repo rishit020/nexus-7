@@ -744,3 +744,31 @@ opener_angle: The distribution challenge they named directly — ask what channe
 status: new
 outreach_id: O-053
 [RECORD_END]
+
+[RECORD_START]
+id: L-055
+date_found: 2026-05-18
+username: Buildfield
+platform: indiehackers
+url: https://www.indiehackers.com/post/2-weeks-later-still-no-paying-users-heres-what-i-ve-learned-0bc55f0cdb
+pain_quote: "Three weeks ago I posted about being 7 weeks in with 0 users. As of now, there are still no paying users."
+product_built: buildfield.io — SaaS for contractors and tradespeople to get paid for their work.
+fit_reason: Founder (NG) posted twice about zero paying users across 9+ weeks. Real numbers: TikTok 42K views, 0.3% CTR, 137 visitors/month, 0 conversions. Clear post-launch distribution gap. First-person, specific metrics, actively asking IH community for help. Strong Tide ICP as a solo builder who shipped something real and can't get traction.
+opener_angle: The TikTok 42K views / 0.3% CTR gap — that specific number tells the whole story. Ask whether the traffic that does land converts any better and what else they've tried beyond TikTok.
+status: new
+outreach_id: O-054
+[RECORD_END]
+
+[RECORD_START]
+id: L-056
+date_found: 2026-05-18
+username: siddhant_jain_18
+platform: indiehackers
+url: https://www.indiehackers.com/post/17-y-o-started-building-during-exams-launched-after-0-revenue-heres-everything-the-product-the-numbers-and-what-i-need-help-with-f38562cae0
+pain_quote: "$0 revenue. Here's everything — the product, the numbers, and what I need help with."
+product_built: unknown — posted full breakdown, product unclear from title. 17-year-old CSE student, built during semester exams, launched after.
+fit_reason: 17-year-old builder, solo, launched a product, $0 revenue, explicitly asking for help. Post from March 15 2026 (modified March 31). Clear post-launch gap — put everything in the post including asking the community for help. Age and context suggests a vibe coder / solo builder profile. Needs more context on product before DM.
+opener_angle: The "built during exams" story — the hustle is real but the distribution gap is the pain. Ask what they actually tried to get users and whether anything produced signal.
+status: watch
+outreach_id: null
+[RECORD_END]
