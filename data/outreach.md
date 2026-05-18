@@ -286,3 +286,21 @@ date_sent: null
 result: null
 notes: They're 20 — peer-to-peer angle works naturally here. Keep it short, 2 sentences is right. Don't over-explain the research angle.
 [RECORD_END]
+
+[RECORD_START]
+id: O-019
+date_created: 2026-05-18
+lead_id: L-017
+platform: hackernews
+variant: comment
+draft_text: |
+  love seeing the lovable → claude code handoff. that stack is becoming a real pattern.
+
+  curious what distribution looks like on your end after the build — did you have a plan for getting people to actually find cluday, or is that the unsolved part right now?
+
+  doing research on exactly that gap for vibe coders. would love to hear what's worked and what hasn't.
+status: draft
+date_sent: null
+result: null
+notes: Comment on her Show HN post: https://news.ycombinator.com/item?id=48174129 -- She's a PM, technically literate, vibe coder with Lovable+Claude Code. 0 comments on the post means this comment will be the ONLY reply -- high visibility. Don't pitch. Ask about distribution specifically, frame as research. Her Substack handle is @pmwithtanya if DM on X is preferred channel instead.
+[RECORD_END]

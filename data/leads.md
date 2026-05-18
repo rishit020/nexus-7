@@ -212,3 +212,31 @@ opener_angle: What specifically broke at launch — distribution problem or prod
 status: new
 outreach_id: O-018
 [RECORD_END]
+
+[RECORD_START]
+id: L-017
+date_found: 2026-05-18
+username: tannyc
+platform: hackernews
+url: https://news.ycombinator.com/item?id=48174129
+pain_quote: "Looking for help on few things" (Show HN, 0 comments, 1 point — launched to HN silence)
+product_built: ClueDay — daily clue-based word game. Stack: Lovable (first draft) + Claude Code (everything after) + Vercel + Supabase. Classic vibe-coded product.
+fit_reason: PM who vibe-coded a consumer product using Lovable and Claude Code. Launched on HN Show HN, got 1 point and zero comments. Explicitly seeking recommendations on process improvement. Vibe coder by her own stack. Zero distribution traction post-launch — the exact gap Tide addresses.
+opener_angle: Reference the Lovable+Claude Code stack and the zero-comment HN launch. Ask what distribution looks like after the build — what channels is she thinking? Frame as research on the vibe coder post-build phase.
+status: new
+outreach_id: O-019
+[RECORD_END]
+
+[RECORD_START]
+id: L-018
+date_found: 2026-05-18
+username: creatorcuffee
+platform: hackernews
+url: https://news.ycombinator.com/item?id=48173839
+pain_quote: "100% Vibe Code" (title — built free game, 0 comments, 1 point on HN)
+product_built: Humans VS AI — free browser tower defense game (humansvsai.io). Battles AI chatbots. Free, no revenue model visible.
+fit_reason: Self-described vibe coder who built and launched to HN silence (1 point, 0 comments). Distribution gap is present. Weaker ICP because product is free (no paying users angle) and it's a game not SaaS. Worth watching.
+opener_angle: The 100% vibe code angle — ask what it was like getting people to actually discover the game after building it entirely with AI.
+status: watch
+outreach_id: null
+[RECORD_END]
