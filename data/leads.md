@@ -648,6 +648,20 @@ outreach_id: O-047
 [RECORD_END]
 
 [RECORD_START]
+id: L-049
+date_found: 2026-05-18
+username: IcyInteraction8722
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1tgjqj0/8_months_building_a_lead_magnet_saas_0_paying/
+pain_quote: "8 months building a lead magnet SaaS. 0 paying users. Pivot or push?"
+product_built: AI lead magnet generator — type a niche, get PDF/QUIZ + landing page in 30 seconds. Target: creators under 10k followers.
+fit_reason: 8 months post-launch, 0 paid conversions. Diagnosed their own problem (small creators don't have traffic either). Considering pivoting — high-urgency, exact ICP pain window.
+opener_angle: The 8-month / 0 paid gap. Ask what distribution actually looked like over those 8 months — which channels, what signal if any.
+status: new
+outreach_id: O-049
+[RECORD_END]
+
+[RECORD_START]
 id: L-048
 date_found: 2026-05-18
 username: btbyzac
