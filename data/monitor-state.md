@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-18T23:00:00Z
-next_lead_id: L-058
-next_outreach_id: O-056
+last_checked: 2026-05-19T01:00:00Z
+next_lead_id: L-060
+next_outreach_id: O-058
 
 leads_logged:
   - Stingwave24
@@ -63,6 +63,8 @@ leads_logged:
   - Buildfield
   - siddhant_jain_18
   - AgileTaskAi
+  - shaguoer
+  - dylanyu
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -95,3 +97,4 @@ telegram_configured: true
 2026-05-18 (run 24) | leads: 1 DM (Buildfield L-055) + 1 WATCH (siddhant_jain_18 L-056) | source: IH WebSearch — Reddit all 7 subreddits fully blocked. HN Firebase scanned 808 new items (48180042-48180849): 0 ICP hits (all tech/misc). HN Algolia multi-query (no traction/crickets/distribution/first users): 0 new ICP hits in last 24h. IH WebSearch surfaced Buildfield (NG), buildfield.io — "2 weeks later: still no paying users" (Apr 27), 9 weeks/0 paying users, TikTok 42K views/0.3% CTR/137 visitors/month. Strong first-person pain with real numbers. Thread was previously mined for commenter leads (anvevoice, hemly — both logged run 19) but Buildfield the founder themselves were never directly logged. siddhant_jain_18 (Siddhant Jain): 17-year-old CSE student, built product during exams, $0 revenue, asking IH for help (Mar 15 2026) — WATCH, product type unclear, older post. Discarded: ManishBhusal (already L-014), gionatha (L-022), max_flowly_run (L-051), NotAFinanceGuru (L-026), howardshaw (L-024), JustinBuilds (WATCH run 10), vidifounder (discarded run 13/22), sabahattink/MailTest (discarded run 22), harrisreynolds/Webase (vibe coding platform builder, not ICP), dclark312 (Jun 2025, too old), Logfolio (Oct 2024, too old), IndieAIs (educator not in pain). IH pipeline thinning — most visible posts already mined across 24 runs. Reddit unblock would refresh signal significantly.
 2026-05-18 (run 25) | leads: 1 DM (AgileTaskAi L-057) | source: IH WebSearch — Reddit all 7 subreddits still fully blocked (egress policy). HN Firebase scanned items 48180850-48181579: 50 Show HN items via Algolia, 0 ICP hits (all dev tools/open-source, no post-launch distribution pain). IH WebSearch: exhaustive search across multiple query angles. AgileTaskAi (Giuseppe): AgileTask.ai AI sprint planner for solo founders, Day 46 / €0 MRR / 0 paying customers, "distribution is my biggest challenge", Twitter followers: 1. Strong DM lead. Discarded: KrasimirP (MissedRun cron monitor, May 2, pre-launch validation ask — not post-launch pain), vidifounder (already discarded), gionatha/JEONSEWON/howardshaw/NotAFinanceGuru/ManishBhusal/Prokopiy (all already logged), pellcmy/SeekAI (pSEO strategy already planned, weaker ICP fit — WATCH not logged). IH pipeline near exhaustion on visible posts. Reddit unblock would be the highest-value unlock for next run.
 2026-05-18 (run 26) | leads: 0 | source: HN Firebase (75 new items, 48181580-48182320, 0 ICP hits — all dev tools/open-source), IH WebSearch (exhaustive multi-query search, all results returning already-logged posts), Reddit all 7 subreddits still 403 blocked. IH thread deep mining (KasamiWorks PH thread, TRYEXCEPT thread, MailTest thread, VirtualViki SelfOS thread, "37 products" thread) surfaced only already-logged or low-signal leads: bigashir (StreamStash Windows desktop app, DISCARD — not SaaS), beatsp = beatsprom (already L-036), ilo/Lynn (ambiguous profile, WATCH), blockviz (HN only, Feb 2026, niche analytics SaaS asking for cold-start help, no IH/Reddit contact point, WATCH). IH pipeline confirmed exhausted — all major visible posts already logged across 26 runs. Reddit unblock is the only meaningful source refresh. Flag to Rishit: pipeline needs new signal. Suggest investigating Reddit egress unblock or adding new discovery channels (Twitter/X search, Lovable Discord, Bolt Discord).
+2026-05-19 (run 27) | leads: 2 DM (shaguoer L-058, dylanyu L-059) | source: IH WebSearch — Reddit all 7 subreddits fully blocked (egress policy), HN Firebase scanned 900 new items (48182321-48183220) via dense sampling: 0 ICP hits. IH deep multi-query WebSearch surfaced 2 genuinely new leads: shaguoer ("I built a free AI content quality tool — 11 days in, still at $0", April 13 2026, self-diagnosed "almost zero time talking to people") and dylanyu/Basevolt ("I launched on Product Hunt, got 4 votes", ~May 11 2026, no email list/no audience/no launch prep, now pivoting to Reddit + SEO). Discarded: lovable-prompts.com author (competitor — building solution not in pain), Moe Shegow (username unresolvable, post context unclear), jackb_builds/ClearNoteLab (Dec 23, 2025, too old), webverbal (India non-metro focus, weak ICP, 3k revenue = some traction), Silo AI ads (March 29, 2026, low-to-paid conversion problem not distribution gap). IH pipeline near-fully exhausted — 61 leads logged across 27 runs. Reddit unblock + Twitter/X search + Discord monitoring are the next signal sources.

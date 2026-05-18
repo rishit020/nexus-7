@@ -786,3 +786,31 @@ opener_angle: The Day 46 / €0 MRR data — ask what channels they actually tri
 status: new
 outreach_id: O-055
 [RECORD_END]
+
+[RECORD_START]
+id: L-058
+date_found: 2026-05-18
+username: shaguoer
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-built-a-free-ai-content-quality-tool-11-days-in-still-at-0-heres-what-i-think-went-wrong-e281490f28
+pain_quote: "11 days in, still at $0 — spent too much time building, almost zero time talking to people"
+product_built: Free AI Content Analyzer + AI Business Writing Prompt Pack ($1). Dual product, April 13, 2026.
+fit_reason: Solo builder, self-diagnosed the distribution gap precisely: building time vs. talking-to-people time was completely wrong. Post-launch, $0 after 11 days. Published a follow-up on dev.to trying content distribution. Classic Tide ICP.
+opener_angle: Reference the "almost zero time talking to people" self-diagnosis — they've already named the exact problem. Ask what distribution looked like over those 11 days and what produced even weak signal.
+status: new
+outreach_id: O-056
+[RECORD_END]
+
+[RECORD_START]
+id: L-059
+date_found: 2026-05-18
+username: dylanyu
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-launched-on-product-hunt-got-4-votes-and-learned-more-than-any-course-could-teach-me-11d7ac7489
+pain_quote: "4 PH votes. No email list. Didn't tell anyone I was launching. Didn't build any anticipation."
+product_built: Basevolt — local-first database admin panel for PostgreSQL, MySQL, SQLite, Cloudflare D1. Privacy-first, no cloud dependency.
+fit_reason: Solo dev, launched on PH with no audience and got 4 votes. Post from ~May 11 2026 (7 days ago). Now pivoting to Reddit, SEO, and building in public on X. Honest post-launch debrief. Early distribution learning phase — ideal research convo.
+opener_angle: Reference the 4-vote PH launch and ask what the Reddit + SEO pivot has looked like in the week since — any early signal? Frames it as research on what actually works post-launch for dev tools.
+status: new
+outreach_id: O-057
+[RECORD_END]

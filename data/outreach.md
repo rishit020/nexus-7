@@ -942,3 +942,39 @@ date_sent: null
 result: null
 notes: AgileTaskAi built an AI sprint planner for solo founders. Day 46 post / €0 MRR / 0 customers. Twitter followers: 1 — zero audience. Direct quote: "distribution is my biggest challenge." DM via IH. Reference Day 46 + zero paying customers — specific numbers make it clear you read the post. Ask what they tried and what showed signal. Get them talking. No pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-056
+date_created: 2026-05-18
+lead_id: L-058
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your post about the ai content tool — "11 days, still at $0" and the self-diagnosis about almost zero time talking to people is exactly what i keep hearing from solo builders.
+
+  what did distribution actually look like over those 11 days? like where did you go first and what was the best response you got even if it was tiny?
+
+  doing research on the post-launch gap for solo builders. your framing of the build vs. talk ratio is one of the more precise versions of the problem i've seen.
+status: draft
+date_sent: null
+result: null
+notes: shaguoer published April 13 2026 on IH. Free AI Content Analyzer + $1 AI Business Writing Prompt Pack. $0 after 11 days. Self-diagnosed "almost zero time talking to people." Also wrote a follow-up article on dev.to — distribution-curious, not passive. DM via IH. Lead with the self-diagnosis quote — it's unusually precise. Ask about what distribution looked like specifically, not just what went wrong generally.
+[RECORD_END]
+
+[RECORD_START]
+id: O-057
+date_created: 2026-05-18
+lead_id: L-059
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your basevolt post — the 4-vote ph launch followed by a hard reset on strategy is one of the more honest launch breakdowns i've read.
+
+  you mentioned shifting to reddit and seo after. what's that looked like this past week? any early signal from either?
+
+  doing research on the post-launch distribution problem for dev tool builders specifically. your situation is exactly what i'm trying to map out.
+status: draft
+date_sent: null
+result: null
+notes: dylanyu is Dylan Yu, built Basevolt (local-first DB admin panel). PH launch got 4 votes — no email list, no audience, no launch prep. Post published ~May 11 2026 (7 days ago). Now experimenting with Reddit + SEO + building in public on X. Not in active pain but in active learning mode — ideal research conversation. DM via IH. Ask about what distribution looks like now rather than leading with the failure.
+[RECORD_END]
