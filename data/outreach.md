@@ -816,7 +816,7 @@ lead_id: L-050
 platform: indiehackers
 variant: dm
 draft_text: |
-  your comment on the releaselog thread hit — "three months adding things nobody asked for because building felt more controllable than talking to people" is probably the most honest thing i've read about this problem.
+  your comment on the releaselog thread hit. "three months adding things nobody asked for because building felt more controllable than talking to people" is probably the most honest thing i've read about this problem.
 
   what are you building? and what has distribution actually looked like when you do try it?
 
