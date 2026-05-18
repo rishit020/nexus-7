@@ -240,3 +240,17 @@ opener_angle: The 100% vibe code angle — ask what it was like getting people t
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-019
+date_found: 2026-05-18
+username: sreedhar
+platform: hackernews
+url: https://news.ycombinator.com/item?id=48174379
+pain_quote: "How do we scale from here? How to get more customers other than spending on ads?"
+product_built: ClassBuddy — B2B school management SaaS. 5 paying customers (monthly/yearly). Built with a friend over 3 years.
+fit_reason: Asking explicitly how to grow customer base without ads. Distribution stuck at 5 customers. Weaker ICP — not a solo vibe coder, 3-year build, B2B school sector — but the scaling/distribution pain is real and research-relevant.
+opener_angle: 5 customers is a proof point — ask what got them those 5 and what's broken about repeating that playbook.
+status: watch
+outreach_id: null
+[RECORD_END]
