@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-18T10:45:00Z
-next_lead_id: L-028
-next_outreach_id: O-029
+last_checked: 2026-05-18T13:00:00Z
+next_lead_id: L-031
+next_outreach_id: O-032
 
 leads_logged:
   - Stingwave24
@@ -33,6 +33,9 @@ leads_logged:
   - JEONSEWON
   - NotAFinanceGuru
   - Prokopiy
+  - Autorely
+  - OliviaCraft
+  - pastablekit
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -49,3 +52,4 @@ leads_logged:
 # Telegram config (token stored in CLAUDE.local.md only — never commit token to git)
 telegram_chat_id: 8383354309
 telegram_configured: true
+2026-05-18 (run 11) | leads: 3 DM (Autorely L-028, OliviaCraft L-029, pastablekit L-030) | source: IH WebSearch + thread commenter mining — Reddit fully blocked (API + WebSearch both blocked). HN Firebase scanned items 48175154-48175466: 0 ICP hits. Pivoted to IH thread commenter mining: dfrankstudioz thread + early-stage-founders thread surfaced Autorely (AutoRely changelog tool, 'the silence is brutal'), OliviaCraft ($0 rev, 'bottleneck is discoverability'), pastablekit (Figma/Webflow desktop app, 5 signups 16 visits/week declining). Also flagged WATCH: selimenes (ReviseFlow, $0 MRR, 'shouting into the void'), Centi (profile thin), abitabovebytes (Android template, '0 views day 1').

@@ -366,3 +366,45 @@ opener_angle: Comment on the thread — validate the silence metaphor, ask what 
 status: new
 outreach_id: O-028
 [RECORD_END]
+
+[RECORD_START]
+id: L-028
+date_found: 2026-05-18
+username: Autorely
+platform: indiehackers
+url: https://www.indiehackers.com/post/building-in-public-is-harder-than-i-expected-61bd442976
+pain_quote: "Posting daily, low impressions, no sales. The silence is brutal."
+product_built: AutoRely — AI service that reads GitHub commits and generates multilingual changelogs. Pre-launch, $29 one-time.
+fit_reason: Solo dev (Bay), pre-launch, zero sales, building in public with no audience. Described silence as "brutal" — exact post-launch distribution panic. Product is for devs (niche but real), distribution pain is universal.
+opener_angle: "The silence is brutal" — the most vivid pain quote of this pass. Ask what they've tried, what the best response has been even if small.
+status: new
+outreach_id: O-029
+[RECORD_END]
+
+[RECORD_START]
+id: L-029
+date_found: 2026-05-18
+username: OliviaCraft
+platform: indiehackers
+url: https://www.indiehackers.com/post/building-in-public-is-harder-than-i-expected-61bd442976
+pain_quote: "Revenue so far: $0... The bottleneck is 100% how do people find out this exists?"
+product_built: Unknown — profile didn't load full detail. Builder on IH, $0 revenue, framing the problem as pure discoverability.
+fit_reason: Zero revenue. The "bottleneck is 100% discoverability" framing is exactly what Tide addresses — they've already diagnosed the correct problem, they just don't have a solution. That's the conversation Rishit wants.
+opener_angle: The discoverability framing — they've already done the hard thinking. Ask what they've tried and what their product is. They'll tell the whole story.
+status: new
+outreach_id: O-030
+[RECORD_END]
+
+[RECORD_START]
+id: L-030
+date_found: 2026-05-18
+username: pastablekit
+platform: indiehackers
+url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+pain_quote: "3 weeks in: 5 waitlist signups, 16 site visits/week (declining), zero alpha tester feedback"
+product_built: Desktop app for Figma/Webflow designers. Early-stage, declining traffic, no feedback.
+fit_reason: Specific numbers make this high-signal — 5 signups and declining 16 visits/week is measurably failing. Designer tool is a real niche with real users to find. They're 3 weeks post-launch with zero momentum and they know it.
+opener_angle: The specificity — 16 visits declining is precise pain. Ask where those 16 visitors came from and whether any channel gave even weak signal. The decline is the hook.
+status: new
+outreach_id: O-031
+[RECORD_END]

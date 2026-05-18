@@ -466,3 +466,57 @@ date_sent: null
 result: null
 notes: Drop on Prokopiy's IH thread: https://www.indiehackers.com/post/day-3-of-marketing-with-zero-audience-heres-what-s-actually-working-and-what-isn-t-2df9727899 -- Post is ~3 weeks old, has active comments. Asking "what happened since day 3" shows you're following their journey and generates a real reply. Thread has commenters (hemly, sean02, shahzaib101) who are also ICP — a good comment here surfaces multiple DM leads.
 [RECORD_END]
+
+[RECORD_START]
+id: O-029
+date_created: 2026-05-18
+lead_id: L-028
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the building in public thread — "the silence is brutal" is the most accurate way i've seen someone describe post-launch distribution.
+
+  what have you actually tried for autorly so far? like where have you posted, and what's been the best response you've gotten even if the number is tiny?
+
+  doing research on exactly this problem — the gap between building something real and actually getting people to find it.
+status: draft
+date_sent: null
+result: null
+notes: Bay/@Autorely — AutoRely AI changelog generator, pre-launch, $29 one-time. Comment came from dfrankstudioz thread (March 2026). DM via IH. Pain is real: building in public with zero sales, described silence as brutal. Ask about channels tried + best response to open the convo.
+[RECORD_END]
+
+[RECORD_START]
+id: O-030
+date_created: 2026-05-18
+lead_id: L-029
+platform: indiehackers
+variant: dm
+draft_text: |
+  your comment stuck with me — "the bottleneck is 100% how do people find out this exists" is exactly the right question, and most people don't even get to that diagnosis.
+
+  what have you tried so far to crack that? and what's the product — curious whether the channel problem looks different depending on the audience.
+
+  doing research on post-launch distribution for indie builders. your framing is exactly what i keep hearing.
+status: draft
+date_sent: null
+result: null
+notes: OliviaCraft — $0 revenue, discoverability framing. Comment from dfrankstudioz thread. Product unclear from profile. DM via IH. The angle is validation: they've already diagnosed the problem correctly. Opens naturally into "what have you tried."
+[RECORD_END]
+
+[RECORD_START]
+id: O-031
+date_created: 2026-05-18
+lead_id: L-030
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment — 5 waitlist signups and 16 visits/week declining is a really specific way to describe something not working yet, and it means you're paying attention.
+
+  where did those 16 weekly visitors actually come from? curious whether any channel gave even a tiny signal before it fell off.
+
+  doing research on exactly this — the distribution gap between shipping something and getting real users. your numbers are the kind of detail that actually helps.
+status: draft
+date_sent: null
+result: null
+notes: pastablekit — desktop app for Figma/Webflow designers, 3 weeks post-launch. Comment from "early-stage founders" IH thread. DM via IH. The specificity of "16 visits/week declining" is the hook — acknowledge they're tracking, ask about source of those visits. Rishit also commented on that thread as rishit020, so there's existing context.
+[RECORD_END]
