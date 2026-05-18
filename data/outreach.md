@@ -664,3 +664,21 @@ date_sent: null
 result: null
 notes: YTubViral = Javier Jimeno. ytubviral.com — 14 AI YouTube creator tools. Non-technical background (industrial automation). May 12, 2026 comment — most recent lead this pass. Reference the industrial automation to next.js arc specifically — it shows you read the whole comment. IH DM via profile.
 [RECORD_END]
+
+[RECORD_START]
+id: O-040
+date_created: 2026-05-18
+lead_id: L-040
+platform: reddit
+variant: dm
+draft_text: |
+  saw your dishcheck post — 500k views to 160 website visitors is one of the more brutal ratios i've seen someone actually document with real numbers.
+
+  was the problem that people weren't clicking through from the videos, or they landed on the site but didn't understand why they'd sign up?
+
+  doing research on exactly this gap — why viral reach doesn't translate to users. your situation is one of the most specific versions of it.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot find via "0 paying users" keyword. r/growmybusiness. 500k views across YouTube/Instagram/Reddit/TikTok but only 160 website visitors and 2 signups. Named product: DishCheck. ~2 weeks post-launch. Lead with the views-to-visitors ratio, not the 0 paying users — that's the specific data point that opens the diagnostic question. Don't pitch. Get them talking about the conversion breakdown.
+[RECORD_END]

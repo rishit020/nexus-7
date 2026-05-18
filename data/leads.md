@@ -534,3 +534,17 @@ opener_angle: Reference "distribution part is exactly where I'm stuck now" and a
 status: new
 outreach_id: O-039
 [RECORD_END]
+
+[RECORD_START]
+id: L-040
+date_found: 2026-05-18
+username: Old_Mixture_9045
+platform: reddit
+url: https://www.reddit.com/r/growmybusiness/comments/1tgfl63/i_got_500k_views_for_my_startup_in_10_days_and/
+pain_quote: "500,000+ views in 10 days. 160 website visitors. 2 signups. 0 paying users. I genuinely thought going viral would automatically make money."
+product_built: DishCheck — launched ~2 weeks ago
+fit_reason: First-person distribution failure with specific numbers. Went viral (500k+ views across YouTube/Instagram/Reddit/TikTok), got almost no website traffic, zero paying users. Explicit confusion about the views-to-revenue gap. Real launch, real numbers, real pain — textbook Tide ICP.
+opener_angle: The views-to-website ratio is the hook (500k views → 160 visitors). Ask whether clicks weren't happening or whether people landed but didn't convert — that distinction matters and opens the conversation.
+status: new
+outreach_id: O-040
+[RECORD_END]
