@@ -396,6 +396,20 @@ outreach_id: O-030
 [RECORD_END]
 
 [RECORD_START]
+id: L-031
+date_found: 2026-05-18
+username: interview-prep
+platform: reddit
+url: https://www.reddit.com/r/founder/comments/1tgc1x7/i_spent_1002_on_reddit_ads_i_got_328k_impressions/
+pain_quote: "I spent $1,002 on Reddit Ads. I got 328k impressions, 1,296 clicks, and exactly 0 conversions"
+product_built: SaaS (unknown specifics)
+fit_reason: Launched SaaS, burned $1k on ads with real data — 1296 clicks but 0 conversions. First-person distribution failure with specific numbers. Solo founder trying paid channels post-launch with nothing to show.
+opener_angle: The click-but-no-convert gap — 1296 clicks means people at least showed interest. Ask if the problem is the wrong channel or the wrong message once they land.
+status: new
+outreach_id: O-032
+[RECORD_END]
+
+[RECORD_START]
 id: L-030
 date_found: 2026-05-18
 username: pastablekit

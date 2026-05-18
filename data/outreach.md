@@ -504,6 +504,24 @@ notes: OliviaCraft — $0 revenue, discoverability framing. Comment from dfranks
 [RECORD_END]
 
 [RECORD_START]
+id: O-032
+date_created: 2026-05-18
+lead_id: L-031
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about spending $1k on reddit ads — 328k impressions, 0 conversions is a brutal result to have actual numbers for.
+
+  what was the product, and do you think it was the wrong channel or the wrong message? 1296 clicks with 0 conversions tells me people at least showed some interest.
+
+  doing research on the post-launch distribution gap for solo founders — your situation is one of the more specific versions of it i've come across.
+status: draft
+date_sent: null
+result: null
+notes: interview-prep posted on r/founder and r/SaasDevelopers. Clear first-person distribution failure. $1k ad spend with 0 conversions — not complaining about low budget, actually tested the channel with real money. The click-to-convert gap is the specific angle. Ask channel vs message question to get them thinking and talking.
+[RECORD_END]
+
+[RECORD_START]
 id: O-031
 date_created: 2026-05-18
 lead_id: L-030

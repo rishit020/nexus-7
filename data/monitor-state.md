@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-18T13:00:00Z
-next_lead_id: L-031
-next_outreach_id: O-032
+last_checked: 2026-05-18T14:00:00Z
+next_lead_id: L-032
+next_outreach_id: O-033
 
 leads_logged:
   - Stingwave24
@@ -36,6 +36,7 @@ leads_logged:
   - Autorely
   - OliviaCraft
   - pastablekit
+  - interview-prep
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -53,3 +54,4 @@ leads_logged:
 telegram_chat_id: 8383354309
 telegram_configured: true
 2026-05-18 (run 11) | leads: 3 DM (Autorely L-028, OliviaCraft L-029, pastablekit L-030) | source: IH WebSearch + thread commenter mining — Reddit fully blocked (API + WebSearch both blocked). HN Firebase scanned items 48175154-48175466: 0 ICP hits. Pivoted to IH thread commenter mining: dfrankstudioz thread + early-stage-founders thread surfaced Autorely (AutoRely changelog tool, 'the silence is brutal'), OliviaCraft ($0 rev, 'bottleneck is discoverability'), pastablekit (Figma/Webflow desktop app, 5 signups 16 visits/week declining). Also flagged WATCH: selimenes (ReviseFlow, $0 MRR, 'shouting into the void'), Centi (profile thin), abitabovebytes (Android template, '0 views day 1').
+2026-05-18 (run 12) | leads: 1 DM (interview-prep L-031) | source: F5Bot Gmail alerts ("launched my saas" keyword). Scanned 9 F5Bot emails. Discarded: Able_Relief925 (already logged L-014), Azo3307 (r/relationships — personal pain not SaaS), Time-Sudden_Tree (r/AskMenAdvice — dating context), Euphoric_Intern6140 (r/LAhotgirlies), conflictedchurch11 (r/UnsentLetters), Early-Werewolf-4998 (commentary not first-person pain), NoFreedom7355 (r/AskBrits — homelessness context), eightb1t (r/diablo4 — game context). interview-prep: spent $1k on Reddit Ads, 328k impressions, 0 conversions — clear first-person distribution failure with real numbers.
