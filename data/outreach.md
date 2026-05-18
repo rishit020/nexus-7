@@ -816,7 +816,7 @@ lead_id: L-049
 platform: reddit
 variant: dm
 draft_text: |
-  saw your buildinpublic post about 8 months and 0 paid conversions — the conclusion that small creators don't have the traffic either is actually a sharp diagnostic. most people just blame the product.
+  saw your buildinpublic post about 8 months and 0 paid conversions. the conclusion that small creators don't have the traffic either is actually a sharp diagnostic. most people just blame the product.
 
   what did distribution look like over those 8 months? like which channels did you actually try and did any produce even weak signal?
 
