@@ -254,3 +254,31 @@ opener_angle: 5 customers is a proof point — ask what got them those 5 and wha
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-020
+date_found: 2026-05-18
+username: InstaCardsAI
+platform: indiehackers
+url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+pain_quote: "lived pain gives you product clarity, not distribution clarity"
+product_built: AI social media content generator (built from personal frustration spending 45min/post)
+fit_reason: Built from real pain, product clarity strong, but stuck on distribution clarity — explicitly names the gap Tide closes. Can't find first 100 users.
+opener_angle: The "product clarity vs distribution clarity" distinction — ask what distribution has actually looked like, what they've tried
+status: new
+outreach_id: O-020
+[RECORD_END]
+
+[RECORD_START]
+id: L-021
+date_found: 2026-05-18
+username: kubaklatt
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-shipped-a-productivity-saas-in-30-days-as-a-solo-dev-heres-what-ai-actually-changed-and-what-it-didn-t-15c8876106
+pain_quote: "Getting the first 10 signups feels like pulling teeth"
+product_built: E-commerce ad URL monitoring tool (working prototype)
+fit_reason: Solo dev, working product, classic post-launch stuck at first 10 users. Direct pain language, no audience.
+opener_angle: The "pulling teeth" line — ask what channels they've tried and what the typical response has been
+status: new
+outreach_id: O-021
+[RECORD_END]

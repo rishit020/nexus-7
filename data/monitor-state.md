@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-18T06:35:00Z
-next_lead_id: L-020
-next_outreach_id: O-020
+last_checked: 2026-05-18T08:15:00Z
+next_lead_id: L-022
+next_outreach_id: O-023
 
 leads_logged:
   - Stingwave24
@@ -25,6 +25,8 @@ leads_logged:
   - tannyc
   - creatorcuffee
   - sreedhar
+  - InstaCardsAI
+  - kubaklatt
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -35,6 +37,7 @@ leads_logged:
 2026-05-17 (run 6) | leads: 2 DM (Peterjack L-015, cleancorejack L-016) | source: indiehackers.com homepage scan | Reddit API + search both blocked, pivoted to IH
 2026-05-18 (run 7) | leads: 1 COMMENT (tannyc/HN L-017) + 1 WATCH (creatorcuffee/HN L-018) | source: HN Firebase API — Reddit+RSS+IH all blocked. Scanned 150+ HN items via Firebase. HN Algolia for Show HN posts. tannyc is PM who vibe-coded ClueDay with Lovable+Claude Code, got 0 HN comments. Comment on her post. creatorcuffee built "100% Vibe Code" game, watch only (free product).
 2026-05-18 (run 8) | leads: 1 WATCH (sreedhar/HN L-019) | source: HN Firebase API + Algolia — Reddit still blocked. Scanned all HN new stories above 48173102 (150+ items). sreedhar asking Ask HN: how to scale from 5 paying customers. B2B school management, weak vibe-coder ICP but real distribution pain. No DM or COMMENT leads this pass.
+2026-05-18 (run 9) | leads: 2 DM (InstaCardsAI L-020, kubaklatt L-021) + 1 COMMENT (O-022 on max_flowly_run thread) | source: IH WebSearch — Reddit API + direct fetch both blocked by egress policy. Pivoted to IH via WebSearch. Scanned 4 IH posts. InstaCardsAI: AI social media tool, "product clarity vs distribution clarity" gap. kubaklatt: ad URL monitoring tool, "pulling teeth" first 10 signups. Comment queued for Max's 350-comment 30-day SaaS post (visibility play).
 
 # Telegram config (token stored in CLAUDE.local.md only — never commit token to git)
 telegram_chat_id: 8383354309

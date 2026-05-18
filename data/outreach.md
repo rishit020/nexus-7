@@ -304,3 +304,57 @@ date_sent: null
 result: null
 notes: Comment on her Show HN post: https://news.ycombinator.com/item?id=48174129 -- She's a PM, technically literate, vibe coder with Lovable+Claude Code. 0 comments on the post means this comment will be the ONLY reply -- high visibility. Don't pitch. Ask about distribution specifically, frame as research. Her Substack handle is @pmwithtanya if DM on X is preferred channel instead.
 [RECORD_END]
+
+[RECORD_START]
+id: O-020
+date_created: 2026-05-18
+lead_id: L-020
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about "product clarity vs distribution clarity" — that distinction is actually really sharp. most people just say "distribution is hard" and leave it there.
+
+  what has distribution actually looked like for the ai content tool? like which channels did you try first and where did it break down?
+
+  doing research on exactly this gap for solo builders post-launch. your framing is one of the better ones i've seen.
+status: draft
+date_sent: null
+result: null
+notes: Reference the clarity distinction directly — it shows you read carefully. Don't pitch. Pure curiosity about what they've actually tried. They're a commenter on Gabriela's thread from March 2026.
+[RECORD_END]
+
+[RECORD_START]
+id: O-021
+date_created: 2026-05-18
+lead_id: L-021
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on max's 30-day saas post — "getting the first 10 signups feels like pulling teeth" is exactly what i keep hearing.
+
+  what have you actually tried for the ad url monitoring tool? like where does it fall apart — finding the right people, or getting them to care once you do?
+
+  doing research on the post-launch distribution gap for solo builders. sounds like you're right in the middle of it.
+status: draft
+date_sent: null
+result: null
+notes: Reference max's post specifically so it's clear you saw the comment in context. The "pulling teeth" quote is vivid — use it verbatim. Ask about the breakdown point, not just "what did you try."
+[RECORD_END]
+
+[RECORD_START]
+id: O-022
+date_created: 2026-05-18
+lead_id: null
+platform: indiehackers
+variant: comment
+draft_text: |
+  "building feels natural. distribution feels like guessing." that's the most honest line i've read about this problem in months.
+
+  been doing research on the post-launch gap specifically — that window between "it works" and "real users use it." the pattern is the same almost every time: strong technical execution, distribution figured out on the fly if at all.
+
+  for people in this thread who are stuck on distribution right now — is the problem that you don't know which channel to try, or you've tried channels and none of them moved the needle?
+status: draft
+date_sent: null
+result: null
+notes: Drop on Max's thread: https://www.indiehackers.com/post/i-shipped-a-productivity-saas-in-30-days-as-a-solo-dev-heres-what-ai-actually-changed-and-what-it-didn-t-15c8876106 -- 350 comments, high traffic, great visibility play. Ends with a question to drive replies and surface DM leads.
+[RECORD_END]
