@@ -548,3 +548,17 @@ opener_angle: The views-to-website ratio is the hook (500k views → 160 visitor
 status: new
 outreach_id: O-040
 [RECORD_END]
+
+[RECORD_START]
+id: L-041
+date_found: 2026-05-18
+username: Secret_Most_6225
+platform: reddit
+url: https://www.reddit.com/r/SaasDevelopers/comments/1tgfs5g/how_did_you_find_your_first_paid_beta_users_for_a/
+pain_quote: "I recently launched my SaaS and I'm now trying to find a small group of paid beta users"
+product_built: Unknown SaaS (recently launched)
+fit_reason: Post-launch, actively asking how to find first paid users — exact moment Tide targets. Product unknown, need to ask in DM.
+opener_angle: Ask what they're building and what they've tried so far — they're in active "how do I find users" mode, warm to the research framing
+status: new
+outreach_id: O-041
+[RECORD_END]

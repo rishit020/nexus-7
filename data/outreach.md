@@ -682,3 +682,21 @@ date_sent: null
 result: null
 notes: F5Bot find via "0 paying users" keyword. r/growmybusiness. 500k views across YouTube/Instagram/Reddit/TikTok but only 160 website visitors and 2 signups. Named product: DishCheck. ~2 weeks post-launch. Lead with the views-to-visitors ratio, not the 0 paying users — that's the specific data point that opens the diagnostic question. Don't pitch. Get them talking about the conversion breakdown.
 [RECORD_END]
+
+[RECORD_START]
+id: O-041
+date_created: 2026-05-18
+lead_id: L-041
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about finding first paid beta users — that window right after launch is brutal.
+
+  what are you building? and what have you tried so far to find people for it?
+
+  doing research on the distribution gap for solo founders post-launch. your situation is exactly what i'm mapping out.
+status: draft
+date_sent: null
+result: null
+notes: Secret_Most_6225 posted in r/SaasDevelopers. Product unknown — keep DM open-ended so they fill it in. They're actively in "how do I find users" mode which makes them warm to the research framing. DM via Reddit.
+[RECORD_END]
