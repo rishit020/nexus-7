@@ -628,3 +628,39 @@ date_sent: null
 result: null
 notes: beatsprom is the OP of the "months of building, $0, psychological reason" post (May 7). Product: PsychoPrompt — clinical AI prompt system. The invisibility reframe is the hook. They've already diagnosed the problem correctly. Ask what distribution looks like since the mindset shift. Don't pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-038
+date_created: 2026-05-18
+lead_id: L-038
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on max's 30-day post — "zero users on two of them, the build getting easier just made the hard part more obvious" is the most honest thing i've read about this problem in a while.
+
+  what did launch actually look like on those two? like where did you go first and what happened?
+
+  doing research on exactly that gap between shipping something solid and getting anyone to actually use it.
+status: draft
+date_sent: null
+result: null
+notes: w3rc commented on max_flowly_run's 30-day saas thread (April 14, 2026). Serial builder, at least 3 products shipped, zero users on 2. Product names unknown — DM is intentionally vague about which products to let them fill in. IH DM via profile.
+[RECORD_END]
+
+[RECORD_START]
+id: O-039
+date_created: 2026-05-18
+lead_id: L-039
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on max's thread — 14 tools shipped and "the distribution part is exactly where i'm stuck now" is about as direct as it gets.
+
+  coming from industrial automation into next.js saas is a wild arc. curious what distribution looks like as a blocker for you — is it channel confusion, no audience, or something else entirely?
+
+  doing research on this exact problem. the post-launch silence for builders who can ship fast but can't crack distribution.
+status: draft
+date_sent: null
+result: null
+notes: YTubViral = Javier Jimeno. ytubviral.com — 14 AI YouTube creator tools. Non-technical background (industrial automation). May 12, 2026 comment — most recent lead this pass. Reference the industrial automation to next.js arc specifically — it shows you read the whole comment. IH DM via profile.
+[RECORD_END]

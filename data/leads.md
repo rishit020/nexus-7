@@ -506,3 +506,31 @@ opener_angle: Ask what they're building and where distribution has broken down o
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-038
+date_found: 2026-05-18
+username: w3rc
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-shipped-a-productivity-saas-in-30-days-as-a-solo-dev-heres-what-ai-actually-changed-and-what-it-didn-t-15c8876106
+pain_quote: "Zero users on two of them. The build getting easier just made it more obvious that the hard part was always finding people who actually wanted it."
+product_built: multiple unnamed shipped products (at least 3, serial solo builder)
+fit_reason: Shipped 3 products with AI help. Zero users on 2. Self-aware about the distribution gap — explicitly says the hard part was always finding people who wanted it, not building. Classic repeat pattern.
+opener_angle: Reference the "zero users on two" line and ask what launch actually looked like on those — where did they go first and what happened.
+status: new
+outreach_id: O-038
+[RECORD_END]
+
+[RECORD_START]
+id: L-039
+date_found: 2026-05-18
+username: YTubViral
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-shipped-a-productivity-saas-in-30-days-as-a-solo-dev-heres-what-ai-actually-changed-and-what-it-didn-t-15c8876106
+pain_quote: "the distribution part is exactly where I'm stuck now"
+product_built: ytubviral.com — 14 AI tools for YouTube creators (viral titles, SEO descriptions, keyword research). Free tier + paid. May 2026.
+fit_reason: Non-technical background (industrial automation engineer), learned Next.js via AI coding tools, shipped 14 tools, now explicitly stuck on distribution. Said AI "removed the activation barrier" on building but distribution is where he's stuck. Strong ICP — vibe coder who can ship but can't distribute.
+opener_angle: Reference "distribution part is exactly where I'm stuck now" and ask what that looks like specifically — channel confusion, no audience, or something else.
+status: new
+outreach_id: O-039
+[RECORD_END]
