@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-18T14:00:00Z
-next_lead_id: L-032
-next_outreach_id: O-033
+last_checked: 2026-05-18T16:00:00Z
+next_lead_id: L-035
+next_outreach_id: O-036
 
 leads_logged:
   - Stingwave24
@@ -37,6 +37,9 @@ leads_logged:
   - OliviaCraft
   - pastablekit
   - interview-prep
+  - KasamiWorks
+  - mystic_sage
+  - abitabovebytes
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -55,3 +58,4 @@ telegram_chat_id: 8383354309
 telegram_configured: true
 2026-05-18 (run 11) | leads: 3 DM (Autorely L-028, OliviaCraft L-029, pastablekit L-030) | source: IH WebSearch + thread commenter mining — Reddit fully blocked (API + WebSearch both blocked). HN Firebase scanned items 48175154-48175466: 0 ICP hits. Pivoted to IH thread commenter mining: dfrankstudioz thread + early-stage-founders thread surfaced Autorely (AutoRely changelog tool, 'the silence is brutal'), OliviaCraft ($0 rev, 'bottleneck is discoverability'), pastablekit (Figma/Webflow desktop app, 5 signups 16 visits/week declining). Also flagged WATCH: selimenes (ReviseFlow, $0 MRR, 'shouting into the void'), Centi (profile thin), abitabovebytes (Android template, '0 views day 1').
 2026-05-18 (run 12) | leads: 1 DM (interview-prep L-031) | source: F5Bot Gmail alerts ("launched my saas" keyword). Scanned 9 F5Bot emails. Discarded: Able_Relief925 (already logged L-014), Azo3307 (r/relationships — personal pain not SaaS), Time-Sudden_Tree (r/AskMenAdvice — dating context), Euphoric_Intern6140 (r/LAhotgirlies), conflictedchurch11 (r/UnsentLetters), Early-Werewolf-4998 (commentary not first-person pain), NoFreedom7355 (r/AskBrits — homelessness context), eightb1t (r/diablo4 — game context). interview-prep: spent $1k on Reddit Ads, 328k impressions, 0 conversions — clear first-person distribution failure with real numbers.
+2026-05-18 (run 13) | leads: 3 DM (KasamiWorks L-032, mystic_sage L-033, abitabovebytes L-034) | source: IH WebSearch + thread commenter mining (VIDI PH thread + IndieAIs 50-posts thread) — Reddit API still 403. HN Firebase scanned items 48175467-48175772: only Show HN hits were logan_ng/Thuki (local AI overlay, open source free, weak ICP — WATCH) and marius-ciclistu (framework release, no ICP). KasamiWorks: NameMemory $9.99 offline app, 4 months/1 paid user, "what i can't tell is whether the silence is abandonment." mystic_sage (Jiman Kim): Mystic Sage AI counselor in beta, "Good app. Zero audience. Classic." abitabovebytes: upgraded from WATCH, "having lived the pain made me build a genuinely good product. It did NOT make me good at explaining why someone else should care." Discarded: vidifounder (B2B contract analysis, LinkedIn cold outreach 10-50/day — already in active outreach mode, weaker ICP), RickEx (day 2 bootstrapping dev tools, pre-launch not post-launch pain).

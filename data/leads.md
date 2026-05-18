@@ -410,6 +410,48 @@ outreach_id: O-032
 [RECORD_END]
 
 [RECORD_START]
+id: L-032
+date_found: 2026-05-18
+username: KasamiWorks
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-launched-on-product-hunt-today-and-realized-something-uncomfortable-35d871866b
+pain_quote: "4 months, ~100 downloads, 1 person paid $9.99... what i can't tell is whether the silence is abandonment"
+product_built: NameMemory — offline name-recall app with spaced repetition across 16 languages. $9.99 one-time for unlimited.
+fit_reason: 4 months post-launch, 100 downloads, 1 paying user. IH profile explicitly says "here to learn how to actually find users." Classic stuck-at-distribution indie builder.
+opener_angle: The "silence is abandonment" line — ask where they've tried to find people who'd pay for it and what signal they've gotten
+status: new
+outreach_id: O-033
+[RECORD_END]
+
+[RECORD_START]
+id: L-033
+date_found: 2026-05-18
+username: mystic_sage
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-launched-on-product-hunt-today-and-realized-something-uncomfortable-35d871866b
+pain_quote: "Good app. Zero audience. Classic... still looking for the right place to find people who'd actually want this"
+product_built: Mystic Sage — AI counselor rooted in Buddhist/Taoist wisdom for urban professionals 30-40 with burnout/anxiety. Currently in beta.
+fit_reason: In beta, zero audience by their own admission, actively searching for right channel — exact post-launch distribution gap Tide targets.
+opener_angle: The "still looking for the right place" line — ask what they've tried so far and what the best response has been even if tiny
+status: new
+outreach_id: O-034
+[RECORD_END]
+
+[RECORD_START]
+id: L-034
+date_found: 2026-05-18
+username: abitabovebytes
+platform: indiehackers
+url: https://www.indiehackers.com/post/ive-been-reading-50-indie-builder-posts-a-day-for-the-past-month-here-s-the-pattern-nobody-talks-about-09925bc444
+pain_quote: "having lived the pain made me build a genuinely good product. It did NOT make me good at explaining why someone else should care"
+product_built: Unknown — Android template builder (previously flagged WATCH in run 11, "0 views day 1")
+fit_reason: Built from lived pain, good product by their account, but zero distribution clarity — specifically names the gap between product quality and getting people to care. Exact Tide ICP.
+opener_angle: The "lived pain gives product clarity not distribution clarity" angle — ask what channels they've tried and what the response looked like
+status: new
+outreach_id: O-035
+[RECORD_END]
+
+[RECORD_START]
 id: L-030
 date_found: 2026-05-18
 username: pastablekit

@@ -522,6 +522,60 @@ notes: interview-prep posted on r/founder and r/SaasDevelopers. Clear first-pers
 [RECORD_END]
 
 [RECORD_START]
+id: O-033
+date_created: 2026-05-18
+lead_id: L-032
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the vidi thread — "4 months, 100 downloads, 1 person paid $9.99... what i can't tell is whether the silence is abandonment" is one of the most honest descriptions of that stuck phase i've read.
+
+  what does distribution look like for namememory right now? like where have you actually tried to find people who'd pay for it?
+
+  doing research on the post-launch distribution gap for indie builders. your situation is exactly what i'm mapping out.
+status: draft
+date_sent: null
+result: null
+notes: KasamiWorks built NameMemory — offline spaced repetition app, $9.99 one-time. 4 months post-launch, 1 paying user. IH profile literally says "here to learn how to actually find users." The abandonment line is vivid. Ask specifically about what channels they've tried, not just generic pain.
+[RECORD_END]
+
+[RECORD_START]
+id: O-034
+date_created: 2026-05-18
+lead_id: L-033
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the vidi thread — "good app, zero audience, classic... still looking for the right place to find people who'd actually want this" is exactly what keeps coming up when i talk to solo builders.
+
+  for mystic sage, where have you actually tried to find your audience so far? curious what channels you've tested and what the response has been even if it's been tiny.
+
+  doing research on the post-launch distribution gap for indie builders.
+status: draft
+date_sent: null
+result: null
+notes: mystic_sage = Jiman Kim, Mystic Sage AI counselor, Buddhist/Taoist wisdom for urban burnout crowd. In beta. "Still looking for the right place" means they're actively trying channels and failing. Ask specifically about channels — not about the product. The product angle is handled.
+[RECORD_END]
+
+[RECORD_START]
+id: O-035
+date_created: 2026-05-18
+lead_id: L-034
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the 50-posts thread — "having lived the pain made me build a genuinely good product. it did NOT make me good at explaining why someone else should care" is probably the most precise way i've seen someone name that gap.
+
+  what have you actually tried to get people to care? like which channels did you test first and what did the response look like?
+
+  doing research on the post-launch distribution problem for solo builders. that quote is exactly what i'm trying to map out.
+status: draft
+date_sent: null
+result: null
+notes: abitabovebytes — previously WATCH (run 11, Android template, "0 views day 1"). Commented on IndieAIs thread. Product details thin — may need to ask what they built in the DM itself. The pain quote is very strong and specific. Keep DM focused on what they've tried, the product will come up naturally.
+[RECORD_END]
+
+[RECORD_START]
 id: O-031
 date_created: 2026-05-18
 lead_id: L-030
