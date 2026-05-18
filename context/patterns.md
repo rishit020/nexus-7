@@ -38,4 +38,8 @@ IMPLICATION: Recommend tightening or killing "vibe coded" keyword. High-signal k
 OBSERVED: r/SaaS and r/indiehackers auto-removed Rishit's posts via AutoModerator.
 IMPLICATION: Before posting to any new subreddit, check the rules. r/SaaS flags low-effort/AI content. r/indiehackers is strict. Research first, draft accordingly.
 
-LAST_UPDATED: 2026-05-17
+2026-05-18 | TYPE: mistake — NEVER REPEAT
+OBSERVED: Em dashes appeared in O-049 and O-050 DM drafts. Caught post-draft both times, fixed before Rishit sends. Pattern is the agent generating them naturally in flowing sentences.
+IMPLICATION: Before finalizing any DM or comment draft, scan explicitly for the — character. Never use em dashes in outreach copy. Replace with a period or restructure the sentence.
+
+LAST_UPDATED: 2026-05-18
