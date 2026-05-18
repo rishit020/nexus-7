@@ -862,3 +862,35 @@ date_sent: null
 result: null
 notes: btbyzac wrote the "zero-audience distribution is a different skill" post on March 17 2026. 6 Claude Code tools built, $0 revenue, 80+ dev.to articles/0 reactions, 2 IH posts (16 votes), HN score 1. Had 27-hour self-imposed $100 deadline. Strong vibe coder ICP. DM via IH. Reference the article effort vs $0 result — that's the most vivid data point. Ask about distribution approach variation across products.
 [RECORD_END]
+
+[RECORD_START]
+id: O-051
+date_created: 2026-05-18
+lead_id: L-052
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the IH thread about posting for your freelancer review tool and getting zero engagement. curious what that actually looked like. which channels did you try and did anything produce even weak signal?
+
+  doing research on the post-launch distribution gap for solo builders. your situation is exactly what i'm mapping out.
+status: draft
+date_sent: null
+result: null
+notes: sean02 commented on Prokopiy's "Day 3 of marketing with zero audience" thread. First-person pain: tried posting, got zero engagement for freelancer review collection tool. DM via IH. Lead with the specific experience they described. Don't pitch. Get them talking about what they tried.
+[RECORD_END]
+
+[RECORD_START]
+id: O-052
+date_created: 2026-05-18
+lead_id: L-053
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about shipping getcredibly to crickets after launch. curious what the first few weeks actually looked like. which channels did you try and did anything produce even weak signal?
+
+  doing research on this exact gap between launching something real and getting anyone to find it. the crickets moment is what i'm trying to understand.
+status: draft
+date_sent: null
+result: null
+notes: getcredibly commented on Angel Cee's "Why Indie Founders Fail" thread. First-person: "shipping to crickets after launch." Review collection SaaS for businesses. Self-selected into the distribution pain discussion. DM via IH. Reference their specific quote. Don't pitch. Get them talking about what distribution looked like.
+[RECORD_END]

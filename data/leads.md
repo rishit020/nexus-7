@@ -702,3 +702,31 @@ opener_angle: The effort vs. silence ratio — 80+ articles and $0 revenue is a 
 status: new
 outreach_id: O-048
 [RECORD_END]
+
+[RECORD_START]
+id: L-052
+date_found: 2026-05-18
+username: sean02
+platform: indiehackers
+url: https://www.indiehackers.com/post/day-3-of-marketing-with-zero-audience-heres-what-s-actually-working-and-what-isn-t-2df9727899
+pain_quote: "I tried posting about my product in a few places early on and got zero engagement."
+product_built: Freelancer review collection tool (name unknown — check IH profile).
+fit_reason: First-person, post-launch, zero engagement. Commenter on Prokopiy/Fenly thread. Described their own experience building a review tool and getting silence. Classic post-launch distribution gap. Not yet logged.
+opener_angle: The "posting in a few places and getting nothing" experience — ask what channels they actually tried and whether anything produced even weak signal.
+status: new
+outreach_id: O-051
+[RECORD_END]
+
+[RECORD_START]
+id: L-053
+date_found: 2026-05-18
+username: getcredibly
+platform: indiehackers
+url: https://www.indiehackers.com/post/why-indie-founders-fail-the-uncomfortable-truths-beyond-build-in-public-b51fd6509b
+pain_quote: "Shipping to crickets after launch."
+product_built: getcredibly — review collection SaaS for businesses.
+fit_reason: Direct first-person quote about launching to silence. Review collection SaaS is a real product. Commented on Angel Cee's "Why Indie Founders Fail" thread — self-selected into the distribution pain conversation. Not in logged list.
+opener_angle: The "shipping to crickets" moment — ask what the first weeks looked like, which channels they tried, any signal at all.
+status: new
+outreach_id: O-052
+[RECORD_END]

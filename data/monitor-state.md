@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-18T12:45:00Z
-next_lead_id: L-052
-next_outreach_id: O-051
+last_checked: 2026-05-18T14:30:00Z
+next_lead_id: L-054
+next_outreach_id: O-053
 
 leads_logged:
   - Stingwave24
@@ -57,6 +57,8 @@ leads_logged:
   - IcyInteraction8722
   - adin_builds
   - max_flowly_run
+  - sean02
+  - getcredibly
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -84,3 +86,4 @@ telegram_configured: true
 2026-05-18 (run 19) | leads: 4 DM (ReleaseLog L-042, anvevoice L-043, hemly L-044, sara_builds L-045) | source: IH WebSearch + thread commenter mining. Reddit fully blocked (API + WebSearch). F5Bot inbox empty this pass. HN Firebase scanned 65 new items (48176697-48177446): 3 Show HN hits, 0 ICP matches (all open-source tools). IH search found new posts: ReleaseLog "only problem left to solve is distribution" (May 1, PH launch May 13 — 5 days post-launch now), Buildfield "2 weeks later" thread surfaced anvevoice (22 days/$199 LTD/0 sales) and hemly ("silence becomes a clock instead of a wound," flagged but not logged since run 10). MealThinker thread surfaced sara_builds ("yelling into the void" dev tool, right now). Discarded: StartClaw (20 signups/0 paid — activation not distribution problem), Sabahattin Kalkan/MailTest (technical B2B email tool, weak ICP), Marco Kohns (selling own tool), JustinBuilds/MealThinker (Jan 2026, already WATCH from run 10), BootstrawSam (Feb 2024, too old), shahzaib101 (5 DM yeses/0 usage — activation not distribution).
 2026-05-18 (run 20) | leads: 3 DM (ideadose L-046, selimenes L-047, btbyzac L-048) | source: IH WebSearch + thread commenter mining. Reddit still fully blocked (egress policy). HN Firebase scanned new items 48177447-48177973: only 2 Show HN hits (Shiftpaper wallpaper engine, personal AI memory tool — both 0 ICP). IH search surfaced new posts: "Tired of Building Apps/0 Users" (Marco Kohns, already discarded run 15), "At what point did you get stuck" (March 2021, too old), "Hot take: Zero-audience distribution" (btbyzac — strong new lead, 6 products/$0/80+ articles/0 reactions). Thread commenter mining on FCA checker post surfaced ideadose (nerdnick, PH launch March 26, ~80 sessions/handful users). Building-in-public thread deep scan upgraded selimenes from WATCH to DM (ReviseFlow, $0 MRR, "silence is louder than expected"). Discarded: DataMine007 (promoting own LeadSynth product), FirmTracer/Asoka Raja (B2B niche, already WATCH run 15), Mykola Kondratiuk (consumer recipe app, Feb 2026 post, weak ICP), rex_claw (159 cold contacts/0 replies but product unknown — WATCH), ideadose/nerdnick upgraded to DM from two-thread signal.
 2026-05-18 (run 21) | leads: 3 (IcyInteraction8722 L-049 DM, adin_builds L-050 DM, max_flowly_run L-051 WATCH) | source: F5Bot Gmail + HN Firebase (48177974-48178555) + IH WebSearch agent. Reddit blocked. HN: 0 ICP hits. F5Bot: IcyInteraction8722 (r/buildinpublic, 8 months/0 paid conversions, AI lead magnet gen). IH agent surfaced: adin_builds (May 18, ReleaseLog thread, "building felt more controllable than talking to people" — strong fresh DM), max_flowly_run (Flowly OP, 350-comment thread author, WATCH — 6 weeks old but strong pain quote, still active). Discarded: vidifounder (already discarded run 13), GrowthWithShehroz (name suggests marketer, profile needed), filippofascetta (goal system, pre-launch, weak ICP), Curious_Club8404 (analytics tool switch), InfamousLead9912 (marketing SaaS promotion), One-Ice7086 (building distribution marketplace, WATCH), LeaderAtLeading (skipped), tand_eyes/jonnysboy12/Ok-Storage-3003 (prev discarded).
+2026-05-18 (run 22) | leads: 2 DM (sean02 L-052, getcredibly L-053) | source: IH thread commenter mining + F5Bot Gmail. Reddit fully blocked (all 7 subreddits, egress policy). HN Firebase scanned 65 new items (48178556-48179326): 0 ICP hits. F5Bot: mahfuz_nafi (DISCARD — advisor not in pain, said "distribution problem" in comment but is giving tips not expressing it), IcyInteraction8722 (already L-049), all others off-topic or prev-logged. IH thread deep mining surfaced sean02 (Prokopiy thread, freelancer review collection tool, "zero engagement" — flagged run 10, logging now) and getcredibly (Angel Cee "Why Indie Founders Fail" thread, review collection SaaS, "shipping to crickets after launch"). Discarded: renzom13m (3 BaaS auditors/0 customers, niche B2B technical tool, weak ICP), alex98075wa (Shopify app, 43% same-day churn — activation not distribution problem), Daiutovslava (doing own customer discovery, not in distribution pain), Cravo (tried 7 channels, Reddit worked — no longer in pain), Chinallmapi (API gateway B2B), 0xdevc (blockchain/crypto, weak ICP).
