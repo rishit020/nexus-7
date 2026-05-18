@@ -962,6 +962,24 @@ notes: shaguoer published April 13 2026 on IH. Free AI Content Analyzer + $1 AI 
 [RECORD_END]
 
 [RECORD_START]
+id: O-058
+date_created: 2026-05-19
+lead_id: L-060
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about having everything ready but freezing at the launch button because of marketing phobia. "completely disconnected from how my engineer brain works" is one of the more accurate descriptions of that gap i've read.
+
+  did you end up launching, or did this one join the localhost graveyard? and what has distribution actually looked like if you did push through?
+
+  doing research on exactly that gap between building something solid and actually getting people to find it.
+status: draft
+date_sent: null
+result: null
+notes: g_perales posted r/SideProject "I spent months programming side projects to perfection only to leave them in local." Serial builder, multiple localhosts, froze at launch due to "marketing phobia." MVP was fully built and tested. F5Bot "shouting into the void" alert 2026-05-18T16:20:20Z. Ask whether they shipped and what distribution looked like. The localhost graveyard line is vivid. DM via Reddit.
+[RECORD_END]
+
+[RECORD_START]
 id: O-057
 date_created: 2026-05-18
 lead_id: L-059

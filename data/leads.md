@@ -802,6 +802,20 @@ outreach_id: O-056
 [RECORD_END]
 
 [RECORD_START]
+id: L-060
+date_found: 2026-05-19
+username: g_perales
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1tgrcvx/i_spent_months_programming_side_projects_to/
+pain_quote: "I realized I was paralyzed by a severe case of 'marketing phobia.' The idea of shouting into the void on social media, doing manual outreach, and trying to sell felt fake, exhausting, and completely disconnected from how my engineer brain works. So, like many of my previous localhosts, I almost let it die in a graveyard of unreleased repositories."
+product_built: multiple side projects left in localhost; MVP fully built and tested, nearly killed at launch due to distribution paralysis
+fit_reason: engineer who builds to completion then freezes at distribution. explicitly names the psychological wall. pattern of multiple localhosts. textbook Jackson.
+opener_angle: the marketing phobia freeze right before launch. ask if they shipped and what distribution actually looked like after.
+status: new
+outreach_id: O-058
+[RECORD_END]
+
+[RECORD_START]
 id: L-059
 date_found: 2026-05-18
 username: dylanyu
