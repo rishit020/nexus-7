@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-18T10:25:00Z
-next_lead_id: L-046
-next_outreach_id: O-046
+last_checked: 2026-05-18T12:30:00Z
+next_lead_id: L-049
+next_outreach_id: O-049
 
 leads_logged:
   - Stingwave24
@@ -51,6 +51,9 @@ leads_logged:
   - anvevoice
   - hemly
   - sara_builds
+  - ideadose
+  - selimenes
+  - btbyzac
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -76,3 +79,4 @@ telegram_configured: true
 2026-05-18 (run 17) | leads: 1 DM (Secret_Most_6225 L-041) | source: F5Bot Gmail ("launched my saas" keyword) + HN Firebase (48176385-48176696, 0 ICP hits). Reddit API still blocked. Secret_Most_6225: recently launched SaaS, r/SaasDevelopers, asking how to find first paid beta users — exact post-launch distribution gap Tide targets. Product unknown. Discarded: Ill-Green8678 (r/fiaustralia taxation context), all personal "shouting into the void" hits (relationships/dating/job-search subreddits), Early-Werewolf-4998 (commenter who solved it), OkConfection9448 (has workaround, not in pain).
 2026-05-18 (run 18) | leads: 0 | source: F5Bot Gmail full inbox scan (08:04 UTC). All 15+ F5Bot signals this pass were duplicates or off-topic. Duplicates: Old_Mixture_9045 (L-040), Secret_Most_6225 (L-041), tand_eyes (discarded run 5), LeaderAtLeading (explicitly skipped by Rishit). New signal: Adrenaline_Junkie__ commented on Rishit's r/buildinpublic research post with "stop shouting into the void" — advisory/retrospective tone, not first-person current pain, discard. LeaderAtLeading returned (r/buildinpublic publishing platform post, commentary only). All remaining hits from off-topic subs: r/fiaustralia, r/veganuk, r/AskBrits, r/relationships, r/AskMenAdvice, r/LAhotgirlies, r/UnsentLetters, r/StartUpIndia, r/SaasDevelopers content-marketing post. Reddit direct fetch still blocked (egress policy). Pipeline clean at 41 leads total.
 2026-05-18 (run 19) | leads: 4 DM (ReleaseLog L-042, anvevoice L-043, hemly L-044, sara_builds L-045) | source: IH WebSearch + thread commenter mining. Reddit fully blocked (API + WebSearch). F5Bot inbox empty this pass. HN Firebase scanned 65 new items (48176697-48177446): 3 Show HN hits, 0 ICP matches (all open-source tools). IH search found new posts: ReleaseLog "only problem left to solve is distribution" (May 1, PH launch May 13 — 5 days post-launch now), Buildfield "2 weeks later" thread surfaced anvevoice (22 days/$199 LTD/0 sales) and hemly ("silence becomes a clock instead of a wound," flagged but not logged since run 10). MealThinker thread surfaced sara_builds ("yelling into the void" dev tool, right now). Discarded: StartClaw (20 signups/0 paid — activation not distribution problem), Sabahattin Kalkan/MailTest (technical B2B email tool, weak ICP), Marco Kohns (selling own tool), JustinBuilds/MealThinker (Jan 2026, already WATCH from run 10), BootstrawSam (Feb 2024, too old), shahzaib101 (5 DM yeses/0 usage — activation not distribution).
+2026-05-18 (run 20) | leads: 3 DM (ideadose L-046, selimenes L-047, btbyzac L-048) | source: IH WebSearch + thread commenter mining. Reddit still fully blocked (egress policy). HN Firebase scanned new items 48177447-48177973: only 2 Show HN hits (Shiftpaper wallpaper engine, personal AI memory tool — both 0 ICP). IH search surfaced new posts: "Tired of Building Apps/0 Users" (Marco Kohns, already discarded run 15), "At what point did you get stuck" (March 2021, too old), "Hot take: Zero-audience distribution" (btbyzac — strong new lead, 6 products/$0/80+ articles/0 reactions). Thread commenter mining on FCA checker post surfaced ideadose (nerdnick, PH launch March 26, ~80 sessions/handful users). Building-in-public thread deep scan upgraded selimenes from WATCH to DM (ReviseFlow, $0 MRR, "silence is louder than expected"). Discarded: DataMine007 (promoting own LeadSynth product), FirmTracer/Asoka Raja (B2B niche, already WATCH run 15), Mykola Kondratiuk (consumer recipe app, Feb 2026 post, weak ICP), rex_claw (159 cold contacts/0 replies but product unknown — WATCH), ideadose/nerdnick upgraded to DM from two-thread signal.

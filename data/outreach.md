@@ -772,3 +772,57 @@ date_sent: null
 result: null
 notes: sara_builds commented on JustinBuilds/MealThinker "Zero paid users" IH post. Dev tool, recently launched, first-person current pain, "yelling into the void." Profile not directly accessible via search. DM via IH through the comment thread context. Product unknown — let them fill it in.
 [RECORD_END]
+
+[RECORD_START]
+id: O-046
+date_created: 2026-05-18
+lead_id: L-046
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw ideadose's ph launch — ~80 sessions and only a handful actually using the product is that exact gap right after the initial spike dies.
+
+  what does distribution look like now that the ph wave is over? like what have you tried and where does it actually fall apart?
+
+  doing research on the post-launch window for solo builders — that phase between launching something and getting consistent users. sounds like you're right in the middle of it.
+status: draft
+date_sent: null
+result: null
+notes: nerdnick built Ideadose — AI startup idea validator, PH launch March 26 2026. ~80 sessions, handful of actual users post-PH. Also commented "the hardest part for me is showing up when there's zero response" on dfrankstudioz thread — two pain signals. DM via IH. Ask about post-PH distribution specifically, not general pain.
+[RECORD_END]
+
+[RECORD_START]
+id: O-047
+date_created: 2026-05-18
+lead_id: L-047
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the building-in-public thread — "launched a few weeks ago, trying every channel, and the silence is louder than I expected" is a really specific way to describe that phase.
+
+  for reviseflow — which channels have you actually tried, and what's been the best response you've gotten even if the number is tiny?
+
+  doing research on the post-launch distribution gap for solo builders. sounds like you're right in the middle of exactly what i'm mapping out.
+status: draft
+date_sent: null
+result: null
+notes: selimenes = ReviseFlow, visual bug reporting tool for web agencies/dev teams. $0 MRR. Two pain signals: "silence is louder than expected" (building-in-public thread) + "shouting into the void" (run 11). Upgraded from WATCH. Multiple channels tried, all failed. DM via IH. Ask about specific channels and weak signal — not just general frustration.
+[RECORD_END]
+
+[RECORD_START]
+id: O-048
+date_created: 2026-05-18
+lead_id: L-048
+platform: indiehackers
+variant: dm
+draft_text: |
+  your post about zero-audience distribution stuck with me — "80+ dev.to articles, 0 reactions, $0 revenue across 6 products" is one of the more honest data sets i've seen from someone who's been consistently shipping.
+
+  across those 6 products did distribution look the same each time, or were you trying different channels and angles?
+
+  doing research on exactly this problem. the gap between building something real and getting anyone to find it.
+status: draft
+date_sent: null
+result: null
+notes: btbyzac wrote the "zero-audience distribution is a different skill" post on March 17 2026. 6 Claude Code tools built, $0 revenue, 80+ dev.to articles/0 reactions, 2 IH posts (16 votes), HN score 1. Had 27-hour self-imposed $100 deadline. Strong vibe coder ICP. DM via IH. Reference the article effort vs $0 result — that's the most vivid data point. Ask about distribution approach variation across products.
+[RECORD_END]

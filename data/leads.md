@@ -618,3 +618,45 @@ opener_angle: Reference the MealThinker thread comment, ask what the dev tool is
 status: new
 outreach_id: O-045
 [RECORD_END]
+
+[RECORD_START]
+id: L-046
+date_found: 2026-05-18
+username: ideadose
+platform: indiehackers
+url: https://www.indiehackers.com/ideadose
+pain_quote: "launched on PH 4 days ago, got ~80 sessions total, only a handful actually used the product"
+product_built: Ideadose — AI startup idea validator (GO/RISKY/KILL verdicts). PH launch March 26, 2026.
+fit_reason: Post-PH launch, ~80 sessions, handful of actual users — exact post-launch distribution gap. Also commented "the hardest part for me is showing up when there's zero response" on a separate thread. Two signals, same pain.
+opener_angle: The PH launch vs. actual usage gap — ask what distribution looks like now that the PH spike is over
+status: new
+outreach_id: O-046
+[RECORD_END]
+
+[RECORD_START]
+id: L-047
+date_found: 2026-05-18
+username: selimenes
+platform: indiehackers
+url: https://www.indiehackers.com/selimenes
+pain_quote: "launched a few weeks ago, trying every channel, and the silence is louder than I expected"
+product_built: ReviseFlow — visual bug reporting tool for web agencies and dev teams. $0 MRR.
+fit_reason: Upgraded from WATCH (run 11). Two distinct pain signals across two threads: "silence is louder than expected" (building-in-public thread) + "shouting into the void" (run 11). Trying multiple channels with no results. $0 MRR. Solo builder, web agency niche, post-launch distribution stuck.
+opener_angle: The multi-channel silence — they've tried channels plural and all went quiet. Ask which ones and what the best response was
+status: new
+outreach_id: O-047
+[RECORD_END]
+
+[RECORD_START]
+id: L-048
+date_found: 2026-05-18
+username: btbyzac
+platform: indiehackers
+url: https://www.indiehackers.com/post/hot-take-zero-audience-distribution-is-a-different-skill-than-growth-and-most-advice-conflates-the-two-b659d4ef58
+pain_quote: "80+ dev.to articles, 0 reactions. 2 IH posts, 16 votes each. HN: score 1. $0 revenue."
+product_built: 6 Claude Code tools (names not specified). March 17, 2026. Had a 27-hour self-imposed deadline to make $100.
+fit_reason: Serial vibe coder who used Claude Code tools to build 6 products. Tried dev.to (80+ articles, 0 reactions), IH (minimal engagement), HN (score 1). $0 revenue. Wrote a post analyzing the zero-audience distribution problem — meaning they've been thinking hard about it. Strong ICP: built with AI tools, can ship, can't distribute.
+opener_angle: The effort vs. silence ratio — 80+ articles and $0 revenue is a data set. Ask what the distribution approach looked like across those 6 products
+status: new
+outreach_id: O-048
+[RECORD_END]
