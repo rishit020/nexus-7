@@ -810,6 +810,24 @@ notes: selimenes = ReviseFlow, visual bug reporting tool for web agencies/dev te
 [RECORD_END]
 
 [RECORD_START]
+id: O-050
+date_created: 2026-05-18
+lead_id: L-050
+platform: indiehackers
+variant: dm
+draft_text: |
+  your comment on the releaselog thread hit — "three months adding things nobody asked for because building felt more controllable than talking to people" is probably the most honest thing i've read about this problem.
+
+  what are you building? and what has distribution actually looked like when you do try it?
+
+  doing research on exactly that gap between shipping something and getting real users.
+status: draft
+date_sent: null
+result: null
+notes: adin_builds commented on ReleaseLog's PH prep thread (May 18, today). Product unknown — check IH profile at https://www.indiehackers.com/adin_builds before sending to personalize line 1 with product name. The psychological insight about build-avoidance is the hook. Pure curiosity, no pitch.
+[RECORD_END]
+
+[RECORD_START]
 id: O-049
 date_created: 2026-05-18
 lead_id: L-049

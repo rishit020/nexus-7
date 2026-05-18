@@ -648,6 +648,34 @@ outreach_id: O-047
 [RECORD_END]
 
 [RECORD_START]
+id: L-050
+date_found: 2026-05-18
+username: adin_builds
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-m-launching-on-product-hunt-in-12-days-with-zero-customers-here-s-my-exact-plan-beaab1d1e1
+pain_quote: "three months adding things nobody asked for because building felt more controllable than talking to people. distribution is uncomfortable in a way that a new feature never is."
+product_built: Unknown — commenter on ReleaseLog thread. Check IH profile before sending.
+fit_reason: May 18 (today). Self-aware about build-avoidance vs distribution discomfort — exactly the psychological barrier Tide addresses. Fresh, first-person, specific.
+opener_angle: The "building felt more controllable than talking to people" line — ask what they're building and what distribution actually looked like when they tried it.
+status: new
+outreach_id: O-050
+[RECORD_END]
+
+[RECORD_START]
+id: L-051
+date_found: 2026-05-18
+username: max_flowly_run
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-shipped-a-productivity-saas-in-30-days-as-a-solo-dev-heres-what-ai-actually-changed-and-what-it-didn-t-15c8876106
+pain_quote: "Shipping code feels like progress. Posting on Reddit feels like gambling. Distribution feels like guessing."
+product_built: Flowly — task + time tracking + wellness for remote freelancers. Solo dev.
+fit_reason: OP of the 350-comment productivity SaaS thread. Strong distribution pain quote. April 6 post but still active in May. Multiple ICP leads (kubaklatt, w3rc, YTubViral) came from their thread — they built something, struggled with distribution, and the thread blew up suggesting the pain resonated.
+opener_angle: The "feels like guessing" framing — ask what distribution looked like in the weeks since the post and whether anything actually moved the needle.
+status: watch
+outreach_id: null
+[RECORD_END]
+
+[RECORD_START]
 id: L-049
 date_found: 2026-05-18
 username: IcyInteraction8722

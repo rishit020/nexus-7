@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-18T12:13:00Z
-next_lead_id: L-050
-next_outreach_id: O-050
+last_checked: 2026-05-18T12:45:00Z
+next_lead_id: L-052
+next_outreach_id: O-051
 
 leads_logged:
   - Stingwave24
@@ -55,6 +55,8 @@ leads_logged:
   - selimenes
   - btbyzac
   - IcyInteraction8722
+  - adin_builds
+  - max_flowly_run
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -81,4 +83,4 @@ telegram_configured: true
 2026-05-18 (run 18) | leads: 0 | source: F5Bot Gmail full inbox scan (08:04 UTC). All 15+ F5Bot signals this pass were duplicates or off-topic. Duplicates: Old_Mixture_9045 (L-040), Secret_Most_6225 (L-041), tand_eyes (discarded run 5), LeaderAtLeading (explicitly skipped by Rishit). New signal: Adrenaline_Junkie__ commented on Rishit's r/buildinpublic research post with "stop shouting into the void" — advisory/retrospective tone, not first-person current pain, discard. LeaderAtLeading returned (r/buildinpublic publishing platform post, commentary only). All remaining hits from off-topic subs: r/fiaustralia, r/veganuk, r/AskBrits, r/relationships, r/AskMenAdvice, r/LAhotgirlies, r/UnsentLetters, r/StartUpIndia, r/SaasDevelopers content-marketing post. Reddit direct fetch still blocked (egress policy). Pipeline clean at 41 leads total.
 2026-05-18 (run 19) | leads: 4 DM (ReleaseLog L-042, anvevoice L-043, hemly L-044, sara_builds L-045) | source: IH WebSearch + thread commenter mining. Reddit fully blocked (API + WebSearch). F5Bot inbox empty this pass. HN Firebase scanned 65 new items (48176697-48177446): 3 Show HN hits, 0 ICP matches (all open-source tools). IH search found new posts: ReleaseLog "only problem left to solve is distribution" (May 1, PH launch May 13 — 5 days post-launch now), Buildfield "2 weeks later" thread surfaced anvevoice (22 days/$199 LTD/0 sales) and hemly ("silence becomes a clock instead of a wound," flagged but not logged since run 10). MealThinker thread surfaced sara_builds ("yelling into the void" dev tool, right now). Discarded: StartClaw (20 signups/0 paid — activation not distribution problem), Sabahattin Kalkan/MailTest (technical B2B email tool, weak ICP), Marco Kohns (selling own tool), JustinBuilds/MealThinker (Jan 2026, already WATCH from run 10), BootstrawSam (Feb 2024, too old), shahzaib101 (5 DM yeses/0 usage — activation not distribution).
 2026-05-18 (run 20) | leads: 3 DM (ideadose L-046, selimenes L-047, btbyzac L-048) | source: IH WebSearch + thread commenter mining. Reddit still fully blocked (egress policy). HN Firebase scanned new items 48177447-48177973: only 2 Show HN hits (Shiftpaper wallpaper engine, personal AI memory tool — both 0 ICP). IH search surfaced new posts: "Tired of Building Apps/0 Users" (Marco Kohns, already discarded run 15), "At what point did you get stuck" (March 2021, too old), "Hot take: Zero-audience distribution" (btbyzac — strong new lead, 6 products/$0/80+ articles/0 reactions). Thread commenter mining on FCA checker post surfaced ideadose (nerdnick, PH launch March 26, ~80 sessions/handful users). Building-in-public thread deep scan upgraded selimenes from WATCH to DM (ReviseFlow, $0 MRR, "silence is louder than expected"). Discarded: DataMine007 (promoting own LeadSynth product), FirmTracer/Asoka Raja (B2B niche, already WATCH run 15), Mykola Kondratiuk (consumer recipe app, Feb 2026 post, weak ICP), rex_claw (159 cold contacts/0 replies but product unknown — WATCH), ideadose/nerdnick upgraded to DM from two-thread signal.
-2026-05-18 (run 21) | leads: 1 DM (IcyInteraction8722 L-049) | source: F5Bot Gmail alerts + HN Firebase (48177974-48178555, 0 ICP hits). Reddit API still blocked. HN Algolia 24h search: 0 Show HN hits for distribution/launch keywords. F5Bot inbox parse: IcyInteraction8722 — r/buildinpublic "8 months building a lead magnet SaaS. 0 paying users. Pivot or push?" — AI lead magnet generator, 0 paid conversions, diagnosed own problem clearly. Discarded: Able_Relief925 (already L-014), interview-prep (already L-031), Curious_Club8404 (analytics tool switch, not distribution pain), LeaderAtLeading (explicitly skipped), tand_eyes (already discarded), jonnysboy12 (content marketing spam), Ok-Storage-3003 (Airbnb commentary), InfamousLead9912 (promoting own marketing SaaS, not ICP), One-Ice7086 (building distribution marketplace — WATCH, potential competitor/parallel researcher), gorore9150 (MicrosoftRewards context), mahfuz_nafi (commenter not OP). IH agent running for additional signals.
+2026-05-18 (run 21) | leads: 3 (IcyInteraction8722 L-049 DM, adin_builds L-050 DM, max_flowly_run L-051 WATCH) | source: F5Bot Gmail + HN Firebase (48177974-48178555) + IH WebSearch agent. Reddit blocked. HN: 0 ICP hits. F5Bot: IcyInteraction8722 (r/buildinpublic, 8 months/0 paid conversions, AI lead magnet gen). IH agent surfaced: adin_builds (May 18, ReleaseLog thread, "building felt more controllable than talking to people" — strong fresh DM), max_flowly_run (Flowly OP, 350-comment thread author, WATCH — 6 weeks old but strong pain quote, still active). Discarded: vidifounder (already discarded run 13), GrowthWithShehroz (name suggests marketer, profile needed), filippofascetta (goal system, pre-launch, weak ICP), Curious_Club8404 (analytics tool switch), InfamousLead9912 (marketing SaaS promotion), One-Ice7086 (building distribution marketplace, WATCH), LeaderAtLeading (skipped), tand_eyes/jonnysboy12/Ok-Storage-3003 (prev discarded).
