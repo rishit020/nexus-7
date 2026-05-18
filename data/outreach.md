@@ -996,3 +996,19 @@ date_sent: null
 result: null
 notes: dylanyu is Dylan Yu, built Basevolt (local-first DB admin panel). PH launch got 4 votes — no email list, no audience, no launch prep. Post published ~May 11 2026 (7 days ago). Now experimenting with Reddit + SEO + building in public on X. Not in active pain but in active learning mode — ideal research conversation. DM via IH. Ask about what distribution looks like now rather than leading with the failure.
 [RECORD_END]
+
+[RECORD_START]
+id: O-059
+date_created: 2026-05-19
+lead_id: L-061
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your soto post. 26 people found it, landed on the form, and left without paying. that's a specific kind of stuck.
+
+  what did those reddit posts look like that drove them there? doing research on the gap between getting people to a product and getting them to convert. your situation is exactly the window i'm trying to understand.
+status: draft
+date_sent: null
+result: null
+notes: Sabb posted "Still no paying users. So I'm doing something different." on May 17 2026, 3 hours before this run. Business idea validator. 26 users/0 paying/€19 price. Tried Reddit for traffic. People land but don't engage. Offering 5 free validations to get real feedback. Solo founder, active IH presence. DM via IH DM. Pain is more activation than distribution but they're in the post-launch zero-revenue window — ideal research conversation.
+[RECORD_END]

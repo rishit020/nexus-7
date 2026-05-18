@@ -828,3 +828,17 @@ opener_angle: Reference the 4-vote PH launch and ask what the Reddit + SEO pivot
 status: new
 outreach_id: O-057
 [RECORD_END]
+
+[RECORD_START]
+id: L-061
+date_found: 2026-05-19
+username: Sabb
+platform: indiehackers
+url: https://www.indiehackers.com/post/still-no-paying-users-so-im-doing-something-different-2f5bf557b8
+pain_quote: "People are landing, scrolling to the form, seeing it, and leaving without typing a single answer"
+product_built: Soto — business idea validator tool. Takes 10 questions, returns a score, risk assessment, and weekly next steps. Priced at €19.
+fit_reason: Solo founder, one week post-launch, 26 users in first month but 0 paying. Tried Reddit. The product works (people find it and land on it) but nothing converts. Classic post-launch silence: visibility without conversion. Active IH poster, fresh pain (posted 3 hours before this run).
+opener_angle: Reference the 26-people-saw-it-and-left-without-paying specific frustration. Ask what those reddit posts looked like. Research framing on the gap between getting people to the product and getting them to act.
+status: new
+outreach_id: O-059
+[RECORD_END]
