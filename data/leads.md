@@ -1290,3 +1290,59 @@ opener_angle: just launched beta — ask what distribution looks like right now 
 status: new
 outreach_id: O-087
 [RECORD_END]
+
+[RECORD_START]
+id: L-094
+date_found: 2026-05-19
+username: koustubh18
+platform: reddit
+url: https://www.reddit.com/r/SaaSSolopreneurs/comments/1thw49m/50_days_ago_i_launched_my_saas_solo_heres_what/
+pain_quote: "No audience. No funding. No team...few paying customers...zero paid ads"
+product_built: firsteyes AI (website conversion audit tool)
+fit_reason: Solo launch 50 days ago, no audience, went through the full post-launch distribution grind. 120+ signups with zero paid ads. Reflects openly on what surprised him. r/SaaSSolopreneurs and r/buildinpublic double-post today. Live pain window is now.
+opener_angle: what actually moved the needle from zero audience to 120 signups with no paid ads — specifically which channel and what broke down first
+status: new
+outreach_id: O-088
+[RECORD_END]
+
+[RECORD_START]
+id: L-095
+date_found: 2026-05-19
+username: reflectdiary
+platform: reddit
+url: https://www.reddit.com/r/appledevelopers/comments/1thfeoo/
+pain_quote: "Cold launched with no audience, no Hunter, no upvote ring. #70 with 6 upvotes."
+product_built: iOS app (first solo project, 4 months to build)
+fit_reason: Just launched on PH yesterday. Solo dev, 4 months of work. Finished #70 with 6 upvotes on a cold launch. No audience, no network. Saved HN "for when I can do it right" — knows they're stuck. Distribution pain is raw and current.
+opener_angle: the cold PH launch experience and what distribution looks like after #70 — has anything broken through or is it still figuring it out
+status: new
+outreach_id: O-089
+[RECORD_END]
+
+[RECORD_START]
+id: L-096
+date_found: 2026-05-19
+username: Amazing_Intention_75
+platform: reddit
+url: https://www.reddit.com/r/Entrepreneur/comments/1thrpoj/c/omrivcg?context=3
+pain_quote: "I made a LinkedIn post and got a few impressions but ultimately 0 signups."
+product_built: unknown (vibe coded, context: r/Entrepreneur "Vibe Coding and the If You Build It Paradox")
+fit_reason: Commented on the vibe coding distribution paradox thread with first-person 0 signups. Acknowledged sales and marketing is now the real challenge now that everyone can build. Very fresh — alert 23:15 UTC today. Vibe coder in the exact ICP window.
+opener_angle: what they built and which other channels they've tried beyond LinkedIn — 0 signups from a post is demoralizing, ask what distribution has looked like since
+status: new
+outreach_id: O-090
+[RECORD_END]
+
+[RECORD_START]
+id: L-097
+date_found: 2026-05-19
+username: Objective_Plate7812
+platform: reddit
+url: https://www.reddit.com/r/VibeCodeDevs/comments/1thfxpr/my_first_500_online_earning/
+pain_quote: "with almost no idea how difficult distribution and marketing would actually be"
+product_built: SaaS (unspecified, launched 2 months ago via r/VibeCodeDevs)
+fit_reason: Vibe coder, college student, launched SaaS 2 months ago with zero distribution knowledge. Crossed first $500 — cracked something. Still in the community. Could be a great research conversation AND potential Tide user for scaling. Posting in the exact ICP community.
+opener_angle: what specifically broke distribution open for them after "nobody knew my product existed" — genuine curiosity, not pitch
+status: new
+outreach_id: O-091
+[RECORD_END]

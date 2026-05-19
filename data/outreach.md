@@ -1496,3 +1496,75 @@ date_sent: null
 result: null
 notes: SaltyMajor7698 posted r/buildinpublic "Just launched beta for my Aussie personal finance tool." Post contains "distribution problem." F5Bot "distribution problem" alert 2026-05-19T13:15:28Z. Just-launched beta is the perfect window. DM via Reddit. Don't pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-088
+date_created: 2026-05-19
+lead_id: L-094
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about firsteyes. 120 signups with no audience and zero paid ads in 50 days is actually hard to do.
+
+  what actually moved the needle? specifically curious which channel worked and which ones felt like posting into nothing.
+
+  doing research on how solo founders crack distribution after launch — would love to hear what surprised you most about those first 50 days.
+status: draft
+date_sent: null
+result: null
+notes: koustubh18 posted "50 days ago I launched firsteyes AI solo" in both r/SaaSSolopreneurs and r/buildinpublic today (May 19). No audience, no funding, no team. 120+ signups, few paying, zero paid ads. F5Bot "launched my saas" alert 18:48 UTC. Post is < 12 hours old. DM via Reddit. Lead with what worked, not the pain.
+[RECORD_END]
+
+[RECORD_START]
+id: O-089
+date_created: 2026-05-19
+lead_id: L-095
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about shipping your first ios app. #70 on PH with a cold launch is the honest version most people don't talk about.
+
+  what does distribution look like for you now that PH is done? trying reddit, niche communities, something else?
+
+  doing research on how solo devs figure out getting users after a launch like that — curious what your next move is.
+status: draft
+date_sent: null
+result: null
+notes: reflectdiary commented in r/appledevelopers on "Just shipped my first iOS app after 4 months solo." Said PH was yesterday, finished #70 with 6 upvotes. Cold launched with no audience, no Hunter, no upvote ring. F5Bot "launched with no audience" alert 10:57 UTC. Solo dev, 4 months solo build, very fresh distribution pain. DM via Reddit.
+[RECORD_END]
+
+[RECORD_START]
+id: O-090
+date_created: 2026-05-19
+lead_id: L-096
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment on the vibe coding paradox post. 0 signups from linkedin after putting yourself out there is a specific kind of frustrating.
+
+  what did you build? and beyond linkedin, what else have you tried to get people to actually see it?
+
+  doing research on exactly that gap — vibe coders who built something real but can't get it in front of the right people.
+status: draft
+date_sent: null
+result: null
+notes: Amazing_Intention_75 commented on r/Entrepreneur "Vibe Coding and the If You Build It Paradox" with "I made a LinkedIn post and got a few impressions but ultimately 0 signups." F5Bot "0 signups" alert 23:15 UTC (< 1 hour old). Vibe coder, personal pain, first-person. Product unknown — ask what they built in line 2. DM via Reddit.
+[RECORD_END]
+
+[RECORD_START]
+id: O-091
+date_created: 2026-05-19
+lead_id: L-097
+platform: reddit
+variant: comment
+draft_text: |
+  congrats on the first $500 — the gap between "nobody knows my product exists" and first real revenue is where most people quit.
+
+  curious what actually broke it open for you. which channel or approach moved the needle first, and what did you try that completely flopped?
+
+  doing research on the distribution problem for vibe coders specifically — stories like yours are exactly what i'm trying to map out.
+status: draft
+date_sent: null
+result: null
+notes: Objective_Plate7812 posted "My First $500 Online Earning" in r/VibeCodeDevs (May 19, 07:59 UTC). Launched SaaS 2 months ago as a college student with "almost no idea how difficult distribution and marketing would actually be." Now at first $500. Drop as a genuine comment on the thread. Not a DM — they're sharing a win and this community is our ICP. Being visible here as a distribution researcher is the play.
+[RECORD_END]
