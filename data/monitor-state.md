@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-19T20:30:00Z
-next_lead_id: L-084
-next_outreach_id: O-078
+last_checked: 2026-05-19T22:00:00Z
+next_lead_id: L-091
+next_outreach_id: O-085
 
 leads_logged:
   - Stingwave24
@@ -89,6 +89,13 @@ leads_logged:
   - JohnMadison
   - Rajesh_apprundown
   - bigashir
+  - mike2023
+  - evaltrum_founder
+  - Kamaluddin123
+  - Echo_entropy
+  - leebo27
+  - jelonman
+  - 3vo
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -133,3 +140,4 @@ telegram_configured: true
 2026-05-19 (run 36) | leads: 0 | source: F5Bot Gmail (25 emails scanned — all from prior runs 12-35, fully processed, 0 new signals), HN Firebase max=48188388 (sampled 48187580-48188388, 0 ICP hits — all tech news/misc), HN Algolia Show HN (30 posts last 24h — all dev tools/open-source/hobby, 0 distribution pain), IH WebSearch (10+ query angles: all returning already-logged posts, pipeline confirmed fully exhausted), Reddit all 7 subreddits blocked (egress policy). IH deep thread mining: SuhailQureshi (JewelViz, May 15, "6 visitors 0 customers" — DISCARD: B2B India offline jewelry retail, not vibe-coder ICP, outside 24h window), JeffTech74/Pr3ss3D (Mar 28, B2C social platform, weak ICP — DISCARD), AlexBelogubov/Refgrow (Jul 2025, too old — previously discarded run 33), DataMine007/LeadSynth (already discarded run 23 — competitor). Threads newly explored: "Can't Crack Distribution" (JeffTech74 — weak ICP), "Built something good but nobody came" (DataMine007 — already discarded), "37 products in 5 years" (AlexBelogubov — too old), "I help founders get first 100 users" (Validator/Buciyo/humorharp — B2B enterprise, weak ICP), "20k posts analysis" (Logshir "IELTS Master" — no indexed profile, can't DM). Unverifiable lead: "37 users shouting into void" — cited in Medium article from r/indiehackers 3 days ago but no username/URL attributable. IH pipeline fully exhausted, Reddit blocked. URGENT: Pipeline needs Reddit unblock or new channels (Twitter/X, Lovable/Bolt Discord).
 2026-05-19 (run 37) | leads: 3 DM (bootstrapped_builds L-075, proposalgenai L-076, napac L-077) + 2 WATCH (3vo L-078, oricards L-079) | source: IH thread commenter mining (vidifounder "most startups don't fail" thread + SuhailQureshi "built first validated later" thread). Reddit all 7 subreddits blocked (API + WebFetch). F5Bot Gmail: 12 threads scanned — all duplicates or off-topic (Able_Relief925 already L-014, Secret_Most_6225 already L-041, Old_Mixture_9045 already L-040, interview-prep already L-031, g_perales already L-060, One-Ice7086 competitor, NegativityScales7745/Adrenaline_Junkie__/LeaderAtLeading advisory/discarded, all others off-topic subs). HN Firebase max=48188715 (sampled 48188389-48188715): 0 ICP hits. HN Algolia Show HN: 4 results but all outside 24h window (Feb-Mar 2026). bootstrapped_builds: "launched my first SaaS literally this week...got shut down across every subreddit I tried" — 2h fresh. proposalgenai: "got the account banned within the first post" — 12h fresh. napac: PixPipe "launched to crickets" — 5h fresh. 3vo: Creator Wrapped "72h post-launch, zero signups" — 1 day (WATCH). oricards: AI trading cards "nobody asked how to make one" — 1 day (WATCH). IH thread fresh-commenter mining remains viable as active IH discussions accumulate new replies.
 2026-05-19 (run 38) | leads: 3 DM (Elizery L-080, JohnMadison L-081, Rajesh_apprundown L-082) + 1 COMMENT (O-077 on hype_init post) + 1 WATCH (bigashir L-083) | source: IH WebSearch + homepage thread commenter mining. Reddit all 7 subreddits blocked (API + WebFetch + WebSearch domain policy). F5Bot Gmail: no new signals since run 37. HN not checked this pass (IH yielded sufficient leads). IH: 4 new posts yielded fresh commenters. Elizery: SuhailQureshi "built first validated later" thread (May 15), zero signups, months of building. JohnMadison: hype_init "distribution" thread (May 18, yesterday), nutrition logger, private data = no viral loop. Rajesh_apprundown: "building vs getting users" thread, vibe coder (AI-built site 200+ pages), 42 SEO keywords / zero clicks. Comment queued for hype_init post (May 18, 16 comments, high-signal audience) — positions Rishit as researcher on post-launch distribution gap. bigashir: StreamStash, PH day-one 3 upvotes/0 paid (April 29) — WATCH, 20 days old. Discarded: charliemorrison/napac/3vo/oricards/fixRAgentFounder (all already logged runs 35-37), Kamaluddin123 (validation issue not distribution pain — WATCH not logged), markbnet (pre-launch, no current pain), willgzn (15K users, not in distribution pain), minerva_sky (10 users total, weak numbers), memolife23 (repositioning issue not distribution).
+2026-05-19 (run 39) | leads: 7 DM (mike2023 L-084, evaltrum_founder L-085, Kamaluddin123 L-086, Echo_entropy L-087, leebo27 L-088, jelonman L-089, 3vo L-090) | source: IH thread commenter mining (fixRAgentFounder thread 78 comments, vidifounder thread 109 comments, SuhailQureshi thread 120 comments, Prokopiy thread, Sabb thread, VIDI PH thread). Reddit all 7 subreddits blocked (egress + WebFetch + WebSearch policy). F5Bot Gmail: no new signals since last check (all prior runs processed). HN Firebase scanned to 48189371: 0 ICP hits. Fresh commenter mining from 6 threads yielded 7 DM leads. mike2023 (Suggix, 2 months/dirs/131 GSC impressions), evaltrum_founder (Evaltrum AI business plan gen, just launched/0 rev, two-thread signal), Kamaluddin123 upgraded from run 38 WATCH ("worked beautifully and nobody cared"), Echo_entropy (Sovern, 95K lines/zero paying), leebo27 (HN Show HN auto-killed + distribution harder than build quote — same day), jelonman (two-thread signal: built the whole thing nobody asked + traffic/zero conversions), 3vo upgraded from L-078 WATCH (Creator Wrapped, second signal on Sabb thread). WATCH not logged: topstar (Novaco, B2B automotive AI — not vibe-coder ICP), ChannelScout (mobile app, just launched), FoodReveal (technical perfection trap comment), curious_builder (vague). Discarded: aiagentlink (analytical not personal pain), Dorrel (analytical framework commentary), aktbuilds (thin profile, no confirmed product), BruceBruce805 (empty profile), PromptVaultOfficial (already in active marketing mode).

@@ -1138,6 +1138,104 @@ outreach_id: O-076
 [RECORD_END]
 
 [RECORD_START]
+id: L-084
+date_found: 2026-05-19
+username: mike2023
+platform: indiehackers
+url: https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c
+pain_quote: "2 months in, submitted to dozens of directory sites, only 131 Google Search impressions"
+product_built: Suggix — user-driven product planning and management platform
+fit_reason: Post-launch, real distribution work (dozens of directories) with almost nothing to show. Specific numbers confirm they're tracking and stuck. Clear vibe-coder adjacent ICP.
+opener_angle: The directory effort with 131 impressions as the result — ask what else they've tried beyond directories
+status: new
+outreach_id: O-078
+[RECORD_END]
+
+[RECORD_START]
+id: L-085
+date_found: 2026-05-19
+username: evaltrum_founder
+platform: indiehackers
+url: https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c
+pain_quote: "You spend months building, launch successfully, then realize Google barely knows you exist."
+product_built: Evaltrum — AI-powered business plan generator. Just launched May 2026, $0 revenue.
+fit_reason: Two-thread signal (fixRAgentFounder + vidifounder). Confirmed launched May 2026, $0/mo. Post-launch invisibility is the exact pain Tide addresses.
+opener_angle: The "months of building, launch, then realize you're invisible" arc — ask what distribution has looked like beyond Google
+status: new
+outreach_id: O-079
+[RECORD_END]
+
+[RECORD_START]
+id: L-086
+date_found: 2026-05-19
+username: Kamaluddin123
+platform: indiehackers
+url: https://www.indiehackers.com/post/most-startups-don-t-fail-because-the-founders-are-lazy-6acad6348c
+pain_quote: "I spent weeks building the perfect pipeline before talking to a single potential user. The product worked beautifully and nobody cared."
+product_built: unknown — pipeline-type product, details unclear from comment
+fit_reason: Classic build-first-distribution-never pattern. "Nobody cared" is the exact post-launch silence Tide targets. Previously WATCH (run 38), upgraded on stronger quote confirmation.
+opener_angle: The "worked beautifully and nobody cared" gap — ask what distribution looked like after and what channels they tried
+status: new
+outreach_id: O-080
+[RECORD_END]
+
+[RECORD_START]
+id: L-087
+date_found: 2026-05-19
+username: Echo_entropy
+platform: indiehackers
+url: https://www.indiehackers.com/post/day-3-of-marketing-with-zero-audience-heres-what-s-actually-working-and-what-isn-t-2df9727899
+pain_quote: "Months of building, 95K lines of code, zero paying customers"
+product_built: Sovern — details unclear, currently building per IH profile
+fit_reason: The 95K lines quote is the kind of specificity that comes from real pain not analysis. Zero paying customers after months. Classic distribution gap.
+opener_angle: Reference the 95K lines / zero customers ratio. Ask what distribution has actually looked like.
+status: new
+outreach_id: O-081
+[RECORD_END]
+
+[RECORD_START]
+id: L-088
+date_found: 2026-05-19
+username: leebo27
+platform: indiehackers
+url: https://www.indiehackers.com/post/day-3-of-marketing-with-zero-audience-heres-what-s-actually-working-and-what-isn-t-2df9727899
+pain_quote: "Distribution genuinely is harder than the build. HN auto-killed my Show HN today because account had zero karma."
+product_built: unknown — Show HN attempt suggests a real product
+fit_reason: Two pain signals in one session: diagnostic awareness ("distribution is harder") plus live failure (HN killed Show HN same day). Very fresh, active frustration.
+opener_angle: The HN auto-kill moment — ask what they're building and where they're going next since HN is off the table for now
+status: new
+outreach_id: O-082
+[RECORD_END]
+
+[RECORD_START]
+id: L-089
+date_found: 2026-05-19
+username: jelonman
+platform: indiehackers
+url: https://www.indiehackers.com/post/still-no-paying-users-so-im-doing-something-different-2f5bf557b8
+pain_quote: "I went through the exact same arc — built the whole thing, then realized nobody had actually asked for it."
+product_built: unknown — appears in two threads, product not named in comments
+fit_reason: Two-thread signal (Sabb post + SuhailQureshi post). "Built the whole thing, nobody asked for it" + "traffic but no conversion." Serial pain pattern, self-aware.
+opener_angle: The two-stage pain: first nobody asked for it, then people arrive and don't convert — ask what they built and which problem is live right now
+status: new
+outreach_id: O-083
+[RECORD_END]
+
+[RECORD_START]
+id: L-090
+date_found: 2026-05-19
+username: 3vo
+platform: indiehackers
+url: https://www.indiehackers.com/post/still-no-paying-users-so-im-doing-something-different-2f5bf557b8
+pain_quote: "posting everywhere, real conversations, zero conversions. The problem was not the product. It was that free-to-try self-selects for low-intent users."
+product_built: Creator Wrapped — Spotify Wrapped-style product for newsletter creators. 72h post-launch, zero signups.
+fit_reason: Two-thread signal across two days (SuhailQureshi: 72h/zero signups + Sabb: posting everywhere/zero conversions). Has done the diagnosis work — knows the product isn't the problem. Upgraded from WATCH (L-078).
+opener_angle: The "posting everywhere, real conversations, zero conversions" wall — ask what channels they tried and whether any gave even a little signal
+status: new
+outreach_id: O-084
+[RECORD_END]
+
+[RECORD_START]
 id: L-083
 date_found: 2026-05-19
 username: bigashir

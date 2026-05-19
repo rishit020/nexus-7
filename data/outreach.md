@@ -1316,3 +1316,129 @@ date_sent: null
 result: null
 notes: Drop on hype_init's "Why I stopped separating product and distribution" post (May 18, 2026). URL: https://www.indiehackers.com/post/why-i-stopped-separating-product-and-distribution-0a78822813 -- 16 comments, high signal audience. Comment positions Rishit as someone researching the post-launch distribution problem. Should draw replies from people in that exact situation including JohnMadison (L-081) who also commented there.
 [RECORD_END]
+
+[RECORD_START]
+id: O-078
+date_created: 2026-05-19
+lead_id: L-084
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the fixragent thread. 2 months in, dozens of directories submitted, 131 GSC impressions is a very specific kind of stuck.
+
+  what have you tried beyond directories? like direct community posts, cold DMs, anything? or has it been mostly directory submissions so far?
+
+  doing research on this exact gap between launching something real and getting anyone to find it.
+status: draft
+date_sent: null
+result: null
+notes: mike2023 built Suggix (user-driven product planning platform). 2 months post-launch, submitted to dozens of directories, 131 total GSC impressions. Confirmed launched, real product, specific numbers. Ask about what else they've tried beyond directory submissions. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-079
+date_created: 2026-05-19
+lead_id: L-085
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the fixragent thread. "months of building, launch successfully, then realize google barely knows you exist" is exactly the gap most launch advice doesn't cover.
+
+  what does distribution look like for evaltrum beyond google? like what channels have you tried and where does it fall apart?
+
+  doing research on this exact window between shipping something and getting real users.
+status: draft
+date_sent: null
+result: null
+notes: evaltrum_founder built Evaltrum (AI business plan generator). Confirmed launched May 2026, $0 revenue. Two-thread signal (fixRAgentFounder + vidifounder). Reference the "launch successfully but invisible" framing. Ask about non-Google distribution channels. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-080
+date_created: 2026-05-19
+lead_id: L-086
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on vidi's thread. "the product worked beautifully and nobody cared" is one of the more honest ways i've seen someone describe that gap.
+
+  what did distribution actually look like after you built it? like which channels did you try first and what was the response?
+
+  doing research on the post-launch gap for solo builders. your framing was sharp.
+status: draft
+date_sent: null
+result: null
+notes: Kamaluddin123 commented on vidifounder "most startups don't fail" thread. Quote: "spent weeks building the perfect pipeline before talking to a single potential user. The product worked beautifully and nobody cared." Product unknown. Previously WATCH (run 38), upgraded to DM. Use the "worked beautifully and nobody cared" line verbatim. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-081
+date_created: 2026-05-19
+lead_id: L-087
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the prokopiy thread. "months of building, 95K lines of code, zero paying customers" is a specific ratio that means the build is not the problem.
+
+  what's sovern? and where has distribution actually broken down for you?
+
+  doing research on exactly this gap between shipping something solid and getting anyone to use it.
+status: draft
+date_sent: null
+result: null
+notes: Echo_entropy commented on Prokopiy "Day 3 of Marketing" thread. Product: Sovern (currently building per IH profile). Pain quote very specific: 95K lines / zero paying customers. Profile confirmed they're building something real. Ask about Sovern specifically and where distribution broke down. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-082
+date_created: 2026-05-19
+lead_id: L-088
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comments on the prokopiy thread. "distribution is harder than the build" plus getting your show hn auto-killed on the same day is a rough combination.
+
+  what are you building? and where are you going next on distribution now that hn is off the table for now?
+
+  doing research on exactly this problem. the gap between shipping something and finding where the real users are.
+status: draft
+date_sent: null
+result: null
+notes: leebo27 had two pain signals in one session: analytical awareness ("distribution is harder than the build") plus live HN failure (Show HN auto-killed for zero karma). Very fresh frustration. Product unknown. Ask about the product and next distribution steps. Reference both pain signals to show you read the full thread. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-083
+date_created: 2026-05-19
+lead_id: L-089
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comments across two threads today. "built the whole thing, then realized nobody had actually asked for it" on suhail's post, then the traffic-but-zero-conversions situation on sabb's.
+
+  what are you building? and which problem is live right now -- nobody finding it, or people finding it and not converting?
+
+  doing research on the post-launch distribution gap for solo builders.
+status: draft
+date_sent: null
+result: null
+notes: jelonman appeared in both SuhailQureshi thread ("built the whole thing, nobody asked for it") and Sabb thread ("traffic but no conversion"). Two distinct pain signals on same day. Product unknown. Reference both appearances to show you've been reading -- it's not creepy, it's flattering that you noticed. Ask which problem is current. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-084
+date_created: 2026-05-19
+lead_id: L-090
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on sabb's post. "posting everywhere, real conversations, zero conversions" is one of the more accurate descriptions of that wall i've read.
+
+  creator wrapped had zero signups at 72 hours -- what happened in the weeks after? did distribution unlock at all or are you still hitting the same problem?
+
+  doing research on exactly this window between shipping something and breaking through.
+status: draft
+date_sent: null
+result: null
+notes: 3vo was WATCH (L-078) from SuhailQureshi thread (72h post-launch, zero signups). Now has second signal on Sabb thread ("posting everywhere, zero conversions"). Upgraded to DM. Product: Creator Wrapped (Spotify Wrapped for newsletter creators). Reference the 72h/zero signups to show you've been following their journey. Ask about what happened after. DM via IH.
+[RECORD_END]
