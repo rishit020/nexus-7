@@ -1192,3 +1192,57 @@ date_sent: null
 result: null
 notes: bloomer1217 commented on fixRAgentFounder "invisible to Google" thread (May 18, ~5am). "Complete ghost town. A massive slap in the face." Non-enterprise background. Product unknown. First-person launch shock. DM via IH.
 [RECORD_END]
+
+[RECORD_START]
+id: O-071
+date_created: 2026-05-19
+lead_id: L-075
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about launching your first SaaS this week and getting shut down on every subreddit day one. that's a brutal first 24 hours.
+
+  what are you building? and what's the plan now that reddit is mostly off the table?
+
+  doing research on this exact gap between shipping something and actually finding the people who want it.
+status: draft
+date_sent: null
+result: null
+notes: bootstrapped_builds commented on vidifounder "most startups don't fail" thread 2 hours before logging. First SaaS launch this week, Reddit shut down same day, actively rethinking approach. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-072
+date_created: 2026-05-19
+lead_id: L-076
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about getting your account banned on the very first reddit post. banned before you even know if the channel works.
+
+  what are you building? and has moving to indie hackers actually changed anything or are you hitting the same wall in a different place?
+
+  doing research on this window between launching something and finding where the real users are.
+status: draft
+date_sent: null
+result: null
+notes: proposalgenai commented on vidifounder "most startups don't fail" thread 12 hours before logging. Reddit banned day one, pivoted to IH same day. Product likely AI proposal tool (username). DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-073
+date_created: 2026-05-19
+lead_id: L-077
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about launching PixPipe to crickets and only finding traction through SEO content after the fact.
+
+  how long was that gap between launch and when SEO actually started moving? and is it generating real signups now or just feels better than silence?
+
+  doing research on exactly this period between shipping something and breaking through.
+status: draft
+date_sent: null
+result: null
+notes: napac commented on SuhailQureshi "built first validated later" thread 5 hours before logging. PixPipe image compression/upscaling SaaS, launched to crickets, found SEO content strategy post-launch. DM via IH.
+[RECORD_END]

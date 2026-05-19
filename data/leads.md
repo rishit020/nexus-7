@@ -1024,3 +1024,73 @@ opener_angle: Ask what they built and what they've tried since the ghost-town mo
 status: new
 outreach_id: O-070
 [RECORD_END]
+
+[RECORD_START]
+id: L-075
+date_found: 2026-05-19
+username: bootstrapped_builds
+platform: indiehackers
+url: https://www.indiehackers.com/post/most-startups-don-t-fail-because-the-founders-are-lazy-6acad6348c
+pain_quote: "Launched my first SaaS literally this week...got shut down across every subreddit I tried. Had to rethink the whole launch approach before midday."
+product_built: Unknown SaaS, launched this week.
+fit_reason: First-ever SaaS launch, Reddit distribution failure on day one, actively rethinking approach midday. Exact post-launch distribution wall. 2 hours old at time of logging — as fresh as it gets. Textbook Jackson.
+opener_angle: Reference the "shut down across every subreddit day one" moment. Ask what they built and what the plan is now. Research framing.
+status: new
+outreach_id: O-071
+[RECORD_END]
+
+[RECORD_START]
+id: L-076
+date_found: 2026-05-19
+username: proposalgenai
+platform: indiehackers
+url: https://www.indiehackers.com/post/most-startups-don-t-fail-because-the-founders-are-lazy-6acad6348c
+pain_quote: "Got the account banned within the first post...Pivoted same day: deprioritized Reddit, moved Indie Hackers to priority one, revised the approach."
+product_built: Likely AI proposal generation tool (based on username).
+fit_reason: Banned from Reddit on their first post — distribution wall hit immediately. Actively redistributing (pivoted to IH same day). 12 hours old. Still in the middle of the problem, not past it. Strong ICP.
+opener_angle: Reference the Reddit ban on post one. Ask what they built and whether moving to IH actually changed anything. Research framing.
+status: new
+outreach_id: O-072
+[RECORD_END]
+
+[RECORD_START]
+id: L-077
+date_found: 2026-05-19
+username: napac
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-made-a-mistake-every-first-time-founder-makes-i-built-first-validated-later-heres-what-i-d-do-differently-20df2ec85d
+pain_quote: "Built PixPipe's entire compression/upscaling suite then launched to crickets..."
+product_built: PixPipe — image compression and upscaling SaaS.
+fit_reason: Launched to crickets, only found traction after discovering SEO content strategy. Classic post-launch distribution failure. 5 hours old. Still early-stage; the "launched to crickets" window is exactly the Tide research target.
+opener_angle: Reference PixPipe by name, ask how long the gap was between launch and when SEO actually worked. Ask if it's generating real signups now. Research framing.
+status: new
+outreach_id: O-073
+[RECORD_END]
+
+[RECORD_START]
+id: L-078
+date_found: 2026-05-19
+username: 3vo
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-made-a-mistake-every-first-time-founder-makes-i-built-first-validated-later-heres-what-i-d-do-differently-20df2ec85d
+pain_quote: "Built Creator Wrapped before talking to creators. 72 hours post-launch. Zero signups..."
+product_built: Creator Wrapped — Spotify Wrapped-style product for newsletter creators.
+fit_reason: 72 hours post-launch with zero signups. Built without validation. First-person distribution failure. 1 day old — just outside 12h DM window. WATCH: promote to DM next run if post ages poorly.
+opener_angle: Reference the 72-hour/zero-signups moment. Ask what they tried in that window and what happened after. Research framing.
+status: watch
+outreach_id: null
+[RECORD_END]
+
+[RECORD_START]
+id: L-079
+date_found: 2026-05-19
+username: oricards
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-made-a-mistake-every-first-time-founder-makes-i-built-first-validated-later-heres-what-i-d-do-differently-20df2ec85d
+pain_quote: "Launched AI trading cards generator. Nobody asked 'how do I make one.' They asked 'what is this for...'"
+product_built: AI trading cards generator.
+fit_reason: Post-launch confusion — users didn't understand the product, suggesting distribution/positioning gap. 1 day old. ICP: moderate. May be a messaging problem more than pure distribution. WATCH.
+opener_angle: Ask what happened after launch and whether the positioning confusion resolved. Research framing.
+status: watch
+outreach_id: null
+[RECORD_END]
