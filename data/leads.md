@@ -1248,3 +1248,17 @@ opener_angle: The day-one PH reality — ask what happened in the weeks after an
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-091
+date_found: 2026-05-19
+username: influlab_app
+platform: indiehackers
+url: https://www.indiehackers.com/post/still-no-paying-users-so-im-doing-something-different-2f5bf557b8
+pain_quote: "zero sales...I'm experimenting with direct community outreach and targeted agency emails"
+product_built: unknown — influencer/content related (check profile before DM; username suggests influencer SaaS)
+fit_reason: fresh commenter (8:18 PM May 19) on Sabb's zero-paying-users thread. First-person zero sales, actively attempting distribution. Vibe coder profile possible. B2B agency angle is a yellow flag — verify product before sending.
+opener_angle: ask what they're building and which communities they've tried — their "zero sales" is the hook, let them fill in the product details
+status: new
+outreach_id: O-085
+[RECORD_END]

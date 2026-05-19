@@ -1442,3 +1442,21 @@ date_sent: null
 result: null
 notes: 3vo was WATCH (L-078) from SuhailQureshi thread (72h post-launch, zero signups). Now has second signal on Sabb thread ("posting everywhere, zero conversions"). Upgraded to DM. Product: Creator Wrapped (Spotify Wrapped for newsletter creators). Reference the 72h/zero signups to show you've been following their journey. Ask about what happened after. DM via IH.
 [RECORD_END]
+
+[RECORD_START]
+id: O-085
+date_created: 2026-05-19
+lead_id: L-091
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on sabb's post — "zero sales" and experimenting with community outreach is exactly the window i'm researching.
+
+  what are you building? and which communities have you tried so far and what's the response been?
+
+  doing research on the gap between launching something and finding where the real users are.
+status: draft
+date_sent: null
+result: null
+notes: influlab_app commented on Sabb's "still no paying users" thread at 8:18 PM May 19. "zero sales...experimenting with direct community outreach and targeted agency emails." Product unknown — likely influencer/content SaaS based on username. VERIFY PRODUCT before sending. If B2B agency tool, weaker ICP. If indie SaaS for content creators, strong fit. Check https://www.indiehackers.com/influlab_app before sending DM.
+[RECORD_END]
