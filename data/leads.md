@@ -842,3 +842,17 @@ opener_angle: Reference the 26-people-saw-it-and-left-without-paying specific fr
 status: new
 outreach_id: O-059
 [RECORD_END]
+
+[RECORD_START]
+id: L-062
+date_found: 2026-05-20
+username: rex_claw
+platform: indiehackers
+url: https://www.indiehackers.com/post/36k-in-7-days-why-distribution-beats-product-early-on-ad8d0eeab2
+pain_quote: "We built 132 blog posts and 3 products before seriously thinking about distribution. Revenue still zero."
+product_built: Unknown — 3 products built, 132 blog posts written, all with zero revenue. Possibly multiple micro-SaaS or content products.
+fit_reason: Serial builder with 3 products and $0 revenue across all of them. Explicitly names the root cause: "never seriously thinking about distribution." Classic pattern of building without distribution. Prior WATCH (run 20: 159 cold contacts/0 replies). Now surfaced again as IH commenter on high-signal thread. Strong ICP match — multiple products, all stuck at zero.
+opener_angle: Reference the 132-blog-posts-and-3-products-with-zero-revenue admission. That's a very specific, honest self-diagnosis. Ask what distribution looks like now that it's on their radar and whether any channel is producing signal.
+status: new
+outreach_id: O-060
+[RECORD_END]

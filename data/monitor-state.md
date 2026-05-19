@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-20T02:10:00Z
-next_lead_id: L-062
-next_outreach_id: O-060
+last_checked: 2026-05-20T04:20:00Z
+next_lead_id: L-063
+next_outreach_id: O-061
 
 leads_logged:
   - Stingwave24
@@ -67,6 +67,7 @@ leads_logged:
   - dylanyu
   - g_perales
   - Sabb
+  - rex_claw
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -106,3 +107,4 @@ telegram_configured: true
 2026-05-19 (run 31) | leads: 1 DM (Sabb L-061) | source: IH homepage live feed + WebSearch. Reddit all 7 subreddits blocked (egress + WebSearch domain policy). F5Bot Gmail empty (no new signals). HN Firebase scanned items 48184139-48185571 (100 new items): 0 ICP hits. IH homepage live scan surfaced Sabb (posted 3 hours before run) — "Still no paying users. So I'm doing something different." Business idea validator Soto, May 17, 26 users/0 paying/€19, tried Reddit. Pain: "people landing, scrolling to the form, seeing it, and leaving without typing a single answer." Discarded: hype_init (advice/framework content, not personal pain), alanhalley/Brief Work (launched May 13, cold-start framed as solvable, not in distribution panic), nitaouila/pmfjourney.com (pre-launch validation tool, not post-launch pain), storeauditpro/Creative Generator (product announcement), zenovay (pricing optimization win — not in pain). Note: IH pipeline showing new posts again from homepage scan. This channel remains viable with frequent rechecks.
 2026-05-19 (run 32) | leads: 0 | source: F5Bot Gmail (newer_than:1d, 15 emails — all from prior runs 12-31, fully processed), IH WebSearch (6 query angles, all returning already-logged posts), IH homepage (Sabb already L-061, others advisory/irrelevant), HN Firebase max=48186458 + Algolia Show HN (20 posts, 0 ICP hits — all dev tools/open-source), Reddit all 7 subreddits blocked (egress + WebSearch domain policy). Specific discards: NegativityScales7745 (commenting on interview-prep post, advisory tone not personal pain), "Launch and then crickets" IH post (Jan 2024, too old), Carterr/PostClaw (headline test failure, not distribution gap — had traffic, problem was messaging not reach). IH pipeline confirmed exhausted. Reddit unblock + Twitter/X direct search remain the highest-value unlocks for future signal.
 2026-05-20 (run 33) | leads: 0 | source: F5Bot Gmail (empty, no new signals), IH WebSearch (10+ query angles — all returning already-logged posts, pipeline confirmed exhausted), HN Firebase max=48187045 + Algolia Show HN last 24h (30 items checked: all dev tools/open-source/hobby, 0 ICP hits), Reddit all 7 subreddits blocked (egress policy), Twitter/X WebSearch (no direct leads), Microlaunch WebSearch (no indexed ICP content), Peerlist WebSearch (no ICP matches). Discards this pass: vidifounder (already discarded runs 13/22), sabahattink/MailTest (discarded run 22), JustinBuilds/MealThinker (Jan 2026, too old), HeyImYossi/UserTrail (Oct 2023, too old), AlexBelogubov/Refgrow (Jul 2025, too old), gionatha (L-022), ManishBhusal (L-014), Prokopiy (L-027), NotAFinanceGuru (L-026), DataMine007/LeadSynth (selling competing product), IndieAIs (educator), beatsprom (L-036), abitabovebytes (L-034), SpecBuildLab (Oct 2025, pre-launch). IH pipeline fully exhausted. Reddit unblock is the only meaningful signal refresh. Next runs: prioritize F5Bot for new signals and IH homepage rechecks for posts under 48h old.
+2026-05-20 (run 34) | leads: 1 DM (rex_claw L-062) | source: IH thread commenter mining ("$36K in 7 days: Why distribution beats product" thread). Reddit all 7 subreddits blocked (egress policy). F5Bot Gmail: 1 new email (2026-05-19T00:00:15Z, "launched my saas" r/buildinpublic — "$1600 revenue" success story, discard). HN Firebase max=48187575 (530 new items, sampled): 0 ICP hits; Show HN Algolia (30 items last 24h): all dev tools/open-source. IH WebSearch (12 query angles): all returning already-logged posts. rex_claw: WATCH from run 20 upgraded to DM. Commented on IH "$36K in 7 days" thread: "132 blog posts and 3 products before seriously thinking about distribution. Revenue still zero." Serial builder with proven ICP pattern. Discarded: gionatha (L-022), vemtraclabs (logged), selimenes (L-047), IgorGanapolky (open-source MIT project, $0 by design not distribution failure), sabahattink/MailTest (discarded run 22), howardshaw (L-024), ManishBhusal (L-014), rex_claw was WATCH run 20 — upgraded. IH pipeline confirmed near-fully exhausted across 34 runs. Reddit unblock remains the only meaningful signal refresh.

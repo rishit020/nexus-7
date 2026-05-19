@@ -1012,3 +1012,21 @@ date_sent: null
 result: null
 notes: Sabb posted "Still no paying users. So I'm doing something different." on May 17 2026, 3 hours before this run. Business idea validator. 26 users/0 paying/€19 price. Tried Reddit for traffic. People land but don't engage. Offering 5 free validations to get real feedback. Solo founder, active IH presence. DM via IH DM. Pain is more activation than distribution but they're in the post-launch zero-revenue window — ideal research conversation.
 [RECORD_END]
+
+[RECORD_START]
+id: O-060
+date_created: 2026-05-20
+lead_id: L-062
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment in the '$36k in 7 days' thread. 132 blog posts and 3 products with zero revenue is a very specific kind of stuck.
+
+  what does distribution look like for you now that it's front of mind? any channel producing any signal yet?
+
+  doing research on this exact gap — the point where you have something built and can't figure out how to find people who actually want it.
+status: draft
+date_sent: null
+result: null
+notes: rex_claw commented on IH "$36K in 7 days" thread. Admitted to building 132 blog posts and 3 products before "seriously thinking about distribution." Revenue still zero across all of them. Also surfaced in run 20 as sending 159 cold contacts with 0 replies (product unknown at the time). WATCH upgraded to DM. Has IH account (commenter). DM via IH.
+[RECORD_END]
