@@ -1094,3 +1094,59 @@ opener_angle: Ask what happened after launch and whether the positioning confusi
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-080
+date_found: 2026-05-19
+username: Elizery
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-made-a-mistake-every-first-time-founder-makes-i-built-first-validated-later-heres-what-i-d-do-differently-20df2ec85d
+pain_quote: "Spent months on a tool to reduce uncertainty...zero signups"
+product_built: unknown tool for reducing uncertainty (post-launch, zero signups)
+fit_reason: Built for months, launched to zero signups. Classic first-build distribution wall. Strong first-person pain, ICP is exact.
+opener_angle: The zero-signups moment — ask what happened after and what distribution looks like now
+status: new
+outreach_id: O-074
+[RECORD_END]
+
+[RECORD_START]
+id: L-081
+date_found: 2026-05-19
+username: JohnMadison
+platform: indiehackers
+url: https://www.indiehackers.com/post/why-i-stopped-separating-product-and-distribution-0a78822813
+pain_quote: "I'm testing a nutrition logger, and nobody wants to share their food log either"
+product_built: nutrition logger app (testing phase)
+fit_reason: Active on distribution discussion May 18. Explicitly names the private data distribution barrier. Testing a product that has no viral loop. Distribution-constrained before full launch.
+opener_angle: Private data problem — ask what stage the app is at and what channels they're considering
+status: new
+outreach_id: O-075
+[RECORD_END]
+
+[RECORD_START]
+id: L-082
+date_found: 2026-05-19
+username: Rajesh_apprundown
+platform: indiehackers
+url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+pain_quote: "Built our site mostly with AI coding...42 keywords ranked but all on positions 60-95, zero clicks in 90 days"
+product_built: AI-built content site (200+ data-driven pages shipped with AI coding tools)
+fit_reason: Textbook vibe coder. Shipped 200+ pages in months using AI tools. Now stuck at distribution: 42 SEO keywords ranked but no clicks, no conversions. AI accelerated building, made the distribution gap worse.
+opener_angle: The 42-keywords-zero-clicks gap — ask what else they've tried beyond SEO
+status: new
+outreach_id: O-076
+[RECORD_END]
+
+[RECORD_START]
+id: L-083
+date_found: 2026-05-19
+username: bigashir
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-launched-on-product-hunt-today-and-realized-something-uncomfortable-35d871866b
+pain_quote: "End-of-day-one: 3 upvotes...1 free download, 0 paid sales"
+product_built: StreamStash (launched on Product Hunt April 29, 2026)
+fit_reason: PH launch, 3 upvotes, 1 free download, 0 paid sales. Classic crickets story with specific numbers. 20 days post-launch — check profile to see if they're still stuck or found traction.
+opener_angle: The day-one PH reality — ask what happened in the weeks after and if distribution has unlocked at all
+status: watch
+outreach_id: null
+[RECORD_END]

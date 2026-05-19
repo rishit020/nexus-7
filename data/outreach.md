@@ -1246,3 +1246,73 @@ date_sent: null
 result: null
 notes: napac commented on SuhailQureshi "built first validated later" thread 5 hours before logging. PixPipe image compression/upscaling SaaS, launched to crickets, found SEO content strategy post-launch. DM via IH.
 [RECORD_END]
+
+[RECORD_START]
+id: O-074
+date_created: 2026-05-19
+lead_id: L-080
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the suhail post. spent months building then launched to zero signups is a rough place to land.
+
+  what happened after? did you figure out what broke, or is the distribution piece still the open question?
+
+  doing research on exactly this gap between shipping something and actually getting people to use it.
+status: draft
+date_sent: null
+result: null
+notes: Elizery commented on SuhailQureshi "built first validated later" post (May 15). Product unknown — ask in follow-up. The zero-signups moment is the hook. Keep it short, peer-to-peer. No pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-075
+date_created: 2026-05-19
+lead_id: L-081
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the IH distribution post yesterday. the private data problem is real. building something where the output isn't naturally shareable makes every channel harder.
+
+  what stage is the nutrition logger at right now? curious whether you've found anything that works despite the shareability issue.
+
+  doing research on how builders crack distribution when the viral loops don't apply.
+status: draft
+date_sent: null
+result: null
+notes: JohnMadison active on hype_init distribution post May 18. Testing a nutrition logger. Private data = no shareability = no viral loop. Ask about stage and channel experiments. Research framing opens naturally.
+[RECORD_END]
+
+[RECORD_START]
+id: O-076
+date_created: 2026-05-19
+lead_id: L-082
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the building vs getting users post. 200+ pages shipped fast with AI but 42 keywords at positions 60-95 with zero clicks is a brutal place to be stuck.
+
+  what have you tried beyond SEO? like direct community outreach, cold DMs, anything? or has it been mostly content so far?
+
+  doing research on distribution for founders who built fast with AI tools and then hit the wall getting people to actually find it.
+status: draft
+date_sent: null
+result: null
+notes: Rajesh_apprundown is a vibe coder — AI-built site, shipped 200+ pages in months, now stuck in SEO purgatory. Textbook Tide ICP. Ask specifically about non-SEO channels to understand their full distribution picture.
+[RECORD_END]
+
+[RECORD_START]
+id: O-077
+date_created: 2026-05-19
+lead_id: null
+platform: indiehackers
+variant: comment
+draft_text: |
+  there's a version of this that's even harder: founders who already shipped and are now trying to retroactively figure out distribution. the "build it in from day one" advice doesn't help them.
+
+  been doing research on exactly that gap. curious what channels people in that window have actually found useful vs what sounds good in theory but doesn't move.
+status: draft
+date_sent: null
+result: null
+notes: Drop on hype_init's "Why I stopped separating product and distribution" post (May 18, 2026). URL: https://www.indiehackers.com/post/why-i-stopped-separating-product-and-distribution-0a78822813 -- 16 comments, high signal audience. Comment positions Rishit as someone researching the post-launch distribution problem. Should draw replies from people in that exact situation including JohnMadison (L-081) who also commented there.
+[RECORD_END]
