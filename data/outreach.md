@@ -1030,3 +1030,69 @@ date_sent: null
 result: null
 notes: rex_claw commented on IH "$36K in 7 days" thread. Admitted to building 132 blog posts and 3 products before "seriously thinking about distribution." Revenue still zero across all of them. Also surfaced in run 20 as sending 159 cold contacts with 0 replies (product unknown at the time). WATCH upgraded to DM. Has IH account (commenter). DM via IH.
 [RECORD_END]
+
+[RECORD_START]
+id: O-061
+date_created: 2026-05-19
+lead_id: L-063
+platform: hackernews
+variant: comment
+draft_text: |
+  this is a seriously impressive build. 126k lines of kotlin in 4 months with zero prior experience is genuinely the hard part done.
+
+  curious about the marketing piece failing though. what specifically broke down? was it finding the right channels, the messaging, or just not knowing where the audience even was? doing research on exactly this — the gap between shipping something real and actually getting it in front of people.
+status: draft
+date_sent: null
+result: null
+notes: sminchev posted Show HN "I created a 126K line Android app with AI" on May 18, ~24h ago. Built howareu.app (mental health Android app). Stated explicitly: "marketing failed." Score 2 despite impressive build. Comment on HN post — https://news.ycombinator.com/item?id=48184549. No DM on HN, comment is the only option.
+[RECORD_END]
+
+[RECORD_START]
+id: O-062
+date_created: 2026-05-19
+lead_id: L-064
+platform: indiehackers
+variant: dm
+draft_text: |
+  just read your post about mistaking refinement for traction. that line landed.
+
+  what did that actually look like in practice? like what were you expecting to happen vs what did happen when you shipped something?
+
+  doing research on exactly this gap between building and getting people to actually use what you made. your framing was one of the clearest i've read.
+status: draft
+date_sent: null
+result: null
+notes: InflectionSignal posted "I spent months solving the wrong problem" on IH May 18 2026. Key quote: "I kept mistaking refinement for traction." Describes months of building/refining with no traction signal. DM via IH messaging. Strong first-person pain, recent post.
+[RECORD_END]
+
+[RECORD_START]
+id: O-063
+date_created: 2026-05-19
+lead_id: L-065
+platform: indiehackers
+variant: comment
+draft_text: |
+  "hitting publish doesn't actually put you on the internet's radar" is such an underrated realization. almost no distribution advice starts from genuine zero visibility — it all assumes some baseline.
+
+  what's moved the needle most since you found out you were invisible? curious whether it's been content, backlinks, community posts, or something else entirely.
+status: draft
+date_sent: null
+result: null
+notes: fixRAgentFounder posted "Our startup was completely invisible to Google" on IH May 17. Built fixRAgent (AI maintenance triage), got PH #44 but zero organic visibility. 70 comments — active thread. Drop comment for visibility + genuine engagement. Strong ICP.
+[RECORD_END]
+
+[RECORD_START]
+id: O-064
+date_created: 2026-05-19
+lead_id: L-066
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your post about the cron monitor. the "views and nods but mostly people who already have a solution" gap is brutal and specific.
+
+  what have you tried beyond the sysadmin and devops subs? doing research on exactly this window between shipping something and finding the people who feel the pain strongly enough to pay. your post is one of the clearest versions of it.
+status: draft
+date_sent: null
+result: null
+notes: KrasimirP posted "I built a cron job monitor — who loses sleep over this?" on IH May 17. MissedRun cron job monitor. Posting in r/selfhosted, r/sysadmin, r/devops — getting views, nods, but no paying users. Previously seen in run 25 as pre-launch (May 2 post); this is a different, post-launch post. DM via IH.
+[RECORD_END]

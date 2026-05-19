@@ -856,3 +856,87 @@ opener_angle: Reference the 132-blog-posts-and-3-products-with-zero-revenue admi
 status: new
 outreach_id: O-060
 [RECORD_END]
+
+[RECORD_START]
+id: L-063
+date_found: 2026-05-19
+username: sminchev
+platform: hackernews
+url: https://news.ycombinator.com/item?id=48184549
+pain_quote: "I used [BMAD framework] for marketing. For the latter, it failed."
+product_built: HowAreU — Android mental health/social app. 126K lines of code written with AI in 4 months from zero Kotlin experience.
+fit_reason: Vibe-coded a real product, launched it, marketing failed. Classic Jackson with a real build. Score of 2 on HN despite genuinely impressive technical execution — the distribution gap is explicit.
+opener_angle: Acknowledge the technical feat first. Ask what specifically broke in the marketing — channels, messaging, or audience location unknown.
+status: new
+outreach_id: O-061
+[RECORD_END]
+
+[RECORD_START]
+id: L-064
+date_found: 2026-05-19
+username: InflectionSignal
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-spent-months-solving-the-wrong-problem-955e3045ea
+pain_quote: "I kept mistaking refinement for traction."
+product_built: Unknown — months of building/refining with no traction signal. No users confirming the product works.
+fit_reason: Describes the core loop failure: built, refined, still no traction. "Every time something didn't land, I doubled down on refinement." Classic ICP with strong self-awareness about the gap.
+opener_angle: Reference that specific line about refinement vs traction. Ask what that looked like in practice — what they were expecting vs what happened.
+status: new
+outreach_id: O-062
+[RECORD_END]
+
+[RECORD_START]
+id: L-065
+date_found: 2026-05-19
+username: fixRAgentFounder
+platform: indiehackers
+url: https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c
+pain_quote: "No one tells you that hitting publish doesn't put you on the internet's radar."
+product_built: fixRAgent — AI maintenance triage tool. Had Product Hunt traction (#44) but zero organic/search visibility.
+fit_reason: Built, launched (PH #44), discovered they were invisible to Google. Had some launch spike but no sustained distribution. 17 upvotes, 70 comments — active thread. Very strong ICP: post-launch, real product, explicit distribution blindspot.
+opener_angle: Comment in thread — acknowledge the "publish doesn't mean you exist" realization and ask what's moved the needle since they found out.
+status: new
+outreach_id: O-063
+[RECORD_END]
+
+[RECORD_START]
+id: L-066
+date_found: 2026-05-19
+username: KrasimirP
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-built-a-cron-job-monitor-now-im-trying-to-figure-out-who-actually-loses-sleep-over-this-problem-8f19cbb593
+pain_quote: "I get some views, some nods, but mostly people who already have a solution."
+product_built: MissedRun — cron job monitor. Posted in r/selfhosted, r/sysadmin, r/devops. Getting engagement but zero conversions.
+fit_reason: Built, posting in multiple relevant subreddits, getting signal but no paying users. Exact distribution-to-conversion gap Tide targets. Note: previously seen in run 25 as a May 2 pre-launch post; this May 17 post is post-launch with different pain.
+opener_angle: DM — reference the "views and nods but no buyers" gap specifically. Ask what beyond the subreddits he's tried.
+status: new
+outreach_id: O-064
+[RECORD_END]
+
+[RECORD_START]
+id: L-067
+date_found: 2026-05-19
+username: Blogrdev
+platform: hackernews
+url: https://news.ycombinator.com/item?id=48147390
+pain_quote: "I want to spend my time building, not blogging!"
+product_built: Blogr — consistency tool for developers who don't blog. Serial side project builder.
+fit_reason: Knows distribution matters, built a tool to solve it for himself. Score of 4. "Shipped a handful of side projects and can never stick to blogging." Classic pattern of building without distribution.
+opener_angle: WATCH — 4 days old, lower priority. Good comment opportunity on HN thread.
+status: watch
+outreach_id: null
+[RECORD_END]
+
+[RECORD_START]
+id: L-068
+date_found: 2026-05-19
+username: whispem
+platform: hackernews
+url: https://news.ycombinator.com/item?id=48169761
+pain_quote: "launched it April 29" — score 1 after two HN posts
+product_built: WhispHub — platform for developer project discoverability. Built specifically to solve the visibility problem.
+fit_reason: Built a platform to solve project discoverability, launched April 29, barely any traction (score 1 after two HN posts). Living the problem Tide solves.
+opener_angle: WATCH — built a competitor-adjacent tool, has the pain but is also trying to solve it themselves.
+status: watch
+outreach_id: null
+[RECORD_END]
