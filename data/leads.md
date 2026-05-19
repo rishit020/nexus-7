@@ -1262,3 +1262,31 @@ opener_angle: ask what they're building and which communities they've tried — 
 status: new
 outreach_id: O-085
 [RECORD_END]
+
+[RECORD_START]
+id: L-092
+date_found: 2026-05-19
+username: idea-to-reality
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1thkkp5/can_we_start_with_a_small_utility_tool_and/
+pain_quote: "We have built a utility tool for users, we are still trying to solve the distribution problem...if you have any suggestions how I can distribute my tool built for Slack Users, I am open for suggestions"
+product_built: utility tool for Slack users (converting to SaaS)
+fit_reason: explicit first-person distribution problem, built and shipped, asking for help getting users, Slack niche makes it harder to find audience
+opener_angle: the Slack distribution challenge specifically — ask what they've tried to reach Slack users and what broke down
+status: new
+outreach_id: O-086
+[RECORD_END]
+
+[RECORD_START]
+id: L-093
+date_found: 2026-05-19
+username: SaltyMajor7698
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1thmhyc/just_launched_beta_for_my_aussie_personal_finance/
+pain_quote: "just launched beta for my Aussie personal finance tool" + distribution problem mentioned in post body
+product_built: Aussie personal finance tool (just launched beta)
+fit_reason: just launched beta, r/buildinpublic post explicitly mentions distribution problem, solo builder in the exact post-launch window Tide targets
+opener_angle: just launched beta — ask what distribution looks like right now and what channels they've tried to find first users
+status: new
+outreach_id: O-087
+[RECORD_END]

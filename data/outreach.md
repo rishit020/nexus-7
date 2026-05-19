@@ -1460,3 +1460,39 @@ date_sent: null
 result: null
 notes: influlab_app commented on Sabb's "still no paying users" thread at 8:18 PM May 19. "zero sales...experimenting with direct community outreach and targeted agency emails." Product unknown — likely influencer/content SaaS based on username. VERIFY PRODUCT before sending. If B2B agency tool, weaker ICP. If indie SaaS for content creators, strong fit. Check https://www.indiehackers.com/influlab_app before sending DM.
 [RECORD_END]
+
+[RECORD_START]
+id: O-086
+date_created: 2026-05-19
+lead_id: L-092
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the slack tool. "still trying to solve the distribution problem" while also figuring out the saas conversion is a lot to hold at once.
+
+  what have you actually tried to reach slack users so far? and has anything produced even weak signal?
+
+  doing research on this exact gap between building something real and getting people to actually find it.
+status: draft
+date_sent: null
+result: null
+notes: idea-to-reality posted r/SaaS "Can we start with a small utility tool and convert it into SAAS." Built a utility tool for Slack users, explicitly states "we are still trying to solve the distribution problem" and asks for distribution suggestions. F5Bot "distribution problem" alert 2026-05-19T11:57:18Z. Lead with the Slack-user-distribution challenge. Don't pitch. Get them talking about what they've tried.
+[RECORD_END]
+
+[RECORD_START]
+id: O-087
+date_created: 2026-05-19
+lead_id: L-093
+platform: reddit
+variant: dm
+draft_text: |
+  saw your buildinpublic post about the aussie personal finance beta. the distribution problem right after a beta launch is a specific kind of stuck.
+
+  what have you tried so far to reach your first users? like which channels and what's the response been?
+
+  doing research on exactly this window between launching something and getting real people using it.
+status: draft
+date_sent: null
+result: null
+notes: SaltyMajor7698 posted r/buildinpublic "Just launched beta for my Aussie personal finance tool." Post contains "distribution problem." F5Bot "distribution problem" alert 2026-05-19T13:15:28Z. Just-launched beta is the perfect window. DM via Reddit. Don't pitch.
+[RECORD_END]
