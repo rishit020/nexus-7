@@ -2,8 +2,8 @@
 # Updated automatically each monitor run. Do not edit manually.
 
 last_checked: 2026-05-19T14:30:00Z
-next_lead_id: L-069
-next_outreach_id: O-065
+next_lead_id: L-075
+next_outreach_id: O-071
 
 leads_logged:
   - Stingwave24
@@ -74,6 +74,12 @@ leads_logged:
   - KrasimirP
   - Blogrdev
   - whispem
+  - FindAlert
+  - charliemorrison
+  - Noahglt
+  - bradauto2026
+  - MaxLisevskii888
+  - bloomer1217
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -114,4 +120,4 @@ telegram_configured: true
 2026-05-19 (run 32) | leads: 0 | source: F5Bot Gmail (newer_than:1d, 15 emails — all from prior runs 12-31, fully processed), IH WebSearch (6 query angles, all returning already-logged posts), IH homepage (Sabb already L-061, others advisory/irrelevant), HN Firebase max=48186458 + Algolia Show HN (20 posts, 0 ICP hits — all dev tools/open-source), Reddit all 7 subreddits blocked (egress + WebSearch domain policy). Specific discards: NegativityScales7745 (commenting on interview-prep post, advisory tone not personal pain), "Launch and then crickets" IH post (Jan 2024, too old), Carterr/PostClaw (headline test failure, not distribution gap — had traffic, problem was messaging not reach). IH pipeline confirmed exhausted. Reddit unblock + Twitter/X direct search remain the highest-value unlocks for future signal.
 2026-05-20 (run 33) | leads: 0 | source: F5Bot Gmail (empty, no new signals), IH WebSearch (10+ query angles — all returning already-logged posts, pipeline confirmed exhausted), HN Firebase max=48187045 + Algolia Show HN last 24h (30 items checked: all dev tools/open-source/hobby, 0 ICP hits), Reddit all 7 subreddits blocked (egress policy), Twitter/X WebSearch (no direct leads), Microlaunch WebSearch (no indexed ICP content), Peerlist WebSearch (no ICP matches). Discards this pass: vidifounder (already discarded runs 13/22), sabahattink/MailTest (discarded run 22), JustinBuilds/MealThinker (Jan 2026, too old), HeyImYossi/UserTrail (Oct 2023, too old), AlexBelogubov/Refgrow (Jul 2025, too old), gionatha (L-022), ManishBhusal (L-014), Prokopiy (L-027), NotAFinanceGuru (L-026), DataMine007/LeadSynth (selling competing product), IndieAIs (educator), beatsprom (L-036), abitabovebytes (L-034), SpecBuildLab (Oct 2025, pre-launch). IH pipeline fully exhausted. Reddit unblock is the only meaningful signal refresh. Next runs: prioritize F5Bot for new signals and IH homepage rechecks for posts under 48h old.
 2026-05-20 (run 34) | leads: 1 DM (rex_claw L-062) | source: IH thread commenter mining ("$36K in 7 days: Why distribution beats product" thread). Reddit all 7 subreddits blocked (egress policy). F5Bot Gmail: 1 new email (2026-05-19T00:00:15Z, "launched my saas" r/buildinpublic — "$1600 revenue" success story, discard). HN Firebase max=48187575 (530 new items, sampled): 0 ICP hits; Show HN Algolia (30 items last 24h): all dev tools/open-source. IH WebSearch (12 query angles): all returning already-logged posts. rex_claw: WATCH from run 20 upgraded to DM. Commented on IH "$36K in 7 days" thread: "132 blog posts and 3 products before seriously thinking about distribution. Revenue still zero." Serial builder with proven ICP pattern. Discarded: gionatha (L-022), vemtraclabs (logged), selimenes (L-047), IgorGanapolky (open-source MIT project, $0 by design not distribution failure), sabahattink/MailTest (discarded run 22), howardshaw (L-024), ManishBhusal (L-014), rex_claw was WATCH run 20 — upgraded. IH pipeline confirmed near-fully exhausted across 34 runs. Reddit unblock remains the only meaningful signal refresh.
-2026-05-19 (run 35) | leads: 4 actionable (sminchev L-063 COMMENT/HN, InflectionSignal L-064 DM/IH, fixRAgentFounder L-065 COMMENT/IH, KrasimirP L-066 DM/IH) + 2 WATCH (Blogrdev L-067/HN, whispem L-068/HN) | source: IH homepage live scan + IH WebSearch + HN Firebase/Algolia. Reddit all 7 subreddits blocked (egress policy). F5Bot Gmail inaccessible this pass. HN Firebase max ~48188K: sminchev (May 18 Show HN, 126K line Android app, "marketing failed") — top lead. IH homepage: InflectionSignal ("mistaking refinement for traction", May 18), fixRAgentFounder ("invisible to Google", May 17, 70 comments), KrasimirP ("views and nods but no buyers", May 17). Discarded: hype_init (already discarded run 31), nitaouila (pre-launch tool, not personal pain), muzili88 (pre-launch), R1ck404/Markey (competitor product), FDX2018 (vague/no product context), sinsudo (May 12, older). Note: KrasimirP re-evaluated from run 25 discard — May 17 post is post-launch pain (different from May 2 pre-launch post).
+2026-05-19 (run 35) | leads: 10 actionable (sminchev L-063 COMMENT/HN, InflectionSignal L-064 DM/IH, fixRAgentFounder L-065 COMMENT/IH, KrasimirP L-066 DM/IH, FindAlert L-069 DM/IH, charliemorrison L-070 DM/IH, Noahglt L-071 DM/IH, bradauto2026 L-072 DM/IH, MaxLisevskii888 L-073 DM/IH, bloomer1217 L-074 DM/IH) + 2 WATCH (Blogrdev L-067/HN, whispem L-068/HN) | source: IH homepage live scan + IH WebSearch + HN Firebase/Algolia (3 parallel agents). Reddit all 7 subreddits blocked (egress policy). F5Bot Gmail inaccessible this pass. HN: sminchev (May 18 Show HN, 126K line Android app, "marketing failed"). IH homepage: InflectionSignal ("mistaking refinement for traction", May 18), fixRAgentFounder ("invisible to Google", May 17, 70 comments — thread mined for 6 commenter leads), KrasimirP ("views and nods but no buyers", May 17). Thread mining: fixRAgentFounder thread (70 comments) yielded FindAlert, charliemorrison, Noahglt, bradauto2026, MaxLisevskii888, bloomer1217 — all fresh May 18-19 commenters with first-person distribution pain. Discarded: hype_init (discarded run 31), nitaouila (pre-launch), muzili88 (pre-launch), R1ck404/Markey (competitor), FDX2018 (vague), sinsudo (May 12, older), alex80 (has 5 paying users). Note: KrasimirP re-evaluated from run 25 discard — May 17 post is post-launch pain.

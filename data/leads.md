@@ -940,3 +940,87 @@ opener_angle: WATCH — built a competitor-adjacent tool, has the pain but is al
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-069
+date_found: 2026-05-19
+username: FindAlert
+platform: indiehackers
+url: https://www.indiehackers.com/post/most-startups-don-t-fail-because-the-founders-are-lazy-6acad6348c
+pain_quote: "Three months of high-effort activity with no feedback loop"
+product_built: Unknown. 3 months in, high-effort but zero feedback signal.
+fit_reason: "High-effort + no feedback loop" is the exact Tide ICP window. Not lazy, not giving up — just shipping into silence. First-person, current pain. Active on IH May 18.
+opener_angle: Reference the 3-months-of-effort-no-feedback quote. Ask what channels and what "effort" actually looked like. Research framing.
+status: new
+outreach_id: O-065
+[RECORD_END]
+
+[RECORD_START]
+id: L-070
+date_found: 2026-05-19
+username: charliemorrison
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-made-a-mistake-every-first-time-founder-makes-i-built-first-validated-later-heres-what-i-d-do-differently-20df2ec85d
+pain_quote: "distribution channels aren't even registered yet"
+product_built: Unknown. Built first, validated later — classic first-time founder pattern.
+fit_reason: Explicitly named the gap: distribution channels "not even registered" at launch. First-person admission, very fresh (May 19, 12:04am). Active, self-aware, exactly in the window Tide targets.
+opener_angle: Ask what they're building and what "distribution channels not registered" looks like in practice. Research framing.
+status: new
+outreach_id: O-066
+[RECORD_END]
+
+[RECORD_START]
+id: L-071
+date_found: 2026-05-19
+username: Noahglt
+platform: indiehackers
+url: https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c
+pain_quote: "launched, got early users, then realized none of our pages were indexed"
+product_built: Lead gen + CRM tool for web designers targeting local businesses without websites. Spain market focus.
+fit_reason: Launched, got initial users, then discovered zero organic visibility. Has a product (lead gen/CRM), has first users, but distribution is a ceiling. Good ICP — product exists and works, stuck on scale.
+opener_angle: Reference the launched-then-discovered-indexing-gap sequence. Ask what happened after they found out. Research framing.
+status: new
+outreach_id: O-067
+[RECORD_END]
+
+[RECORD_START]
+id: L-072
+date_found: 2026-05-19
+username: bradauto2026
+platform: indiehackers
+url: https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c
+pain_quote: "tried to validate with cold outreach before having distribution channels"
+product_built: Unknown. Tried cold outreach as pre-distribution validation strategy.
+fit_reason: Honest self-diagnosis: tried cold outreach without any distribution infrastructure in place. Knows the problem, admits it explicitly. First-person, May 18 comment.
+opener_angle: Ask if the cold outreach produced any signal at all and what they're building. Research framing.
+status: new
+outreach_id: O-068
+[RECORD_END]
+
+[RECORD_START]
+id: L-073
+date_found: 2026-05-19
+username: MaxLisevskii888
+platform: indiehackers
+url: https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c
+pain_quote: "optimizing the product backend to 99% efficiency while the distribution channel is completely dead"
+product_built: Unknown. Self-described pattern: deep product optimization + dead distribution.
+fit_reason: One of the sharpest self-diagnoses in this batch. Knows exactly what happened. "Distribution channel is completely dead" — that's Tide's entire pitch in their own words. Active May 18.
+opener_angle: Reference that specific quote directly. Ask what "completely dead" looks like — what channels, what result. Research framing.
+status: new
+outreach_id: O-069
+[RECORD_END]
+
+[RECORD_START]
+id: L-074
+date_found: 2026-05-19
+username: bloomer1217
+platform: indiehackers
+url: https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c
+pain_quote: "complete ghost town. A massive slap in the face."
+product_built: Unknown. Non-enterprise background, launched and found zero visibility.
+fit_reason: "Complete ghost town" + "massive slap in the face" = peak post-launch distribution shock. Non-enterprise background means no B2B sales experience to fall back on. Perfect ICP. May 18, ~5am comment.
+opener_angle: Ask what they built and what they've tried since the ghost-town moment. Research framing.
+status: new
+outreach_id: O-070
+[RECORD_END]

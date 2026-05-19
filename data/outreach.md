@@ -1096,3 +1096,99 @@ date_sent: null
 result: null
 notes: KrasimirP posted "I built a cron job monitor — who loses sleep over this?" on IH May 17. MissedRun cron job monitor. Posting in r/selfhosted, r/sysadmin, r/devops — getting views, nods, but no paying users. Previously seen in run 25 as pre-launch (May 2 post); this is a different, post-launch post. DM via IH.
 [RECORD_END]
+
+[RECORD_START]
+id: O-065
+date_created: 2026-05-19
+lead_id: L-069
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about 3 months of high-effort activity with no feedback loop. what does that actually look like for you? like what are you building and what channels have you been hitting?
+
+  doing research on the post-launch distribution problem for solo builders. your situation is exactly the gap i'm trying to map out.
+status: draft
+date_sent: null
+result: null
+notes: FindAlert commented on IH "Most startups don't fail because founders are lazy" thread (May 18 2026). "3 months of high-effort activity with no feedback loop." Product unknown. Active IH commenter. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-066
+date_created: 2026-05-19
+lead_id: L-070
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about distribution channels not even being registered at launch. that's the thing nobody talks about. what are you building?
+
+  doing research on this exact gap between shipping something and actually finding users. your framing was sharp.
+status: draft
+date_sent: null
+result: null
+notes: charliemorrison commented on IH "I made a mistake every first-time founder makes" thread (May 19 2026, 12:04am — very fresh). "Distribution channels aren't even registered yet." First-time founder, built before validating. Product unknown. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-067
+date_created: 2026-05-19
+lead_id: L-071
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment in the fixRAgent thread — launched, got early users, then found out none of your pages were indexed. that sequence is rough. what happened after you found out?
+
+  doing research on the post-launch distribution gap. your situation is a clean version of what i keep hearing.
+status: draft
+date_sent: null
+result: null
+notes: Noahglt commented on fixRAgentFounder "invisible to Google" thread (May 18, ~3:10pm). Also has own IH thread for lead gen/CRM tool for web designers (Spain). Has initial users but distribution ceiling. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-068
+date_created: 2026-05-19
+lead_id: L-072
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about trying to validate with cold outreach before having any distribution channels set up. honest self-diagnosis. did the cold outreach produce any signal at all?
+
+  doing research on exactly this window between launch and getting real traction. what are you building?
+status: draft
+date_sent: null
+result: null
+notes: bradauto2026 commented on fixRAgentFounder "invisible to Google" thread (May 18, ~5am). Admitted to using cold outreach before distribution was set up. Product unknown. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-069
+date_created: 2026-05-19
+lead_id: L-073
+platform: indiehackers
+variant: dm
+draft_text: |
+  "optimizing the product backend to 99% efficiency while the distribution channel is completely dead" — that's one of the most accurate descriptions of this problem i've read.
+
+  what does "completely dead" actually look like for you? like what channels have you tried and what's the result been? doing research on exactly this gap.
+status: draft
+date_sent: null
+result: null
+notes: MaxLisevskii888 commented on fixRAgentFounder "invisible to Google" thread (May 18, ~7:43pm). Self-described pattern of deep product optimization with dead distribution. Product unknown. Active IH commenter. DM via IH. Lead quote is verbatim from their comment.
+[RECORD_END]
+
+[RECORD_START]
+id: O-070
+date_created: 2026-05-19
+lead_id: L-074
+platform: indiehackers
+variant: dm
+draft_text: |
+  "complete ghost town" after launch is exactly the thing nobody warns you about. what did you build? and what have you tried since you found out google wasn't looking for you?
+
+  doing research on this window between shipping something and getting people to actually use it.
+status: draft
+date_sent: null
+result: null
+notes: bloomer1217 commented on fixRAgentFounder "invisible to Google" thread (May 18, ~5am). "Complete ghost town. A massive slap in the face." Non-enterprise background. Product unknown. First-person launch shock. DM via IH.
+[RECORD_END]
