@@ -1430,3 +1430,17 @@ opener_angle: the specific funnel failure (5700 views / zero signups) -- ask whe
 status: new
 outreach_id: O-097
 [RECORD_END]
+
+[RECORD_START]
+id: L-104
+date_found: 2026-05-20
+username: ResponsibilitySad28
+platform: reddit
+url: https://www.reddit.com/r/indiehackersindia/comments/1thotcj/got_my_first_paying_user_22_days_after_launch_the/
+pain_quote: "most of it felt like shouting into the void"
+product_built: unknown SaaS -- launched, got first paying user after 22 days of active distribution attempts (Reddit posts, X, Instagram Reels, YouTube Shorts)
+fit_reason: 22-day post-launch distribution grind in their own words. Tried every channel, "most of it felt like shouting into the void." Eventually cracked it but the thread attracts others still in the pain. Good for a comment that lands with the ones who haven't gotten there yet.
+opener_angle: comment on the thread adding genuine value about the distribution struggle -- establishes credibility with others in pain who are reading it
+status: new
+outreach_id: O-098
+[RECORD_END]

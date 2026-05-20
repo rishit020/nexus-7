@@ -1676,3 +1676,19 @@ date_sent: null
 result: null
 notes: makirra posted r/SideProject 2026-05-20T03:20Z (about 2h ago). LawnSuite Australian lawn care SaaS. 0 paying users, 0 non-friends-and-family users. 5700 Reddit views -> 22 upvotes -> zero signups. Two-person team (husband builds, poster is business side). Product is mature (427 Android PRs + 157 web PRs). Revenue $0. Asking why niche app can't convert. ICP fit is moderate (niche vertical, not pure vibe-coder, but same distribution pain). DM via Reddit.
 [RECORD_END]
+
+[RECORD_START]
+id: O-098
+date_created: 2026-05-20
+lead_id: L-104
+platform: reddit
+variant: comment
+draft_text: |
+  22 days of trying every channel before one person paid is such an honest picture of what post-launch actually looks like. been doing research on exactly this window between shipping something and getting that first real user.
+
+  curious what channel ended up breaking through for you, and whether you'd do the Reddit posts differently if you launched again tomorrow.
+status: draft
+date_sent: null
+result: null
+notes: ResponsibilitySad28 posted r/indiehackersindia about getting first paying user after 22 days. Described distribution grind as "shouting into the void." Good thread for a comment -- attracts others still in the pain who are reading. Drop as a comment on the post, not a DM.
+[RECORD_END]
