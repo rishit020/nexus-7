@@ -1346,3 +1346,31 @@ opener_angle: what specifically broke distribution open for them after "nobody k
 status: new
 outreach_id: O-091
 [RECORD_END]
+
+[RECORD_START]
+id: L-098
+date_found: 2026-05-20
+username: Green-Yam-8510
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1thorty_kalshi_dashboard
+pain_quote: "1 signup in week 1. Do I keep going, and how?"
+product_built: Kalshi market dashboard — tracks all Kalshi markets and explains if price moves are related to news. Built with AI.
+fit_reason: Week 1 post-launch, 1 signup, actively asking how to get users. Classic ICP — built something real with AI, hit the distribution wall immediately, questioning whether to continue. r/SaaS is a target community.
+opener_angle: the 1 signup and "do I keep going" question — ask where that 1 signup came from and what they've tried beyond that
+status: new
+outreach_id: O-092
+[RECORD_END]
+
+[RECORD_START]
+id: L-099
+date_found: 2026-05-20
+username: Routine_Secretary742
+platform: reddit
+url: https://www.reddit.com/r/Entrepreneurs/comments/1thorty/i_built_a_saas_in_2_weeks_with_ai_heres_the_half/
+pain_quote: "distribution problem. All of it is live and unsolved."
+product_built: auditcopy.lovable.app — copy audit tool for websites. Built with Lovable in 2 weeks.
+fit_reason: Vibe coder (used Lovable), shipped a real product, explicitly names "distribution problem" as live and unsolved. Perfect ICP — can build fast with AI tools, can't crack distribution. Active post seeking help. r/Entrepreneurs is builder-adjacent.
+opener_angle: "distribution live and unsolved" — ask what they've tried and what the response was
+status: new
+outreach_id: O-093
+[RECORD_END]

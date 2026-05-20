@@ -1568,3 +1568,39 @@ date_sent: null
 result: null
 notes: Objective_Plate7812 posted "My First $500 Online Earning" in r/VibeCodeDevs (May 19, 07:59 UTC). Launched SaaS 2 months ago as a college student with "almost no idea how difficult distribution and marketing would actually be." Now at first $500. Drop as a genuine comment on the thread. Not a DM — they're sharing a win and this community is our ICP. Being visible here as a distribution researcher is the play.
 [RECORD_END]
+
+[RECORD_START]
+id: O-092
+date_created: 2026-05-20
+lead_id: L-098
+platform: reddit
+variant: dm
+draft_text: |
+  saw your r/saas post about the kalshi dashboard. 1 signup in week 1 and asking whether to keep going is exactly that moment everyone hits.
+
+  where did that 1 signup come from? and what else have you actually tried to get people to find it?
+
+  doing research on the gap between shipping something real and getting actual users — your timing is perfect for this.
+status: draft
+date_sent: null
+result: null
+notes: Green-Yam-8510 posted in r/SaaS "1 signup in week 1. Do I keep going, and how?" Built a Kalshi market dashboard with AI (tracks markets, explains if moves are news-related). F5Bot Reddit digest email 2026-05-20T00:03:12Z. Week 1 post-launch, 1 signup, questioning whether to continue — classic post-launch distribution wall. Ask about source of that 1 signup to open the conversation naturally.
+[RECORD_END]
+
+[RECORD_START]
+id: O-093
+date_created: 2026-05-20
+lead_id: L-099
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about building the copy audit tool in 2 weeks with lovable. the part where you say the distribution problem is "live and unsolved" is the rare honest ending most people skip.
+
+  what have you actually tried so far? like which channels, what happened?
+
+  doing research on exactly this window for vibe coders who can ship fast but haven't cracked distribution yet.
+status: draft
+date_sent: null
+result: null
+notes: Routine_Secretary742 posted r/Entrepreneurs "I built a SaaS in 2 weeks with AI. Here's the half of the picture nobody talks about." Built auditcopy.lovable.app (copy audit tool) with Lovable. F5Bot "distribution problem" alert 2026-05-19T14:39:15Z. Explicit quote: "distribution problem. All of it is live and unsolved." Strong vibe-coder ICP — Lovable build, real product, explicitly stuck on distribution. r/Entrepreneurs is builder-adjacent. Lead with the "live and unsolved" quote.
+[RECORD_END]
