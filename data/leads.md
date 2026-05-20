@@ -1416,3 +1416,17 @@ opener_angle: the specific ₹3.5k / zero paying users gap — ask what they've 
 status: new
 outreach_id: O-096
 [RECORD_END]
+
+[RECORD_START]
+id: L-103
+date_found: 2026-05-20
+username: makirra
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1ti9bo5/5700_reddit_views_22_upvotes_zero_signups_heres/
+pain_quote: "5,700 Reddit views, 22 upvotes, zero signups"
+product_built: LawnSuite -- Australian lawn care management SaaS. Android (Kotlin/Compose/KMP) + Web (React/TypeScript/Vite/Tailwind), Firebase backend. 427 Android PRs, 157 web PRs. Pricing: Founding $4.99/mo, Standard $14.99/mo. Live at app.lawnsuite.com.au
+fit_reason: First-person pain with exact numbers (5700 views -> 22 upvotes -> 0 signups -> 0 paying users). Two-person team (husband builds, poster runs business). Product is live and mature (427 PRs). Revenue $0. Explicitly asking why no one converts. Classic post-launch distribution gap.
+opener_angle: the specific funnel failure (5700 views / zero signups) -- ask where the drop-off felt like it was, or whether the views ever converted at all into any engagement
+status: new
+outreach_id: O-097
+[RECORD_END]

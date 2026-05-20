@@ -1658,3 +1658,21 @@ date_sent: null
 result: null
 notes: OcelotHot5287 commented in r/StartupSoloFounder on "distribution problem" keyword thread (2026-05-19). "I've burned ₹3.5k in cloud startup credits with zero paying users. Still going." Specific money spent, zero paying users, real stakes. DM via Reddit. Lead with the specific credit spend — it's concrete. Ask about channels tried.
 [RECORD_END]
+
+[RECORD_START]
+id: O-097
+date_created: 2026-05-20
+lead_id: L-103
+platform: reddit
+variant: dm
+draft_text: |
+  saw your r/SideProject post -- 5700 views and zero signups is one of the most brutal specific failure modes there is. the traffic was real but nobody crossed the line.
+
+  what happened between the view and the close tab? did you get any signal on where people dropped off or did the views just never translate into any action at all?
+
+  doing research on exactly this gap between getting eyeballs and getting users. your numbers are really concrete and i'd love to hear what distribution has looked like beyond the reddit post.
+status: draft
+date_sent: null
+result: null
+notes: makirra posted r/SideProject 2026-05-20T03:20Z (about 2h ago). LawnSuite Australian lawn care SaaS. 0 paying users, 0 non-friends-and-family users. 5700 Reddit views -> 22 upvotes -> zero signups. Two-person team (husband builds, poster is business side). Product is mature (427 Android PRs + 157 web PRs). Revenue $0. Asking why niche app can't convert. ICP fit is moderate (niche vertical, not pure vibe-coder, but same distribution pain). DM via Reddit.
+[RECORD_END]
