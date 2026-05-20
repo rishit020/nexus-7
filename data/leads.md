@@ -1458,3 +1458,17 @@ opener_angle: Reference the 0 signups and begging-people moment. Ask what those 
 status: new
 outreach_id: O-099
 [RECORD_END]
+
+[RECORD_START]
+id: L-106
+date_found: 2026-05-20
+username: AshifurKhan
+platform: indiehackers
+url: https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c
+pain_quote: "When I launched HookMafia I made the same mistake, assumed 'if the product is live, people will find it.'"
+product_built: HookMafia + Hooklayer — AI creator tools, viral content systems, MCP workflow tools. Non-CS founder (MBA marketing), uses Claude as engineering partner, works cargo by day builds at night.
+fit_reason: Vibe coder who shipped multiple products and hit the exact distribution wall. Profile explicitly says "Still figuring out distribution, monetization." Comment confirms first-person post-launch invisibility experience. Active on IH, clearly engaged in the problem space.
+opener_angle: the HookMafia launch moment -- "if it's live people will find it" realization -- ask what distribution attempts looked like after that and what happened
+status: new
+outreach_id: O-100
+[RECORD_END]

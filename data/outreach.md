@@ -1706,3 +1706,21 @@ date_sent: null
 result: null
 notes: Significant_Alps9203 posted r/micro_saas about first SaaS hitting $1K MRR in 2 weeks. Described 0 signups and begging first 10 users before referral system worked. Good research conversation -- they experienced the exact pain and cracked it. DM via Reddit.
 [RECORD_END]
+
+[RECORD_START]
+id: O-100
+date_created: 2026-05-20
+lead_id: L-106
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about hookmaia -- "if the product is live, people will find it" is exactly the moment i'm trying to understand better.
+
+  what did distribution look like after you figured out that wasn't true? which channels did you try and what was the response.
+
+  doing research on this post-launch wall for builders using ai tools to ship.
+status: draft
+date_sent: null
+result: null
+notes: AshifurKhan commented on fixRAgentFounder "invisible to Google" thread (May 2026). Non-CS vibe coder (uses Claude to build), has 2 live products (HookMafia, Hooklayer). Profile says "Still figuring out distribution, monetization." First-person pain confirmed. DM via IH. Short, genuine, research-framed.
+[RECORD_END]
