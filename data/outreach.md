@@ -1604,3 +1604,39 @@ date_sent: null
 result: null
 notes: Routine_Secretary742 posted r/Entrepreneurs "I built a SaaS in 2 weeks with AI. Here's the half of the picture nobody talks about." Built auditcopy.lovable.app (copy audit tool) with Lovable. F5Bot "distribution problem" alert 2026-05-19T14:39:15Z. Explicit quote: "distribution problem. All of it is live and unsolved." Strong vibe-coder ICP — Lovable build, real product, explicitly stuck on distribution. r/Entrepreneurs is builder-adjacent. Lead with the "live and unsolved" quote.
 [RECORD_END]
+
+[RECORD_START]
+id: O-094
+date_created: 2026-05-20
+lead_id: L-100
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your crevaxo post — "getting in front of photographers is harder than building the product" is exactly the thing nobody warns you about before you launch.
+
+  what has distribution actually looked like since the ph launch? like which channels have produced any signal even if small?
+
+  doing research on the post-launch distribution gap for solo founders who built something real but can't crack how to reach their specific audience.
+status: draft
+date_sent: null
+result: null
+notes: seanPrentice1 is Sean Prentice, built Crevaxo (crevaxo.com) -- licensing + project management SaaS for photographers/videographers using AI-assisted development. Post April 4, 2026. PH launch was vote-filtered (brutal for solo founders without network). Photographers aren't on IH or PH -- they're in Facebook groups, photography forums, YouTube comments. Named the distribution gap explicitly. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-095
+date_created: 2026-05-20
+lead_id: L-101
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the fixragent thread — "launched curriq may 9 assuming submitted equals discoverable" is one of the most accurate descriptions of the app store trap i've read.
+
+  what has distribution looked like in the 11 days since? like what have you actually tried to get people to find it?
+
+  doing research on exactly this gap between shipping something and getting real users — your timing is perfect for this conversation.
+status: draft
+date_sent: null
+result: null
+notes: InnovaLabWorks commented on fixRAgentFounder "invisible to Google" thread. Built Curriq iOS app, launched May 9, 2026 -- 11 days ago. Assumed App Store submission = discoverability. Classic post-launch distribution blindspot. Very fresh pain. DM via IH. The "submitted equals discoverable" line is the specific hook.
+[RECORD_END]

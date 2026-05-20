@@ -1374,3 +1374,31 @@ opener_angle: "distribution live and unsolved" — ask what they've tried and wh
 status: new
 outreach_id: O-093
 [RECORD_END]
+
+[RECORD_START]
+id: L-100
+date_found: 2026-05-20
+username: seanPrentice1
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-started-vibe-coding-as-an-experiment-it-turned-into-a-saas-for-photographers-heres-what-happened-on-launch-day-6a0fef9e2d
+pain_quote: "Getting in front of photographers and videographers as a non-developer founder is harder than building the product"
+product_built: Crevaxo (crevaxo.com) -- licensing and project management SaaS for photographers/videographers. Built with AI-assisted development.
+fit_reason: Non-technical founder who vibe-coded a SaaS, launched on PH, got crushed by vote filtering, now stuck on reaching a niche audience that isn't on typical indie channels. "PH is brutal for solo founders without a large existing network." Product works, distribution is the unsolved problem. April 4, 2026.
+opener_angle: the "finding photographers is harder than building" line -- ask what distribution has actually looked like since PH and whether any channel has produced signal
+status: new
+outreach_id: O-094
+[RECORD_END]
+
+[RECORD_START]
+id: L-101
+date_found: 2026-05-20
+username: InnovaLabWorks
+platform: indiehackers
+url: https://www.indiehackers.com/post/the-most-embarrassing-realization-i-had-this-week-our-startup-was-completely-invisible-to-google-c878bf461c
+pain_quote: "Launched Curriq May 9 assuming submitted equals discoverable"
+product_built: Curriq -- iOS app, launched May 9, 2026 (11 days ago). App Store submission assumed to equal discoverability.
+fit_reason: Launched an iOS app 11 days ago and immediately hit the classic distribution blindspot: submitted to App Store and assumed people would find it. Commented on fixRAgentFounder's "invisible to Google" thread -- currently in the exact gap Tide targets. Very fresh pain.
+opener_angle: the "submitted equals discoverable" assumption -- ask what distribution has actually looked like in the 11 days since and what they've tried to get people to find it
+status: new
+outreach_id: O-095
+[RECORD_END]
