@@ -1640,3 +1640,21 @@ date_sent: null
 result: null
 notes: InnovaLabWorks commented on fixRAgentFounder "invisible to Google" thread. Built Curriq iOS app, launched May 9, 2026 -- 11 days ago. Assumed App Store submission = discoverability. Classic post-launch distribution blindspot. Very fresh pain. DM via IH. The "submitted equals discoverable" line is the specific hook.
 [RECORD_END]
+
+[RECORD_START]
+id: O-096
+date_created: 2026-05-20
+lead_id: L-102
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about burning ₹3.5k in cloud credits with zero paying users. that's a specific kind of stuck where the product is live but nobody's finding it.
+
+  what have you actually tried to reach people? like which channels and what's the response been.
+
+  doing research on exactly this gap between having something running and actually getting users.
+status: draft
+date_sent: null
+result: null
+notes: OcelotHot5287 commented in r/StartupSoloFounder on "distribution problem" keyword thread (2026-05-19). "I've burned ₹3.5k in cloud startup credits with zero paying users. Still going." Specific money spent, zero paying users, real stakes. DM via Reddit. Lead with the specific credit spend — it's concrete. Ask about channels tried.
+[RECORD_END]

@@ -1402,3 +1402,17 @@ opener_angle: the "submitted equals discoverable" assumption -- ask what distrib
 status: new
 outreach_id: O-095
 [RECORD_END]
+
+[RECORD_START]
+id: L-102
+date_found: 2026-05-20
+username: OcelotHot5287
+platform: reddit
+url: https://www.reddit.com/r/StartupSoloFounder
+pain_quote: "I've burned ₹3.5k in cloud startup credits with zero paying users. Still going."
+product_built: unknown — has a live product burning cloud credits with zero paying users
+fit_reason: first-person, specific money spent, zero paying users, still running the product. exact post-launch distribution gap. real stakes (paid credits going to waste).
+opener_angle: the specific ₹3.5k / zero paying users gap — ask what they've tried to reach people and what channels they've hit
+status: new
+outreach_id: O-096
+[RECORD_END]
