@@ -1444,3 +1444,17 @@ opener_angle: comment on the thread adding genuine value about the distribution 
 status: new
 outreach_id: O-098
 [RECORD_END]
+
+[RECORD_START]
+id: L-105
+date_found: 2026-05-20
+username: Significant_Alps9203
+platform: reddit
+url: https://www.reddit.com/r/micro_saas/comments/1tixf6n/first_saas_1000_mrr_in_2_weeks_harder_than_i/
+pain_quote: "0 signups 😂 The first 10 users were honestly from borderline begging people to try it. That was probably the biggest reality check."
+product_built: Unknown SaaS (now at $1K MRR in 2 weeks)
+fit_reason: First-person account of 0 signups and begging first 10 users. Experienced the exact post-launch distribution wall Tide targets and cracked it with a referral system. Good research conversation on what the zero-signups phase felt like and what finally worked.
+opener_angle: Reference the 0 signups and begging-people moment. Ask what those early attempts looked like before the referral system clicked.
+status: new
+outreach_id: O-099
+[RECORD_END]

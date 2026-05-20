@@ -1692,3 +1692,17 @@ date_sent: null
 result: null
 notes: ResponsibilitySad28 posted r/indiehackersindia about getting first paying user after 22 days. Described distribution grind as "shouting into the void." Good thread for a comment -- attracts others still in the pain who are reading. Drop as a comment on the post, not a DM.
 [RECORD_END]
+
+[RECORD_START]
+id: O-099
+date_created: 2026-05-20
+lead_id: L-105
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about hitting $1k mrr in 2 weeks. the "0 signups, borderline begging people to try it" part is the bit that stuck with me. curious what those first attempts looked like before the referral system clicked. doing research on exactly that gap between shipping something and getting first real users.
+status: draft
+date_sent: null
+result: null
+notes: Significant_Alps9203 posted r/micro_saas about first SaaS hitting $1K MRR in 2 weeks. Described 0 signups and begging first 10 users before referral system worked. Good research conversation -- they experienced the exact pain and cracked it. DM via Reddit.
+[RECORD_END]
