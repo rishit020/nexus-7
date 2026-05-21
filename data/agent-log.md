@@ -113,3 +113,14 @@ session_start: 2026-05-20 00:04
 
 
 session_start: 2026-05-21 00:02
+
+[SCOUT_RUN]
+run_id: Scout-2026-05-21-0006
+run_start: 2026-05-21T00:06:00Z
+run_end: 2026-05-21T00:20:00Z
+sources_attempted: [reddit/indiehackers, reddit/SideProject, reddit/buildinpublic, reddit/solopreneur, reddit/SaaS, reddit/nocode, reddit/vibecoding, HN-Algolia, IndieHackers, WebSearch, dev.to, ProductHunt]
+leads_found: 0
+outreach_drafted: 0
+blocker: reddit.com blocked by egress policy. HN Algolia returned 0 keyword matches in 24h window. IH/dev.to posts not indexable at <24h freshness. WebFetch cannot reach reddit.com.
+action_needed: Allow reddit.com in egress policy OR approve Gmail MCP persistently so F5Bot alerts can be read without user present.
+[END_SCOUT_RUN]
