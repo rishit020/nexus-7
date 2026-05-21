@@ -1668,3 +1668,59 @@ opener_angle: the 21.5% retention means people engaged but didn't convert. ask w
 status: new
 outreach_id: O-113
 [RECORD_END]
+
+[RECORD_START]
+id: L-121
+date_found: 2026-05-21
+username: marcosver
+platform: indiehackers
+url: https://www.indiehackers.com/post/3-weeks-in-2-free-trials-from-strangers-what-actually-surprised-me-9f09e0ed94
+pain_quote: "Getting views was basically useless, people watched for 1.5 seconds...website clicks converted at 0.1%"
+product_built: verism.app — unknown product category, tested TikTok ads, 2 free trials from strangers in 3 weeks, 0 paying
+fit_reason: Post-launch, no paying users, $100 ad spend producing nothing. Documenting TikTok experiments with data. Classic views-to-users gap. Post is from today (May 21).
+opener_angle: the 0.1% click-to-signup rate — ask what verism does and whether wrong audience or wrong message once they land
+status: new
+outreach_id: O-114
+[RECORD_END]
+
+[RECORD_START]
+id: L-122
+date_found: 2026-05-21
+username: larsmontan
+platform: indiehackers
+url: https://www.indiehackers.com/post/still-no-paying-users-so-im-doing-something-different-2f5bf557b8
+pain_quote: "4 digital products live, 3 weeks, 0 sales"
+product_built: 4 unknown digital products — all live, all with zero sales in 3 weeks
+fit_reason: Serial builder with 4 products and 0 conversions across all. Fresh comment on Sabb thread (4h ago). Cross-product zero-sales pattern = distribution is the consistent blocker not individual product quality.
+opener_angle: 4 products and 0 sales — ask what they are and which channels tried across them
+status: new
+outreach_id: O-115
+[RECORD_END]
+
+[RECORD_START]
+id: L-123
+date_found: 2026-05-21
+username: simonzhang
+platform: indiehackers
+url: https://www.indiehackers.com/post/still-no-paying-users-so-im-doing-something-different-2f5bf557b8
+pain_quote: "Just launched my own thing this week so I know the zero-paying-users feeling well"
+product_built: unknown — launched this week, cold start, zero paying users
+fit_reason: Fresh launch this week, explicitly in the zero-paying-users window. Commented on Sabb thread 11h ago seeking answers. Perfect timing for research framing.
+opener_angle: just launched this week, zero paying — ask what the product is and what distribution has looked like so far
+status: new
+outreach_id: O-116
+[RECORD_END]
+
+[RECORD_START]
+id: L-124
+date_found: 2026-05-21
+username: Toolsmaker1
+platform: indiehackers
+url: https://www.indiehackers.com/post/still-no-paying-users-so-im-doing-something-different-2f5bf557b8
+pain_quote: "I just launched yesterday with 0 users too"
+product_built: unknown — launched yesterday, 0 users
+fit_reason: Day-one launch with zero users. Comment was 2 days ago so product ~3 days post-launch. Product and profile unknown. WATCH — too thin to DM without more context.
+opener_angle: day-one launch with 0 users — ask what they built and what channels tried
+status: watch
+outreach_id: null
+[RECORD_END]

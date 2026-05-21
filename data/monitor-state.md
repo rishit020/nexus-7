@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-21T22:09:00Z
-next_lead_id: L-121
-next_outreach_id: O-114
+last_checked: 2026-05-22T00:15:00Z
+next_lead_id: L-125
+next_outreach_id: O-117
 
 leads_logged:
   - Stingwave24
@@ -126,6 +126,10 @@ leads_logged:
   - indo1999
   - limack0
   - IdzumIVlad
+  - marcosver
+  - larsmontan
+  - simonzhang
+  - Toolsmaker1
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -192,3 +196,4 @@ telegram_configured: true
 
 2026-05-21 (run 55) | leads: 7 DM (Nahrin L-112, worvi26 L-113, tliesnham L-114, dylandavepex L-115, shumatsumonobu L-116, asn_tech_niki L-117, indo1999 L-118) + 1 WATCH (limack0 L-119) | source: IH thread commenter mining -- ReleaseLog new post "Product Hunt is done. I have 1 sign-up and $0 MRR" (36 comments) + Galyna "9 months and 3 stack rewrites to ship" (104 comments). Reddit all 7 subreddits blocked (egress policy). Gmail F5Bot empty. HN Firebase/Algolia sampled (30+ stories, 0 ICP hits -- all viral/tech/hobby projects). NOTE: ReleaseLog (L-042, O-042 draft pending) has a new post with better pain quote -- update O-042 opener before Rishit sends. limack0 previously discarded run 52 (Gumroad bug comment on different thread) -- now shows genuine distribution pain on Galyna thread, logged as WATCH. Pipeline: 119 leads total.
 2026-05-21 (run 56) | leads: 1 DM (IdzumIVlad L-120/reddit/r/GrowthHacking) | source: F5Bot Gmail "0 paying users" alert 2026-05-21T21:09:16Z. IdzumIVlad: built Molverine (web detective game, GPT-powered suspects), launched 14 days ago, 0 paying users. YouTube Short hit 1.5k views/21.5% retention but no conversions. Classic post-launch conversion gap. Discarded: all "shouting into the void" hits (r/Edinburgh/r/StardewValley -- off-topic), r/PurplePillDebate "distribution problem" (dating/gender commentary), r/cscareerquestions "distribution problem" (job-hunting visibility -- not SaaS builder). Pipeline: 120 leads total.
+2026-05-22 (run 57) | leads: 3 DM (marcosver L-121/IH, larsmontan L-122/IH, simonzhang L-123/IH) + 1 WATCH (Toolsmaker1 L-124/IH) | source: IH homepage live fetch + Sabb thread commenter mining. Reddit all 7 subreddits fully blocked (egress + WebSearch domain). HN Show HN last 24h (30 posts): 0 ICP hits. IH homepage: marcosver "3 weeks in, 2 free trials from strangers" (May 21 today) -- verism.app, $100 TikTok, 0 paying, 0.1% click-to-signup. Sabb thread mined: larsmontan "4 digital products live, 3 weeks, 0 sales" (4h ago), simonzhang "just launched this week, zero-paying-users feeling" (11h ago), Toolsmaker1 "launched yesterday with 0 users" (2 days ago, WATCH). Discarded: FindAlert/influlab_app/worvi26/YTubViral/tliesnham/Nahrin/asn_tech_niki/txdesk/Prokopiy (already logged), LiyaR (pre-launch tweaking not post-launch pain), mrindraneelbose/StartUpKing (advisory), viascan (March 30 2026, too old), JeffTech74/Pr3ss3D (March 28 2026, too old), dylandavepex (already L-115). Pipeline: 124 leads total.

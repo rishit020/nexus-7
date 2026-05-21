@@ -1952,3 +1952,57 @@ date_sent: null
 result: null
 notes: F5Bot "0 paying users" keyword alert 2026-05-21T21:09:16Z. r/GrowthHacking. Built Molverine (web detective game, GPT-powered suspects). 14 days post-launch, 0 paying users. YouTube Short hit 1.5k views with 21.5% retention -- people engaged but didn't convert. Lead with the retention stat. DM via Reddit.
 [RECORD_END]
+
+[RECORD_START]
+id: O-114
+date_created: 2026-05-21
+lead_id: L-121
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your verism post. 3 weeks of tiktok, $100 in, 2 free trials and 0 paying. the 0.1% click-to-signup is the specific part.
+
+  what does verism actually do? and do you think it's the wrong audience coming from tiktok, or something about the message once they land?
+
+  doing research on this exact gap for solo builders post-launch. your situation is one of the more data-driven versions of it.
+status: draft
+date_sent: null
+result: null
+notes: marcosver posted "3 weeks in, 2 free trials from strangers" on IH today May 21, 2026. verism.app. $100 TikTok ads. 3 campaign types tested. 0 paying users. 0.1% click-to-signup rate. Fresh post (today). Ask what the product does to get them talking. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-115
+date_created: 2026-05-21
+lead_id: L-122
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on sabb's thread. 4 digital products live and 0 sales across all of them in 3 weeks is a really specific data point.
+
+  what are they? and which channels did you go to first to find buyers?
+
+  doing research on the post-launch distribution gap for solo builders. that pattern across 4 products is exactly what i'm mapping out.
+status: draft
+date_sent: null
+result: null
+notes: larsmontan commented on Sabb's "still no paying users" thread 4h before this run. "4 digital products live, 3 weeks, 0 sales." Serial builder, zero conversions across all products. Product types unknown. DM via IH. The 4-product/0-sales data point is the hook.
+[RECORD_END]
+
+[RECORD_START]
+id: O-116
+date_created: 2026-05-21
+lead_id: L-123
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on sabb's thread. launched this week and already know the zero-paying-users feeling. what did you launch?
+
+  and what has distribution looked like even in the first few days? like where did you go first?
+
+  doing research on the cold-start window for solo builders. your timing is literally perfect for the question i'm trying to answer.
+status: draft
+date_sent: null
+result: null
+notes: simonzhang commented on Sabb's thread 11h before this run. "Just launched my own thing this week so I know the zero-paying-users feeling well." Product unknown. Ask what they launched in line 1. DM via IH.
+[RECORD_END]
