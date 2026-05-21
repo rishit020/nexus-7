@@ -125,3 +125,4 @@ blocker: reddit.com blocked by egress policy. HN Algolia returned 0 keyword matc
 action_needed: Allow reddit.com in egress policy OR approve Gmail MCP persistently so F5Bot alerts can be read without user present.
 [END_SCOUT_RUN]
 
+
