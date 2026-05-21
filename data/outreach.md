@@ -1776,3 +1776,39 @@ date_sent: null
 result: null
 notes: Clyrostudio commented on ManishBhusal's PostDew thread describing AI Math Solver for macOS, live product, stuck at finding first users. Moderate ICP fit (niche macOS tool) but verbatim pain language. DM via IH.
 [RECORD_END]
+
+[RECORD_START]
+id: O-104
+date_created: 2026-05-21
+lead_id: L-110
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your smartwatermark post. 84 visitors, 0 sales, no audience after 3 weeks. "i'm a developer, not a marketer" is the exact situation i keep hearing about.
+
+  what did you try before product hunt? did you have a distribution plan going in or was it ship-and-figure-it-out?
+
+  doing research on this exact post-launch wall for solo devs. your situation is a good one to learn from.
+status: draft
+date_sent: null
+result: null
+notes: tino8383 posted on IH (May 19) about SmartWatermark -- browser watermarking tool, 84 visitors 0 sales, launched PH cold with no network. "developer not marketer" framing. 5 likes, 14 comments. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-105
+date_created: 2026-05-21
+lead_id: L-111
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your thoth post. "physicist-turned-dev with no audience, getting anyone to notice the app is a different kind of problem" is really well put.
+
+  what have you tried beyond the app store? and that french press article that drove the spike, was that something you pitched or did it just find you?
+
+  doing research on how indie devs figure out distribution without an existing audience. your situation is a good one to map.
+status: draft
+date_sent: null
+result: null
+notes: MattVe posted on IH (May 19) about Thoth, a privacy-first Mac meeting recorder. Career-switcher from physics, zero audience, one French press hit drove 700% downloads. 3 likes, 1 comment. Explicitly said distribution is "a different kind of problem." DM via IH.
+[RECORD_END]

@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-21T04:22:00Z
-next_lead_id: L-110
-next_outreach_id: O-104
+last_checked: 2026-05-21T12:00:00Z
+next_lead_id: L-112
+next_outreach_id: O-106
 
 leads_logged:
   - Stingwave24
@@ -115,6 +115,8 @@ leads_logged:
   - Daiutovslava
   - indieworkflow
   - Clyrostudio
+  - tino8383
+  - MattVe
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -176,3 +178,5 @@ telegram_configured: true
 2026-05-21 (run 54) | leads: 0 | source: Reddit all 7 subreddits egress-blocked (403), Gmail/F5Bot MCP requires approval (blocked), IH WebSearch exhaustive multi-angle scan. All recent ICP posts return already-logged authors. HN Show HN last 24h: adisingh13 (Agent.email), hmg-ocean (Bitcoin weight tool) — 0 ICP. Checked tabby101 (May 19 IH comment — not ICP, just questioning if 2020 tips still work), Felix Cheung "78% margins/0 customers" (May 16 — DISCARD, B2B childcare enterprise with trust/AI-surveillance concerns, not solo vibe-coder ICP). Pipeline needs new signal: Reddit egress unblock, Lovable/Bolt Discord access, or Gmail F5Bot MCP approval.
 2026-05-21 (run 53) | leads: 3 DM (Daiutovslava L-107/IH, indieworkflow L-108/IH, Clyrostudio L-109/IH) | source: IH PostDew thread commenter mining (ManishBhusal "built SaaS in 10 days, 0 paying customers"). Reddit all 7 subreddits blocked (egress + WebFetch + WebSearch). F5Bot Gmail blocked (MCP approval required). 3 new leads from PostDew thread: Daiutovslava (zero CS background, still hunting first 10 users), indieworkflow (first launch, distribution wall hit immediately), Clyrostudio (AI Math Solver macOS, "real challenge is finding first users"). NOTE: Daiutovslava and indieworkflow previously discarded but re-evaluated on new quotes. IH PostDew thread fully mined. Pipeline: 109 leads total.
 2026-05-20 (run 52) | leads: 1 DM (AshifurKhan L-106/IH) | source: IH fixRAgentFounder thread commenter mining. Reddit all 7 subreddits blocked (egress policy + WebFetch + WebSearch domain blocked). F5Bot Gmail blocked (MCP approval required this pass). HN Firebase max=48215551 (Show HN Algolia 30 posts: all dev tools/open-source, 0 ICP hits). IH fixRAgentFounder thread mined for fresh commenters (157 total, up from ~80 in run 39): AshifurKhan (DM -- HookMafia/Hooklayer, vibe coder, MBA marketer, uses Claude to build, "Still figuring out distribution, monetization" on profile). Discarded from same thread: InnovaLabWorks (already L-101), bloomer1217 (already L-074), mike2023 (already L-084), EricLagarda (pre-launch June 16 -- Nett iOS app), limack0 (Gumroad payment bug not distribution pain), BiGZachAI (technical explanation not personal pain), aiagentlink (already discarded run 39), ori_marti (already discarded run 46). IH homepage surfaced: Galyna (IvaBot AI SEO chatbot, "9 months/3 stack rewrites" post -- building journey not confirmed distribution pain, could not load post body), Exactsolution (profile mismatch -- refurbished electronics marketplace, not IH post author), R1ck404/Markey (DISCARD -- competitor), ReleaseLog (already L-042). NotAFinanceGuru (400K impressions/0 paying customers) = already L-026. 2 IH homepage posts could not be verified (Galyna post body unloadable, Exactsolution username mismatch). AshifurKhan is the only confirmed fresh lead this pass.
+
+2026-05-21 (run 54) | leads: 2 DM (tino8383 L-110/IH, MattVe L-111/IH) | source: IH homepage scan + WebSearch. Reddit all 7 subreddits still blocked (egress). IH homepage scanned live: tino8383 "SmartWatermark, 84 visitors, 0 sales, developer not marketer" (May 19); MattVe "Thoth, physicist-turned-dev, no audience, distribution is a different problem" (May 19). R1ck404 "Markey" noted as WATCH (competitor building distribution tool, not ICP). hieudev noted as WATCH (SEO pain, not core distribution). Galyna WATCH (has SEO expertise, not pure ICP). Pipeline: 111 leads total.

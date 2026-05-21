@@ -1514,3 +1514,31 @@ opener_angle: what finding first users has looked like so far -- which channels 
 status: new
 outreach_id: O-103
 [RECORD_END]
+
+[RECORD_START]
+id: L-110
+date_found: 2026-05-21
+username: tino8383
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-launched-my-privacy-first-watermark-tool-3-weeks-ago-84-visitors-0-sales-what-am-i-missing-d7f5a277ff
+pain_quote: "I have no audience on social media. I'm a developer, not a marketer."
+product_built: SmartWatermark -- browser-based batch watermarking tool, $29 one-time Pro license
+fit_reason: Solo dev, no marketing skills or audience, post-launch with 84 visitors and 0 sales. Launched on PH cold with no warm network. Classic Tide ICP -- built something real, hit the distribution wall immediately.
+opener_angle: what the actual distribution plan was before PH launch -- did they have one at all
+status: new
+outreach_id: O-104
+[RECORD_END]
+
+[RECORD_START]
+id: L-111
+date_found: 2026-05-21
+username: MattVe
+platform: indiehackers
+url: https://www.indiehackers.com/post/from-laser-physics-to-indie-mac-dev-i-built-a-meeting-recorder-that-never-touches-a-server-1d21640926
+pain_quote: "As a physicist-turned-dev with no audience, getting anyone to notice the app is a different kind of problem."
+product_built: Thoth -- privacy-first Mac meeting recorder with local transcription (no server upload)
+fit_reason: Career-switcher with zero existing audience. Explicitly framed distribution as a separate and harder problem. One lucky French press article drove 700% download spike -- unscalable, unpredictable. Ideal Tide ICP.
+opener_angle: what distribution looks like beyond app store, and whether the press hit was pitched or lucky
+status: new
+outreach_id: O-105
+[RECORD_END]
