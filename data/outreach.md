@@ -1938,3 +1938,17 @@ date_sent: null
 result: null
 notes: indo1999 commented on Galyna's "9 months and 3 stack rewrites" IH thread. Described struggling to balance dev time vs marketing. Pain quote: "shouting into an empty wilderness." Product unknown. Check IH profile at https://www.indiehackers.com/indo1999 before sending. DM via IH.
 [RECORD_END]
+
+[RECORD_START]
+id: O-113
+date_created: 2026-05-21
+lead_id: L-120
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about molverine. 0 paying users after 14 days with a youtube short hitting 21.5% retention is a specific failure mode. are people not finding the site, or are they landing and not seeing a reason to pay? doing research on the gap between getting views and getting paying users.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 paying users" keyword alert 2026-05-21T21:09:16Z. r/GrowthHacking. Built Molverine (web detective game, GPT-powered suspects). 14 days post-launch, 0 paying users. YouTube Short hit 1.5k views with 21.5% retention -- people engaged but didn't convert. Lead with the retention stat. DM via Reddit.
+[RECORD_END]

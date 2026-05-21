@@ -1654,3 +1654,17 @@ opener_angle: the "months before anyone outside network heard of it" gap -- ask 
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-120
+date_found: 2026-05-21
+username: IdzumIVlad
+platform: reddit
+url: https://www.reddit.com/r/GrowthHacking/comments/1tjxu25/how_did_you_get_your_first_5_paying_users_stuck/
+pain_quote: "Stuck at 0 after a 14-day launch"
+product_built: Molverine — web-based detective game where you solve crimes by examining evidence and interrogating GPT-powered AI suspects
+fit_reason: 14 days post-launch, 0 paying users despite a YouTube Short hitting 1.5k views with 21.5% retention. Views prove reach exists but nobody's converting. GPT-powered product, solo builder, classic post-launch conversion gap.
+opener_angle: the 21.5% retention means people engaged but didn't convert. ask whether the drop-off is discovery (not finding site) or conversion (landing but not paying)
+status: new
+outreach_id: O-113
+[RECORD_END]
