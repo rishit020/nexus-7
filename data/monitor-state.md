@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-21T12:00:00Z
-next_lead_id: L-112
-next_outreach_id: O-106
+last_checked: 2026-05-21T14:30:00Z
+next_lead_id: L-120
+next_outreach_id: O-113
 
 leads_logged:
   - Stingwave24
@@ -117,6 +117,14 @@ leads_logged:
   - Clyrostudio
   - tino8383
   - MattVe
+  - Nahrin
+  - worvi26
+  - tliesnham
+  - dylandavepex
+  - shumatsumonobu
+  - asn_tech_niki
+  - indo1999
+  - limack0
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -180,3 +188,5 @@ telegram_configured: true
 2026-05-20 (run 52) | leads: 1 DM (AshifurKhan L-106/IH) | source: IH fixRAgentFounder thread commenter mining. Reddit all 7 subreddits blocked (egress policy + WebFetch + WebSearch domain blocked). F5Bot Gmail blocked (MCP approval required this pass). HN Firebase max=48215551 (Show HN Algolia 30 posts: all dev tools/open-source, 0 ICP hits). IH fixRAgentFounder thread mined for fresh commenters (157 total, up from ~80 in run 39): AshifurKhan (DM -- HookMafia/Hooklayer, vibe coder, MBA marketer, uses Claude to build, "Still figuring out distribution, monetization" on profile). Discarded from same thread: InnovaLabWorks (already L-101), bloomer1217 (already L-074), mike2023 (already L-084), EricLagarda (pre-launch June 16 -- Nett iOS app), limack0 (Gumroad payment bug not distribution pain), BiGZachAI (technical explanation not personal pain), aiagentlink (already discarded run 39), ori_marti (already discarded run 46). IH homepage surfaced: Galyna (IvaBot AI SEO chatbot, "9 months/3 stack rewrites" post -- building journey not confirmed distribution pain, could not load post body), Exactsolution (profile mismatch -- refurbished electronics marketplace, not IH post author), R1ck404/Markey (DISCARD -- competitor), ReleaseLog (already L-042). NotAFinanceGuru (400K impressions/0 paying customers) = already L-026. 2 IH homepage posts could not be verified (Galyna post body unloadable, Exactsolution username mismatch). AshifurKhan is the only confirmed fresh lead this pass.
 
 2026-05-21 (run 54) | leads: 2 DM (tino8383 L-110/IH, MattVe L-111/IH) | source: IH homepage scan + WebSearch. Reddit all 7 subreddits still blocked (egress). IH homepage scanned live: tino8383 "SmartWatermark, 84 visitors, 0 sales, developer not marketer" (May 19); MattVe "Thoth, physicist-turned-dev, no audience, distribution is a different problem" (May 19). R1ck404 "Markey" noted as WATCH (competitor building distribution tool, not ICP). hieudev noted as WATCH (SEO pain, not core distribution). Galyna WATCH (has SEO expertise, not pure ICP). Pipeline: 111 leads total.
+
+2026-05-21 (run 55) | leads: 7 DM (Nahrin L-112, worvi26 L-113, tliesnham L-114, dylandavepex L-115, shumatsumonobu L-116, asn_tech_niki L-117, indo1999 L-118) + 1 WATCH (limack0 L-119) | source: IH thread commenter mining -- ReleaseLog new post "Product Hunt is done. I have 1 sign-up and $0 MRR" (36 comments) + Galyna "9 months and 3 stack rewrites to ship" (104 comments). Reddit all 7 subreddits blocked (egress policy). Gmail F5Bot empty. HN Firebase/Algolia sampled (30+ stories, 0 ICP hits -- all viral/tech/hobby projects). NOTE: ReleaseLog (L-042, O-042 draft pending) has a new post with better pain quote -- update O-042 opener before Rishit sends. limack0 previously discarded run 52 (Gumroad bug comment on different thread) -- now shows genuine distribution pain on Galyna thread, logged as WATCH. Pipeline: 119 leads total.

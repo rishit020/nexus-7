@@ -1542,3 +1542,115 @@ opener_angle: what distribution looks like beyond app store, and whether the pre
 status: new
 outreach_id: O-105
 [RECORD_END]
+
+[RECORD_START]
+id: L-112
+date_found: 2026-05-21
+username: Nahrin
+platform: indiehackers
+url: https://www.indiehackers.com/post/product-hunt-is-done-i-have-1-sign-up-and-0-mrr-heres-how-i-m-thinking-about-finding-my-first-paying-customer-a057ad34dc
+pain_quote: "launched on PH yesterday too — 3 upvotes, #91"
+product_built: Navox Network -- privacy-focused networking CRM grounded in weak-ties research
+fit_reason: PH launch yesterday, 3 upvotes, ranked #91. No audience, first-person fresh pain. Commented on ReleaseLog's post-PH thread meaning they're actively looking for answers in the exact window Tide targets.
+opener_angle: the cold PH launch reality and what distribution looks like for navox now that ph is done
+status: new
+outreach_id: O-106
+[RECORD_END]
+
+[RECORD_START]
+id: L-113
+date_found: 2026-05-21
+username: worvi26
+platform: indiehackers
+url: https://www.indiehackers.com/post/product-hunt-is-done-i-have-1-sign-up-and-0-mrr-heres-how-i-m-thinking-about-finding-my-first-paying-customer-a057ad34dc
+pain_quote: "Launched Worvi on PH last week — 2 upvotes, 0 sales"
+product_built: Worvi -- WhatsApp AI bot; also built Vokio (voice AI for small businesses)
+fit_reason: PH last week, 2 upvotes, 0 sales. Named product, specific numbers, solo builder. Actively seeking answers on ReleaseLog's post-PH thread. Classic post-launch distribution wall.
+opener_angle: worvi on ph last week with 0 sales -- ask what the distribution plan looks like now
+status: new
+outreach_id: O-107
+[RECORD_END]
+
+[RECORD_START]
+id: L-114
+date_found: 2026-05-21
+username: tliesnham
+platform: indiehackers
+url: https://www.indiehackers.com/post/product-hunt-is-done-i-have-1-sign-up-and-0-mrr-heres-how-i-m-thinking-about-finding-my-first-paying-customer-a057ad34dc
+pain_quote: "launched on ProductHunt got 2 upvotes in total...definitely demotivating"
+product_built: unknown -- check IH profile before sending
+fit_reason: PH launch with 2 upvotes, described as "definitely demotivating." First-person, recent, actively engaging on post-PH thread. Product unknown -- let them fill it in.
+opener_angle: the 2-upvote ph result and the "demotivating" framing -- ask what they built and what distribution looks like now
+status: new
+outreach_id: O-108
+[RECORD_END]
+
+[RECORD_START]
+id: L-115
+date_found: 2026-05-21
+username: dylandavepex
+platform: indiehackers
+url: https://www.indiehackers.com/post/product-hunt-is-done-i-have-1-sign-up-and-0-mrr-heres-how-i-m-thinking-about-finding-my-first-paying-customer-a057ad34dc
+pain_quote: "Just shipped to PH and got the same lesson...installs that did come through came from one specific DM"
+product_built: unknown -- check IH profile before sending
+fit_reason: Just shipped to PH. Installs came from one specific DM not from PH itself -- has distribution data showing channels don't work as expected. Fresh pain, specific insight into what does vs doesn't move the needle.
+opener_angle: the "installs from one specific DM" insight -- ask what they built and what they've tried beyond that dm
+status: new
+outreach_id: O-109
+[RECORD_END]
+
+[RECORD_START]
+id: L-116
+date_found: 2026-05-21
+username: shumatsumonobu
+platform: indiehackers
+url: https://www.indiehackers.com/post/product-hunt-is-done-i-have-1-sign-up-and-0-mrr-heres-how-i-m-thinking-about-finding-my-first-paying-customer-a057ad34dc
+pain_quote: "Did mine last month, got basically nothing lol"
+product_built: unknown -- check IH profile before sending
+fit_reason: PH last month, "basically nothing" -- casual framing of a real failure. Actively reading and engaging on post-PH threads a month later means the problem is still live. Product unknown.
+opener_angle: ph last month / basically nothing -- ask what they built and what distribution looks like since
+status: new
+outreach_id: O-110
+[RECORD_END]
+
+[RECORD_START]
+id: L-117
+date_found: 2026-05-21
+username: asn_tech_niki
+platform: indiehackers
+url: https://www.indiehackers.com/post/product-hunt-is-done-i-have-1-sign-up-and-0-mrr-heres-how-i-m-thinking-about-finding-my-first-paying-customer-a057ad34dc
+pain_quote: "just launched an e-signature tool, have 2 organic sign-ups...every platform has restrictions for new accounts"
+product_built: e-signature tool (just launched)
+fit_reason: Just launched, 2 organic signups, hitting platform restrictions on every channel (Reddit flags spam, HN won't let new accounts comment on own posts). Appeared on both ReleaseLog and Galyna threads -- two-thread signal. Specific and solvable-looking ICP.
+opener_angle: the e-sig tool launch + platform restriction wall -- ask which channels have actually let them through and what the response was
+status: new
+outreach_id: O-111
+[RECORD_END]
+
+[RECORD_START]
+id: L-118
+date_found: 2026-05-21
+username: indo1999
+platform: indiehackers
+url: https://www.indiehackers.com/post/im-a-solo-founder-it-took-me-9-months-and-at-least-3-stack-rewrites-to-ship-my-saas-a66b5fbe33
+pain_quote: "Marketing feels like shouting into an empty wilderness most of the time"
+product_built: unknown -- check IH profile before sending
+fit_reason: First-person distribution pain with vivid language. Commented on Galyna's 9-month solo build thread. Struggled to balance dev vs marketing time. "Shouting into an empty wilderness" is core Tide ICP language.
+opener_angle: the "empty wilderness" framing -- ask what they're building and which channels they've actually tried
+status: new
+outreach_id: O-112
+[RECORD_END]
+
+[RECORD_START]
+id: L-119
+date_found: 2026-05-21
+username: limack0
+platform: indiehackers
+url: https://www.indiehackers.com/post/im-a-solo-founder-it-took-me-9-months-and-at-least-3-stack-rewrites-to-ship-my-saas-a66b5fbe33
+pain_quote: "I had a working product for months before anyone outside my network heard of it"
+product_built: unknown -- previously discarded run 52 for a Gumroad bug comment on fixRAgentFounder thread. This is a different quote on a different thread showing genuine distribution pain.
+fit_reason: Classic distribution blindspot -- working product, zero external visibility. Different thread from run 52 discard. Pain here is first-person and real. Check IH profile before DMing to confirm product and current status.
+opener_angle: the "months before anyone outside network heard of it" gap -- ask what distribution looks like now and which channels have produced any signal
+status: watch
+outreach_id: null
+[RECORD_END]

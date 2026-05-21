@@ -1812,3 +1812,129 @@ date_sent: null
 result: null
 notes: MattVe posted on IH (May 19) about Thoth, a privacy-first Mac meeting recorder. Career-switcher from physics, zero audience, one French press hit drove 700% downloads. 3 likes, 1 comment. Explicitly said distribution is "a different kind of problem." DM via IH.
 [RECORD_END]
+
+[RECORD_START]
+id: O-106
+date_created: 2026-05-21
+lead_id: L-112
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the releaselog thread. launched navox on ph yesterday, 3 upvotes, #91 on the rankings. that's the honest version most people don't post.
+
+  what does distribution look like for navox beyond ph? like what's the plan now?
+
+  doing research on exactly this window after a cold ph launch. your situation is what i'm trying to map.
+status: draft
+date_sent: null
+result: null
+notes: Nahrin commented on ReleaseLog's new post "PH is done, 1 signup, $0 MRR." Launched Navox Network (privacy-focused networking CRM) on PH yesterday, 3 upvotes, ranked #91. Very fresh pain. DM via IH. Reference the specific ranking so they know you actually read it.
+[RECORD_END]
+
+[RECORD_START]
+id: O-107
+date_created: 2026-05-21
+lead_id: L-113
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the releaselog thread. worvi on ph last week, 2 upvotes, 0 sales. that's a specific kind of stuck.
+
+  what's worvi for? and what's the plan now that ph is done?
+
+  doing research on what the post-ph window looks like for solo builders. your situation is exactly the gap i'm trying to understand.
+status: draft
+date_sent: null
+result: null
+notes: worvi26 (David) built Worvi (WhatsApp AI bot) and Vokio (voice AI). Commented on ReleaseLog thread about PH last week: 2 upvotes, 0 sales. Named product, specific numbers. DM via IH. Ask what Worvi does in the DM so they describe it -- that opens the conversation naturally.
+[RECORD_END]
+
+[RECORD_START]
+id: O-108
+date_created: 2026-05-21
+lead_id: L-114
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the releaselog thread. 2 upvotes on ph and "definitely demotivating" is such an honest way to put it.
+
+  what are you building? and what's the plan for finding users now that ph is done?
+
+  doing research on what the post-launch window looks like for solo founders. your situation is what i'm trying to map.
+status: draft
+date_sent: null
+result: null
+notes: tliesnham commented on ReleaseLog thread. PH launch, 2 upvotes total, called it "definitely demotivating." Product unknown. Check IH profile at https://www.indiehackers.com/tliesnham before sending to personalize line 1 with product name. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-109
+date_created: 2026-05-21
+lead_id: L-115
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the releaselog thread. all your installs coming from one specific dm is exactly the kind of thing that shows what actually works vs what doesn't.
+
+  what are you building? and what have you tried beyond ph and that dm?
+
+  doing research on the post-launch distribution gap for solo builders. your experience is what i'm trying to map.
+status: draft
+date_sent: null
+result: null
+notes: dylandavepex commented on ReleaseLog thread. Just shipped to PH, key insight: "installs that did come through came from one specific DM" not from PH. Product unknown. Check IH profile at https://www.indiehackers.com/dylandavepex before sending. DM via IH. Lead with the DM insight specifically -- it shows you read the whole comment.
+[RECORD_END]
+
+[RECORD_START]
+id: O-110
+date_created: 2026-05-21
+lead_id: L-116
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the releaselog thread. ph last month, basically nothing. that's honestly the most common outcome that nobody posts about.
+
+  what are you building? and what has distribution looked like since?
+
+  doing research on what the post-ph window looks like for solo founders. would love to hear what you've tried.
+status: draft
+date_sent: null
+result: null
+notes: shumatsumonobu commented on ReleaseLog thread. PH last month, "got basically nothing lol." Product unknown. Check IH profile at https://www.indiehackers.com/shumatsumonobu before sending. DM via IH. The casual framing ("lol") means a casual, peer-to-peer DM is right.
+[RECORD_END]
+
+[RECORD_START]
+id: O-111
+date_created: 2026-05-21
+lead_id: L-117
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comments on the releaselog and galyna threads. 2 organic signups for the e-signature tool but every platform flagging new accounts is a wall most people don't see coming.
+
+  which channels have actually let you through, and what's the response been even if tiny?
+
+  doing research on the post-launch distribution gap for solo founders. the platform restriction angle is one of the more specific versions of it.
+status: draft
+date_sent: null
+result: null
+notes: asn_tech_niki appeared on both ReleaseLog thread and Galyna thread. Just launched e-signature tool. 2 organic signups. Explicitly named platform restrictions: Reddit flags spam, HN won't let new accounts comment on own posts. Two-thread signal. DM via IH. Reference both threads to show you've been paying attention -- it's flattering not creepy in this context.
+[RECORD_END]
+
+[RECORD_START]
+id: O-112
+date_created: 2026-05-21
+lead_id: L-118
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on galyna's thread. "marketing feels like shouting into an empty wilderness most of the time" is one of the more accurate descriptions of that phase i've read.
+
+  what are you building? and what has distribution actually looked like, which channels and what response?
+
+  doing research on this exact gap for solo builders post-launch.
+status: draft
+date_sent: null
+result: null
+notes: indo1999 commented on Galyna's "9 months and 3 stack rewrites" IH thread. Described struggling to balance dev time vs marketing. Pain quote: "shouting into an empty wilderness." Product unknown. Check IH profile at https://www.indiehackers.com/indo1999 before sending. DM via IH.
+[RECORD_END]
