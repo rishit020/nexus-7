@@ -2060,3 +2060,57 @@ date_sent: null
 result: null
 notes: r/SaaS thread 1tje9mr. Post title is textbook ICP. Author unknown due to Reddit egress block. Multiple commenters confirmed active thread. Drop comment to be visible and invite conversation. Thread: https://www.reddit.com/r/SaaS/comments/1tje9mr/
 [RECORD_END]
+
+[RECORD_START]
+id: O-120
+date_created: 2026-05-22
+lead_id: L-129
+platform: reddit
+variant: dm
+draft_text: |
+  saw your briefly post in buildinpublic. 188 visitors, 63% bounce, 0 paying is a really specific funnel to have documented.
+
+  what does distribution look like for briefly right now? like where are those 188 visitors actually coming from, and is any channel bringing people who actually stick around?
+
+  doing research on the post-launch gap for solo builders. your situation is exactly the window i'm trying to map.
+status: draft
+date_sent: null
+result: null
+notes: Accurate_Board_9401 cross-posted "188 visitors, 0 paying users" to r/buildinpublic and r/micro_saas on 2026-05-22T19:21Z. Product named: Briefly. 63% bounce rate, people land and leave without paying. F5Bot "0 paying users" alert. < 2 hours old. DM via Reddit. Reference Briefly by name -- shows you actually read the post. Ask about distribution channels specifically, not the testimonials/credibility angle they diagnosed (that's their problem, Tide is about reaching people in the first place). No em dashes. No pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-121
+date_created: 2026-05-22
+lead_id: L-130
+platform: reddit
+variant: dm
+draft_text: |
+  saw your feedback friday comment. $100 on tiktok, plenty of likes and saves, 2 free trials, 0 paying in 3 weeks is a really specific wall to hit.
+
+  what's the product? and is the problem that tiktok is sending the wrong people, or that people land and don't see why they'd pay?
+
+  doing research on exactly this gap between marketing spend and actual paying users.
+status: draft
+date_sent: null
+result: null
+notes: Normal_Professor9680 commented on r/Entrepreneur Feedback Friday thread (2026-05-22T19:48Z). 3 weeks, $100 TikTok spend, "plenty of likes and saves" but barely any website visits, 2 free trials, 0 paying users. Product unknown -- asking in line 2. The TikTok engagement-without-clicks angle is the specific diagnostic question. DM via Reddit. Under 4 sentences. No em dashes.
+[RECORD_END]
+
+[RECORD_START]
+id: O-122
+date_created: 2026-05-22
+lead_id: null
+platform: reddit
+variant: comment
+draft_text: |
+  traffic-but-no-paying is one of the harder distribution problems because it feels like you already solved the hard part.
+
+  the thing that keeps coming up when i talk to solo builders in this window: impressions without intent are just noise. people land, look around, leave. the question is whether the traffic is actually finding people who feel the pain right now vs people who are vaguely interested.
+
+  been doing research on exactly this gap. what's the product and where's the traffic coming from?
+status: draft
+date_sent: null
+result: null
+notes: r/NoCodeSaaS thread "[Honest question] For micro-SaaS founders with traffic but zero paying users" — URL: https://www.reddit.com/r/NoCodeSaaS/comments/1tke0gf/ — F5Bot "distribution problem" alert 2026-05-22T14:31Z via outsi_ commenter. Thread OP has the exact Tide ICP problem (traffic + 0 paying). r/NoCodeSaaS = high ICP density community not in primary target list but very close (nocode-adjacent). Drop comment to be visible to the OP and any readers with same pain. Ends with a question to generate a reply and potential DM lead.
+[RECORD_END]

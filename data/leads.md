@@ -1780,3 +1780,31 @@ opener_angle: drop comment adding genuine value to the distribution conversation
 status: watch
 outreach_id: O-119
 [RECORD_END]
+
+[RECORD_START]
+id: L-129
+date_found: 2026-05-22
+username: Accurate_Board_9401
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1tksv0w/188_visitors_0_paying_users_heres_what_i_learned/
+pain_quote: "Spent weeks building Briefly, launched, got some traffic. 63% bounce rate. People land look around and leave."
+product_built: Briefly — named SaaS product (exact category unknown from post body)
+fit_reason: Post-launch, real traffic (188 visitors), 0 paying users, 63% bounce rate documented with honesty. Title is "188 visitors, 0 paying users. Here's what I learned." Cross-posted to r/buildinpublic and r/micro_saas. Solo builder who shipped and is stuck at conversion. Named product = high verifiability. < 2 hours old at time of logging.
+opener_angle: reference Briefly by name, ask where those 188 visitors are coming from and whether any channel holds longer than others
+status: new
+outreach_id: O-120
+[RECORD_END]
+
+[RECORD_START]
+id: L-130
+date_found: 2026-05-22
+username: Normal_Professor9680
+platform: reddit
+url: https://www.reddit.com/r/Entrepreneur/comments/1tkc8vl/
+pain_quote: "Haven't seen any results in 3 weeks of marketing yet, have spent around $100 through TikTok promotion. Get plenty of likes and saves but not many website visits and only 2 free trials so far, 0 paying users"
+product_built: unknown — Feedback Friday submission on r/Entrepreneur. Has a free trial product (implied by "2 free trials"). TikTok-accessible audience.
+fit_reason: 3 weeks of active marketing spend ($100 TikTok), engagement (likes/saves) but no website visits and 0 paying users. Awareness-to-conversion gap is the specific wall. Active in r/Entrepreneur Feedback Friday = builder seeking community input, warm to DM. < 2 hours old at logging.
+opener_angle: reference the TikTok spend specifically, ask whether the problem is the audience not clicking through or people landing and not converting
+status: new
+outreach_id: O-121
+[RECORD_END]
