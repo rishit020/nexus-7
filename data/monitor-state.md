@@ -1,9 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-22T02:07:00Z
+last_checked: 2026-05-22T04:15:00Z
 next_lead_id: L-127
 next_outreach_id: O-119
+
+last_run_note: Reddit direct fetch blocked by egress policy. Gmail F5Bot parsing used instead. No new leads since previous run (02:07 UTC). One unresolved lead: r/SaaS post "Built 2 SaaS products but stuck at 0 users. Need a reality check on distribution." (thread 1tje9mr) — post author unknown due to Reddit block. Needs manual check.
 
 leads_logged:
   - Stingwave24
