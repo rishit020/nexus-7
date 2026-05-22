@@ -1752,3 +1752,31 @@ opener_angle: what day-one outreach has actually felt like, and what has surpris
 status: new
 outreach_id: O-118
 [RECORD_END]
+
+[RECORD_START]
+id: L-127
+date_found: 2026-05-22
+username: NeedleworkerLumpy907
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tjlc8o/first_refund_hurt_way_more_than_0_signups/
+pain_quote: "No signups let me blame traffic, this didn't"
+product_built: SaaS product — onboarding required 4 connections before first value, now iterating post-refund
+fit_reason: Post-launch SaaS builder. Went through blank signup days, finally got a paying user, got a refund. Self-aware about distribution vs. onboarding distinction. Full journey context — 0 signups -> first paying user -> refund. Good research contact once Tide has something to show.
+opener_angle: the blank signup days vs. first refund — ask what distribution looked like in that zero-signups window
+status: watch
+outreach_id: null
+[RECORD_END]
+
+[RECORD_START]
+id: L-128
+date_found: 2026-05-22
+username: unknown
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tje9mr/built_2_saas_products_but_stuck_at_0_users_need_a/
+pain_quote: "Built 2 SaaS products but stuck at 0 users. Need a reality check on distribution."
+product_built: unknown — 2 SaaS products, both at 0 users
+fit_reason: Thread title is textbook ICP. Multiple commenters active on thread. Author unknown due to Reddit egress block. Strong COMMENT opportunity while thread is live.
+opener_angle: drop comment adding genuine value to the distribution conversation, be visible as someone researching this problem
+status: watch
+outreach_id: O-119
+[RECORD_END]

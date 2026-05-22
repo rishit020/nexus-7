@@ -1,11 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-22T04:15:00Z
-next_lead_id: L-127
-next_outreach_id: O-119
+last_checked: 2026-05-22T06:30:00Z
+next_lead_id: L-129
+next_outreach_id: O-120
 
-last_run_note: Reddit direct fetch blocked by egress policy. Gmail F5Bot parsing used instead. No new leads since previous run (02:07 UTC). One unresolved lead: r/SaaS post "Built 2 SaaS products but stuck at 0 users. Need a reality check on distribution." (thread 1tje9mr) — post author unknown due to Reddit block. Needs manual check.
+last_run_note: Reddit direct fetch blocked by egress policy. Gmail F5Bot parsing used instead. 10 F5Bot threads parsed. 2 new leads logged: NeedleworkerLumpy907 (L-127, WATCH, r/SaaS "first refund post" — full distribution journey, past zero phase) and r/SaaS thread 1tje9mr (L-128, COMMENT opportunity, author unknown). Resolved prior unresolved: thread 1tje9mr now has comment draft O-119. Discarded: IdzumIVlad (already L-120), nuer0_ (already L-125), Double_Tower_4841 (already L-126), BodybuilderOne1023 (commenter not original poster, not yet launched), Individual_Path6849 (pricing question), Agitated-Touch8494 (thin comment), AISaas_ (analytics tool builder, off-ICP), CodIllustrious7319/Common_Dream9420/Pitiful_Hyena6300/AdventurousLime309 (all advice commenters, not describing own pain). Shouting-into-the-void hits: r/Edinburgh, r/StardewValley, r/careeradvice — all off-topic. Pipeline: 128 leads total.
 
 leads_logged:
   - Stingwave24
@@ -134,6 +134,7 @@ leads_logged:
   - Toolsmaker1
   - nuer0_
   - Double_Tower_4841
+  - NeedleworkerLumpy907
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -204,3 +205,5 @@ telegram_configured: true
 2026-05-22 (run 58) | leads: 1 DM (nuer0_ L-125/reddit/r/SideProject) | source: F5Bot Gmail "0 paying users" alert 2026-05-22T00:03:17Z. nuer0_: productivity app with identity-first framing, "shipping daily but marketing has been brutal in a way i wasn't prepared for," 2 months in solo, 0 paying users. Discarded: IdzumIVlad (already L-120), r/alphaandbetausers "please give me feedback on my brand" (e-commerce/witchy brand store, not SaaS builder ICP), all prior F5Bot threads (already processed in runs 12-57). Pipeline: 125 leads total.
 2026-05-22 (run 59) | leads: 1 DM (Double_Tower_4841 L-126/reddit/r/SideProject) | source: F5Bot Gmail scan -- 8 threads parsed, 1 new kept (nuer0_ already logged run 58). Double_Tower_4841: iOS app live May 21, App Store organic = zero, explicitly framing first 90 days as distribution build phase, called it 'the actual distribution problem is downstream' in r/SideProject comment thread. Discarded: Agitated-Touch8494 (thin comment, no product context), Individual_Path6849 (pricing question not distribution pain), zkvqx/ListnCart_Dev/Ok_Garbage8411 (no ICP fit), AISaas_ (ambiguous timing, commenting on old post thread 1t911i9). IdzumIVlad already L-120. Pipeline: 126 leads total.
 2026-05-22 (run 60) | leads: 0 | source: F5Bot Gmail (3 new threads -- Double_Tower_4841 already L-126, zkvqx/ListnCart_Dev/sunnybxneat/Alarmed_Rip7852/jprs29/Ok_Garbage8411/well-that-was-fast/karma86chameleon/detinUi all off-topic or advisory), IH WebSearch (10+ query angles -- all returning already-logged posts, pipeline confirmed exhausted), IH thread mining Sabb thread (30+ new commenters -- all advisory, none first-person pain: BubbaCodePro/SocialDevGame/craftedcode/memolife23 discarded run 38/etc.), HN Show HN last 24h (30 posts scanned via Algolia -- all dev tools/open-source, 0 ICP hits: bojta-lepenye/shideneyu/sanity/adisingh13/thisisjedr/ttchen2/NTRIXLM/dandraper/manas95/mindzzz/ajeskey/elliot952/grishka/bytego/tomburgs/jphfa/leomicv/Tidianez/onhacker/Reebz/fireharp/nox21125/shafkathullah/simonw/artiomyak/opiniateddev/beast200/justswim/tito777/ben30), Reddit all 7 subreddits blocked (egress policy). Fresh IH posts checked: devris/Droon (Jun 2025 too old), DataMine007/LeadSynth (already discarded), JBBuilds/ClearNoteLab (Dec 2025 too old, discarded run 27), HeyImYossi/UserTrail (Oct 2023 too old, discarded run 33), sabahattink/MailTest (already discarded runs 22+). Pipeline confirmed exhausted at 126 leads total. Reddit unblock remains the only viable signal refresh.
+
+2026-05-22 (run 61) | leads: 1 WATCH (NeedleworkerLumpy907 L-127/reddit/r/SaaS) + 1 COMMENT (thread 1tje9mr L-128/reddit/r/SaaS, O-119) | source: F5Bot Gmail newer_than:1d (10 threads parsed). Reddit all 7 subreddits blocked (egress policy). NeedleworkerLumpy907: r/SaaS 'First refund hurt way more than 0 signups' -- went through blank signup days, got first paying user, got refund, now iterating. Full distribution journey. WATCH for later. Thread 1tje9mr resolved from unresolved queue: 'Built 2 SaaS products stuck at 0 users, need a reality check on distribution' -- confirmed active via BodybuilderOne1023 commenter alert, author still unknown. Comment draft O-119 queued. Discarded: IdzumIVlad (already L-120), nuer0_ (already L-125), Double_Tower_4841 (already L-126), BodybuilderOne1023 (commenter, not post author, not yet launched), Individual_Path6849 (pricing question), Agitated-Touch8494 (thin comment), AISaas_ (old thread, analytics commenter), CodIllustrious7319/Common_Dream9420/Pitiful_Hyena6300/AdventurousLime309 (advice commenters). Off-topic: r/Edinburgh/r/StardewValley/r/careeradvice shouting-into-void hits. Pipeline: 128 leads total.

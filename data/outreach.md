@@ -2042,3 +2042,21 @@ date_sent: null
 result: null
 notes: Double_Tower_4841 commented on the "21-year-old Apple rejection" r/SideProject post. iOS app live as of May 21. Zero App Store organic. Running personal DMs + social layering now. Explicitly calls it a "distribution problem downstream." Strong ICP, deep self-awareness. Ask about day-one outreach experience. DM via Reddit.
 [RECORD_END]
+
+[RECORD_START]
+id: O-119
+date_created: 2026-05-22
+lead_id: L-128
+platform: reddit
+variant: comment
+draft_text: |
+  two saas products at 0 users is brutal, but the part that's actually interesting is "reality check on distribution" — most people blame the product, not the channel problem.
+
+  been researching exactly this gap for a few months. what did distribution actually look like for you? like where did you go first after launching each one?
+
+  curious whether it was a channel mismatch, audience mismatch, or something else upstream from both.
+status: draft
+date_sent: null
+result: null
+notes: r/SaaS thread 1tje9mr. Post title is textbook ICP. Author unknown due to Reddit egress block. Multiple commenters confirmed active thread. Drop comment to be visible and invite conversation. Thread: https://www.reddit.com/r/SaaS/comments/1tje9mr/
+[RECORD_END]
