@@ -1,11 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-22T20:00:00Z
+last_checked: 2026-05-22T22:00:00Z
 next_lead_id: L-131
 next_outreach_id: O-123
 
-last_run_note: Reddit direct fetch blocked by egress policy. Gmail F5Bot parsing used — 20+ threads scanned. 2 new DM leads + 1 COMMENT opportunity logged. L-129: Accurate_Board_9401 (r/buildinpublic + r/micro_saas, "188 visitors, 0 paying users, Briefly", < 2h old, O-120). L-130: Normal_Professor9680 (r/Entrepreneur Feedback Friday, "3 weeks $100 TikTok 0 paying", < 2h old, O-121). O-122: COMMENT on r/NoCodeSaaS "[Honest question] For micro-SaaS founders with traffic but zero paying users" (thread 1tke0gf, OP unknown). Discarded: just_an_edge_case (post removed), rey19Sin ("I j cant get users help lol" — too thin, r/nocode commenter), thegreatsorcerer (r/buildinpublic commenter, not OP), Double_Tower_4841 (already L-126), IdzumIVlad (already L-120), nuer0_ (already L-125), NeedleworkerLumpy907 (already L-127). Off-topic: r/BeverageIndustry, r/neoliberal, r/canada, r/uknews, r/WomenInBusiness, r/comics, r/Sculpey, r/GrowthHacking, r/Bromley, r/offmychest, r/AlbertaNow, r/dubai, r/jobsearchhacks, r/DigitalMarketing, r/pagebound, r/AskReddit, r/AI_UGC_Marketing. IH pipeline confirmed exhausted. HN not checked (F5Bot had actionable signal). Pipeline: 130 leads total.
+last_run_note: Reddit direct fetch blocked by egress policy. Gmail F5Bot parsing used — 15+ threads scanned since 20:00 UTC. 0 new leads this pass. No new F5Bot alerts after 20:00 UTC. Evaluated: AISaas_ (commenter on 871-signups thread, not OP pain), IdzumIVlad (already L-120), Technical_Tomorrow_4 (r/careeradvice, off-topic), Agitated-Touch8494 (r/GrowthHacking, too thin — "just launched 2 days ago"), BodybuilderOne1023 (pre-launch, not ICP), Individual_Path6849 (r/SaaS pricing post, not distribution pain), thegreatsorcerer (r/buildinpublic commenter, already discarded prior run). All previously unread F5Bot emails from May 21-22 confirmed fully processed. Pipeline: 130 leads total, unchanged.
 
 leads_logged:
   - Stingwave24
