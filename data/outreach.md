@@ -2024,3 +2024,21 @@ date_sent: null
 result: null
 notes: F5Bot "0 paying users" alert 2026-05-22T00:03:17Z. r/SideProject. Solo dev, 2 months in, 0 paying users, explicit marketing pain. Productivity app with identity-first framing. Reference the "marketing brutal" quote verbatim. Ask about specific channels. No pitch. DM via Reddit.
 [RECORD_END]
+
+[RECORD_START]
+id: O-118
+date_created: 2026-05-22
+lead_id: L-126
+platform: reddit
+variant: dm
+draft_text: |
+  hey, saw your comment on the apple rejection thread. app went live yesterday, zero organic from the store, treating the first 90 days like a distribution build phase.
+
+  what has outreach actually looked like on day one? like what have you tried so far?
+
+  doing research on how devs handle distribution right after launch. the way you framed it is exactly what i'm trying to understand.
+status: draft
+date_sent: null
+result: null
+notes: Double_Tower_4841 commented on the "21-year-old Apple rejection" r/SideProject post. iOS app live as of May 21. Zero App Store organic. Running personal DMs + social layering now. Explicitly calls it a "distribution problem downstream." Strong ICP, deep self-awareness. Ask about day-one outreach experience. DM via Reddit.
+[RECORD_END]

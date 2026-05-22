@@ -1738,3 +1738,17 @@ opener_angle: reference the "marketing brutal" quote, ask what channels they've 
 status: new
 outreach_id: O-117
 [RECORD_END]
+
+[RECORD_START]
+id: L-126
+date_found: 2026-05-22
+username: Double_Tower_4841
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1tj4l2g/
+pain_quote: "App Store organic traffic has been essentially zero... the actual distribution problem is downstream"
+product_built: iOS app — rejected by Apple 7 times across 35 builds, went live May 21
+fit_reason: App live yesterday. App Store organic = zero. Running personal DMs and social layering on day one. Explicitly names the "distribution problem" and frames first 90 days as a second build phase for distribution. Deep self-awareness. Strong ICP comment in r/SideProject <24h ago.
+opener_angle: what day-one outreach has actually felt like, and what has surprised them so far
+status: new
+outreach_id: O-118
+[RECORD_END]
