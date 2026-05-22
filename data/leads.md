@@ -1724,3 +1724,17 @@ opener_angle: day-one launch with 0 users — ask what they built and what chann
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-125
+date_found: 2026-05-22
+username: nuer0_
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1tk28la/every_productivity_app_asks_what_to_track_mine/
+pain_quote: "shipping daily but marketing has been brutal in a way i wasn't prepared for"
+product_built: productivity app with identity-first framing ("asks who you want to be, not what to track")
+fit_reason: solo dev, 2 months in, 0 paying users, explicit marketing/distribution pain in r/SideProject. ships daily but can't get traction. textbook post-build distribution gap.
+opener_angle: reference the "marketing brutal" quote, ask what channels they've actually tried
+status: new
+outreach_id: O-117
+[RECORD_END]

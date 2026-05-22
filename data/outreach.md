@@ -2006,3 +2006,21 @@ date_sent: null
 result: null
 notes: simonzhang commented on Sabb's thread 11h before this run. "Just launched my own thing this week so I know the zero-paying-users feeling well." Product unknown. Ask what they launched in line 1. DM via IH.
 [RECORD_END]
+
+[RECORD_START]
+id: O-117
+date_created: 2026-05-22
+lead_id: L-125
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your post in r/SideProject. "shipping daily but marketing has been brutal in a way i wasn't prepared for" is one of the more honest ways i've seen someone put it.
+
+  2 months in solo with 0 paying users - what has marketing actually looked like? like which channels have you tried?
+
+  doing research on exactly this gap between building something and getting people to find it.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 paying users" alert 2026-05-22T00:03:17Z. r/SideProject. Solo dev, 2 months in, 0 paying users, explicit marketing pain. Productivity app with identity-first framing. Reference the "marketing brutal" quote verbatim. Ask about specific channels. No pitch. DM via Reddit.
+[RECORD_END]
