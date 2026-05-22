@@ -2114,3 +2114,19 @@ date_sent: null
 result: null
 notes: r/NoCodeSaaS thread "[Honest question] For micro-SaaS founders with traffic but zero paying users" — URL: https://www.reddit.com/r/NoCodeSaaS/comments/1tke0gf/ — F5Bot "distribution problem" alert 2026-05-22T14:31Z via outsi_ commenter. Thread OP has the exact Tide ICP problem (traffic + 0 paying). r/NoCodeSaaS = high ICP density community not in primary target list but very close (nocode-adjacent). Drop comment to be visible to the OP and any readers with same pain. Ends with a question to generate a reply and potential DM lead.
 [RECORD_END]
+
+[RECORD_START]
+id: O-123
+date_created: 2026-05-22
+lead_id: L-131
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in r/vibecodingcommunity asking about gtm at the speed of vibecoding. curious what your specific situation is -- did you just ship something and now stuck on the distribution side?
+
+  genuinely want to understand what that gap looks like in practice. doing research on exactly this problem for vibe coders.
+status: draft
+date_sent: null
+result: null
+notes: SpecialistBubbly4282 posted "Anyone have a GTM strategy that works at the speed of vibecoding?" on r/vibecodingcommunity (F5Bot "shouting into the void" alert 2026-05-22T15:28:18Z). Post author is explicitly asking for GTM/distribution strategy in the exact ICP community. Product unknown -- kept DM open so they fill in what they built. r/vibecodingcommunity = core Tide ICP community. DM via Reddit. Under 4 sentences. No em dashes. No pitch.
+[RECORD_END]

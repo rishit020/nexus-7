@@ -1808,3 +1808,17 @@ opener_angle: reference the TikTok spend specifically, ask whether the problem i
 status: new
 outreach_id: O-121
 [RECORD_END]
+
+[RECORD_START]
+id: L-131
+date_found: 2026-05-22
+username: SpecialistBubbly4282
+platform: reddit
+url: https://www.reddit.com/r/vibecodingcommunity/comments/1tkld06/
+pain_quote: "Anyone have a GTM strategy that works at the speed of vibecoding?"
+product_built: unknown -- vibe coder asking for GTM/distribution help post-build
+fit_reason: post author asking for GTM strategy in r/vibecodingcommunity. literally the vibe coding community where our ICP lives. no GTM playbook = distribution gap. asking the question implies they're in the problem.
+opener_angle: ask what their specific situation is -- did they just ship something and now facing distribution
+status: new
+outreach_id: O-123
+[RECORD_END]
