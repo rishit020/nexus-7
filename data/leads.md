@@ -1836,3 +1836,31 @@ opener_angle: the 2.5-year / 2-SaaS / $0 arc — ask what distribution actually 
 status: new
 outreach_id: O-124
 [RECORD_END]
+
+[RECORD_START]
+id: L-133
+date_found: 2026-05-23
+username: Rogre10
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tl4jus/i_launched_my_saas_but_now_i_have_questions/
+pain_quote: "2 weeks in Im getting users to visit but my conversions are non existent right now"
+product_built: creatorarc.app — AI brand coach for Instagram creators (personalized strategy to get monetized, land brand deals)
+fit_reason: OP in r/SaaS, post-launch, named product, visitors but zero conversions after 2 weeks. Has return users but no paying customers. First-person, current struggle. Explicitly asking for help. Post is < 6 hours old at time of logging. Not a classic vibe coder but the distribution pain (traffic-no-conversion) is exactly the problem Tide solves.
+opener_angle: reference creatorarc by name, ask which channels drove those visitors and whether any held longer before dropping off
+status: new
+outreach_id: O-125
+[RECORD_END]
+
+[RECORD_START]
+id: L-134
+date_found: 2026-05-23
+username: Stock_Program2722
+platform: reddit
+url: https://www.reddit.com/r/micro_saas/comments/1tkcnn6/c/ona0mdm/
+pain_quote: "Spent six months shouting into the void"
+product_built: unknown — commenter on r/micro_saas thread "Indie hackers love coding. Thats why they are broke"
+fit_reason: Comment on r/micro_saas thread about indie hackers being broke at distribution. "Spent six months shouting into the void" is strong first-person pain — describes lived experience, not advice-giving. r/micro_saas = high ICP density. Comment is ~13 hours old at time of logging. Product unknown but pain is real and specific.
+opener_angle: reference the six months / shouting into the void line specifically, ask what they built and what distribution looked like
+status: new
+outreach_id: O-126
+[RECORD_END]

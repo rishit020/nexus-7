@@ -2148,3 +2148,39 @@ date_sent: null
 result: null
 notes: OkExamination3372 posted "2.5 years building, 2 SaaS live, still $0. Anyone else stuck in this part?" on r/Solopreneur (F5Bot "shouting into the void" alert 2026-05-22T22:50Z). 2.5 year / 2 product / $0 = maximum duration distribution pain. Post title is first-person, current, asking if others are stuck. DM via Reddit. Under 4 sentences. No em dashes. No pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-125
+date_created: 2026-05-23
+lead_id: L-133
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in r/SaaS — creatorarc has return visitors but no conversions after 2 weeks. that window is brutal.
+
+  curious which channels drove those visitors and whether any held longer before dropping off.
+
+  doing research on the gap between getting traffic and getting paying users. sounds like you're right in the middle of it.
+status: draft
+date_sent: null
+result: null
+notes: Rogre10 posted "I launched my Saas but now I have questions" in r/SaaS at 03:17 UTC 2026-05-23. F5Bot "launched my saas" keyword alert. OP has named product (creatorarc.app), 2 weeks post-launch, visitors arriving but zero conversions. Has return users. Asking r/SaaS for signup feedback. First-person pain, < 6 hours old. DM via Reddit. Under 4 sentences. No em dashes. No pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-126
+date_created: 2026-05-23
+lead_id: L-134
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in r/micro_saas — "spent six months shouting into the void." that line stuck.
+
+  curious what you actually built and what distribution looked like during those six months. which channels you tried, where it fell apart.
+
+  doing research on exactly that problem. the gap between shipping something real and getting people to actually use it.
+status: draft
+date_sent: null
+result: null
+notes: Stock_Program2722 commented on r/micro_saas thread "Indie hackers love coding. Thats why they are broke" at 17:05 UTC 2026-05-22. F5Bot "shouting into the void" keyword alert. Comment snippet "Spent six months shouting into the void" = strong first-person distribution pain. Product unknown — DM opens with their own words to get them to share context. Under 4 sentences. No em dashes. No pitch.
+[RECORD_END]
