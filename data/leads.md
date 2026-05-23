@@ -1864,3 +1864,17 @@ opener_angle: reference the six months / shouting into the void line specificall
 status: new
 outreach_id: O-126
 [RECORD_END]
+
+[RECORD_START]
+id: L-135
+date_found: 2026-05-23
+username: kng_wicked
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1tlb03r/254_installs_0_paying_users_heres_what_i_changed/
+pain_quote: "254 installs, 0 paying users"
+product_built: Driftpulse -- VS Code extension detecting code drift in AI-assisted development. 254 downloads, 0 signups because required OpenAI API key on install. Fixed barrier: first scan now instant, no setup.
+fit_reason: Post-launch builder in the vibe coding tooling space. Posted "254 installs, 0 paying users. Here's what I changed" on r/SideProject. Distribution side worked (254 installs despite API key friction). Identified root cause, shipped fix, now sharing publicly. Good COMMENT play -- establishes presence in vibe coder community, opens conversation about what channels drove those installs.
+opener_angle: comment noting the distribution actually worked (254 installs with friction), ask what channels drove them
+status: new
+outreach_id: O-127
+[RECORD_END]

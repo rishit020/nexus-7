@@ -2184,3 +2184,19 @@ date_sent: null
 result: null
 notes: Stock_Program2722 commented on r/micro_saas thread "Indie hackers love coding. Thats why they are broke" at 17:05 UTC 2026-05-22. F5Bot "shouting into the void" keyword alert. Comment snippet "Spent six months shouting into the void" = strong first-person distribution pain. Product unknown — DM opens with their own words to get them to share context. Under 4 sentences. No em dashes. No pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-127
+date_created: 2026-05-23
+lead_id: L-135
+platform: reddit
+variant: comment
+draft_text: |
+  the api key on install is such a classic friction killer. but honestly 254 installs with that barrier in place means the distribution actually worked. most vibe coding tools launch and get 12.
+
+  doing research on the post-launch gap for developer tools. curious what channels drove those installs.
+status: draft
+date_sent: null
+result: null
+notes: kng_wicked posted "254 installs, 0 paying users. Here's what I changed" on r/SideProject (F5Bot "0 paying users" alert 2026-05-23T08:52Z). Built Driftpulse (VS Code extension for code drift in AI-assisted dev). 254 installs, 0 signups because required OpenAI API key on install. Fixed friction, now sharing the lesson publicly. COMMENT play -- adds genuine value (distribution vs conversion distinction), establishes presence in vibe coder community. No em dashes.
+[RECORD_END]
