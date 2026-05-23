@@ -2138,9 +2138,9 @@ lead_id: L-132
 platform: reddit
 variant: dm
 draft_text: |
-  hey — saw your post about 2.5 years and two SaaS products still at $0. that stuck with me.
+  hey, saw your post about 2.5 years and two SaaS products still at $0. that stuck with me.
 
-  curious what distribution actually looked like across both products — which channels, where did things break down, any signal at all or just silence?
+  curious what distribution actually looked like across both products. which channels, where did things break down, any signal at all or just silence?
 
   doing research on the gap between shipping something real and getting people to pay for it. feels like you've lived the full arc of that.
 status: draft
