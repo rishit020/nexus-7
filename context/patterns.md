@@ -43,3 +43,7 @@ OBSERVED: Em dashes appeared in O-049 and O-050 DM drafts. Caught post-draft bot
 IMPLICATION: Before finalizing any DM or comment draft, scan explicitly for the — character. Never use em dashes in outreach copy. Replace with a period or restructure the sentence.
 
 LAST_UPDATED: 2026-05-18
+
+2026-05-23 | TYPE: mistake — NEVER REPEAT
+OBSERVED: Em dashes appeared in O-125 and O-126 DM drafts (third occurrence). Pattern: em dashes slip in when writing "saw your post in X — [detail]" sentence structure. Caught post-commit, fixed before Rishit could copy them, but Telegram was already sent with the em-dash version.
+IMPLICATION: Any sentence of the form "saw X in Y — [detail]" must be rewritten. Use a period instead: "saw X in Y. [detail]." Always scan every character before finalizing any DM. This is a persistent generation habit that requires explicit checking every single time.
