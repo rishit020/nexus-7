@@ -1,11 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-23T06:30:00Z
+last_checked: 2026-05-23T05:04:24Z
 next_lead_id: L-135
 next_outreach_id: O-127
 
-last_run_note: Run 69 — Reddit API fully blocked (egress policy). F5Bot Gmail scan newer_than:3h: 2 threads scanned (19e52d64dfb20b7f "launched my saas", 19e4e5c0a5a12935 "shouting into the void" multi-alert). 2 new DM leads found. L-133: Rogre10 (r/SaaS, OP, creatorarc.app, 2 weeks post-launch, visitors/no conversions, < 6h old). L-134: Stock_Program2722 (r/micro_saas, commenter, "spent six months shouting into the void", 13h old). WATCH: Key-Boat-7519 (r/passive_income commenter on "Nobody tells you how hard the distribution side is until you're in it" — strong OP post title but commenter identity unclear), TheChandrianX (r/SaaS commenter on "How do I find customers?" — commenter not OP). DISCARDED: All "shouting into the void" from non-ICP communities (r/offmychest, r/Bromley, r/gardening, r/AITA, r/AlbertaNow, r/ForzaHorizon6, r/BollywoodHotTakes, r/Subnautica_2, r/PhasmophobiaGame, r/GirlDinnerDiaries, r/lonely, r/mooncatpolish, r/Portland, r/InstagramMarketing, r/DigitalMarketing, r/linkedinautomation, r/InstagramEmpire). Also discarded: SaaSMarketing 3-month/$1.6k revenue post (has revenue, not in pain), Organic_Scarcity_495 (advisory commentary), Artistic_Scheme8402 (experienced builder, not in pain). 7 pending drafts awaiting Rishit review: O-120 (Accurate_Board_9401/DM), O-121 (Normal_Professor9680/DM), O-122 (r/NoCodeSaaS/COMMENT), O-123 (SpecialistBubbly4282/DM), O-124 (OkExamination3372/DM), O-125 (Rogre10/DM), O-126 (Stock_Program2722/DM). Pipeline: 134 leads total.
+last_run_note: Run 70 — Reddit API still blocked (egress policy). F5Bot Gmail scan newer_than:24h: 6 threads scanned. 0 new DM leads. All new signals discarded or WATCH. DISCARDED: just_an_edge_case (Indian market, 15K email list, fundraising math toolkit — wrong ICP entirely), PairFinancial2420 (advisory commenter, not own pain), rey19Sin (r/nocode "I j cant get users help lol" — 15h old, too thin for DM), AnEternalSkeptic (r/nba, not ICP), Weak-Visit4438 (past tense advisory), AdmirablePresence216 (news product, not indie hacker SaaS). WATCH: unknown OP of r/buildinpublic/comments/1tki9vh ("Launched my mental health app on iOS/Android/web three weeks ago. Zero traction") — strong ICP but username unknown from email alert. All previously logged leads L-133 and L-134 from Run 69 already captured. 7 pending drafts still awaiting Rishit review: O-120 through O-126. Pipeline: 134 leads total.
 
 leads_logged:
   - Stingwave24
