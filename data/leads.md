@@ -1822,3 +1822,17 @@ opener_angle: ask what their specific situation is -- did they just ship somethi
 status: new
 outreach_id: O-123
 [RECORD_END]
+
+[RECORD_START]
+id: L-132
+date_found: 2026-05-23
+username: OkExamination3372
+platform: reddit
+url: https://www.reddit.com/r/Solopreneur/
+pain_quote: "2.5 years building, 2 SaaS live, still $0. Anyone else stuck in this part?"
+product_built: 2 SaaS products (unknown specifics), 2.5 years of building, zero revenue
+fit_reason: 2.5 years / 2 products / $0 — maximum duration distribution pain. first-person, current. explicitly asking if others are stuck the same way. r/Solopreneur = core ICP community.
+opener_angle: the 2.5-year / 2-SaaS / $0 arc — ask what distribution actually looked like across both products, which channels, where it broke down
+status: new
+outreach_id: O-124
+[RECORD_END]

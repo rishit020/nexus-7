@@ -2130,3 +2130,21 @@ date_sent: null
 result: null
 notes: SpecialistBubbly4282 posted "Anyone have a GTM strategy that works at the speed of vibecoding?" on r/vibecodingcommunity (F5Bot "shouting into the void" alert 2026-05-22T15:28:18Z). Post author is explicitly asking for GTM/distribution strategy in the exact ICP community. Product unknown -- kept DM open so they fill in what they built. r/vibecodingcommunity = core Tide ICP community. DM via Reddit. Under 4 sentences. No em dashes. No pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-124
+date_created: 2026-05-23
+lead_id: L-132
+platform: reddit
+variant: dm
+draft_text: |
+  hey — saw your post about 2.5 years and two SaaS products still at $0. that stuck with me.
+
+  curious what distribution actually looked like across both products — which channels, where did things break down, any signal at all or just silence?
+
+  doing research on the gap between shipping something real and getting people to pay for it. feels like you've lived the full arc of that.
+status: draft
+date_sent: null
+result: null
+notes: OkExamination3372 posted "2.5 years building, 2 SaaS live, still $0. Anyone else stuck in this part?" on r/Solopreneur (F5Bot "shouting into the void" alert 2026-05-22T22:50Z). 2.5 year / 2 product / $0 = maximum duration distribution pain. Post title is first-person, current, asking if others are stuck. DM via Reddit. Under 4 sentences. No em dashes. No pitch.
+[RECORD_END]
