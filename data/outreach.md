@@ -2156,7 +2156,7 @@ lead_id: L-133
 platform: reddit
 variant: dm
 draft_text: |
-  saw your post in r/SaaS — creatorarc has return visitors but no conversions after 2 weeks. that window is brutal.
+  saw your post in r/SaaS. creatorarc has return visitors but zero conversions after 2 weeks. that window is brutal.
 
   curious which channels drove those visitors and whether any held longer before dropping off.
 
@@ -2174,7 +2174,7 @@ lead_id: L-134
 platform: reddit
 variant: dm
 draft_text: |
-  saw your comment in r/micro_saas — "spent six months shouting into the void." that line stuck.
+  saw your comment in r/micro_saas. "spent six months shouting into the void." that line stuck.
 
   curious what you actually built and what distribution looked like during those six months. which channels you tried, where it fell apart.
 
