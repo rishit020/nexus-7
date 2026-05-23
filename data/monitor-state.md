@@ -1,11 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-23T22:00:00Z
+last_checked: 2026-05-24T00:30:00Z
 next_lead_id: L-136
 next_outreach_id: O-128
 
-last_run_note: Run 71 — Reddit API still blocked (egress policy). F5Bot Gmail scan newer_than:24h: 11 threads parsed. 1 new COMMENT lead (kng_wicked L-135, O-127). KEPT: kng_wicked (r/SideProject, "254 installs, 0 paying users. Here's what I changed" -- Driftpulse VS Code extension, distribution worked, conversion didn't -- COMMENT play). WATCH: NAYCHO334 (r/founder, img2sheet.com, daily users/$0 revenue -- monetization not distribution, wrong ICP fit). DISCARDED: ResponsibilitySad28 (already L-104), Accurate_Board_9401 (already L-129), Rogre10 (already L-133), Stock_Program2722 (already L-134), just_an_edge_case (already discarded run 70), PairFinancial2420 (already discarded run 70), Solid-Coconut8830 (advisory commenter r/indiehackers, giving build-vs-market framework advice -- not own pain), BotherFantastic9287 (B2B stealth mode advisor r/SaaS, not solo ICP), Sea-Currency2823 (job hunting context r/FullStack, not SaaS builder), UNITE47 (advisory commenter r/AISaaSHunter), ExistingTutor1546 (personal diary r/TwentiesIndia), Guilty_Ad_8688 (gaming r/DeadlockTheGame). 8 pending drafts awaiting Rishit review: O-120 through O-127. Pipeline: 135 leads total.
+last_run_note: Run 72 — Reddit all 7 subreddits blocked (egress policy + WebFetch + WebSearch — reddit.com fully inaccessible to Anthropic crawler). F5Bot Gmail: 0 new signals in last 24h (inbox empty). HN Show HN: 25 posts last 24h scanned, 0 ICP hits (all dev tools/hobby/games). IH WebSearch: all queries returning already-logged posts — pipeline confirmed exhausted. One new IH post checked: Josh Adams "Building in public: most problems aren't what they seem" (Mar 2, 2026) — DISCARD, 3 months old, analytical not distribution pain. 8 pending drafts still awaiting Rishit review: O-120 through O-127. Pipeline: 135 leads total. No new leads this pass.
 
 leads_logged:
   - Stingwave24
