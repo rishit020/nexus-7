@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-24T03:30:00Z
-next_lead_id: L-141
-next_outreach_id: O-131
-note: L-140 is a WATCH (just_an_edge_case — ICP mismatch, has 15K newsletter audience, not vibe coder). kng_wicked was already L-135. No new DM or comment leads.
+last_checked: 2026-05-24T23:30:00Z
+next_lead_id: L-143
+next_outreach_id: O-133
+note: L-141 builtbyAnthony (r/buildinpublic DM), L-142 forget_names_often (IH DM). Both from May 22 "shouting into the void" F5Bot batch, missed in run 72 due to large thread partial extraction.
 
-last_run_note: Run 77 — Reddit egress blocked, F5Bot Gmail 9 threads parsed. 0 DM leads. 0 comment leads. 1 WATCH (just_an_edge_case: 15K subscribers, 0 signups, wrong ICP — accelerator newsletter not vibe coder). All other hits: off-topic keyword matches, commentary givers, ICP mismatch, or already logged. NAYCHO334 discarded (has daily users, monetization problem not distribution). Spare-Ad-6934 discarded (hypothetical commentary). Proper_Armadillo8575 discarded (12yo founder with BI interview, not struggling).
+last_run_note: Run 78 -- F5Bot Gmail 2 threads parsed. 2 new DM leads. Stellarton (r/SaaS) discarded (advice not personal pain). May 22 batch re-parsed: builtbyAnthony ("I built it but they're not coming", active first-person pain) and forget_names_often ("still don't have the balance", IH) both new. IsopodInitial6766 already L-136, ResponsibilitySad28 already logged, thegreatsorcerer/Organic_Scarcity_495/TheChandrianX/Artistic_Scheme8402/Usama_Kashif/LevelAd9633 all advisory or already processed.
 
 leads_logged:
   - Stingwave24
@@ -147,6 +147,8 @@ leads_logged:
   - CurrencyBulky177
   - rey19Sin
   - just_an_edge_case
+  - builtbyAnthony
+  - forget_names_often
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -237,3 +239,4 @@ telegram_configured: true
 2026-05-24 (run 73) | leads: 0 | source: F5Bot Gmail (8 unread threads from 2026-05-23, all discarded — advisory commenters, wrong context, or already logged), HN Algolia Show HN (30 posts last 24h, 0 ICP hits), IH WebSearch (all returning already-logged posts), Reddit all 7 subreddits blocked (egress + WebFetch + WebSearch). 8 pending drafts awaiting Rishit review: O-120 through O-127. Pipeline: 135 leads total.
 2026-05-24 (run 74) | leads: 0 DM, 0 COMMENT, 1 WATCH (rey19Sin L-138/r/nocode) | source: F5Bot Gmail full inbox scan (17+ threads) + HN Algolia (30+ posts, all April 2026, 0 ICP hits) + Reddit all 7 subreddits blocked (egress + WebFetch + WebSearch domain). Already-logged re-encounters: Accurate_Board_9401 (L-129, run 62), Normal_Professor9680 (L-130, run 62), kng_wicked (L-135, run 71), just_an_edge_case (discarded run 65 — has 15k existing audience, conversion not distribution). Discards: outsi_ (r/NoCodeSaaS advisor, not pain), drumttocs8 (r/arborists, off-topic), Spare-Ad-6934/NAYCHO334/ExistingTutor1546/Guilty_Ad_8688/UNITE47/BotherFantastic9287/Sea-Currency2823 (all run 73 discards reconfirmed). rey19Sin: r/nocode "I j cant get users help lol" — genuine pain, too sparse to draft outreach. 9 pending drafts awaiting Rishit review: O-120 through O-129. Pipeline: 138 leads total.
 2026-05-24 (run 75) | leads: 0 | source: Reddit all 7 subreddits blocked (egress policy), F5Bot Gmail 20 threads all already-logged or off-topic (drumttocs8/Spare-Ad-6934/NAYCHO334/ExistingTutor1546/Guilty_Ad_8688/UNITE47/Solid-Coconut8830/BotherFantastic9287/Sea-Currency2823 all run 73/74 discards; kng_wicked=L-135/Rogre10=L-133/Normal_Professor9680=L-130/Accurate_Board_9401=L-129/rey19Sin=L-138 all already logged; PairFinancial2420 headlight side hustle off-topic; just_an_edge_case 15K subscribers not ICP; off-topic social subs). HN Show HN 30 posts 0 ICP hits. IH WebSearch 10+ angles all already-logged. IH thread mining: marcoks discarded competitor, DataMine007 discarded, JeffTech74 March 2026 discarded, HeyImYossi Oct 2023 too old, RedLINE_timing advisory. Pipeline: 138 leads total. No new leads this pass.
+2026-05-24 (run 78) | leads: 2 DM (builtbyAnthony L-141/r/buildinpublic, forget_names_often L-142/IH) | source: F5Bot Gmail 2 threads (19e5c2bcf5d31e46 new unread + 19e4e5c0a5a12935 large May 22 batch re-parsed via subagent jq extraction). builtbyAnthony: post author "I built it, but they're not coming." active first-person pain, "questioning whether you're delusional" quote, r/buildinpublic. forget_names_often: IH commenter, "still don't have the balance" on when-to-stop-building thread. Discards: stellarton (r/SaaS, advisory not pain), all May 22 batch previously processed (IsopodInitial6766=L-136, thegreatsorcerer/Organic_Scarcity_495/TheChandrianX advisory, Artistic_Scheme8402/Usama_Kashif/LevelAd9633 solved/advising, ResponsibilitySad28 already L-104). Pipeline: 142 leads total.

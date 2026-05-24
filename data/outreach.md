@@ -2252,3 +2252,39 @@ date_sent: null
 result: null
 notes: ResponsibilitySad28 (already L-104, not new ICP) cross-posted their first-paying-user story to r/micro_saas. Thread is active and relevant. This is a visibility comment to participate in the distribution discussion, not outreach to OP. Other commenters may be ICP. No em dashes verified.
 [RECORD_END]
+
+[RECORD_START]
+id: O-131
+date_created: 2026-05-24
+lead_id: L-141
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post "i built it, but they're not coming." that line about questioning whether what you built is actually good or if you're just delusional is the most honest version of this i've read.
+
+  what have you actually tried for distribution so far? which channels and what was the response, even if it was tiny?
+
+  doing research on exactly this gap between building something real and getting anyone to see it.
+status: draft
+date_sent: null
+result: null
+notes: builtbyAnthony is the OP of "I built it, but they're not coming." on r/buildinpublic. Post is from 2026-05-24 F5Bot "shouting into the void" alert thread. First-person, active pain. Asks community what worked. Textbook ICP. DM via Reddit. No em dashes. No pitch. Lead with the delusional quote specifically.
+[RECORD_END]
+
+[RECORD_START]
+id: O-132
+date_created: 2026-05-24
+lead_id: L-142
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the when-to-stop-building thread. "still don't have the balance" is the part most people skip past.
+
+  what does the distribution side actually look like for you right now? which channels have you tried and what's the response been?
+
+  doing research on this gap between shipping and getting real users. sounds like you're still in it.
+status: draft
+date_sent: null
+result: null
+notes: forget_names_often commented on IH "My biggest indie hacker challenge: when to stop building and start marketing" thread. F5Bot "shouting into the void" alert 2026-05-24. "Still don't have the balance" confirms ongoing struggle, not retrospective. Product unknown. DM via IH. No em dashes. No pitch. Research framing.
+[RECORD_END]

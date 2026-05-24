@@ -1948,3 +1948,31 @@ opener_angle: n/a — ICP mismatch, wrong product category for Tide research
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-141
+date_found: 2026-05-24
+username: builtbyAnthony
+platform: reddit
+url: https://reddit.com/r/buildinpublic
+pain_quote: "Still feels like shouting into the void. It's humbling. It's exhausting. And honestly, it makes you question whether the thing you built is actually good or if you're just delusional."
+product_built: unknown (post-launch, actively distributing)
+fit_reason: post author of "I built it, but they're not coming." first-person active pain, describes the full arc of post-launch distribution exhaustion. explicit self-doubt. asking the community what actually worked. textbook ICP.
+opener_angle: the "questioning whether you're delusional" line — that's the rawest version of this pain, lead with it
+status: new
+outreach_id: O-131
+[RECORD_END]
+
+[RECORD_START]
+id: L-142
+date_found: 2026-05-24
+username: forget_names_often
+platform: indiehackers
+url: https://indiehackers.com/post/my-biggest-indie-hacker-challenge-when-to-stop-building-and-start-marketing
+pain_quote: "building feels productive, marketing feels like shouting into the void — that's exactly it. Still don't have the balance."
+product_built: unknown (active IH member, post-launch, still iterating on distribution)
+fit_reason: first-person, current struggle. "still don't have the balance" confirms ongoing pain not retrospective. r/indiehackers exact ICP community. not in advice-giving mode, in real-struggle mode.
+opener_angle: "still don't have the balance" — ask what distribution actually looks like for them right now
+status: new
+outreach_id: O-132
+[RECORD_END]
