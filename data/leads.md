@@ -1920,3 +1920,17 @@ opener_angle: reference the behavioral tracking tool, ask what distribution they
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-139
+date_found: 2026-05-24
+username: ResponsibilitySad28
+platform: reddit
+url: https://www.reddit.com/r/micro_saas/comments/1tlh9gd/got_my_first_paying_user_22_days_after_launch_the/
+pain_quote: "most of it felt like shouting into the void"
+product_built: unknown micro-saas (post-launch, first paying user at day 22)
+fit_reason: DUPLICATE — already logged as L-104 from r/indiehackersindia. Same person, cross-posted to r/micro_saas. OP is a success story (got first paying user), not current ICP. Kept here because thread itself is a visibility COMMENT opportunity in a distribution-focused community.
+opener_angle: n/a — visibility comment on thread, not DM to OP
+status: duplicate
+outreach_id: O-130
+[RECORD_END]

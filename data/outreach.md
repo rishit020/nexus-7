@@ -2236,3 +2236,19 @@ date_sent: null
 result: null
 notes: CurrencyBulky177 commented in r/SaaS on thread about SaaS for UAE small businesses, 6 months / zero paying customers. F5Bot "distribution problem" alert 2026-05-17/18. First-person distribution pain with high self-awareness ("treating it as a distribution problem when it might be a credibility problem"). DM via Reddit. No em dashes. No pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-130
+date_created: 2026-05-24
+lead_id: L-139
+platform: reddit
+variant: comment
+draft_text: |
+  22 days to first paying customer is actually solid. the part about it feeling like shouting into the void though. curious which of those channels actually drove that first conversion. was it the reddit posts, the x content, or something else entirely?
+
+  doing research on exactly this window between launch and first real user, and what distribution approaches actually work vs what just feels productive.
+status: draft
+date_sent: null
+result: null
+notes: ResponsibilitySad28 (already L-104, not new ICP) cross-posted their first-paying-user story to r/micro_saas. Thread is active and relevant. This is a visibility comment to participate in the distribution discussion, not outreach to OP. Other commenters may be ICP. No em dashes verified.
+[RECORD_END]

@@ -1,11 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-24T10:15:00Z
-next_lead_id: L-139
-next_outreach_id: O-130
+last_checked: 2026-05-24T03:07:43Z
+next_lead_id: L-140
+next_outreach_id: O-131
+note: L-139 is a duplicate (ResponsibilitySad28 = L-104). O-130 is a visibility comment, not DM outreach.
 
-last_run_note: Run 75 — Reddit all 7 subreddits blocked (egress policy), F5Bot Gmail 20 threads all already-logged or off-topic, HN 0 ICP hits, IH pipeline exhausted. No new leads.
+last_run_note: Run 76 — Reddit all 7 subreddits blocked (egress policy), F5Bot Gmail 11 threads parsed, all discarded (10 off-topic/not ICP/monetization not distribution, 1 duplicate: ResponsibilitySad28 already L-104). 0 new DM leads. 1 visibility comment opportunity drafted (O-130) on r/micro_saas distribution thread.
 
 leads_logged:
   - Stingwave24
