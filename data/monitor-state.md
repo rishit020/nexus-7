@@ -2,8 +2,8 @@
 # Updated automatically each monitor run. Do not edit manually.
 
 last_checked: 2026-05-24T06:15:00Z
-next_lead_id: L-136
-next_outreach_id: O-128
+next_lead_id: L-138
+next_outreach_id: O-130
 
 last_run_note: Run 73 — Reddit all 7 subreddits blocked (egress policy + WebFetch + WebSearch — reddit.com fully inaccessible to Anthropic crawler). F5Bot Gmail: 8 new unread threads parsed (all from 2026-05-23, missed by run 72 due to Gmail MCP access issue). All discarded: Solid-Coconut8830 (r/indiehackers, advisory commenter not personal pain), UNITE47 (r/AISaaSHunter, B2B advisory), BotherFantastic9287 (r/SaaS, B2B stealth advice), Sea-Currency2823 (r/FullStack, job search rejections), NAYCHO334 (r/founder, already WATCH run 71 — has users but $0 rev = monetization not distribution), ExistingTutor1546 (r/TwentiesIndia, personal diary), Guilty_Ad_8688 (r/DeadlockTheGame, gaming), Spare-Ad-6934 (r/Startup_Ideas, hypothetical business ideas). kng_wicked + Rogre10 already logged (L-135, L-133). HN Show HN: 30 posts last 24h scanned via Algolia, 0 ICP hits (all dev tools/open-source/hobby/games). IH WebSearch: all queries returning already-logged posts. 8 pending drafts still awaiting Rishit review: O-120 through O-127. Pipeline: 135 leads total. No new leads this pass.
 
@@ -218,7 +218,13 @@ telegram_configured: true
 2026-05-23 (run 66) | leads: 1 DM (OkExamination3372 L-132/r/Solopreneur) | source: F5Bot Gmail newer_than:2h (3 threads parsed, full content extracted via jq agents). OkExamination3372: "2.5 years building, 2 SaaS live, still $0" — maximum-duration distribution pain, first-person, current, r/Solopreneur (core ICP community). Discarded: Stock_Program2722 (analysis post author, already discarded run 63), thegreatsorcerer (commentary, already discarded run 62), Helpful-Skirt132 ($1.6k revenue, solved), Key-Boat-7519/Annual_Dragonfly_721 (advice givers), Organic_Scarcity_495 (commentary), TheChandrianX (advice giver), tand_eyes/Ok-Storage-3003/jonnysboy12/One-Ice7086/ABWRichard (already processed), nesavina2 (success story). Pipeline: 132 leads total.
 2026-05-23 (run 71) | leads: 1 COMMENT (kng_wicked L-135/r/SideProject, O-127) | source: F5Bot Gmail newer_than:24h (11 threads parsed). kng_wicked: "254 installs, 0 paying users. Here's what I changed" -- Driftpulse VS Code extension, API key friction killed conversions, fixed it. COMMENT play. WATCH: NAYCHO334 (daily users/$0 rev, monetization not distribution). All other signals discarded or already-logged.
 2026-05-23 (run 67) | leads: 0 | source: F5Bot Gmail full inbox scan (newer_than:2d, 20+ threads, all already processed in runs 62-66). Reddit all 7 subreddits blocked (egress policy). IH pipeline exhausted (homepage returns tino8383/ReleaseLog/max_flowly_run — all already logged). New signal checked: Artistic_Scheme8402 (r/buildinpublic) — DISCARD, solved distribution, advising others. ktg0215 ("$19.30 MRR after 16 extensions" IH post, 20h old) — WATCH, post body unloadable, Chrome extension / Web Store model = weaker Tide ICP. 5 pending drafts still awaiting Rishit review. Pipeline: 132 leads total.
+2026-05-24 (run 72) | leads: 2 DM (IsopodInitial6766 L-136/r/vibecoding, CurrencyBulky177 L-137/r/SaaS) | source: F5Bot Gmail newer_than:2h (3 threads parsed, large threads via subagent jq extraction). IsopodInitial6766: r/vibecoding "Vibecoded something you were actually proud of, then nobody saw it" -- textbook vibe coder ICP, AI-enabled fast builds but zero visibility. CurrencyBulky177: r/SaaS, 6 months / zero paying customers / self-diagnosing distribution gap. Discarded: Spare-Ad-6934 (r/Startup_Ideas -- analyzing others' ideas, not personal pain), thegreatsorcerer/Organic_Scarcity_495/TheChandrianX/BruhIsEveryNameTaken (commentary, not first-person pain), Artistic_Scheme8402/Usama_Kashif/LevelAd9633/phdpan (solved/advising), Hot-Ask1349 (commenting on someone else's launch), Silent_Teacher_3913/Odd-Humor-2181ReaWor (already discarded in prior runs), ResponsibilitySad28/SaltyMajor7698/One-Ice7086 (already logged). Pipeline: 137 leads total.
   - Rogre10
   - Stock_Program2722
   - kng_wicked
+<<<<<<< HEAD
 2026-05-24 (run 73) | leads: 0 | source: F5Bot Gmail (8 unread threads from 2026-05-23, all discarded — advisory commenters, wrong context, or already logged), HN Algolia Show HN (30 posts last 24h, 0 ICP hits), IH WebSearch (all returning already-logged posts), Reddit all 7 subreddits blocked (egress + WebFetch + WebSearch). 8 pending drafts awaiting Rishit review: O-120 through O-127. Pipeline: 135 leads total.
+=======
+  - IsopodInitial6766
+  - CurrencyBulky177
+>>>>>>> 1fb5f40 (monitor: add 2 new leads 2026-05-24 01:20 UTC)

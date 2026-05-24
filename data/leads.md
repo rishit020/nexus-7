@@ -1878,3 +1878,31 @@ opener_angle: comment noting the distribution actually worked (254 installs with
 status: new
 outreach_id: O-127
 [RECORD_END]
+
+[RECORD_START]
+id: L-136
+date_found: 2026-05-24
+username: IsopodInitial6766
+platform: reddit
+url: https://reddit.com/r/vibecoding
+pain_quote: "I ship stuff in a weekend now that used to take me months. but then it just sits there. nobody sees it."
+product_built: unknown (vibecoded project, AI-assisted)
+fit_reason: textbook vibe coder ICP. AI made building easy but visibility is zero. explicitly asking the community what actually worked. perfect timing.
+opener_angle: their own quote about shipping fast but nobody seeing it
+status: new
+outreach_id: O-128
+[RECORD_END]
+
+[RECORD_START]
+id: L-137
+date_found: 2026-05-24
+username: CurrencyBulky177
+platform: reddit
+url: https://reddit.com/r/SaaS
+pain_quote: "I've been treating this as a distribution problem when it might actually be a credibility problem. 6 months in, zero paying customers."
+product_built: SaaS for UAE small businesses (finance adjacent)
+fit_reason: 6 months post-launch, zero paying customers, first-person self-diagnosis of the distribution gap. high self-awareness about what's broken. strong ICP.
+opener_angle: the 6-month duration and their own distribution vs credibility framing
+status: new
+outreach_id: O-129
+[RECORD_END]

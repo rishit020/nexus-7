@@ -2200,3 +2200,39 @@ date_sent: null
 result: null
 notes: kng_wicked posted "254 installs, 0 paying users. Here's what I changed" on r/SideProject (F5Bot "0 paying users" alert 2026-05-23T08:52Z). Built Driftpulse (VS Code extension for code drift in AI-assisted dev). 254 installs, 0 signups because required OpenAI API key on install. Fixed friction, now sharing the lesson publicly. COMMENT play -- adds genuine value (distribution vs conversion distinction), establishes presence in vibe coder community. No em dashes.
 [RECORD_END]
+
+[RECORD_START]
+id: O-128
+date_created: 2026-05-24
+lead_id: L-136
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in r/vibecoding. "i ship stuff in a weekend now but then it just sits there. nobody sees it" is exactly what i keep hearing from builders right now.
+
+  curious what you've tried so far and what broke down. like was it that nothing got traction at all, or you got some eyes on it but nobody stuck?
+
+  doing research on exactly this gap between shipping something and getting anyone to actually find it.
+status: draft
+date_sent: null
+result: null
+notes: IsopodInitial6766 posted in r/vibecoding about shipping fast with AI but getting zero visibility. F5Bot "shouting into the void" alert 2026-05-22. OP explicitly asking community what worked for getting eyes on projects. Textbook vibe coder ICP. DM via Reddit. No em dashes. No pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-129
+date_created: 2026-05-24
+lead_id: L-137
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about building a saas for UAE small businesses. 6 months in, zero paying customers is a long time to be stuck in this window.
+
+  curious what distribution actually looked like over those months. which channels did you try and where did it fall apart most?
+
+  doing research on the post-launch gap for solo founders. your situation is exactly what i'm mapping out.
+status: draft
+date_sent: null
+result: null
+notes: CurrencyBulky177 commented in r/SaaS on thread about SaaS for UAE small businesses, 6 months / zero paying customers. F5Bot "distribution problem" alert 2026-05-17/18. First-person distribution pain with high self-awareness ("treating it as a distribution problem when it might be a credibility problem"). DM via Reddit. No em dashes. No pitch.
+[RECORD_END]
