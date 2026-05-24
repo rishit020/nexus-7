@@ -1,11 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-24T00:30:00Z
+last_checked: 2026-05-24T06:15:00Z
 next_lead_id: L-136
 next_outreach_id: O-128
 
-last_run_note: Run 72 — Reddit all 7 subreddits blocked (egress policy + WebFetch + WebSearch — reddit.com fully inaccessible to Anthropic crawler). F5Bot Gmail: 0 new signals in last 24h (inbox empty). HN Show HN: 25 posts last 24h scanned, 0 ICP hits (all dev tools/hobby/games). IH WebSearch: all queries returning already-logged posts — pipeline confirmed exhausted. One new IH post checked: Josh Adams "Building in public: most problems aren't what they seem" (Mar 2, 2026) — DISCARD, 3 months old, analytical not distribution pain. 8 pending drafts still awaiting Rishit review: O-120 through O-127. Pipeline: 135 leads total. No new leads this pass.
+last_run_note: Run 73 — Reddit all 7 subreddits blocked (egress policy + WebFetch + WebSearch — reddit.com fully inaccessible to Anthropic crawler). F5Bot Gmail: 8 new unread threads parsed (all from 2026-05-23, missed by run 72 due to Gmail MCP access issue). All discarded: Solid-Coconut8830 (r/indiehackers, advisory commenter not personal pain), UNITE47 (r/AISaaSHunter, B2B advisory), BotherFantastic9287 (r/SaaS, B2B stealth advice), Sea-Currency2823 (r/FullStack, job search rejections), NAYCHO334 (r/founder, already WATCH run 71 — has users but $0 rev = monetization not distribution), ExistingTutor1546 (r/TwentiesIndia, personal diary), Guilty_Ad_8688 (r/DeadlockTheGame, gaming), Spare-Ad-6934 (r/Startup_Ideas, hypothetical business ideas). kng_wicked + Rogre10 already logged (L-135, L-133). HN Show HN: 30 posts last 24h scanned via Algolia, 0 ICP hits (all dev tools/open-source/hobby/games). IH WebSearch: all queries returning already-logged posts. 8 pending drafts still awaiting Rishit review: O-120 through O-127. Pipeline: 135 leads total. No new leads this pass.
 
 leads_logged:
   - Stingwave24
@@ -221,3 +221,4 @@ telegram_configured: true
   - Rogre10
   - Stock_Program2722
   - kng_wicked
+2026-05-24 (run 73) | leads: 0 | source: F5Bot Gmail (8 unread threads from 2026-05-23, all discarded — advisory commenters, wrong context, or already logged), HN Algolia Show HN (30 posts last 24h, 0 ICP hits), IH WebSearch (all returning already-logged posts), Reddit all 7 subreddits blocked (egress + WebFetch + WebSearch). 8 pending drafts awaiting Rishit review: O-120 through O-127. Pipeline: 135 leads total.
