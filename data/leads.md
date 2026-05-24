@@ -1934,3 +1934,17 @@ opener_angle: n/a — visibility comment on thread, not DM to OP
 status: duplicate
 outreach_id: O-130
 [RECORD_END]
+
+[RECORD_START]
+id: L-140
+date_found: 2026-05-24
+username: just_an_edge_case
+platform: reddit
+url: https://www.reddit.com/r/founder/comments/1tlxdea/15000_subscribers_164_clicked_46_opened_0_signups/
+pain_quote: "15,000 subscribers. 164 clicked. 46% opened. 0 Signups. What am I missing?"
+product_built: fundraising math toolkit for founders (safe conversion, dilution, liquidation preference calculator). built after 2 years running a newsletter for accelerator/incubator founders.
+fit_reason: genuine post-launch distribution failure. 46% open rate (strong signal) but zero signups. explicitly asking what is wrong. cross-posted to r/SaaS (removed), r/microsaas, r/founder. ICP mismatch: has existing 15K newsletter audience, not a cold-launch vibe coder. product is B2B-adjacent (fundraising). watching but not DMing.
+opener_angle: n/a — ICP mismatch, wrong product category for Tide research
+status: watch
+outreach_id: null
+[RECORD_END]

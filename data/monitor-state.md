@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-24T03:07:43Z
-next_lead_id: L-140
+last_checked: 2026-05-24T03:30:00Z
+next_lead_id: L-141
 next_outreach_id: O-131
-note: L-139 is a duplicate (ResponsibilitySad28 = L-104). O-130 is a visibility comment, not DM outreach.
+note: L-140 is a WATCH (just_an_edge_case — ICP mismatch, has 15K newsletter audience, not vibe coder). kng_wicked was already L-135. No new DM or comment leads.
 
-last_run_note: Run 76 — Reddit all 7 subreddits blocked (egress policy), F5Bot Gmail 11 threads parsed, all discarded (10 off-topic/not ICP/monetization not distribution, 1 duplicate: ResponsibilitySad28 already L-104). 0 new DM leads. 1 visibility comment opportunity drafted (O-130) on r/micro_saas distribution thread.
+last_run_note: Run 77 — Reddit egress blocked, F5Bot Gmail 9 threads parsed. 0 DM leads. 0 comment leads. 1 WATCH (just_an_edge_case: 15K subscribers, 0 signups, wrong ICP — accelerator newsletter not vibe coder). All other hits: off-topic keyword matches, commentary givers, ICP mismatch, or already logged. NAYCHO334 discarded (has daily users, monetization problem not distribution). Spare-Ad-6934 discarded (hypothetical commentary). Proper_Armadillo8575 discarded (12yo founder with BI interview, not struggling).
 
 leads_logged:
   - Stingwave24
@@ -140,6 +140,13 @@ leads_logged:
   - Normal_Professor9680
   - SpecialistBubbly4282
   - OkExamination3372
+  - Rogre10
+  - Stock_Program2722
+  - kng_wicked
+  - IsopodInitial6766
+  - CurrencyBulky177
+  - rey19Sin
+  - just_an_edge_case
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -152,6 +159,7 @@ leads_logged:
 2026-05-18 (run 8) | leads: 1 WATCH (sreedhar/HN L-019) | source: HN Firebase API + Algolia — Reddit still blocked. Scanned all HN new stories above 48173102 (150+ items). sreedhar asking Ask HN: how to scale from 5 paying customers. B2B school management, weak vibe-coder ICP but real distribution pain. No DM or COMMENT leads this pass.
 2026-05-18 (run 9) | leads: 2 DM (InstaCardsAI L-020, kubaklatt L-021) + 1 COMMENT (O-022 on max_flowly_run thread) | source: IH WebSearch — Reddit API + direct fetch both blocked by egress policy. Pivoted to IH via WebSearch. Scanned 4 IH posts. InstaCardsAI: AI social media tool, "product clarity vs distribution clarity" gap. kubaklatt: ad URL monitoring tool, "pulling teeth" first 10 signups. Comment queued for Max's 350-comment 30-day SaaS post (visibility play).
 2026-05-18 (run 10) | leads: 4 DM (gionatha L-022, simplicio L-023, howardshaw L-024, JEONSEWON L-025) + 2 COMMENT (NotAFinanceGuru L-026, Prokopiy L-027) | source: IH WebSearch + HN Firebase API — Reddit still fully blocked. HN new items (48174380-48175153) scanned: no ICP matches. Research agent surfaced 20+ IH leads via deep WebSearch. Top 6 logged. IH threads also produced high-value commenter leads (Prokopiy thread: hemly/sean02/shahzaib101; dfrankstudioz thread: Autorely/Centi/miadevelops/OliviaCraft — flag for next run). FirmTracer author (Singapore/fintech) WATCH only — B2B niche, weak vibe-coder ICP. Justin Howell (MealThinker) WATCH — Jan 2026, older pain.
+2026-05-24 (run 77) | leads: 0 DM, 0 comment, 1 WATCH (just_an_edge_case L-140) | source: F5Bot Gmail 9 threads parsed. Reddit egress blocked. WATCH: just_an_edge_case had 15K subscribers but 0 signups after launch (r/founder/r/microsaas cross-post) — real distribution pain but ICP mismatch (accelerator newsletter founder, not vibe coder). All other hits off-topic, commentary-only, ICP mismatch, or already logged (ResponsibilitySad28=L-104, kng_wicked=L-135).
 
 # Telegram config (token stored in CLAUDE.local.md only — never commit token to git)
 telegram_chat_id: 8383354309
