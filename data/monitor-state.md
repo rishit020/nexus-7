@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-25T00:30:00Z
+last_checked: 2026-05-25T02:30:00Z
 next_lead_id: L-143
 next_outreach_id: O-133
-note: Run 80 completed — 0 leads. Reddit blocked (egress policy). All F5Bot signals from last 24h already processed in run 79 (most recent email 2026-05-24T22:47:14Z). IH homepage JS-rendered (inaccessible). HN Show HN scanned via Algolia — no ICP hits. WATCH still open: unknown OP r/indiehackers/comments/1tl7983 "29 days in, confidence nearing zero" — Reddit blocked, Rishit check manually.
+note: Run 81 completed — 0 leads. Reddit blocked (egress policy). Gmail F5Bot empty (no new emails since run 79). IH WebSearch pipeline exhausted. HN Algolia returned 0 results for 24h timestamp range. HN Firebase newest page scanned (IDs 48259798-48262564, 248 items) — 0 ICP matches. IH individual posts checked: DataMine007/Feb 2026 (competitor), JeffTech74/Mar 2026 (too old), BuildField/Apr 2026 (already logged), Prokopiy/Apr 2026 (already logged), gionatha/Apr 2026 (already logged). indiehacker.news May 24-25 posts: 0 distribution pain content. WATCH still open: unknown OP r/indiehackers/comments/1tl7983 "29 days in, confidence nearing zero" — Reddit blocked, Rishit check manually.
 
-last_run_note: Run 80 — Reddit egress blocked. F5Bot Gmail 14 threads reviewed — all already processed in run 79. IH WebSearch exhausted. HN Algolia 30 Show HN posts scanned, 0 ICP hits. Sources checked: Gmail (F5Bot), IH WebSearch, HN Firebase+Algolia, Google WebSearch (reddit.com blocked by crawler policy). 0 DM leads. 0 comment leads.
+last_run_note: Run 81 — Reddit egress blocked. Gmail F5Bot search returned empty ({}). IH WebSearch pipeline exhausted. HN Algolia 0 results for last 24h. HN Show HN page scanned — 30 posts, 0 ICP hits. HN newest 248 item IDs scanned (48259798-48262564) — no distribution pain posts. Sources checked: Gmail (F5Bot), IH WebSearch, HN Firebase+Algolia, Google WebSearch (reddit.com domain blocked by Anthropic crawler policy). 0 DM leads. 0 comment leads.
 
 leads_logged:
   - Stingwave24
