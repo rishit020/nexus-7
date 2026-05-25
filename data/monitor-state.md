@@ -1,14 +1,16 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-25T05:15:00Z
-next_lead_id: L-145
-next_outreach_id: O-135
-note: Run 83 completed — 1 lead (Any-Needleworker9756/r/SaaSSales). F5Bot Gmail newer_than:2h returned 2 threads (19e5d1550d6a1ec9 and 19e5c2bcf5d31e46). Any-Needleworker9756 qualified: first-person, launched SaaS with Claude Code/Codex, no audience before launch. Discarded: tofu98 (r/changemyview dating advice), stellarton (r/SaaS advisory), TumbleweedTiny6567 (r/indiehackers advice commenter), Fun-Giraffe-520 (r/galaxys26ultra phone hardware), pgabriel5 (r/balatro gaming), Paludis (already L-143). WATCH still open: unknown OP r/indiehackers/comments/1tl7983 "29 days in, confidence nearing zero" — Reddit blocked, Rishit check manually.
+last_checked: 2026-05-25T06:00:00Z
+next_lead_id: L-146
+next_outreach_id: O-137
+note: Run 84 completed — 1 new DM lead + 1 comment draft (run 83 already logged Any-Needleworker9756 as L-144). MarketPsychological3 added as L-145/O-135 (r/StartUpIndia, 0 signups launch day, post removed). Comment draft O-136 for mareee7 (r/saasbuild, 0 paying users thread). F5Bot Gmail newer_than:1d scanned 10 threads total. Discarded: One_Butterscotch5907 (advice giver), StrongLiterature8416 (advice giver), Wanderer_9600 (advice giver), SophisticatedLogic (pricing pivot), Natural_Ad6148 (220 signups, conversion issue), avsvishalmedia (discussion post), ok__whatever_ (technical architecture), board_flow (100 users needs feedback). Reddit direct access still blocked.
 
-last_run_note: Run 83 — Gmail F5Bot newer_than:2h returned threads 19e5d1550d6a1ec9 ("launched my saas" + "shouting into the void") and 19e5c2bcf5d31e46 (4 "distribution problem" alerts). 1 new qualified lead: Any-Needleworker9756/r/SaaSSales. 6 discarded. Sources checked: Gmail (F5Bot). Reddit direct access blocked (egress policy). 1 DM lead logged as L-144/O-134.
+last_run_note: Run 84 — Gmail F5Bot newer_than:1d returned 10 threads. Deduped Any-Needleworker9756 (already L-144 from run 83). 1 new DM lead: MarketPsychological3/r/StartUpIndia as L-145/O-135. 1 comment draft: O-136 mareee7/r/saasbuild. 8 discarded. Sources checked: Gmail (F5Bot). Reddit direct access blocked (egress policy).
 
 leads_logged:
+  - Any-Needleworker9756
+  - MarketPsychological3
   - Stingwave24
   - GillesCode
   - Distinct_Laugh_5808

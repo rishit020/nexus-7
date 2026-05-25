@@ -2319,4 +2319,39 @@ status: draft
 date_sent: null
 result: null
 notes: Any-Needleworker9756 commented on r/SaaSSales "Where would you invest your first $1,000 as a founder today?" F5Bot "launched my saas" alert 2026-05-25T03:02:18Z. Built SaaS with Codex and Claude Code (under $100 total), launched weeks ago, no audience before launch, needs people to know it exists. Textbook vibe coder ICP. DM via Reddit. No em dashes. No pitch.
+[RECORD_START]
+id: O-135
+date_created: 2026-05-25
+lead_id: L-145
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post on r/StartUpIndia about launching your workspace saas with 0 signups. launch day silence is brutal.
+
+  what channels did you actually try on launch day? just want to understand what day one looked like from your side.
+
+  doing research on this exact gap between shipping and getting users. your story sounds like exactly what I'm trying to understand if you're open to sharing.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 signups" alert 2026-05-24T19:04:16Z. r/StartUpIndia post — "Launched my indie SaaS today, 0 signups. Asking..." Post removed by AutoModerator but title confirms launch-day zero-signup pain. 11 hours old at scouting. DM via Reddit. No em dashes. No pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-136
+date_created: 2026-05-25
+lead_id: null
+platform: reddit
+variant: comment
+draft_text: |
+  40% conversion from cold DMs is genuinely impressive. most people quit at 10 DMs with 0 responses, so you clearly found an angle that resonates.
+
+  curious about the product page drop-off — what does the signup flow look like? is there a clear first action they can take, or does it require setup before they see value?
+
+  asking because I'm doing research on exactly this: where solo founders lose momentum after launch. the gap between signups and first dollar is where things fall apart most.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 paying users" alert 2026-05-24T13:16:18Z. r/saasbuild post by mareee7 — ran 50 cold DMs, got 20 signups, 0 paying. explicitly said "building is the fun part, distribution is the bottleneck." thread has engagement. COMMENT not DM — no lead record. good visibility play as a researcher.
+[RECORD_END]
 [RECORD_END]
