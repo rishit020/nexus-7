@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-24T23:55:00Z
+last_checked: 2026-05-25T00:30:00Z
 next_lead_id: L-143
 next_outreach_id: O-133
-note: Run 79 completed — 0 leads. All F5Bot signals this pass were advice givers, off-topic subs, or people with different problems (already have users). WATCH: unknown OP r/indiehackers/comments/1tl7983 "29 days in, confidence nearing zero" — Reddit blocked, Rishit check manually.
+note: Run 80 completed — 0 leads. Reddit blocked (egress policy). All F5Bot signals from last 24h already processed in run 79 (most recent email 2026-05-24T22:47:14Z). IH homepage JS-rendered (inaccessible). HN Show HN scanned via Algolia — no ICP hits. WATCH still open: unknown OP r/indiehackers/comments/1tl7983 "29 days in, confidence nearing zero" — Reddit blocked, Rishit check manually.
 
-last_run_note: Run 79 — Reddit egress blocked, F5Bot Gmail 12 threads parsed. 0 DM leads. 0 comment leads. Main discards: One_Butterscotch5907 (advice giver), SophisticatedLogic (printer app), mareee7 (already cracked cold DM distribution, stuck at conversion), Natural_Ad6148 (220 signups working), board_flow (100 users), avsvishalmedia (thought-leadership). Off-topic: r/USPS/r/Chainsawfolk/r/BarcaFC/r/arborists.
+last_run_note: Run 80 — Reddit egress blocked. F5Bot Gmail 14 threads reviewed — all already processed in run 79. IH WebSearch exhausted. HN Algolia 30 Show HN posts scanned, 0 ICP hits. Sources checked: Gmail (F5Bot), IH WebSearch, HN Firebase+Algolia, Google WebSearch (reddit.com blocked by crawler policy). 0 DM leads. 0 comment leads.
 
 leads_logged:
   - Stingwave24
