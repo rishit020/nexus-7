@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-25T08:00:00Z
-next_lead_id: L-146
-next_outreach_id: O-137
-note: Run 85 completed — 0 new leads. All F5Bot signals from last 24h already processed in runs 83-84. Most recent F5Bot email was 03:49 UTC (truespotify, irrelevant). Signals reviewed: stellarton (advice giver), TumbleweedTiny6567 (advice giver on 29-days post), galaxys26ultra/balatro/truespotify/BarcaFC (off-topic). Paludis confirmed already logged as L-143. Watch item: OP of r/indiehackers/1tl7983 ("29 days in, zero signups") username unknown, check post directly. Reddit direct access still blocked.
+last_checked: 2026-05-25T10:30:00Z
+next_lead_id: L-148
+next_outreach_id: O-139
+note: Run 86 completed — 2 new leads (L-146 StageAuto/IH, L-147 Glorfi/IH). Fixed O-134 missing [RECORD_END] formatting bug. Reddit all 7 subreddits blocked (egress policy). F5Bot Gmail: all signals pre-08:00 UTC, already processed in runs 82-85. HN Show HN 30 posts scanned: 0 ICP hits (all dev tools/utilities). IH "Early-stage founders" thread (March 20, 2026) mined for new commenters. Discarded: NeuralBuilder (vague "still figuring out"), Juelzzz (mobile App Store, not SaaS ICP), francorte (bioeconomy B2B), minerva_sky (already discarded run 38), willgzn (15K users, not in pain), Dammy211 (too sparse), carecrafted (WATCH), meta_ads_daily (building own tool). Watch item: OP of r/indiehackers/1tl7983 ("29 days in, zero signups") still unknown, Reddit still blocked. IH homepage hallucinating leads (JS-rendered, small model fabricating usernames). jackbuilds and HonestMaker were hallucinated. Marco Kohns (lovable-prompts.com) confirmed competitor again.
 
-last_run_note: Run 85 — Gmail F5Bot newer_than:1d scanned. No new signals since last_checked 06:00 UTC. Zero new leads. Reddit direct access blocked (egress policy).
+last_run_note: Run 86 — F5Bot Gmail scanned (all pre-08:00 UTC, zero new), HN Algolia 30 Show HN posts (0 ICP), IH Early-stage founders thread mined. 2 new DM leads from thread commenters. Reddit still blocked.
 
 leads_logged:
   - Any-Needleworker9756
@@ -153,6 +153,8 @@ leads_logged:
   - forget_names_often
   - Paludis
   - Any-Needleworker9756
+  - StageAuto
+  - Glorfi
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -247,3 +249,4 @@ telegram_configured: true
 2026-05-25 (run 83) | leads: 1 DM (Any-Needleworker9756 L-144/r/SaaSSales) | source: F5Bot Gmail newer_than:2h (threads 19e5d1550d6a1ec9 + 19e5c2bcf5d31e46). Any-Needleworker9756: r/SaaSSales "Where would you invest your first $1,000 as a founder today?" — "I launched my SaaS some weeks ago. I think the value is there, problem is no body hears about it. I didn't build an audience before launch (my mistake)." Built with Claude Code + Codex under $100. Textbook vibe coder ICP. DM draft O-134. Discarded: tofu98 (r/changemyview dating advice), stellarton (r/SaaS advisory), TumbleweedTiny6567 (r/indiehackers advice commenter, not OP), Fun-Giraffe-520 (r/galaxys26ultra phone hardware), pgabriel5 (r/balatro gaming/math), Paludis (already L-143).
 2026-05-24 (run 78) | leads: 2 DM (builtbyAnthony L-141/r/buildinpublic, forget_names_often L-142/IH) | source: F5Bot Gmail 2 threads (19e5c2bcf5d31e46 new unread + 19e4e5c0a5a12935 large May 22 batch re-parsed via subagent jq extraction). builtbyAnthony: post author "I built it, but they're not coming." active first-person pain, "questioning whether you're delusional" quote, r/buildinpublic. forget_names_often: IH commenter, "still don't have the balance" on when-to-stop-building thread. Discards: stellarton (r/SaaS, advisory not pain), all May 22 batch previously processed (IsopodInitial6766=L-136, thegreatsorcerer/Organic_Scarcity_495/TheChandrianX advisory, Artistic_Scheme8402/Usama_Kashif/LevelAd9633 solved/advising, ResponsibilitySad28 already L-104). Pipeline: 142 leads total.
 2026-05-24 (run 79) | leads: 0 | source: F5Bot Gmail 12 threads parsed (newer_than:24h). Reddit all 7 subreddits blocked (egress policy). IH not checked. All signals discarded: One_Butterscotch5907 (r/indiehackers commenter, advice giver — solved own problem), SophisticatedLogic (r/SideProject printer app, monetization pivot not user-acquisition pain), StrongLiterature8416 (advice commenter r/passive_income), Wanderer_9600 (advice giver r/Startup_Ideas), MarketPsychological3 (r/StartUpIndia post removed), mareee7 (r/saasbuild — has 20 signups from 50 cold DMs, stuck at free-to-paid conversion not distribution), Natural_Ad6148 (220 signups + working organic traffic, no distribution pain), avsvishalmedia/avsworkinfo2 (thought-leadership post r/micro_saas not personal pain), ok__whatever_ (technical architecture question), board_flow (has 100 users, wants engagement feedback not users), stellarton (advice giver r/SaaS — already logged in run 78 discards). Off-topic: r/USPS/mewithoutjew, r/Chainsawfolk/cautioslyhopeful, r/BarcaFC/iLoveYourBirthGiver, r/arborists/drumttocs8 (prev discarded run 74). WATCH not logged: unknown OP r/indiehackers/comments/1tl7983 "29 days in confidence nearing zero" — Reddit blocked, Rishit check manually. Pipeline: 142 leads total.
+2026-05-25 (run 86) | leads: 2 DM (StageAuto L-146/IH, Glorfi L-147/IH) | source: IH "Early-stage founders — what's been harder so far: building or getting users?" thread commenter mining. Reddit all 7 subreddits blocked (egress policy). F5Bot Gmail: all signals from before 08:00 UTC, fully processed in runs 82-85. HN Algolia Show HN 30 posts: 0 ICP hits (all dev tools/utilities). Fixed O-134 missing [RECORD_END] bug. StageAuto: "polishing while sweating about distribution" phase — active pre/early-launch distribution anxiety. Glorfi: months building, weeks helping people just to get one DM reply — post-launch community outreach grind. Discarded from same thread: NeuralBuilder (vague), Juelzzz (mobile App Store, not SaaS ICP), francorte (B2B bioeconomy niche), minerva_sky (already discarded run 38), willgzn (15K users, not in pain), Dammy211 (too sparse), carecrafted (WATCH), meta_ads_daily (building own tool). IH homepage confirmed hallucinating content (JS-rendered, small model fabricating users jackbuilds and HonestMaker). Pipeline: 147 leads total.

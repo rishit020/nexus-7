@@ -2319,6 +2319,8 @@ status: draft
 date_sent: null
 result: null
 notes: Any-Needleworker9756 commented on r/SaaSSales "Where would you invest your first $1,000 as a founder today?" F5Bot "launched my saas" alert 2026-05-25T03:02:18Z. Built SaaS with Codex and Claude Code (under $100 total), launched weeks ago, no audience before launch, needs people to know it exists. Textbook vibe coder ICP. DM via Reddit. No em dashes. No pitch.
+[RECORD_END]
+
 [RECORD_START]
 id: O-135
 date_created: 2026-05-25
@@ -2354,4 +2356,39 @@ date_sent: null
 result: null
 notes: F5Bot "0 paying users" alert 2026-05-24T13:16:18Z. r/saasbuild post by mareee7 — ran 50 cold DMs, got 20 signups, 0 paying. explicitly said "building is the fun part, distribution is the bottleneck." thread has engagement. COMMENT not DM — no lead record. good visibility play as a researcher.
 [RECORD_END]
+
+[RECORD_START]
+id: O-137
+date_created: 2026-05-25
+lead_id: L-146
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the early-stage founders thread. "polishing while sweating about distribution" is such an honest way to put it.
+
+  curious what that actually looks like for you right now. have you shipped yet or still in the build phase?
+
+  doing research on exactly this window, the gap between knowing you need to get users and knowing how to actually start.
+status: draft
+date_sent: null
+result: null
+notes: StageAuto commented on IH "Early-stage founders — what's been harder so far: building or getting users?" (March 20, 2026). Quote: "I'm in that hybrid 'polishing while sweating about distribution' phase." Product unknown. Pre-launch or very early post-launch. First-person distribution anxiety. DM via IH. No em dashes. No pitch. Ask if shipped yet to open conversation.
+[RECORD_END]
+
+[RECORD_START]
+id: O-138
+date_created: 2026-05-25
+lead_id: L-147
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about spending months building and then weeks just getting people to take your DMs seriously.
+
+  what are you building and what does distribution look like right now? curious where the hardest wall has been.
+
+  doing research on the gap between shipping something and getting real users. sounds like you're right in the middle of it.
+status: draft
+date_sent: null
+result: null
+notes: Glorfi commented on IH "Early-stage founders — what's been harder so far: building or getting users?" (March 20, 2026). Quote: "months building my product...weeks of genuinely helping people before anyone takes your DM seriously." Describes active community outreach with poor conversion. Product unknown. IH community. No em dashes. No pitch.
 [RECORD_END]

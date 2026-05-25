@@ -2018,3 +2018,31 @@ opener_angle: reference the r/StartUpIndia post topic, acknowledge the launch da
 status: new
 outreach_id: O-135
 [RECORD_END]
+
+[RECORD_START]
+id: L-146
+date_found: 2026-05-25
+username: StageAuto
+platform: indiehackers
+url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+pain_quote: "I'm in that hybrid 'polishing while sweating about distribution' phase"
+product_built: unknown (actively building, in pre-launch distribution anxiety phase)
+fit_reason: first-person, active distribution fear. "sweating about distribution" while still building is the exact Jackson moment before the crickets hit. IH community. not retrospective, current.
+opener_angle: reference the "sweating about distribution" phrase, ask if they've shipped yet or still pre-launch
+status: new
+outreach_id: O-137
+[RECORD_END]
+
+[RECORD_START]
+id: L-147
+date_found: 2026-05-25
+username: Glorfi
+platform: indiehackers
+url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+pain_quote: "months building my product...weeks of genuinely helping people before anyone takes your DM seriously"
+product_built: unknown (post-launch, active community outreach phase, struggling with conversion)
+fit_reason: first-person, current distribution grind. spent months building, now grinding community outreach with poor results. the "weeks of helping before one DM reply" quote shows real effort hitting real walls. IH community.
+opener_angle: the months building + weeks just to get a DM reply arc, ask what they're building and what distribution looks like now
+status: new
+outreach_id: O-138
+[RECORD_END]
