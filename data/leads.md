@@ -1990,3 +1990,17 @@ opener_angle: reference deepswipe by name, ask what the distribution problem act
 status: new
 outreach_id: O-133
 [RECORD_END]
+
+[RECORD_START]
+id: L-144
+date_found: 2026-05-25
+username: Any-Needleworker9756
+platform: reddit
+url: https://www.reddit.com/r/SaaSSales/comments/1tlcyvi/c/onpvrb4?context=3
+pain_quote: "I launched my SaaS some weeks ago. I think the value is there, problem is no body hears about it. I didn't build an audience before launch (my mistake)"
+product_built: unknown SaaS (built with Codex and Claude Code, under $100 total cost)
+fit_reason: first-person, post-launch, explicit distribution gap. used AI coding tools to build for under $100 — textbook vibe coder. knows exactly what broke ("didn't build an audience before launch"). needs people to know it exists.
+opener_angle: the "value is there but nobody knows it exists" moment — ask what they've tried so far and where it fell apart
+status: new
+outreach_id: O-134
+[RECORD_END]

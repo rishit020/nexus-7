@@ -2302,3 +2302,21 @@ date_sent: null
 result: null
 notes: Paludis commented on r/micro_saas "Drop your product, I'll help you find your first 100 users" thread. Named their app (DeepSwipe, TikTok-style educational content feed), explicitly said "I have a serious distribution problem." F5Bot "distribution problem" alert 2026-05-25T01:21:19Z. DM via Reddit. No em dashes. No pitch. Reference DeepSwipe by name in line 1.
 [RECORD_END]
+
+[RECORD_START]
+id: O-134
+date_created: 2026-05-25
+lead_id: L-144
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about launching your saas a few weeks back. "value is there, problem is nobody hears about it" is exactly what i keep hearing from builders right now.
+
+  what have you actually tried so far to get people to find it? curious what broke down first.
+
+  doing research on this gap between shipping something and getting actual users. your situation is exactly what i'm trying to map out.
+status: draft
+date_sent: null
+result: null
+notes: Any-Needleworker9756 commented on r/SaaSSales "Where would you invest your first $1,000 as a founder today?" F5Bot "launched my saas" alert 2026-05-25T03:02:18Z. Built SaaS with Codex and Claude Code (under $100 total), launched weeks ago, no audience before launch, needs people to know it exists. Textbook vibe coder ICP. DM via Reddit. No em dashes. No pitch.
+[RECORD_END]
