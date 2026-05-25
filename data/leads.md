@@ -1976,3 +1976,17 @@ opener_angle: "still don't have the balance" — ask what distribution actually 
 status: new
 outreach_id: O-132
 [RECORD_END]
+
+[RECORD_START]
+id: L-143
+date_found: 2026-05-25
+username: Paludis
+platform: reddit
+url: https://www.reddit.com/r/micro_saas/comments/1tljvaz/c/onpf3vq?context=3
+pain_quote: "I have a serious distribution problem"
+product_built: DeepSwipe - TikTok style personalized feed of educational content
+fit_reason: first-person, explicit distribution problem. named their app in the comment. r/micro_saas is a builder community. responded to a "help you find your first 100 users" thread confirming they need it.
+opener_angle: reference deepswipe by name, ask what the distribution problem actually looks like
+status: new
+outreach_id: O-133
+[RECORD_END]

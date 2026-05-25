@@ -2288,3 +2288,17 @@ date_sent: null
 result: null
 notes: forget_names_often commented on IH "My biggest indie hacker challenge: when to stop building and start marketing" thread. F5Bot "shouting into the void" alert 2026-05-24. "Still don't have the balance" confirms ongoing struggle, not retrospective. Product unknown. DM via IH. No em dashes. No pitch. Research framing.
 [RECORD_END]
+
+[RECORD_START]
+id: O-133
+date_created: 2026-05-25
+lead_id: L-143
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in the micro_saas thread. you built deepswipe and said you have a serious distribution problem. genuinely curious what that actually looks like for you. doing research on exactly this gap between building something real and getting it in front of people.
+status: draft
+date_sent: null
+result: null
+notes: Paludis commented on r/micro_saas "Drop your product, I'll help you find your first 100 users" thread. Named their app (DeepSwipe, TikTok-style educational content feed), explicitly said "I have a serious distribution problem." F5Bot "distribution problem" alert 2026-05-25T01:21:19Z. DM via Reddit. No em dashes. No pitch. Reference DeepSwipe by name in line 1.
+[RECORD_END]
