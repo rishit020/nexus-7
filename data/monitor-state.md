@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-26T00:25:00Z
+last_checked: 2026-05-26T01:10:01Z
 next_lead_id: L-154
 next_outreach_id: O-145
-note: Run 87 completed — 6 new leads total (L-148 Deepak-AvairAI/r/SaaS from concurrent session; L-149 velociyzaptor, L-150 Say-salon, L-151 SmartContractKid, L-152 avsworkinfo2, L-153 avsvishalmedia from this pass). Reddit all 7 subreddits still blocked. F5Bot Gmail: 10 new threads parsed with fresh signals (all from 2026-05-25). HN Algolia 98 Show HN posts scanned: 0 ICP hits. Strong DM leads: velociyzaptor (quit job 5 months, 0 signups across 2 products), Say-salon (Claude AI app, 3 months, 0 paying users), SmartContractKid (AEO Audit Pro launched, still waiting first client). Comment leads: avsworkinfo2 (r/microsaas, asking how to get first users), avsvishalmedia (r/AppBusiness distribution thread, magnet for ICP). Discarded: veeejay123 (500 users already, conversion not distribution problem), fernanduandrade (got random sale, no longer in pain), Muted-Location4626 (iOS app not SaaS ICP), Impressive_Ant7613 (commenter using Leadmatically, not in pain), all physics/gaming/politics/hardware "distribution problem" false positives.
+note: Run 88 completed — 0 new leads. Reddit all 7 subreddits still blocked. F5Bot Gmail: no new emails since Run 87 (last signal 2026-05-25T21:55Z). HN Algolia 50 Show HN scanned: 0 ICP hits. All F5Bot threads from May 25 already processed in Run 87. MANUAL CHECK NEEDED: unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 titled "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." — perfect ICP post, OP username unknown because Reddit blocked. Rishit should check manually and DM that person.
 
-last_run_note: Run 87 — F5Bot Gmail 10 threads parsed (all 2026-05-25 UTC). HN Algolia 98 Show HN scanned. Reddit blocked. 4 DM leads + 2 comment leads. Pipeline: 153 leads total.
+last_run_note: Run 88 — dry pass. No new F5Bot signals. HN 0 ICP hits. Reddit blocked. 0 leads. Pipeline: 153 leads total.
 
 leads_logged:
   - Any-Needleworker9756
