@@ -2060,3 +2060,73 @@ opener_angle: reference the underestimating-how-hard-it-is framing, ask what dis
 status: new
 outreach_id: O-139
 [RECORD_END]
+
+[RECORD_START]
+id: L-149
+date_found: 2026-05-26
+username: velociyzaptor
+platform: reddit
+url: https://www.reddit.com/r/indiehackers/comments/1tne1gl/badly_failed_on_my_second_saas_product_which_i/
+pain_quote: "quit my job 5 months ago to build on my own...0 signups, even after running google ads for a month...after 3 days of constant outreach i still got nothing"
+product_built: 1st product AI CRM + website builder (0 signups). 2nd product "Tinder for SaaS" cross-promotion widget (0 signups in 3 days outreach)
+fit_reason: first-person, quit job to build, hit the wall twice. not a one-time launch fail. explicit confusion about what they're doing wrong. posted across r/SaaS and r/indiehackers. peak ICP pain.
+opener_angle: reference two products and zero signups, ask what the outreach on product 2 actually looked like
+status: new
+outreach_id: O-140
+[RECORD_END]
+
+[RECORD_START]
+id: L-150
+date_found: 2026-05-26
+username: Say-salon
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1tn6lgi/i_built_a_salon_management_app_almost_entirely/
+pain_quote: "built a salon management app almost entirely with Claude AI. 3 months in, 0 paying users"
+product_built: salon management app, built with Claude AI
+fit_reason: post removed but title is perfect ICP. AI-built app, 3 months post-launch, 0 paying users. classic Jackson moment. vibe coder who shipped and got nothing. also posted on r/Entrepreneur.
+opener_angle: reference the 3 months with Claude AI and 0 paying users, ask what distribution has looked like
+status: new
+outreach_id: O-141
+[RECORD_END]
+
+[RECORD_START]
+id: L-151
+date_found: 2026-05-26
+username: SmartContractKid
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tmzg6x/i_believe_that_marketing_is_the_most_challenging/
+pain_quote: "just launched my SaaS, AEO Audit Pro, but finding first customers is really hard. manual outreach, SEO agencies, posting daily on LinkedIn and everything. still waiting for my first client"
+product_built: AEO Audit Pro (SEO/AEO auditing SaaS)
+fit_reason: doing everything the playbook says and still nothing. manual 1-on-1 outreach, reaching out to agencies, daily LinkedIn, still no client. exactly the exhaustion Tide targets.
+opener_angle: reference AEO Audit Pro launch + still waiting despite all the work, ask what the manual outreach looks like
+status: new
+outreach_id: O-142
+[RECORD_END]
+
+[RECORD_START]
+id: L-152
+date_found: 2026-05-26
+username: avsworkinfo2
+platform: reddit
+url: https://www.reddit.com/r/microsaas/comments/1tnfqh0/whats_the_best_free_way_to_get_first_saas_users/
+pain_quote: "A lot of beginner founders spend months: building features, redesigning landing pages, posting everywhere...then still end up with 0 paying users"
+product_built: unknown (asking for advice, pre-traction)
+fit_reason: asking the exact question Tide answers. framing shows they understand the problem deeply. active thread, 6 hours old. COMMENT opportunity to add value and get conversation started.
+opener_angle: comment adding genuine framing about finding where the pain lives vs which channel, mention doing research
+status: new
+outreach_id: O-143
+[RECORD_END]
+
+[RECORD_START]
+id: L-153
+date_found: 2026-05-26
+username: avsvishalmedia
+platform: reddit
+url: https://www.reddit.com/r/AppBusiness/comments/1tnfcjd/most_saas_founders_dont_have_a_product_problem/
+pain_quote: "good products die quietly because nobody sees them...average products with strong distribution keep growing"
+product_built: unknown (thought leadership post, not personal pain)
+fit_reason: thread is a magnet for ICP. people in active pain will show up in comments. COMMENT to be visible as someone researching this problem, generates replies from potential leads.
+opener_angle: comment agreeing with the framing, mention doing research on solo founder distribution gap, ask who in thread launched something solid and still can't break past 10 users
+status: new
+outreach_id: O-144
+[RECORD_END]

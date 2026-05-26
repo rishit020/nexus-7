@@ -2408,3 +2408,89 @@ date_sent: null
 result: null
 notes: Deepak-AvairAI commented on r/SaaS "I seriously underestimated how hard it is to get people to care about a SaaS" thread (2026-05-25T20:25:18Z). Mentioned "distribution problem" in their comment. Username suggests product may be "Avair AI" (unconfirmed). First-person distribution pain, r/SaaS is core ICP subreddit. F5Bot "distribution problem" alert. DM via Reddit. Verify product before sending.
 [RECORD_END]
+
+[RECORD_START]
+id: O-140
+date_created: 2026-05-26
+lead_id: L-149
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about two products and 0 signups. quitting your job to build and still hitting that wall twice is rough.
+
+  curious what the outreach looked like on product 2. cold DMs, posting in subreddits, or something else?
+
+  doing research on the gap between shipping and getting first users. sounds like you've been living it firsthand.
+status: draft
+date_sent: null
+result: null
+notes: velociyzaptor posted "Badly Failed on my second SaaS product which i really thought was a goood idea. 0 signups" on r/SaaS and r/indiehackers (2026-05-25). Quit job 5 months ago. 2 products, both 0 signups. Asking what they're doing wrong. Post on indiehackers: https://www.reddit.com/r/indiehackers/comments/1tne1gl/. DM via Reddit.
+[RECORD_END]
+
+[RECORD_START]
+id: O-141
+date_created: 2026-05-26
+lead_id: L-150
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about building the salon management app with Claude and hitting 0 paying users at 3 months. that's a long time to be in the post-launch void with nothing moving.
+
+  what channels have you tried and where's felt like the biggest wall?
+
+  doing research on how indie builders navigate this gap between shipping and actual traction.
+status: draft
+date_sent: null
+result: null
+notes: Say-salon posted "I built a salon management app almost entirely with Claude AI. 3 months in, 0 paying users" on r/SideProject and r/Entrepreneur (2026-05-25). Post content [removed] on both subs but title is strong ICP signal. DM via Reddit username. URL: https://www.reddit.com/r/SideProject/comments/1tn6lgi/
+[RECORD_END]
+
+[RECORD_START]
+id: O-142
+date_created: 2026-05-26
+lead_id: L-151
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about launching AEO Audit Pro and still waiting on that first client. doing all the right things and still nothing moving is genuinely frustrating.
+
+  what does the manual 1-on-1 outreach actually look like right now. getting any responses at all, or mostly silence?
+
+  doing research on how technical founders handle this exact gap.
+status: draft
+date_sent: null
+result: null
+notes: SmartContractKid commented on r/SaaS thread "I believe that marketing is the most challenging thing for a technical founder" (2026-05-25). Quote: "just launched my SaaS, AEO Audit Pro, but finding first customers is really hard. manual 1 on 1 outreach, SEO agencies, posting daily on LinkedIn and everything. still waiting for my first client." DM via Reddit.
+[RECORD_END]
+
+[RECORD_START]
+id: O-143
+date_created: 2026-05-26
+lead_id: L-152
+platform: reddit
+variant: comment
+draft_text: |
+  the question i keep coming back to is: who specifically feels this problem right now, and where do they already talk about it online. not which channel, but which exact person and where they live on the internet.
+
+  doing research on this exact gap. curious what you're building and what you've already tried?
+status: draft
+date_sent: null
+result: null
+notes: avsworkinfo2 posted "What's the best free way to get first SaaS users as a beginner?" on r/microsaas (2026-05-25). 6 hours old. Active thread. Comment adds genuine framing + opens conversation. URL: https://www.reddit.com/r/microsaas/comments/1tnfqh0/
+[RECORD_END]
+
+[RECORD_START]
+id: O-144
+date_created: 2026-05-26
+lead_id: L-153
+platform: reddit
+variant: comment
+draft_text: |
+  agree with the framing. the build side keeps getting easier and the distribution gap keeps getting wider.
+
+  doing research on what this looks like for solo founders specifically. curious how many people in this thread launched something solid and still can't break past 10 users.
+status: draft
+date_sent: null
+result: null
+notes: avsvishalmedia posted "Most SaaS founders don't have a product problem anymore they have a distribution problem" on r/AppBusiness (2026-05-25). Thought leadership thread. Comment generates ICP replies. URL: https://www.reddit.com/r/AppBusiness/comments/1tnfcjd/
+[RECORD_END]

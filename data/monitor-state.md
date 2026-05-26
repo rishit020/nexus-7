@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-26T00:00:00Z
-next_lead_id: L-149
-next_outreach_id: O-140
-note: Run 87 completed — 1 new lead (L-148 Deepak-AvairAI/r/SaaS). F5Bot Gmail scanned newer_than:2h — processed 2 threads (19e5c2bcf5d31e46 distribution problem, 19e4e5c0a5a12935 shouting into void). New signals after last_checked (2026-05-25T10:30Z): Deepak-AvairAI (r/SaaS, "I seriously underestimated how hard it is to get people to care about a SaaS", mentioned distribution problem in comment). Discarded: Muted-Location4626 (r/iOSAppsMarketing, not in approved subs), bobo5195 (r/ElectricalEngineering off-topic), avsvishalmedia (r/AppBusiness thought-leadership already discarded run 79), Mammoth-Anywhere7285 (r/AppsWebappsFullstack selfpromo thread), Efficient_Bat6894 (r/EntrepreneurRideAlong advisory), GreaterThan2 (r/SideProject+r/SaaS VPS server problem not distribution), Aggressive-Art-9899 (r/Adelaide off-topic), all shouting-into-void hits after 10:30 UTC (r/GoFundMeForNewUsers, r/DragonBallZ, r/AvoidantBreakUps, r/SocialMediaMarketing off-topic). Previously processed and confirmed: TumbleweedTiny6567 (discarded runs 82+83), builtbyAnthony (L-141), OkExamination3372 (L-132), forget_names_often (L-142), Paludis (L-143).
+last_checked: 2026-05-26T00:25:00Z
+next_lead_id: L-154
+next_outreach_id: O-145
+note: Run 87 completed — 6 new leads total (L-148 Deepak-AvairAI/r/SaaS from concurrent session; L-149 velociyzaptor, L-150 Say-salon, L-151 SmartContractKid, L-152 avsworkinfo2, L-153 avsvishalmedia from this pass). Reddit all 7 subreddits still blocked. F5Bot Gmail: 10 new threads parsed with fresh signals (all from 2026-05-25). HN Algolia 98 Show HN posts scanned: 0 ICP hits. Strong DM leads: velociyzaptor (quit job 5 months, 0 signups across 2 products), Say-salon (Claude AI app, 3 months, 0 paying users), SmartContractKid (AEO Audit Pro launched, still waiting first client). Comment leads: avsworkinfo2 (r/microsaas, asking how to get first users), avsvishalmedia (r/AppBusiness distribution thread, magnet for ICP). Discarded: veeejay123 (500 users already, conversion not distribution problem), fernanduandrade (got random sale, no longer in pain), Muted-Location4626 (iOS app not SaaS ICP), Impressive_Ant7613 (commenter using Leadmatically, not in pain), all physics/gaming/politics/hardware "distribution problem" false positives.
 
-last_run_note: Run 87 — F5Bot Gmail 2 large threads parsed. 1 new DM lead from r/SaaS post-launch distribution pain. Reddit all 7 subreddits blocked (egress policy).
+last_run_note: Run 87 — F5Bot Gmail 10 threads parsed (all 2026-05-25 UTC). HN Algolia 98 Show HN scanned. Reddit blocked. 4 DM leads + 2 comment leads. Pipeline: 153 leads total.
 
 leads_logged:
   - Any-Needleworker9756
@@ -156,6 +156,12 @@ leads_logged:
   - StageAuto
   - Glorfi
   - Deepak-AvairAI
+  - velociyzaptor
+  - Say-salon
+  - SmartContractKid
+  - avsworkinfo2
+  - avsvishalmedia
+  - Deepak-AvairAI
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -251,3 +257,4 @@ telegram_configured: true
 2026-05-24 (run 78) | leads: 2 DM (builtbyAnthony L-141/r/buildinpublic, forget_names_often L-142/IH) | source: F5Bot Gmail 2 threads (19e5c2bcf5d31e46 new unread + 19e4e5c0a5a12935 large May 22 batch re-parsed via subagent jq extraction). builtbyAnthony: post author "I built it, but they're not coming." active first-person pain, "questioning whether you're delusional" quote, r/buildinpublic. forget_names_often: IH commenter, "still don't have the balance" on when-to-stop-building thread. Discards: stellarton (r/SaaS, advisory not pain), all May 22 batch previously processed (IsopodInitial6766=L-136, thegreatsorcerer/Organic_Scarcity_495/TheChandrianX advisory, Artistic_Scheme8402/Usama_Kashif/LevelAd9633 solved/advising, ResponsibilitySad28 already L-104). Pipeline: 142 leads total.
 2026-05-24 (run 79) | leads: 0 | source: F5Bot Gmail 12 threads parsed (newer_than:24h). Reddit all 7 subreddits blocked (egress policy). IH not checked. All signals discarded: One_Butterscotch5907 (r/indiehackers commenter, advice giver — solved own problem), SophisticatedLogic (r/SideProject printer app, monetization pivot not user-acquisition pain), StrongLiterature8416 (advice commenter r/passive_income), Wanderer_9600 (advice giver r/Startup_Ideas), MarketPsychological3 (r/StartUpIndia post removed), mareee7 (r/saasbuild — has 20 signups from 50 cold DMs, stuck at free-to-paid conversion not distribution), Natural_Ad6148 (220 signups + working organic traffic, no distribution pain), avsvishalmedia/avsworkinfo2 (thought-leadership post r/micro_saas not personal pain), ok__whatever_ (technical architecture question), board_flow (has 100 users, wants engagement feedback not users), stellarton (advice giver r/SaaS — already logged in run 78 discards). Off-topic: r/USPS/mewithoutjew, r/Chainsawfolk/cautioslyhopeful, r/BarcaFC/iLoveYourBirthGiver, r/arborists/drumttocs8 (prev discarded run 74). WATCH not logged: unknown OP r/indiehackers/comments/1tl7983 "29 days in confidence nearing zero" — Reddit blocked, Rishit check manually. Pipeline: 142 leads total.
 2026-05-25 (run 86) | leads: 2 DM (StageAuto L-146/IH, Glorfi L-147/IH) | source: IH "Early-stage founders — what's been harder so far: building or getting users?" thread commenter mining. Reddit all 7 subreddits blocked (egress policy). F5Bot Gmail: all signals from before 08:00 UTC, fully processed in runs 82-85. HN Algolia Show HN 30 posts: 0 ICP hits (all dev tools/utilities). Fixed O-134 missing [RECORD_END] bug. StageAuto: "polishing while sweating about distribution" phase — active pre/early-launch distribution anxiety. Glorfi: months building, weeks helping people just to get one DM reply — post-launch community outreach grind. Discarded from same thread: NeuralBuilder (vague), Juelzzz (mobile App Store, not SaaS ICP), francorte (B2B bioeconomy niche), minerva_sky (already discarded run 38), willgzn (15K users, not in pain), Dammy211 (too sparse), carecrafted (WATCH), meta_ads_daily (building own tool). IH homepage confirmed hallucinating content (JS-rendered, small model fabricating users jackbuilds and HonestMaker). Pipeline: 147 leads total.
+2026-05-26 (run 87b) | leads: 5 DM+COMMENT (velociyzaptor L-149, Say-salon L-150, SmartContractKid L-151, avsworkinfo2 L-152, avsvishalmedia L-153) | source: F5Bot Gmail 10 threads (2026-05-25 UTC), HN Algolia 98 Show HN posts. Reddit blocked. Note: L-148 already used by concurrent session for Deepak-AvairAI. IDs renumbered L-149 through L-153. velociyzaptor: quit job, 2 SaaS, 0 signups each. Say-salon: Claude AI app, 3 months, 0 paying. SmartContractKid: AEO Audit Pro, everything tried, no first client. avsworkinfo2: COMMENT on r/microsaas. avsvishalmedia: COMMENT on r/AppBusiness.
