@@ -2046,3 +2046,17 @@ opener_angle: the months building + weeks just to get a DM reply arc, ask what t
 status: new
 outreach_id: O-138
 [RECORD_END]
+
+[RECORD_START]
+id: L-148
+date_found: 2026-05-26
+username: Deepak-AvairAI
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tn4gu7
+pain_quote: "I seriously underestimated how hard it is to get people to care about a SaaS"
+product_built: likely Avair AI (based on username, unconfirmed)
+fit_reason: commenter on r/SaaS thread about post-launch distribution struggle, specifically mentioned "distribution problem" in comment. first-person pain, core ICP subreddit. username suggests active founder.
+opener_angle: reference the underestimating-how-hard-it-is framing, ask what distribution looked like specifically for them
+status: new
+outreach_id: O-139
+[RECORD_END]

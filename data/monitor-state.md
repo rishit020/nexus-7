@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-25T10:30:00Z
-next_lead_id: L-148
-next_outreach_id: O-139
-note: Run 86 completed — 2 new leads (L-146 StageAuto/IH, L-147 Glorfi/IH). Fixed O-134 missing [RECORD_END] formatting bug. Reddit all 7 subreddits blocked (egress policy). F5Bot Gmail: all signals pre-08:00 UTC, already processed in runs 82-85. HN Show HN 30 posts scanned: 0 ICP hits (all dev tools/utilities). IH "Early-stage founders" thread (March 20, 2026) mined for new commenters. Discarded: NeuralBuilder (vague "still figuring out"), Juelzzz (mobile App Store, not SaaS ICP), francorte (bioeconomy B2B), minerva_sky (already discarded run 38), willgzn (15K users, not in pain), Dammy211 (too sparse), carecrafted (WATCH), meta_ads_daily (building own tool). Watch item: OP of r/indiehackers/1tl7983 ("29 days in, zero signups") still unknown, Reddit still blocked. IH homepage hallucinating leads (JS-rendered, small model fabricating usernames). jackbuilds and HonestMaker were hallucinated. Marco Kohns (lovable-prompts.com) confirmed competitor again.
+last_checked: 2026-05-26T00:00:00Z
+next_lead_id: L-149
+next_outreach_id: O-140
+note: Run 87 completed — 1 new lead (L-148 Deepak-AvairAI/r/SaaS). F5Bot Gmail scanned newer_than:2h — processed 2 threads (19e5c2bcf5d31e46 distribution problem, 19e4e5c0a5a12935 shouting into void). New signals after last_checked (2026-05-25T10:30Z): Deepak-AvairAI (r/SaaS, "I seriously underestimated how hard it is to get people to care about a SaaS", mentioned distribution problem in comment). Discarded: Muted-Location4626 (r/iOSAppsMarketing, not in approved subs), bobo5195 (r/ElectricalEngineering off-topic), avsvishalmedia (r/AppBusiness thought-leadership already discarded run 79), Mammoth-Anywhere7285 (r/AppsWebappsFullstack selfpromo thread), Efficient_Bat6894 (r/EntrepreneurRideAlong advisory), GreaterThan2 (r/SideProject+r/SaaS VPS server problem not distribution), Aggressive-Art-9899 (r/Adelaide off-topic), all shouting-into-void hits after 10:30 UTC (r/GoFundMeForNewUsers, r/DragonBallZ, r/AvoidantBreakUps, r/SocialMediaMarketing off-topic). Previously processed and confirmed: TumbleweedTiny6567 (discarded runs 82+83), builtbyAnthony (L-141), OkExamination3372 (L-132), forget_names_often (L-142), Paludis (L-143).
 
-last_run_note: Run 86 — F5Bot Gmail scanned (all pre-08:00 UTC, zero new), HN Algolia 30 Show HN posts (0 ICP), IH Early-stage founders thread mined. 2 new DM leads from thread commenters. Reddit still blocked.
+last_run_note: Run 87 — F5Bot Gmail 2 large threads parsed. 1 new DM lead from r/SaaS post-launch distribution pain. Reddit all 7 subreddits blocked (egress policy).
 
 leads_logged:
   - Any-Needleworker9756
@@ -155,6 +155,7 @@ leads_logged:
   - Any-Needleworker9756
   - StageAuto
   - Glorfi
+  - Deepak-AvairAI
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic

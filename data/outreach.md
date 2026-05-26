@@ -2392,3 +2392,19 @@ date_sent: null
 result: null
 notes: Glorfi commented on IH "Early-stage founders — what's been harder so far: building or getting users?" (March 20, 2026). Quote: "months building my product...weeks of genuinely helping people before anyone takes your DM seriously." Describes active community outreach with poor conversion. Product unknown. IH community. No em dashes. No pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-139
+date_created: 2026-05-26
+lead_id: L-148
+platform: reddit
+variant: dm
+draft_text: |
+  saw you in the thread about underestimating how hard it is to get people to care about a SaaS. what has distribution actually looked like for you, which channels have you tried and where has it broken down?
+
+  doing research on exactly this gap between building something real and getting people to find it.
+status: draft
+date_sent: null
+result: null
+notes: Deepak-AvairAI commented on r/SaaS "I seriously underestimated how hard it is to get people to care about a SaaS" thread (2026-05-25T20:25:18Z). Mentioned "distribution problem" in their comment. Username suggests product may be "Avair AI" (unconfirmed). First-person distribution pain, r/SaaS is core ICP subreddit. F5Bot "distribution problem" alert. DM via Reddit. Verify product before sending.
+[RECORD_END]
