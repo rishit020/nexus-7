@@ -2494,3 +2494,71 @@ date_sent: null
 result: null
 notes: avsvishalmedia posted "Most SaaS founders don't have a product problem anymore they have a distribution problem" on r/AppBusiness (2026-05-25). Thought leadership thread. Comment generates ICP replies. URL: https://www.reddit.com/r/AppBusiness/comments/1tnfcjd/
 [RECORD_END]
+
+[RECORD_START]
+id: O-145
+date_created: 2026-05-26
+lead_id: L-154
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on gionatha's show IH post. launched TrendyRevenue to zero audience and zero paying customers is a specific kind of quiet that's hard to sit with.
+
+  curious what you tried first when you realized the launch wasn't moving. was there a channel that felt like it should work and just didn't?
+
+  doing research on this exact gap between shipping and first traction for solo builders.
+status: draft
+date_sent: null
+result: null
+notes: Usman_Hacker21 commented May 3, 2026 on the IH "Show IH: I launched a SaaS with no audience" thread. Quote: "launched TrendyRevenue...zero audience too. Same story -- quiet launch...zero paying customers." DM via Indie Hackers.
+[RECORD_END]
+
+[RECORD_START]
+id: O-146
+date_created: 2026-05-26
+lead_id: L-155
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the Buildfield post about your planner. 5 yeses on cold DMs and 0 actual usage is a weird limbo to be in 12 days after launch.
+
+  curious what the gap looks like between people saying yes and then not showing up. is it the product or just nobody found their way to it yet?
+
+  doing research on the distribution problem for solo founders right after they ship.
+status: draft
+date_sent: null
+result: null
+notes: shahzaib101 commented April 28, 2026 on Buildfield's "2 weeks later: still no paying users" IH thread. Quote: "12 days in on my own thing (a planner) and the pattern matches. 5 yeses on cold dms, 0 actual usage." DM via Indie Hackers.
+[RECORD_END]
+
+[RECORD_START]
+id: O-147
+date_created: 2026-05-26
+lead_id: L-156
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your post about not cracking distribution for Pr3ss3D. that line about reach being captured and not being able to borrow public trust is a really specific diagnosis.
+
+  curious what you've already tried and what moved even a little. doing research on exactly this problem for builders who ship something real and then hit the wall.
+status: draft
+date_sent: null
+result: null
+notes: JeffTech74 posted March 28, 2026 on IH asking for help with distribution for Pr3ss3D social platform. Quote: "I can't crack distribution. reach is captured and I can't borrow enough of someone else's public trust." DM via Indie Hackers.
+[RECORD_END]
+
+[RECORD_START]
+id: O-148
+date_created: 2026-05-26
+lead_id: L-157
+platform: indiehackers
+variant: comment
+draft_text: |
+  the thing that never gets talked about is how few founders actually know where their specific user is online before launch day. not generically "try reddit" but "this exact person lives in this exact community."
+
+  doing research on this gap for indie builders. genuinely curious what people in this thread have found that actually moved the needle after the crickets.
+status: draft
+date_sent: null
+result: null
+notes: Active IH thread "Early-stage founders -- what's been harder so far: building or getting users?" -- high ICP density, multiple founders describing post-launch crickets. Comment drives visibility and could surface more leads from replies. URL: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+[RECORD_END]

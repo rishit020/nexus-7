@@ -1,14 +1,17 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-26T01:10:01Z
-next_lead_id: L-154
-next_outreach_id: O-145
-note: Run 88 completed — 0 new leads. Reddit all 7 subreddits still blocked. F5Bot Gmail: no new emails since Run 87 (last signal 2026-05-25T21:55Z). HN Algolia 50 Show HN scanned: 0 ICP hits. All F5Bot threads from May 25 already processed in Run 87. MANUAL CHECK NEEDED: unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 titled "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." — perfect ICP post, OP username unknown because Reddit blocked. Rishit should check manually and DM that person.
+last_checked: 2026-05-26T09:15:00Z
+next_lead_id: L-158
+next_outreach_id: O-149
+note: Run 89 completed — 4 new leads (L-154 to L-157). Reddit still blocked (curl 403 + WebFetch blocked). Pivoted to IH via WebSearch + WebFetch. Found 3 DM leads + 1 COMMENT on IH. MANUAL CHECK STILL NEEDED: unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 titled "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- perfect ICP, Rishit should check manually and DM.
 
-last_run_note: Run 88 — dry pass. No new F5Bot signals. HN 0 ICP hits. Reddit blocked. 0 leads. Pipeline: 153 leads total.
+last_run_note: Run 89 -- IH pivot. Reddit fully blocked. WebSearch found active IH threads. 3 DM leads (Usman_Hacker21, shahzaib101, JeffTech74) + 1 COMMENT opportunity. Pipeline: 157 leads total.
 
 leads_logged:
+  - Usman_Hacker21
+  - shahzaib101
+  - JeffTech74
   - Any-Needleworker9756
   - MarketPsychological3
   - Stingwave24

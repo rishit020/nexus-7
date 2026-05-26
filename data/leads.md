@@ -2130,3 +2130,59 @@ opener_angle: comment agreeing with the framing, mention doing research on solo 
 status: new
 outreach_id: O-144
 [RECORD_END]
+
+[RECORD_START]
+id: L-154
+date_found: 2026-05-26
+username: Usman_Hacker21
+platform: indiehackers
+url: https://www.indiehackers.com/post/show-ih-i-launched-a-saas-with-no-audience-heres-what-happened-in-the-first-week-7d911dae8e
+pain_quote: "launched TrendyRevenue...zero audience too. Same story. quiet launch...zero paying customers"
+product_built: TrendyRevenue (SaaS, category unclear)
+fit_reason: textbook Jackson. launched to zero audience, zero paying customers. commented on active IH thread May 3, 2026. pain is fresh and first-person. direct match for Tide ICP.
+opener_angle: reference quiet TrendyRevenue launch + zero paying customers, ask what they tried first when it wasn't moving
+status: new
+outreach_id: O-145
+[RECORD_END]
+
+[RECORD_START]
+id: L-155
+date_found: 2026-05-26
+username: shahzaib101
+platform: indiehackers
+url: https://www.indiehackers.com/post/2-weeks-later-still-no-paying-users-heres-what-i-ve-learned-0bc55f0cdb
+pain_quote: "12 days in on my own thing (a planner) and the pattern matches. 5 yeses on cold dms, 0 actual usage"
+product_built: planner app (solo project, 12 days post-launch)
+fit_reason: tried outreach, got warm signals, zero actual usage. the gap between interest and adoption is exactly what Tide targets. April 28, 2026, fresh. clear solo builder.
+opener_angle: reference the 5 yeses / 0 usage gap, ask what the drop-off looks like between saying yes and showing up
+status: new
+outreach_id: O-146
+[RECORD_END]
+
+[RECORD_START]
+id: L-156
+date_found: 2026-05-26
+username: JeffTech74
+platform: indiehackers
+url: https://www.indiehackers.com/post/can-the-ih-community-please-help-me-i-cant-crack-distribution-e99da00326
+pain_quote: "I can't crack distribution. reach is captured and I can't borrow enough of someone else's public trust"
+product_built: Pr3ss3D (social media platform where users are customers)
+fit_reason: explicitly named distribution as the problem. "can't borrow public trust" is exactly the audience problem Tide solves. consumer social vs. SaaS lowers fit slightly, but pain is clear and post is a direct ask for help.
+opener_angle: reference the post title directly, ask what they've already tried and what moved even a little
+status: new
+outreach_id: O-147
+[RECORD_END]
+
+[RECORD_START]
+id: L-157
+date_found: 2026-05-26
+username: null
+platform: indiehackers
+url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+pain_quote: "solo founders describing post-launch distribution pain in active thread"
+product_built: various
+fit_reason: active IH thread attracting ICP. multiple founders describing crickets, zero traction, distribution failures across March-May 2026. COMMENT opportunity to be visible as a researcher, surface more leads through replies.
+opener_angle: comment adding genuine insight about knowing where your specific user lives online before launch, mention doing research
+status: new
+outreach_id: O-148
+[RECORD_END]
