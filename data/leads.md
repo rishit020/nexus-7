@@ -2186,3 +2186,17 @@ opener_angle: comment adding genuine insight about knowing where your specific u
 status: new
 outreach_id: O-148
 [RECORD_END]
+
+[RECORD_START]
+id: L-158
+date_found: 2026-05-26
+username: bkela
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-shipped-biznipe-tried-distribution-got-humbled-now-i-want-real-feedback-6d1cf41f68
+pain_quote: "Less than 10 signups" after a month of FB ads + Reddit + organic outreach
+product_built: Biznipe (B2B SaaS for agencies/designers to find local businesses with weak online presence)
+fit_reason: solo builder, post-launch, tried every channel (FB ads, Reddit, organic), < 10 signups, one person paid $39 then canceled. clear distribution pain. ICP fit is real even though their product is B2B agency tool -- they are the Jackson who built something and can't get users.
+opener_angle: comment adding value on why agency B2B requires different channels -- ask about the $39 + cancel conversation
+status: new
+outreach_id: O-149
+[RECORD_END]

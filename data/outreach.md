@@ -2562,3 +2562,23 @@ date_sent: null
 result: null
 notes: Active IH thread "Early-stage founders -- what's been harder so far: building or getting users?" -- high ICP density, multiple founders describing post-launch crickets. Comment drives visibility and could surface more leads from replies. URL: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
 [RECORD_END]
+
+[RECORD_START]
+id: O-149
+type: comment
+lead_id: L-158
+platform: indiehackers
+target_username: bkela
+target_url: https://www.indiehackers.com/post/i-shipped-biznipe-tried-distribution-got-humbled-now-i-want-real-feedback-6d1cf41f68
+date_drafted: 2026-05-26
+draft: |
+  landing page and pricing are probably downstream of the real problem. agencies aren't googling "find businesses with bad websites." they already have their own prospecting workflows.
+
+  doing research on the post-launch distribution gap right now. for b2b agency tools the channel that usually moves things is where agency owners already talk about finding clients. facebook groups for agency owners, youtube channels for agency growth, that kind of community.
+
+  most curious about this: what did the person who paid $39 and canceled actually say when they explained why? that conversation tells you more than anything else.
+status: draft
+date_sent: null
+result: null
+notes: Post from May 13, 2026 -- 13 days old but has 34 comments, still active thread. COMMENT action, not DM, since post is > 12 hours old. Reddit still blocked. This is the only fresh unlogged lead found in this run (Run 90).
+[RECORD_END]

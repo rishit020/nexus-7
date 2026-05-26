@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-26T09:15:00Z
-next_lead_id: L-158
-next_outreach_id: O-149
-note: Run 89 completed — 4 new leads (L-154 to L-157). Reddit still blocked (curl 403 + WebFetch blocked). Pivoted to IH via WebSearch + WebFetch. Found 3 DM leads + 1 COMMENT on IH. MANUAL CHECK STILL NEEDED: unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 titled "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- perfect ICP, Rishit should check manually and DM.
+last_checked: 2026-05-26T11:30:00Z
+next_lead_id: L-159
+next_outreach_id: O-150
+note: Run 90 completed -- 1 new lead (L-158, bkela/Biznipe). Reddit still fully blocked (curl 403 + WebSearch domain blocked). IH pipeline thinning. Only fresh unlogged lead: bkela on IH May 13, "shipped Biznipe, tried distribution, got humbled" -- 34 comments, COMMENT action drafted (O-149). MANUAL CHECK STILL NEEDED: unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 titled "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- perfect ICP, Rishit should check manually and DM.
 
-last_run_note: Run 89 -- IH pivot. Reddit fully blocked. WebSearch found active IH threads. 3 DM leads (Usman_Hacker21, shahzaib101, JeffTech74) + 1 COMMENT opportunity. Pipeline: 157 leads total.
+last_run_note: Run 90 -- IH pivot. Reddit fully blocked. WebSearch exhaustive across 20+ queries. 1 new unlogged lead found (bkela). COMMENT draft queued. Pipeline: 158 leads total.
 
 leads_logged:
   - Usman_Hacker21
@@ -165,6 +165,7 @@ leads_logged:
   - avsworkinfo2
   - avsvishalmedia
   - Deepak-AvairAI
+  - bkela
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -261,3 +262,4 @@ telegram_configured: true
 2026-05-24 (run 79) | leads: 0 | source: F5Bot Gmail 12 threads parsed (newer_than:24h). Reddit all 7 subreddits blocked (egress policy). IH not checked. All signals discarded: One_Butterscotch5907 (r/indiehackers commenter, advice giver — solved own problem), SophisticatedLogic (r/SideProject printer app, monetization pivot not user-acquisition pain), StrongLiterature8416 (advice commenter r/passive_income), Wanderer_9600 (advice giver r/Startup_Ideas), MarketPsychological3 (r/StartUpIndia post removed), mareee7 (r/saasbuild — has 20 signups from 50 cold DMs, stuck at free-to-paid conversion not distribution), Natural_Ad6148 (220 signups + working organic traffic, no distribution pain), avsvishalmedia/avsworkinfo2 (thought-leadership post r/micro_saas not personal pain), ok__whatever_ (technical architecture question), board_flow (has 100 users, wants engagement feedback not users), stellarton (advice giver r/SaaS — already logged in run 78 discards). Off-topic: r/USPS/mewithoutjew, r/Chainsawfolk/cautioslyhopeful, r/BarcaFC/iLoveYourBirthGiver, r/arborists/drumttocs8 (prev discarded run 74). WATCH not logged: unknown OP r/indiehackers/comments/1tl7983 "29 days in confidence nearing zero" — Reddit blocked, Rishit check manually. Pipeline: 142 leads total.
 2026-05-25 (run 86) | leads: 2 DM (StageAuto L-146/IH, Glorfi L-147/IH) | source: IH "Early-stage founders — what's been harder so far: building or getting users?" thread commenter mining. Reddit all 7 subreddits blocked (egress policy). F5Bot Gmail: all signals from before 08:00 UTC, fully processed in runs 82-85. HN Algolia Show HN 30 posts: 0 ICP hits (all dev tools/utilities). Fixed O-134 missing [RECORD_END] bug. StageAuto: "polishing while sweating about distribution" phase — active pre/early-launch distribution anxiety. Glorfi: months building, weeks helping people just to get one DM reply — post-launch community outreach grind. Discarded from same thread: NeuralBuilder (vague), Juelzzz (mobile App Store, not SaaS ICP), francorte (B2B bioeconomy niche), minerva_sky (already discarded run 38), willgzn (15K users, not in pain), Dammy211 (too sparse), carecrafted (WATCH), meta_ads_daily (building own tool). IH homepage confirmed hallucinating content (JS-rendered, small model fabricating users jackbuilds and HonestMaker). Pipeline: 147 leads total.
 2026-05-26 (run 87b) | leads: 5 DM+COMMENT (velociyzaptor L-149, Say-salon L-150, SmartContractKid L-151, avsworkinfo2 L-152, avsvishalmedia L-153) | source: F5Bot Gmail 10 threads (2026-05-25 UTC), HN Algolia 98 Show HN posts. Reddit blocked. Note: L-148 already used by concurrent session for Deepak-AvairAI. IDs renumbered L-149 through L-153. velociyzaptor: quit job, 2 SaaS, 0 signups each. Say-salon: Claude AI app, 3 months, 0 paying. SmartContractKid: AEO Audit Pro, everything tried, no first client. avsworkinfo2: COMMENT on r/microsaas. avsvishalmedia: COMMENT on r/AppBusiness.
+2026-05-26 (run 90) | leads: 1 COMMENT (bkela L-158/IH, O-149) | source: IH WebSearch 20+ query angles. Reddit all 7 subreddits fully blocked (curl 403 + WebSearch domain blocked). No F5Bot Gmail access this pass. IH pipeline sparse -- most ICP posts from last 2 weeks already logged in prior runs. bkela: "I shipped Biznipe, tried distribution, got humbled, now I want real feedback" (May 13, 2026) -- < 10 signups after FB ads + Reddit + organic, 1 paid $39 then canceled. B2B agency tool (web designers/agencies), but distribution pain is real ICP fit. COMMENT draft queued asking about the $39 cancel conversation. Discards this run: simplicio (already logged), gionatha (already logged), ManishBhusal (already logged), Buildfield (already logged), NotAFinanceGuru (already logged), max_flowly_run (already logged), howardshaw (already logged), hussin08dev/Snyho (had $68 MRR, not in pain), Link_784/Scrivix (April 9, too old), tudor_braescu/FieldLine (May 7, 19 days old, PH not IH), EthanRogers (February, too old), multiple IH posts 2024-2025 (too old). NOTE: 24-hour window unenforceable via WebSearch (no same-day indexing). Best practice: flag unlogged leads from last 2 weeks. Pipeline: 158 leads total.
