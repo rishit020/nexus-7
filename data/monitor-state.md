@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-26T15:30:00Z
+last_checked: 2026-05-26T17:00:00Z
 next_lead_id: L-159
 next_outreach_id: O-150
-note: Run 92 completed -- 0 new leads. F5Bot Gmail parsed (14 threads, last 24h). All qualifying signals already logged in Run 91. New discards this run: stellarton (advisor), Paludis (offering help not in pain), fernanduandrade (already discarded), AttentionInsight (already discarded), post_layoff_builder (already discarded), off-topic subs (Millennials, evs_ireland, Simracingstewards, balatro, dropshipping, middleclasshq, TheCulture, galaxys26ultra). MANUAL CHECK STILL NEEDED: unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 titled "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- perfect ICP, Rishit should check manually and DM. Reddit egress still blocked (direct API returns 403).
+note: Run 93 completed -- 0 new leads. F5Bot Gmail parsed (~15 threads, last 24h). All signals were noise or off-ICP. Discards: veeejay123 (500 organic users, not in pain), Impressive_Ant7613 (AI freelancer not builder), TumbleweedTiny6567 (commenter not OP), llCurry_Manll (Pakistani consumer app, off-ICP), off-topic subs (Millennials, Simracingstewards, evs_ireland, ClothingStartups, YouTubeCreators, chipdesign, WorkForSmartLife, truespotify, balatro). MANUAL CHECK STILL NEEDED: unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 titled "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- perfect ICP, Rishit must check this post manually and DM the OP. Reddit egress still blocked.
 
-last_run_note: Run 92 -- F5Bot Gmail only (Reddit egress blocked). 14 threads parsed. 0 new leads. All ICP signals from 2026-05-25 already captured in Run 91 (velociyzaptor, Say-salon, SmartContractKid, avsworkinfo2). Pipeline: 158 leads total.
+last_run_note: Run 93 -- F5Bot Gmail only (Reddit egress blocked). ~15 threads parsed. 0 new leads. Pipeline: 158 leads total. Outstanding manual action: r/SaaS/1tnd7u1 OP DM.
 
 leads_logged:
   - Usman_Hacker21
