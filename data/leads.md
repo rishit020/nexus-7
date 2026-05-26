@@ -2200,3 +2200,45 @@ opener_angle: comment adding value on why agency B2B requires different channels
 status: new
 outreach_id: O-149
 [RECORD_END]
+
+[RECORD_START]
+id: L-159
+date_found: 2026-05-26
+username: Webbu
+platform: indiehackers
+url: https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8
+pain_quote: "Have launched my own SaaS but 0 revenue working to get the first person to test it out."
+product_built: SaaS (unspecified type, just launched)
+fit_reason: launched SaaS, 0 revenue, still searching for first tester. classic post-launch distribution gap. commenting on a thread about $0 revenue means self-selected into the exact pain window Tide targets.
+opener_angle: reference the SaaS launch + zero revenue + first tester framing. ask what they built and where they've tried to find people.
+status: new
+outreach_id: O-150
+[RECORD_END]
+
+[RECORD_START]
+id: L-160
+date_found: 2026-05-26
+username: affan_bin_yeakub
+platform: indiehackers
+url: https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8
+pain_quote: "Distribution being harder than building is something I'm experiencing right now too — just shipped my first product."
+product_built: unknown (first product, just shipped)
+fit_reason: first-person current pain. "right now" timing, just shipped. exact Tide ICP: first-time builder hitting the distribution wall immediately post-launch.
+opener_angle: reference the "just shipped my first product" + distribution is harder right now. ask what they built and what distribution has actually looked like.
+status: new
+outreach_id: O-151
+[RECORD_END]
+
+[RECORD_START]
+id: L-161
+date_found: 2026-05-26
+username: JaejooLEE
+platform: indiehackers
+url: https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8
+pain_quote: "Every day 10+ people visit my site, look at the landing page, and leave without actually trying the service. Distribution honestly feels harder than building sometimes."
+product_built: customer development tool for small founders
+fit_reason: has traffic but zero conversion. named distribution as the hard part. post-launch, specific metrics, first-person. customer development tool for founders is strong ICP alignment.
+opener_angle: reference the 10+ daily visitors leaving without trying. ask what distribution looks like beyond whatever channel is driving those visits.
+status: new
+outreach_id: O-152
+[RECORD_END]

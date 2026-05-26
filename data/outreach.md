@@ -2582,3 +2582,57 @@ date_sent: null
 result: null
 notes: Post from May 13, 2026 -- 13 days old but has 34 comments, still active thread. COMMENT action, not DM, since post is > 12 hours old. Reddit still blocked. This is the only fresh unlogged lead found in this run (Run 90).
 [RECORD_END]
+
+[RECORD_START]
+id: O-150
+date_created: 2026-05-26
+lead_id: L-159
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on kelon's thread about launching a saas and working to get the first tester at zero revenue. that gap between the build being done and anyone actually using it is brutal.
+
+  what are you building? and where have you tried to find people for it so far?
+
+  doing research on exactly this window between shipping something and getting real users. your situation is textbook for what i'm trying to understand.
+status: draft
+date_sent: null
+result: null
+notes: Webbu commented on Kelon "30 days ago I posted with $0 revenue" IH thread (May 23 2026). Product unknown. "0 revenue working to get the first person to test it out." Self-selected into the $0 revenue conversation. DM via IH.
+[RECORD_END]
+
+[RECORD_START]
+id: O-151
+date_created: 2026-05-26
+lead_id: L-160
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on kelon's thread. "just shipped my first product and distribution is harder than building right now" is the most honest thing i keep hearing from builders who actually ship.
+
+  what did you build? and what has distribution looked like since you shipped it?
+
+  doing research on exactly this gap for solo founders post-launch. sounds like you're right in the middle of it.
+status: draft
+date_sent: null
+result: null
+notes: affan_bin_yeakub commented on Kelon "30 days ago I posted with $0 revenue" IH thread (May 23 2026). First product, just shipped. "experiencing right now" framing. Product unknown. DM via IH. Keep it short and open-ended so they describe their situation.
+[RECORD_END]
+
+[RECORD_START]
+id: O-152
+date_created: 2026-05-26
+lead_id: L-161
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on kelon's post. 10+ people hitting the landing page daily and leaving without trying the customer development tool is a specific kind of stuck.
+
+  what does distribution look like for you beyond whatever channel is driving those visits? like where are those people coming from and is there any pattern in who actually stays?
+
+  doing research on the gap between getting people to a product and getting them to use it. your situation is exactly what i'm trying to map out.
+status: draft
+date_sent: null
+result: null
+notes: JaejooLEE commented on Kelon IH thread (May 23 2026). Customer development tool for small founders. 10+ daily visitors, none converting, "distribution feels harder than building sometimes." Has traffic but no engagement. DM via IH. Ask about the source of those 10 visitors and what the pattern looks like.
+[RECORD_END]
