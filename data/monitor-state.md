@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-26T13:30:00Z
+last_checked: 2026-05-26T15:30:00Z
 next_lead_id: L-159
 next_outreach_id: O-150
-note: Run 91 completed -- 0 new leads. F5Bot Gmail parsed (10 threads, last 24h). All qualifying signals already logged in prior runs. New discards: veeejay123 (500 organic users, distribution working -- email conversion question not ICP), TumbleweedTiny6567 (advisor not in pain), AttentionInsight (product/tool giving advice), post_layoff_builder (advisor), fernanduandrade (random sale success story), Impressive_Ant7613 (freelancer not SaaS founder), off-topic subs. MANUAL CHECK STILL NEEDED: unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 titled "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- perfect ICP, Rishit should check manually and DM.
+note: Run 92 completed -- 0 new leads. F5Bot Gmail parsed (14 threads, last 24h). All qualifying signals already logged in Run 91. New discards this run: stellarton (advisor), Paludis (offering help not in pain), fernanduandrade (already discarded), AttentionInsight (already discarded), post_layoff_builder (already discarded), off-topic subs (Millennials, evs_ireland, Simracingstewards, balatro, dropshipping, middleclasshq, TheCulture, galaxys26ultra). MANUAL CHECK STILL NEEDED: unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 titled "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- perfect ICP, Rishit should check manually and DM. Reddit egress still blocked (direct API returns 403).
 
-last_run_note: Run 91 -- F5Bot Gmail only (Reddit egress blocked). 10 threads parsed. 0 new leads. All prior signals already logged. Pipeline: 158 leads total.
+last_run_note: Run 92 -- F5Bot Gmail only (Reddit egress blocked). 14 threads parsed. 0 new leads. All ICP signals from 2026-05-25 already captured in Run 91 (velociyzaptor, Say-salon, SmartContractKid, avsworkinfo2). Pipeline: 158 leads total.
 
 leads_logged:
   - Usman_Hacker21
