@@ -2270,3 +2270,19 @@ opener_angle: the same-boat framing on eelgr's thread, ask what they built and w
 status: new
 outreach_id: O-154
 [RECORD_END]
+
+[RECORD_START]
+id: L-164
+date_found: 2026-05-27
+username: FlashyAverage26
+platform: reddit
+subreddit: r/EntrepreneurRideAlong
+url: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1todtrg/cracking_the_most_hard_part_on_saas_building/
+pain_quote: "I launched but no one used it. I tried to focus my marketing on Reddit but my account got banned multiple times"
+product_built: SaaS (launched May 2nd, type unspecified)
+fit_reason: launched SaaS, zero users, tried Reddit marketing and got banned. grinding to find first users without a playbook. first-person, concrete post-launch struggle. textbook Tide ICP.
+opener_angle: reference Reddit ban wall while trying to market + zero usage. ask what they built and what zero usage actually looks like for them.
+status: new
+outreach_id: O-155
+[RECORD_END]
+[RECORD_END]

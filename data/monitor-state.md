@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-27T02:08:15Z
-next_lead_id: L-164
-next_outreach_id: O-155
-note: Run 96 completed -- 1 new lead (Dense-Inspection-183 L-163/r/SaaS). F5Bot Gmail parsed: 4 threads (19e5e55b9999b372, 19e5c2bcf5d31e46, 19e6307e1b0e1d41, 19e66daa8e33f15b). Reddit egress blocked. Dense-Inspection-183 was incorrectly discarded in run 95 as "first-person pain unconfirmed" -- re-evaluated and confirmed as first-person: "same boat, launched recently and very much in the shouting into the void." MANUAL CHECK STILL NEEDED: unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 titled "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- Rishit must check and DM manually.
+last_checked: 2026-05-27T06:00:00Z
+next_lead_id: L-165
+next_outreach_id: O-158
+note: Run 96 (Dense-Inspection-183 L-163/r/SaaS) + Run 97 (FlashyAverage26 L-164/r/EntrepreneurRideAlong + 2 comment drafts O-155/O-156 r/vibecoding, r/VibeCodeDevs). Reddit egress blocked both runs. F5Bot Gmail: 10 threads scanned (newer_than:1d). Signal noise high -- many off-topic "distribution problem" hits. Discards: Paludis (L-143), CharmingTechFall ([removed]), naturequery ([removed]), Lise_vine23 (success story), solopraneur/SaiMohith07 (commentary), tand_eyes (B2B advice), TumbleweedTiny6567 (advice commenter), Academic_Sense7551/randomlovebird (giving advice), llCurry_Manll (Pakistan consumer app), all off-topic subs. MANUAL CHECK STILL NEEDED (3rd flag): unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- still unactioned. Also check r/vibecoding/1toob06 OP.
 
-last_run_note: Run 96 -- F5Bot Gmail (4 threads, 2h window). 1 new lead: Dense-Inspection-183/r/SaaS. Pipeline: 163 leads total. Outstanding manual action: r/SaaS/1tnd7u1 OP DM.
+last_run_note: Run 97 -- F5Bot Gmail (10 threads, newer_than:1d). 1 new lead: FlashyAverage26/r/EntrepreneurRideAlong. 2 comment drafts queued. Pipeline: 164 leads total. Outstanding manual action: r/SaaS/1tnd7u1 OP DM (3rd flag).
 
 leads_logged:
   - Usman_Hacker21
@@ -171,6 +171,7 @@ leads_logged:
   - JaejooLEE
   - eelgr
   - Dense-Inspection-183
+  - FlashyAverage26
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic

@@ -2670,5 +2670,53 @@ draft_text: |
 status: draft
 date_sent: null
 result: null
-notes: Dense-Inspection-183 commented on eelgr's "Just launched - now what?" r/SaaS thread with first-person pain: "same boat, launched recently and very much in the shouting into the void." Discarded incorrectly in run 95 as "first-person pain unconfirmed" but the comment clearly describes their own post-launch situation. DM via Reddit.
+notes: Dense-Inspection-183 commented on eelgr's "Just launched - now what?" r/SaaS thread with first-person pain: "same boat, launched recently and very much in the shouting into the void." DM via Reddit.
+[RECORD_END]
+
+[RECORD_START]
+id: O-155
+lead_id: L-164
+type: DM
+platform: reddit
+username: FlashyAverage26
+date_drafted: 2026-05-27
+status: draft
+draft: |
+  saw your post about launching your SaaS and getting Reddit accounts banned trying to market it. that's a specific kind of stuck.
+
+  what'd you build? and when you say no one used it, is that literally zero signups or more like people land and bounce?
+
+  doing research on the post-launch gap. the window between shipping something and getting real first users is exactly what i'm trying to understand.
+[RECORD_END]
+
+[RECORD_START]
+id: O-156
+lead_id: none
+type: COMMENT
+platform: reddit
+thread_url: https://www.reddit.com/r/vibecoding/comments/1toob06/
+thread_title: How did you guys solve distribution?
+date_drafted: 2026-05-27
+status: draft
+note: OP unknown (Reddit blocked). Active thread in core ICP community. Drop this comment to be visible and pull the OP into a conversation.
+draft: |
+  researching this exact problem right now. the thing that keeps coming up in conversations is that "where to post" is downstream of a harder question: do you have 5 people who would actually miss your product if it disappeared tomorrow. if yes, they become the distribution. if no, no channel fixes that.
+
+  what have you tried so far and what's felt most broken?
+[RECORD_END]
+
+[RECORD_START]
+id: O-157
+lead_id: none
+type: COMMENT
+platform: reddit
+thread_url: https://www.reddit.com/r/VibeCodeDevs/comments/1tnvunh/
+thread_title: How do you get users
+date_drafted: 2026-05-27
+status: draft
+note: OP unknown (Reddit blocked). Vibe coders explicitly asking about user acquisition. Good visibility thread.
+draft: |
+  talking to a lot of vibe coders about this. the pattern i keep seeing is that "how do i get users" is really "how do i find the people who already feel the pain my app solves." that framing matters more than the channel.
+
+  what does your app do and who's hurting without it?
 [RECORD_END]
