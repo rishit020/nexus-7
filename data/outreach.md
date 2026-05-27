@@ -2636,3 +2636,21 @@ date_sent: null
 result: null
 notes: JaejooLEE commented on Kelon IH thread (May 23 2026). Customer development tool for small founders. 10+ daily visitors, none converting, "distribution feels harder than building sometimes." Has traffic but no engagement. DM via IH. Ask about the source of those 10 visitors and what the pattern looks like.
 [RECORD_END]
+
+[RECORD_START]
+id: O-153
+date_created: 2026-05-27
+lead_id: L-162
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in r/saas about just launching. "building the product is the fun part" and then nothing follows is exactly what i keep hearing.
+
+  what have you actually tried so far and where does it feel most broken?
+
+  doing research on this gap between shipping something and getting real users to find it.
+status: draft
+date_sent: null
+result: null
+notes: eelgr posted "Just launched - now what?" on r/SaaS 2026-05-26T12:14 UTC. F5Bot "shouting into the void" keyword hit. Snippet confirms post-launch distribution question framing. DM via Reddit. Don't pitch. Get them talking about what they've tried.
+[RECORD_END]

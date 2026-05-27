@@ -2242,3 +2242,17 @@ opener_angle: reference the 10+ daily visitors leaving without trying. ask what 
 status: new
 outreach_id: O-152
 [RECORD_END]
+
+[RECORD_START]
+id: L-162
+date_found: 2026-05-27
+username: eelgr
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1to4ype/just_launched_now_what/
+pain_quote: "just launched - now what? building the product is the fun part"
+product_built: unknown (just launched something, asking how to get users)
+fit_reason: OP of "Just launched - now what?" on r/SaaS. First-person, just launched, explicitly in the post-launch distribution void. Classic Tide ICP.
+opener_angle: lead with their own quote about building being the fun part. ask what they've actually tried and where it feels broken.
+status: new
+outreach_id: O-153
+[RECORD_END]
