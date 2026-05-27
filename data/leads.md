@@ -2256,3 +2256,17 @@ opener_angle: lead with their own quote about building being the fun part. ask w
 status: new
 outreach_id: O-153
 [RECORD_END]
+
+[RECORD_START]
+id: L-163
+date_found: 2026-05-27
+username: Dense-Inspection-183
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1to4ype/c/onzudpw
+pain_quote: "Same boat, launched recently and very much in the 'shouting into the void'"
+product_built: unknown SaaS (recently launched)
+fit_reason: first-person post-launch pain using exact Tide pain language unprompted in a comment on r/SaaS. "same boat, launched recently" confirms they are personally in the distribution gap right now.
+opener_angle: the same-boat framing on eelgr's thread, ask what they built and what channels they've tried
+status: new
+outreach_id: O-154
+[RECORD_END]
