@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-27T12:00:00Z
+last_checked: 2026-05-27T14:00:00Z
 next_lead_id: L-172
 next_outreach_id: O-165
-note: Run 99 (1 lead: L-171 CharmingTechFall r/SaaS+r/digital_marketing). Reddit egress blocked. F5Bot Gmail full inbox scan. Pipeline dense -- most signals from this pass already logged in runs 87b-96. CharmingTechFall: solo founder, built AI website editor with Claude, Google Ads, 0 signups, r/SaaS post removed but active in r/digital_marketing. DM draft O-164 queued. URGENT REMINDER: r/SaaS/1tnd7u1 "great at building terrible at marketing" (L-170, O-163) still pending action -- UNKNOWN username, Rishit must visit URL and DM manually. Also O-160/O-161/O-162 have UNKNOWN usernames. Pipeline: 171 leads total.
+note: Run 100 (0 leads). Reddit egress blocked. F5Bot Gmail empty (no new signals last 48h). HN Show HN: 30 posts scanned, 0 ICP hits. IH WebSearch: all results returning already-logged posts, pipeline confirmed exhausted. IH thread mining: MailTest thread (Apr 20, 189 comments) -- digital_clockwork/Akdigitalke/draws_with_crayons all outside 24h window or weak ICP. URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170, O-163) -- UNKNOWN username, Rishit must visit URL and DM manually. Also O-160/O-161/O-162 have UNKNOWN usernames. Pipeline: 171 leads total.
 
-last_run_note: Run 98 -- F5Bot Gmail full scan. 4 new leads found (all vibe coder communities). Pipeline: 170 leads total. All 4 leads have UNKNOWN usernames -- Reddit blocked, visit URLs to get usernames before sending DMs. r/SaaS/1tnd7u1 is now 4x flagged URGENT.
+last_run_note: Run 99 -- F5Bot Gmail full inbox scan. 1 new lead (CharmingTechFall L-171). Pipeline: 171 leads total.
 
 leads_logged:
   - Usman_Hacker21
