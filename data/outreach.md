@@ -2816,3 +2816,19 @@ draft: |
 
   doing research on this exact problem.
 [RECORD_END]
+
+[RECORD_START]
+id: O-164
+lead_id: L-171
+type: DM
+platform: reddit
+username: CharmingTechFall
+date_drafted: 2026-05-27
+status: draft
+draft: |
+  saw your post about building the ai website editor with claude and hitting 0 signups even after turning on google ads. 8 months of building and then disaster at marketing is a brutal combo.
+
+  what did the google ads traffic actually look like on the landing page? like were people bouncing immediately or not even clicking through?
+
+  doing research on what solo founders actually try in that first week post-launch and what breaks down.
+[RECORD_END]

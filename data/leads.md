@@ -2376,3 +2376,18 @@ opener_angle: the great-at-building-terrible-at-marketing self-diagnosis. ask wh
 status: new
 outreach_id: O-163
 [RECORD_END]
+
+[RECORD_START]
+id: L-171
+date_found: 2026-05-27
+username: CharmingTechFall
+platform: reddit
+subreddit: r/SaaS (post removed) + r/digital_marketing (active comment)
+url: https://www.reddit.com/r/SaaS/comments/1to0cvb/solo_founder_built_an_ai_website_editor_with/
+pain_quote: "0 signups even after Google Ads" / "spent 8 months building a tool. then tried to market it. disaster."
+product_built: AI website editor built with Claude
+fit_reason: solo founder, built with Claude (vibe coder), ran Google Ads after launch and got 0 signups. r/SaaS post removed. actively posting in r/digital_marketing about the marketing disaster. 8 months build time. textbook Tide ICP -- great at building, zero at distribution.
+opener_angle: reference the Claude-built AI website editor + Google Ads + 0 signups combo. ask what the landing page looked like and what the ads were sending traffic to.
+status: new
+outreach_id: O-164
+[RECORD_END]
