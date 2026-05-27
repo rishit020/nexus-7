@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-27T08:00:00Z
-next_lead_id: L-167
-next_outreach_id: O-160
-note: Run 96 (Dense-Inspection-183 L-163/r/SaaS) + Run 97 (FlashyAverage26 L-164/r/EntrepreneurRideAlong + 2 comment drafts O-155/O-156 r/vibecoding, r/VibeCodeDevs). Reddit egress blocked both runs. F5Bot Gmail: 10 threads scanned (newer_than:1d). Signal noise high -- many off-topic "distribution problem" hits. Discards: Paludis (L-143), CharmingTechFall ([removed]), naturequery ([removed]), Lise_vine23 (success story), solopraneur/SaiMohith07 (commentary), tand_eyes (B2B advice), TumbleweedTiny6567 (advice commenter), Academic_Sense7551/randomlovebird (giving advice), llCurry_Manll (Pakistan consumer app), all off-topic subs. MANUAL CHECK STILL NEEDED (3rd flag): unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- still unactioned. Also check r/vibecoding/1toob06 OP.
+last_checked: 2026-05-27T10:00:00Z
+next_lead_id: L-171
+next_outreach_id: O-164
+note: Run 98 (4 leads: L-167 r/vibecoding CorterxTerminal OP, L-168 r/vibecoding distribution OP, L-169 r/VibeCodeDevs parseflow OP, L-170 r/SaaS "great at building terrible at marketing" OP -- URGENT 4th flag). Reddit egress blocked. F5Bot Gmail: full inbox scan. All usernames UNKNOWN -- Reddit blocked, manual username lookup required before sending. DM drafts O-160 through O-163 queued. URGENT: r/SaaS/1tnd7u1 has now been flagged 4 times across runs 90/91/94/98 with no action taken. Rishit must DM this person.
 
-last_run_note: Run 97 -- F5Bot Gmail (10 threads, newer_than:1d). 1 new lead: FlashyAverage26/r/EntrepreneurRideAlong. 2 comment drafts queued. Pipeline: 164 leads total. Outstanding manual action: r/SaaS/1tnd7u1 OP DM (3rd flag).
+last_run_note: Run 98 -- F5Bot Gmail full scan. 4 new leads found (all vibe coder communities). Pipeline: 170 leads total. All 4 leads have UNKNOWN usernames -- Reddit blocked, visit URLs to get usernames before sending DMs. r/SaaS/1tnd7u1 is now 4x flagged URGENT.
 
 leads_logged:
   - Usman_Hacker21
@@ -172,6 +172,10 @@ leads_logged:
   - eelgr
   - Dense-Inspection-183
   - FlashyAverage26
+  - r/vibecoding/1tnrib6 (L-167, OP unknown)
+  - r/vibecoding/1toob06 (L-168, OP unknown)
+  - r/VibeCodeDevs/1tnvunh (L-169, OP unknown)
+  - r/SaaS/1tnd7u1 (L-170, OP unknown -- 4th flag URGENT)
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
@@ -273,3 +277,4 @@ telegram_configured: true
 2026-05-27 (run 95) | leads: 1 DM (eelgr L-162/r/SaaS) | source: F5Bot Gmail newer_than:2h (3 threads parsed). eelgr: r/SaaS "Just launched - now what?" -- post-launch distribution gap, first-person OP. Discards: Dense-Inspection-183 (r/SaaS commenter, first-person pain unconfirmed), CharmingTechFall (r/digital_marketing strong pain but wrong subreddit), all off-topic subs. Pipeline: 162 leads total.
 2026-05-27 (run 96) | leads: 1 DM (Dense-Inspection-183 L-163/r/SaaS) | source: F5Bot Gmail newer_than:2h (4 threads re-parsed). Dense-Inspection-183: r/SaaS commenter on eelgr "Just launched - now what?" thread, "Same boat, launched recently and very much in the shouting into the void" -- confirmed first-person pain, incorrectly discarded in run 95. Discards: TumbleweedTiny6567 (advice commenter r/indiehackers), randomlovebird (advice giver r/vibecoding, not OP), llCurry_Manll (r/PakStartups -- outside target market), Impressive_Ant7613 (r/AiAutomations -- freelancer finding clients, not SaaS founder), all other off-topic subs. Pipeline: 163 leads total.
 2026-05-26 (run 94) | leads: 3 DM (Webbu L-159/IH, affan_bin_yeakub L-160/IH, JaejooLEE L-161/IH) | source: IH thread commenter mining -- Kelon "30 days ago I posted with $0 revenue" thread (May 23 2026). Reddit all 7 subreddits blocked (egress policy). F5Bot Gmail empty (no new signals last 24h). HN Algolia Show HN 30 posts -- 0 ICP hits (all dev tools/open-source). Webbu: launched SaaS, 0 revenue, hunting first tester. affan_bin_yeakub: just shipped first product, experiencing distribution pain right now. JaejooLEE: customer development tool, 10+ daily visitors, none convert, "distribution honestly feels harder than building." Discarded: Obliqo2026 (pivoting to AI answer engine, experimenting not stuck), thebearbruce (Substack not SaaS), netxsoft/Spendro (saturated category, 6 months/1 user), EricMa2666 (no clear product or numbers), GhostGains (2800 waitlist signups, pre-launch hype not post-launch pain), bkela (already L-158). MANUAL CHECK STILL NEEDED (3rd flag): unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 "Great at building SaaS, terrible at marketing..." -- Rishit must DM this person manually. Pipeline: 161 leads total.
+2026-05-27 (run 98) | leads: 4 DM (L-167 r/vibecoding CorterxTerminal OP, L-168 r/vibecoding distribution OP, L-169 r/VibeCodeDevs parseflow OP, L-170 r/SaaS "great at building terrible at marketing" OP) | source: F5Bot Gmail full inbox scan. Reddit all 7 subreddits blocked (egress policy). All 4 leads from vibe coder communities -- strong ICP signal. ALL USERNAMES UNKNOWN -- Reddit blocked, manual lookup required before sending DMs. Drafts: O-160 (CorterxTerminal/r/vibecoding), O-161 (distribution question/r/vibecoding), O-162 (parseflow/r/VibeCodeDevs), O-163 (terrible at marketing/r/SaaS URGENT 4th flag). Discards: all previously-logged leads re-encountered, off-topic subs. URGENT: r/SaaS/1tnd7u1 is now flagged 4 times across runs 90/91/94/98 -- Rishit must act on this one manually. Pipeline: 170 leads total.

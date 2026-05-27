@@ -2316,3 +2316,63 @@ opener_angle: the everything-and-nothing dynamic -- ask what the 1:1 outreach lo
 status: new
 outreach_id: O-159
 [RECORD_END]
+
+[RECORD_START]
+id: L-167
+date_found: 2026-05-27
+username: UNKNOWN (manual lookup required -- visit link)
+platform: reddit
+subreddit: r/vibecoding
+url: https://www.reddit.com/r/vibecoding/comments/1tnrib6/
+pain_quote: "im the only user" (vibe coded a full terminal app, two months of work, zero audience)
+product_built: CorterxTerminal -- mobile-server-PC terminal app, vibe coded over two months
+fit_reason: textbook vibe coder ICP. spent two months building with AI tools, shipped something real, zero distribution. "im the only user" is the exact post-launch silence Tide targets. In r/vibecoding -- core community.
+opener_angle: reference CorterxTerminal and the two-month build with only-user result. ask what they've tried to get people to find it.
+status: new
+outreach_id: O-160
+[RECORD_END]
+
+[RECORD_START]
+id: L-168
+date_found: 2026-05-27
+username: UNKNOWN (manual lookup required -- visit link)
+platform: reddit
+subreddit: r/vibecoding
+url: https://www.reddit.com/r/vibecoding/comments/1toob06/
+pain_quote: "How did you guys solve distribution?" (OP asking vibe coder community for distribution answers)
+product_built: unknown (vibe coder asking about distribution -- product unclear from title)
+fit_reason: posted in r/vibecoding asking specifically how to solve distribution. vibe coder who shipped something and hit the distribution wall. the question itself is the ICP signal -- nobody asks that unless they're stuck.
+opener_angle: respond to the question with a follow-up about their specific situation. ask what they built and where it's stuck.
+status: new
+outreach_id: O-161
+[RECORD_END]
+
+[RECORD_START]
+id: L-169
+date_found: 2026-05-27
+username: UNKNOWN (manual lookup required -- visit link)
+platform: reddit
+subreddit: r/VibeCodeDevs
+url: https://www.reddit.com/r/VibeCodeDevs/comments/1tnvunh/
+pain_quote: "How do you get users" (OP asking about getting users for their product parseflow)
+product_built: parseflow (exact details unknown -- vibe coder product)
+fit_reason: posted in r/VibeCodeDevs asking "how do you get users" for their product. vibe coder community, named product, active distribution question. exactly where Tide's ICP is at the moment they need help.
+opener_angle: ask what parseflow does and what they've tried so far. genuine curiosity about the specific situation.
+status: new
+outreach_id: O-162
+[RECORD_END]
+
+[RECORD_START]
+id: L-170
+date_found: 2026-05-27
+username: UNKNOWN (manual lookup required -- URGENT, 4th flag -- visit https://www.reddit.com/r/SaaS/comments/1tnd7u1/)
+platform: reddit
+subreddit: r/SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tnd7u1/
+pain_quote: "Great at building SaaS, terrible at marketing. How do you get your first waitlist..."
+product_built: SaaS (unknown specifics)
+fit_reason: self-describes the exact Tide ICP in the title. "great at building, terrible at marketing" is the precise gap Tide closes. asking specifically about first waitlist -- pre-revenue, post-build, distribution wall. FLAGGED 4 TIMES across 4 scout runs. Needs manual action.
+opener_angle: the great-at-building-terrible-at-marketing self-diagnosis. ask what they built and what they've tried so far.
+status: new
+outreach_id: O-163
+[RECORD_END]

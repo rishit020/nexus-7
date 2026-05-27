@@ -2752,3 +2752,67 @@ draft: |
 
   doing research on the post-launch gap. that window between shipping and getting first paying users is exactly what i'm trying to understand.
 [RECORD_END]
+
+[RECORD_START]
+id: O-160
+lead_id: L-167
+type: DM
+platform: reddit
+username: UNKNOWN (visit https://www.reddit.com/r/vibecoding/comments/1tnrib6/)
+date_drafted: 2026-05-27
+status: draft
+draft: |
+  saw your post about CorterxTerminal in r/vibecoding. two months of vibe coding and you're the only user is a really specific place to be stuck.
+
+  what have you tried to get people to find it? doing research on the gap between finishing something and actually getting users.
+
+  your situation is exactly what i'm trying to map out.
+[RECORD_END]
+
+[RECORD_START]
+id: O-161
+lead_id: L-168
+type: COMMENT
+platform: reddit
+username: UNKNOWN (visit https://www.reddit.com/r/vibecoding/comments/1toob06/)
+date_drafted: 2026-05-27
+status: draft
+draft: |
+  saw your post in r/vibecoding asking how people solved distribution. curious what you built and where it's stuck specifically.
+
+  doing research on exactly this window for vibe coders. the pattern i keep seeing is the build is solved but the distribution piece has no equivalent toolset.
+
+  would love to hear your specific situation if you're open to it.
+[RECORD_END]
+
+[RECORD_START]
+id: O-162
+lead_id: L-169
+type: COMMENT
+platform: reddit
+username: UNKNOWN (visit https://www.reddit.com/r/VibeCodeDevs/comments/1tnvunh/)
+date_drafted: 2026-05-27
+status: draft
+draft: |
+  saw your post in r/VibeCodeDevs about getting users for parseflow. what does it do and what have you actually tried so far?
+
+  doing research on this exact gap for vibe coders. the build is usually the easy part, getting people to find it is where it breaks down.
+
+  curious what channels you've tried and what the response has been.
+[RECORD_END]
+
+[RECORD_START]
+id: O-163
+lead_id: L-170
+type: DM
+platform: reddit
+username: UNKNOWN -- URGENT 4TH FLAG (visit https://www.reddit.com/r/SaaS/comments/1tnd7u1/)
+date_drafted: 2026-05-27
+status: draft
+draft: |
+  saw your post about being great at building but terrible at marketing. that gap is exactly what i keep hearing from solo devs.
+
+  what are you building and what have you tried so far to get the first waitlist signups?
+
+  doing research on this exact problem.
+[RECORD_END]
