@@ -2391,3 +2391,33 @@ opener_angle: reference the Claude-built AI website editor + Google Ads + 0 sign
 status: new
 outreach_id: O-164
 [RECORD_END]
+
+[RECORD_START]
+id: L-172
+date_found: 2026-05-27
+username: Muted-Location4626
+platform: reddit
+subreddit: r/iOSAppsMarketing
+url: https://www.reddit.com/r/iOSAppsMarketing/comments/1tn5w5n/solo_ios_dev_month_1_postlaunch_data_all_the/
+pain_quote: "all the embarrassing numbers" / "My 91%..." (post-launch data dump)
+product_built: iOS app (unknown specifics)
+fit_reason: solo iOS dev sharing month 1 post-launch data with "embarrassing numbers." first-person pain, real numbers being shared publicly. distribution wall hit post-launch. slight ICP variation (iOS not vibe coder) but same archetype -- built something alone, can't get users.
+opener_angle: reference the guts it takes to share those numbers. ask where the wall actually was -- finding users or keeping them.
+status: new
+outreach_id: O-165
+[RECORD_END]
+
+[RECORD_START]
+id: L-173
+date_found: 2026-05-27
+username: Top_Chemistry_9467
+platform: reddit
+subreddit: r/DigitalMarketing
+url: https://www.reddit.com/r/DigitalMarketing/comments/1tnulz8/
+pain_quote: "I launched a Shopify app last week and I genuinely have no idea how to get my first [users]"
+product_built: Shopify app (unknown specifics, launched last week)
+fit_reason: launched a week ago, has zero idea how to get first users, sharing this in r/DigitalMarketing. fresh launch pain, first-person, actively seeking help. slight ICP variation (Shopify context) but post-launch distribution wall is exact Tide ICP pain.
+opener_angle: reference launching last week and having no distribution playbook. ask what the app does and what they've tried.
+status: new
+outreach_id: O-166
+[RECORD_END]

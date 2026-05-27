@@ -2832,3 +2832,35 @@ draft: |
 
   doing research on what solo founders actually try in that first week post-launch and what breaks down.
 [RECORD_END]
+
+[RECORD_START]
+id: O-165
+lead_id: L-172
+username: Muted-Location4626
+platform: reddit
+type: DM
+status: draft
+date_drafted: 2026-05-27
+draft: |
+  saw your month 1 post in r/iOSAppsMarketing. sharing those numbers takes guts.
+
+  was the main problem getting people to find the app or getting them to stick around once they did?
+
+  doing research on where the distribution wall actually hits for solo devs post-launch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-166
+lead_id: L-173
+username: Top_Chemistry_9467
+platform: reddit
+type: DM
+status: draft
+date_drafted: 2026-05-27
+draft: |
+  saw your comment in r/DigitalMarketing about launching a Shopify app last week and not knowing how to get first users. that exact window is what i'm researching.
+
+  what's the app for? and have you tried any channels yet?
+
+  doing research on how indie builders actually break through post-launch.
+[RECORD_END]
