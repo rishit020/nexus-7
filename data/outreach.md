@@ -2720,3 +2720,35 @@ draft: |
 
   what does your app do and who's hurting without it?
 [RECORD_END]
+
+[RECORD_START]
+id: O-158
+lead_id: L-165
+type: DM
+platform: reddit
+username: velociyzaptor
+date_drafted: 2026-05-27
+status: draft
+draft: |
+  saw your post about building two products back to back and getting zero signups on both. that's rough, especially after running actual google ads on the first one.
+
+  what did the outreach for the Tinder-for-SaaS idea actually look like? like who you targeted and through what channels?
+
+  doing research on exactly this. the gap between shipping something and getting anyone to respond is what i'm trying to map out.
+[RECORD_END]
+
+[RECORD_START]
+id: O-159
+lead_id: L-166
+type: DM
+platform: reddit
+username: SmartContractKid
+date_drafted: 2026-05-27
+status: draft
+draft: |
+  saw your comment about launching AEO Audit Pro and doing manual outreach to SEO agencies while posting on LinkedIn every day. still no clients yet is a brutal spot to be in.
+
+  what's the response rate on the 1:1 outreach looking like? like are people opening and ignoring or completely silent?
+
+  doing research on the post-launch gap. that window between shipping and getting first paying users is exactly what i'm trying to understand.
+[RECORD_END]

@@ -2286,3 +2286,33 @@ status: new
 outreach_id: O-155
 [RECORD_END]
 [RECORD_END]
+
+[RECORD_START]
+id: L-165
+date_found: 2026-05-27
+username: velociyzaptor
+platform: reddit
+subreddit: r/SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tndx64/badly_failed_on_my_second_saas_product_which_i/
+pain_quote: "0 signups, even after running google ads for a month"
+product_built: 1st: AI CRM + business tools + website builder. 2nd: "Tinder for SaaS" widget matching platform
+fit_reason: quit job 5 months ago to build solo. two consecutive launches, both 0 signups. tried Google ads (product 1) and 3 days constant outreach (product 2). explicitly asking what he's doing wrong with distribution. textbook Tide ICP.
+opener_angle: zero results after google ads + outreach -- ask what the outreach actually looked like and who he was targeting
+status: new
+outreach_id: O-158
+[RECORD_END]
+
+[RECORD_START]
+id: L-166
+date_found: 2026-05-27
+username: SmartContractKid
+platform: reddit
+subreddit: r/SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tmzg6x/c/onql6b1
+pain_quote: "finding first customers is really hard... Still waiting for my first client"
+product_built: AEO Audit Pro (just launched)
+fit_reason: just launched, doing manual 1:1 outreach to SEO agencies, posting daily on LinkedIn, trying "everything" -- still zero clients. first-person, post-launch, all channels tried, nothing working.
+opener_angle: the everything-and-nothing dynamic -- ask what the 1:1 outreach looks like and what response rate they're getting
+status: new
+outreach_id: O-159
+[RECORD_END]

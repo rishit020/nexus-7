@@ -1,9 +1,9 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-27T06:00:00Z
-next_lead_id: L-165
-next_outreach_id: O-158
+last_checked: 2026-05-27T08:00:00Z
+next_lead_id: L-167
+next_outreach_id: O-160
 note: Run 96 (Dense-Inspection-183 L-163/r/SaaS) + Run 97 (FlashyAverage26 L-164/r/EntrepreneurRideAlong + 2 comment drafts O-155/O-156 r/vibecoding, r/VibeCodeDevs). Reddit egress blocked both runs. F5Bot Gmail: 10 threads scanned (newer_than:1d). Signal noise high -- many off-topic "distribution problem" hits. Discards: Paludis (L-143), CharmingTechFall ([removed]), naturequery ([removed]), Lise_vine23 (success story), solopraneur/SaiMohith07 (commentary), tand_eyes (B2B advice), TumbleweedTiny6567 (advice commenter), Academic_Sense7551/randomlovebird (giving advice), llCurry_Manll (Pakistan consumer app), all off-topic subs. MANUAL CHECK STILL NEEDED (3rd flag): unknown OP at reddit.com/r/SaaS/comments/1tnd7u1 "Great at building SaaS, terrible at marketing. How do you get your first waitlist..." -- still unactioned. Also check r/vibecoding/1toob06 OP.
 
 last_run_note: Run 97 -- F5Bot Gmail (10 threads, newer_than:1d). 1 new lead: FlashyAverage26/r/EntrepreneurRideAlong. 2 comment drafts queued. Pipeline: 164 leads total. Outstanding manual action: r/SaaS/1tnd7u1 OP DM (3rd flag).
