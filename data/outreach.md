@@ -2896,3 +2896,18 @@ draft: |
   doing research on exactly that window between validation and actual user traction.
 notes: seyf_gharbi posted "Talk to your customers first, but..." on r/indiehackers (2026-05-28T00:36 UTC per Reddit digest email). 13 upvotes/79 comments. Serial builder who did customer discovery right but still failed. Post surfaced via noreply@redditmail.com digest to u/GrandFit6072 (Rishit's Reddit account).
 [RECORD_END]
+
+[RECORD_START]
+id: O-169
+lead_id: L-176
+username: 01-89
+platform: reddit
+type: DM
+status: draft
+date_drafted: 2026-05-28
+draft: |
+  saw your post in r/microsaas about building an AI tool and launching to nobody. curious what you actually tried for distribution before things changed for you. did you try posting anywhere, or was it more that you just hadn't gotten there yet?
+
+  doing research on exactly that gap between shipping and getting any users. your situation is a clean example of it.
+notes: 01-89 posted "I built a micro-SaaS in the AI space with subscription model built in but got zero..." on r/microsaas (~2026-05-27T15:35Z per F5Bot alert). Post body: "I focused entirely on the product and launched to nobody. Now my situation has changed and I cannot continue. For micro-SaaS builders who have been in similar situations: what do you actually do? Is there a realistic path to transferring a working but zero-revenue product to someone else, or is that wishful thinking?" Built AI micro-SaaS, zero users, zero revenue, trying to exit. Textbook Tide ICP pain. Surfaced via F5Bot "launched to nobody" keyword in same thread (19e6a139d45531ca) as Tight-Lie-5996 (competitor/discard).
+[RECORD_END]
