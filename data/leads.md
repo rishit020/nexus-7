@@ -2421,3 +2421,18 @@ opener_angle: reference launching last week and having no distribution playbook.
 status: new
 outreach_id: O-166
 [RECORD_END]
+
+[RECORD_START]
+id: L-174
+date_found: 2026-05-28
+username: hyzokaaa
+platform: reddit
+subreddit: r/SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tov5un/c/oo6xjxg?context=3
+pain_quote: "Product Hunt launch -> 6 upvotes, 20 followers, 0 signups. Cold emails to 6 leads from Apollo -> 0 replies. Reddit posts -> good engagement but no conversions."
+product_built: unknown SaaS (one company using self-hosted for free, no paying users)
+fit_reason: tried PH, cold email, and Reddit simultaneously post-launch with zero conversions across every channel. solo founder, bootstrapped, no ad budget. specific failure data across 3 channels is textbook Tide ICP.
+opener_angle: the simultaneous failure across PH/email/Reddit with specific numbers. ask what the product is and whether the reddit engagement felt like the right people or just random traffic.
+status: new
+outreach_id: O-167
+[RECORD_END]

@@ -2864,3 +2864,20 @@ draft: |
 
   doing research on how indie builders actually break through post-launch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-167
+lead_id: L-174
+username: hyzokaaa
+platform: reddit
+type: DM
+status: draft
+date_drafted: 2026-05-28
+draft: |
+  saw your comment in r/saas about the channel testing. ph 6 upvotes and 0 signups, cold email 0 replies, reddit good engagement but no conversions all at once is a really specific data set.
+
+  what are you building? curious whether the reddit engagement felt like the right people or just random traffic.
+
+  doing research on the post-launch distribution gap for solo founders. your situation is exactly what i'm mapping out.
+notes: hyzokaaa commented on r/SaaS "Best channel to get leads or clients for my Saas?" thread (2026-05-27). Listed exact channel failure data: PH 6 upvotes/0 signups, Apollo cold email 0 replies, Reddit good engagement/0 conversions, LinkedIn just starting. Solo founder, bootstrapped, no ad budget. Unknown product (one self-hosted user for free). Ask about the product and what "good engagement" on Reddit actually looked like. F5Bot "0 signups" keyword alert 2026-05-27T15:48:24Z.
+[RECORD_END]
