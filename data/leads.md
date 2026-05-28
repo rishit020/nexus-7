@@ -2466,3 +2466,48 @@ opener_angle: reference launching to nobody. ask what distribution they actually
 status: new
 outreach_id: O-169
 [RECORD_END]
+
+[RECORD_START]
+id: L-177
+date_found: 2026-05-28
+username: CharmingTechFall
+platform: reddit
+subreddit: r/SaaS + r/digital_marketing
+url: https://www.reddit.com/r/SaaS/comments/1to0cvb/
+pain_quote: "shouting into the void" (comment on r/digital_marketing marketing disaster thread, day after 0-signups r/SaaS post)
+product_built: AI website editor built with Claude
+fit_reason: two signals in 2 days. posted on r/SaaS as solo founder who built AI website editor with Claude and just turned on Google Ads with 0 signups (post removed but title preserved). next day commented on r/digital_marketing thread "I spent 8 months building a tool... Then I tried to market it. Disaster." using "shouting into the void". combination of vibe coder origin, zero users, active distribution attempts, and expressing ongoing failure is textbook Tide ICP.
+opener_angle: reference the ai website editor post and the 8 months/disaster comment. ask what the first weeks of trying to get users actually looked like. research framing.
+status: new
+outreach_id: O-170
+[RECORD_END]
+
+[RECORD_START]
+id: L-179
+date_found: 2026-05-28
+username: eelgr
+platform: reddit
+subreddit: r/SaaS
+url: https://www.reddit.com/r/SaaS/comments/1to4ype/just_launched_now_what/
+pain_quote: "Building the product is the fun part, getting creative and shouting into the void"
+product_built: unknown (r/SaaS post, "just launched")
+fit_reason: posted "Just launched - now what?" on r/SaaS with body mentioning "shouting into the void". title IS the pain point. post gained traction with 3+ commenters across 2 days. post-launch distribution confusion, first person, active thread. comment target not DM since >12h and now visible/active.
+opener_angle: comment adding genuine value to the thread. ask what channels they've tried and what response looked like. research framing on the post-launch gap.
+status: new
+outreach_id: O-172
+[RECORD_END]
+
+[RECORD_START]
+id: L-180
+date_found: 2026-05-28
+username: ResponsibilitySad28
+platform: reddit
+subreddit: r/SideProject
+url: https://www.reddit.com/r/SideProject/comments/1tpa7tz/got_my_first_paying_user_22_days_after_launch_the/
+pain_quote: "shouting into the void" (retrospective, describes pre-first-user phase in post-launch story)
+product_built: unknown (SideProject, got first paying user at day 22)
+fit_reason: shared a post-launch story describing the pre-first-user phase as "shouting into the void". 22 days of distribution struggle before first user is exactly the window Tide addresses. they're past the pain but describing it in detail = good comment target to understand what channels failed and which broke through.
+opener_angle: comment asking what the distribution failures looked like in the first 22 days before things clicked. research framing on the pre-first-user phase.
+status: new
+outreach_id: O-173
+[RECORD_END]

@@ -2911,3 +2911,45 @@ draft: |
   doing research on exactly that gap between shipping and getting any users. your situation is a clean example of it.
 notes: 01-89 posted "I built a micro-SaaS in the AI space with subscription model built in but got zero..." on r/microsaas (~2026-05-27T15:35Z per F5Bot alert). Post body: "I focused entirely on the product and launched to nobody. Now my situation has changed and I cannot continue. For micro-SaaS builders who have been in similar situations: what do you actually do? Is there a realistic path to transferring a working but zero-revenue product to someone else, or is that wishful thinking?" Built AI micro-SaaS, zero users, zero revenue, trying to exit. Textbook Tide ICP pain. Surfaced via F5Bot "launched to nobody" keyword in same thread (19e6a139d45531ca) as Tight-Lie-5996 (competitor/discard).
 [RECORD_END]
+
+[RECORD_START]
+id: O-170
+date_created: 2026-05-28
+lead_id: L-177
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about building the ai website editor and the google ads experiment. 8 months of building and then 'disaster' at marketing is something so many solo builders describe the exact same way. what did the first few weeks of trying to get users actually look like for you? doing research on the gap between shipping something and getting any real traction.
+action: DM
+target_url: https://www.reddit.com/user/CharmingTechFall
+notes: two F5Bot signals: (1) r/SaaS post "Solo founder, built an AI website editor with Claude, just turned on Google Ads: 4..." with 0 signups in title, post removed (2026-05-26). (2) comment on r/digital_marketing/1tkm2kj thread "I spent 8 months building a tool... Then I tried to market it. Disaster." with "shouting into the void" (2026-05-27). active and expressing ongoing pain across two subreddits. solo founder, Claude-built product, zero users, distribution attempts failing.
+status: draft
+[RECORD_END]
+
+[RECORD_START]
+id: O-172
+date_created: 2026-05-28
+lead_id: L-179
+platform: reddit
+variant: comment
+draft_text: |
+  the 'just launched and now what' phase is honestly the most brutal part for solo builders. everyone has a different answer to where users actually come from, and most of it is specific to your product and community combo. curious what channels you've tried so far and what the response has been. doing research on exactly this window between launch and first real traction.
+action: COMMENT
+target_url: https://www.reddit.com/r/SaaS/comments/1to4ype/just_launched_now_what/
+notes: eelgr posted "Just launched - now what?" on r/SaaS (2026-05-26T12:14Z). post body describes "shouting into the void". gained traction with 3+ commenters (Dense-Inspection-183, DevEmma1) over 2 days. r/SaaS rules: check before posting but this is a comment adding genuine value, not self-promo. research framing is safe.
+status: draft
+[RECORD_END]
+
+[RECORD_START]
+id: O-173
+date_created: 2026-05-28
+lead_id: L-180
+platform: reddit
+variant: comment
+draft_text: |
+  the 22 days leading up to that first user are honestly the most interesting part of this story. what did the 'shouting into the void' period actually look like for your specific product before things clicked? doing research on this early distribution phase for solo builders and this kind of before/after breakdown is exactly what i'm trying to map out.
+action: COMMENT
+target_url: https://www.reddit.com/r/SideProject/comments/1tpa7tz/got_my_first_paying_user_22_days_after_launch_the/
+notes: ResponsibilitySad28 posted in r/SideProject describing getting first paying user 22 days after launch (2026-05-27T16:18Z). post contains "shouting into the void" describing the pre-first-user phase. this is a retrospective pain signal. good comment target to understand what failed vs what worked in early distribution.
+status: draft
+[RECORD_END]
