@@ -2881,3 +2881,18 @@ draft: |
   doing research on the post-launch distribution gap for solo founders. your situation is exactly what i'm mapping out.
 notes: hyzokaaa commented on r/SaaS "Best channel to get leads or clients for my Saas?" thread (2026-05-27). Listed exact channel failure data: PH 6 upvotes/0 signups, Apollo cold email 0 replies, Reddit good engagement/0 conversions, LinkedIn just starting. Solo founder, bootstrapped, no ad budget. Unknown product (one self-hosted user for free). Ask about the product and what "good engagement" on Reddit actually looked like. F5Bot "0 signups" keyword alert 2026-05-27T15:48:24Z.
 [RECORD_END]
+
+[RECORD_START]
+id: O-168
+lead_id: L-175
+username: seyf_gharbi
+platform: reddit
+type: DM
+status: draft
+date_drafted: 2026-05-28
+draft: |
+  saw your post on r/indiehackers about talking to customers before every project and still failing. genuinely curious what "showing up wrong" actually looked like for you. like what was the gap between having the customer feedback and getting them to use what you built?
+
+  doing research on exactly that window between validation and actual user traction.
+notes: seyf_gharbi posted "Talk to your customers first, but..." on r/indiehackers (2026-05-28T00:36 UTC per Reddit digest email). 13 upvotes/79 comments. Serial builder who did customer discovery right but still failed. Post surfaced via noreply@redditmail.com digest to u/GrandFit6072 (Rishit's Reddit account).
+[RECORD_END]

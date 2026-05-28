@@ -2436,3 +2436,18 @@ opener_angle: the simultaneous failure across PH/email/Reddit with specific numb
 status: new
 outreach_id: O-167
 [RECORD_END]
+
+[RECORD_START]
+id: L-175
+date_found: 2026-05-28
+username: seyf_gharbi
+platform: reddit
+subreddit: r/indiehackers
+url: https://www.reddit.com/r/indiehackers/
+pain_quote: "I've talked to customers before every project I've built. I still failed. Not because the advice was wrong. Because I was showing up..."
+product_built: multiple projects (serial builder, specific products unknown)
+fit_reason: serial builder on r/indiehackers who has done customer discovery correctly across multiple projects and still failed every time. pain is post-validation, post-build, pointing directly at distribution gap. 13 upvotes and 79 comments shows the pain resonated with the builder community. strong ICP.
+opener_angle: reference the "talked to customers before every project and still failed" post specifically. ask what "showing up wrong" actually looked like in practice. research framing on the gap between validation and actual user traction.
+status: new
+outreach_id: O-168
+[RECORD_END]
