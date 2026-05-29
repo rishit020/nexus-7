@@ -1,10 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-29T10:30:00Z
-next_lead_id: L-186
-next_outreach_id: O-180
-note: Run 118 (2 leads). Reddit/WebFetch blocked all subs. Full F5Bot Gmail parse (all unread since May 24 - thorough re-parse). 2 new WATCH leads: L-184 CorterxTerminal OP (r/vibecoding/1tnrib6, username unknown, "im the only user", DM drafted as O-177), L-185 TikTok 60k views OP (r/StartupSoloFounder/1tpeokw, username unknown, runs 114+116 flagged but never logged, DM drafted as O-178). 1 COMMENT drafted: O-179 (r/SaaS "How did you get your first real SaaS users?" /1tqoun1, fresh today). Discards: CharmingTechFall (post removed), theresadfdert (commenter not OP), ExtentResponsible767 (commenter on already-logged L-170), all non-ICP subs (kpop/middleclasshq/TheCulture/btsthoughts/dropshipping/localseo/3PL/TikTokLounge/SaaSSolopreneurs/RelentlessMen/IndieDev). Pipeline: 185 total. URGENT: L-184/L-185/L-170 need username lookup to unlock DMs. COMMENT O-179 ready to drop.
+last_checked: 2026-05-29T11:00:00Z
+next_lead_id: L-187
+next_outreach_id: O-181
+note: Run 119 (1 lead). F5Bot Gmail parse (newer_than:2h). 1 new qualifying lead: L-186 samsribot (r/ProductHunters, "first time launching on Product Hunt and I don't know how to grow. I don't have money for ads.", DM drafted as O-180). Discards: theresadfdert (commenter giving advice on r/SaaS, no personal pain -- already discarded run 118), Adventurous_Slide696 (r/cofounderhunt, claims to have solved distribution, recruiting), LarryStink (r/wallstreetbets, wrong sub), Status_Regular_1216 (r/Landremotejobs, freelancer analysis not personal pain), verbalsuplex (r/cripplingalcoholism, wrong sub), all "shouting into the void" hits from wrong subs (r/AsOneAfterInfidelity/r/Vent/r/Pauper/r/MensRights/r/emotionalabuse). Pipeline: 186 total. URGENT STILL OPEN: L-184/L-185/L-170 need username lookup to unlock DMs.
+last_checked_118: 2026-05-29T10:30:00Z
+note_118: Run 118 (2 leads). Reddit/WebFetch blocked all subs. Full F5Bot Gmail parse (all unread since May 24 - thorough re-parse). 2 new WATCH leads: L-184 CorterxTerminal OP (r/vibecoding/1tnrib6, username unknown, "im the only user", DM drafted as O-177), L-185 TikTok 60k views OP (r/StartupSoloFounder/1tpeokw, username unknown, runs 114+116 flagged but never logged, DM drafted as O-178). 1 COMMENT drafted: O-179 (r/SaaS "How did you get your first real SaaS users?" /1tqoun1, fresh today). Discards: CharmingTechFall (post removed), theresadfdert (commenter not OP), ExtentResponsible767 (commenter on already-logged L-170), all non-ICP subs (kpop/middleclasshq/TheCulture/btsthoughts/dropshipping/localseo/3PL/TikTokLounge/SaaSSolopreneurs/RelentlessMen/IndieDev). Pipeline: 185 total. URGENT: L-184/L-185/L-170 need username lookup to unlock DMs. COMMENT O-179 ready to drop.
 last_checked_117: 2026-05-29T09:45:00Z
 note_117: Run 117 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:2h): 0 new signals since last run. HN Show HN: no new posts since 07:45Z (Algolia confirmed 0 hits). IH WebSearch: no new unlogged posts, all results previously logged. Pipeline: 183 total unchanged. URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170/O-163) unknown username.
 last_checked_116: 2026-05-29T07:45:00Z
@@ -200,6 +202,7 @@ leads_logged:
   - seyf_gharbi
   - Best-Reach1891
   - Lorenzoak
+  - samsribot
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic

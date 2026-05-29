@@ -3055,3 +3055,21 @@ target_url: https://www.reddit.com/r/SaaS/comments/1tqoun1/
 notes: F5Bot "distribution problem" hit 2026-05-29T07:04Z. OP asked "How did you get your first real SaaS users?" in r/SaaS. Textbook Tide ICP asking for help. Thread is fresh today. Good visibility play plus natural conversation starter. Check OP username from thread before dropping comment. No em dashes verified.
 status: draft
 [RECORD_END]
+
+[RECORD_START]
+id: O-180
+date_created: 2026-05-29
+lead_id: L-186
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about agentline on producthunters. first ph launch with no ads budget is a rough place to figure things out.
+
+  what have you actually tried so far to get traction, and where does it break down?
+
+  doing research on exactly this gap between launching something and getting real users. sounds like you're right in the middle of it.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" alert 2026-05-29T07:18Z. samsribot posted in r/ProductHunters about launching AgentLine (AI agent telephony). First-time PH launch, no growth knowledge, no ad budget. Direct first-person distribution pain. DM via Reddit. No em dashes verified. 4 sentences max. Research framing, no pitch.
+[RECORD_END]

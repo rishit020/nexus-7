@@ -2586,3 +2586,18 @@ opener_angle: reference the 60k/0 gap. ask who specifically they were targeting 
 status: watch
 outreach_id: O-178
 [RECORD_END]
+
+[RECORD_START]
+id: L-186
+date_found: 2026-05-29
+username: samsribot
+platform: reddit
+subreddit: r/ProductHunters
+url: https://www.reddit.com/r/ProductHunters/comments/1tqu0x6/i_just_launched_my_sass_agentline_on_product_hunt/
+pain_quote: "This is my first time launching on Product Hunt and I don't know how to grow. I don't have money for ads."
+product_built: AgentLine - telephony services for AI agents (gives AI agents phone numbers to call/SMS)
+fit_reason: first-time launcher, just hit product hunt with no growth playbook and no budget. classic post-launch distribution wall. explicitly says "i don't know how to grow." textbook Tide ICP.
+opener_angle: reference first ph launch + no ads budget. ask what they've tried so far and where it's breaking down.
+status: new
+outreach_id: O-180
+[RECORD_END]
