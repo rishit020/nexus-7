@@ -1,10 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-29T07:45:00Z
+last_checked: 2026-05-29T09:45:00Z
 next_lead_id: L-184
 next_outreach_id: O-177
-note: Run 116 (1 lead). Reddit egress blocked all 7 subs. Full F5Bot Gmail inbox parse (all unread signals since May 24). 1 new qualifying lead: L-183 AttorneySome4992 (r/SideProject, "$102 MRR, lost in silent after 1-2 months marketing", DM drafted as O-176). Discards: eelgr/Dense-Inspection-183/Muted-Location4626/vibecodingcommunity OP (all already logged prior runs), donkempire (4 paying users, not in pain), Icy_Salamander_1543 (crypto, no distro pain, WATCH), ryansilk1 (SEO CTR question, not distro frustration), zkvqx ($3K MRR, not in pain), KingfinityCreator (post removed), BuildMoreBetter (commenter not OP, StartupSoloFounder OP still unknown), all wrong-sub "shouting into the void" hits. Pipeline: 183 total. URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170/O-163) unknown username.
+note: Run 117 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:2h): 0 new signals since last run. HN Show HN: no new posts since 07:45Z (Algolia confirmed 0 hits). IH WebSearch: no new unlogged posts, all results previously logged. Pipeline: 183 total unchanged. URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170/O-163) unknown username.
+last_checked_116: 2026-05-29T07:45:00Z
+note_116: Run 116 (1 lead). Reddit egress blocked all 7 subs. Full F5Bot Gmail inbox parse (all unread signals since May 24). 1 new qualifying lead: L-183 AttorneySome4992 (r/SideProject, "$102 MRR, lost in silent after 1-2 months marketing", DM drafted as O-176). Discards: eelgr/Dense-Inspection-183/Muted-Location4626/vibecodingcommunity OP (all already logged prior runs), donkempire (4 paying users, not in pain), Icy_Salamander_1543 (crypto, no distro pain, WATCH), ryansilk1 (SEO CTR question, not distro frustration), zkvqx ($3K MRR, not in pain), KingfinityCreator (post removed), BuildMoreBetter (commenter not OP, StartupSoloFounder OP still unknown), all wrong-sub "shouting into the void" hits. Pipeline: 183 total. URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170/O-163) unknown username.
 last_checked_115: 2026-05-29T05:30:00Z
 note_115: Run 115 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:3h): 0 new signals since 01:36Z. Reddit digest: r/ApplyingToCollege only (irrelevant). HN Show HN: no ICP hits. IH WebSearch: no new unlogged posts. Pipeline: 182 total unchanged. URGENT: r/SaaS/1tnd7u1 (L-170/O-163) unknown username still open.
 last_checked_114: 2026-05-29T03:08:15Z
