@@ -3001,3 +3001,57 @@ target_url: https://www.reddit.com/user/AttorneySome4992
 notes: F5Bot "launched my saas" alert 2026-05-28T11:08Z. AttorneySome4992 commented on r/SideProject "What's your MRR" thread. $102 MRR, launched Jan 2025, marketed 1-2 months then stopped. "lost in silent." 17 months post-launch with near-zero revenue. classic distribution dropout. DM via Reddit.
 status: draft
 [RECORD_END]
+
+[RECORD_START]
+id: O-177
+date_created: 2026-05-29
+lead_id: L-184
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about corterxterminal. two months building and being the only user is a very specific place to be.
+
+  what's your sense of who actually needs this. the multi-device terminal workflow is real, there's definitely a crowd for it. where have you thought about finding them?
+
+  doing research on exactly this window between shipping something and finding the people who need it.
+action: WATCH
+target_url: https://www.reddit.com/r/vibecoding/comments/1tnrib6/
+notes: OP username unknown. F5Bot "distribution problem" keyword hit 2026-05-26T10:18Z via commenter Forward-Switch801 who said "im the only user is a distribution problem not a product problem." Find OP username to unlock DM. Go to thread, grab OP name.
+status: draft
+[RECORD_END]
+
+[RECORD_START]
+id: O-178
+date_created: 2026-05-29
+lead_id: L-185
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the tiktok at 60k views and 0 signups.
+
+  60k views means the problem resonates with someone. the gap to signups is usually audience vs intent. who specifically were you trying to reach with that video?
+
+  doing research on this exact gap for solo founders trying to convert attention into users.
+action: DM pending username
+target_url: https://www.reddit.com/r/StartupSoloFounder/comments/1tpeokw/
+notes: OP username unknown. F5Bot "0 signups" hit 2026-05-28T19:24Z via commenter BuildMoreBetter. Runs 114 and 116 both flagged OP as unknown, never logged. Product appears to be parenting tool. Find OP username to unlock DM.
+status: draft
+[RECORD_END]
+
+[RECORD_START]
+id: O-179
+date_created: 2026-05-29
+lead_id: none
+platform: reddit
+variant: comment
+draft_text: |
+  been doing research on exactly this question. specifically the gap between "launched" and "first 10 users" for solo founders with no audience.
+
+  pattern i keep seeing: people who got there fastest didn't wait to be found. they went to where their users were already complaining about the exact problem their product solves. not reddit broadly, the specific threads where the frustration already exists.
+
+  what have you tried so far?
+action: COMMENT
+target_url: https://www.reddit.com/r/SaaS/comments/1tqoun1/
+notes: F5Bot "distribution problem" hit 2026-05-29T07:04Z. OP asked "How did you get your first real SaaS users?" in r/SaaS. Textbook Tide ICP asking for help. Thread is fresh today. Good visibility play plus natural conversation starter. Check OP username from thread before dropping comment. No em dashes verified.
+status: draft
+[RECORD_END]

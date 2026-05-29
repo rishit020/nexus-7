@@ -2556,3 +2556,33 @@ opener_angle: reference the $102 MRR and going quiet after 1-2 months. ask what 
 status: new
 outreach_id: O-176
 [RECORD_END]
+
+[RECORD_START]
+id: L-184
+date_found: 2026-05-29
+username: unknown
+platform: reddit
+subreddit: r/vibecoding
+url: https://www.reddit.com/r/vibecoding/comments/1tnrib6/
+pain_quote: "im the only user" (via commenter Forward-Switch801 noting distribution problem not product problem)
+product_built: CorterxTerminal - mobile-server-PC terminal app, 2 months of vibe coding
+fit_reason: r/vibecoding is textbook ICP sub. 2 months building, zero users. Commenter explicitly called it "a distribution problem not a product problem." Solo vibe coder, built real product, stuck at 0 users. Direct Tide ICP.
+opener_angle: reference 2 months building and being the only user. ask where they think their users actually are.
+status: watch
+outreach_id: O-177
+[RECORD_END]
+
+[RECORD_START]
+id: L-185
+date_found: 2026-05-29
+username: unknown
+platform: reddit
+subreddit: r/StartupSoloFounder
+url: https://www.reddit.com/r/StartupSoloFounder/comments/1tpeokw/
+pain_quote: "My TikTok hit 60k views but got 0 signups - what am I missing?"
+product_built: parenting product (inferred from BuildMoreBetter's advice mentioning "new parents")
+fit_reason: 60k views, 0 signups = reach without conversion. Active distribution effort failing. Asking for help directly. Classic Tide ICP: has attention, can't convert it to users. Flagged by runs 114 and 116 as OP unknown, never logged until now.
+opener_angle: reference the 60k/0 gap. ask who specifically they were targeting and whether the CTA matched the audience.
+status: watch
+outreach_id: O-178
+[RECORD_END]
