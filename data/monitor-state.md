@@ -1,12 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-29T01:30:00Z
+last_checked: 2026-05-29T03:08:15Z
 next_lead_id: L-183
 next_outreach_id: O-176
-note: Run 113 (1 lead). F5Bot Gmail full parse (newer_than:1d, 9 threads). 1 qualifying DM lead: Lorenzoak (r/SideProject, Stripe-to-QuickBooks tool, built solo with Cursor on 6-month leave, "Launched yesterday. 0 paying users lol.", L-182/O-175 DM). WATCH: Icy_Salamander_1543 (r/SideProject + r/SaaS, crypto exit calculator, just launched, looking for feedback, no explicit distribution pain yet). WATCH: r/StartupSoloFounder/comments/1tpeokw OP unknown ("My TikTok hit 60k views but got 0 signups" -- real ICP pain, Reddit blocked, username not recoverable). Discarded: donkempire (success story, 4 paying users), JonBuildsHQ (advisor comment), BuildMoreBetter (advisor comment), AttorneySome4992 ($102 MRR stale -- launched Jan 2025), KingfinityCreator (post removed), BeeTheGlitch (email marketing excitement, not distribution pain), zkvqx ($3K MRR has traction), ryansilk1 (SEO CTR issue not distribution gap), Odysseus9385 (r/creators analysis, not personal pain), freeenergy_ua2022 (advisor), all off-topic subs (r/FIREUK, r/biotech, r/SoloDevelopment, r/AspiringTeenAuthors, r/AsOneAfterInfidelity, r/Vent, r/Pauper). URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170, O-163) UNKNOWN username, O-160/O-161/O-162 UNKNOWN usernames. Pipeline: 181 leads total.
+note: Run 114 (0 leads). Reddit egress blocked all 7 subreddits. F5Bot Gmail parse (newer_than:2h, 1 new thread). ZERO new qualifying leads. Discards: Lordz_Kreationz (r/AspiringTeenAuthors, "shouting into the void" wrong sub), Best-Reach1891 already logged as L-181 in Run 112, BuildMoreBetter (advisor comment on r/StartupSoloFounder "My TikTok hit 60k views but got 0 signups" -- OP still unknown), Icy_Salamander_1543 (crypto exit calculator, WATCH, no explicit distribution pain). HN Show HN scanned -- nothing ICP relevant. URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170, O-163) UNKNOWN username, O-160/O-161/O-162 UNKNOWN usernames. Pipeline: 182 leads total (L-182 added previous run).
 
-last_checked_112: 2026-05-29T02:07:04Z
+last_checked_113: 2026-05-29T01:30:00Z
 next_lead_id_112: L-182
 next_outreach_id_112: O-175
 note_112: Run 112 (1 lead). F5Bot Gmail parse (newer_than:2h). 1 qualifying signal: Best-Reach1891 (r/SaaS, "I almost paid a fake invoice, built a SaaS, pivoted twice, still at $0 MRR", $0 paying users, tiny audience, organic only, L-181/O-174 DM). Discarded: Lordz_Kreationz (r/AspiringTeenAuthors, "shouting into the void" but wrong subreddit and author context), Reddit College post (r/ApplyingToCollege, not relevant), older F5Bot threads from May 24-26 all previously parsed in runs 102-111 (TumbleweedTiny6567 9th discard, eelgr=L-162/L-179, Paludis=L-143, stellarton=asking general question not first-person pain, r/galaxys26ultra/r/balatro/r/gaming/r/LinkedInTips/r/smallbusiness/r/IntoTheBreach all wrong subs). URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170, O-163) UNKNOWN username, O-160/O-161/O-162 UNKNOWN usernames. Pipeline: 180 leads total (L-181 added).
