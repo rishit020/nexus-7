@@ -2526,3 +2526,18 @@ opener_angle: reference the pivot-twice/$0 mrr framing plus the specific channel
 status: new
 outreach_id: O-174
 [RECORD_END]
+
+[RECORD_START]
+id: L-182
+date_found: 2026-05-29
+username: Lorenzoak
+platform: reddit
+subreddit: r/SideProject
+url: https://www.reddit.com/r/SideProject/comments/1tpx4gt/built_a_local_tool_that_turns_messy_stripe/
+pain_quote: "Launched yesterday. 0 paying users lol. 0 USD revenue. Built solo with Cursor during a 6-month leave from my job."
+product_built: local Stripe-to-QuickBooks converter. built solo with Cursor. client-side architecture, one-time pricing (anti-SaaS). targets freelancers and accountants.
+fit_reason: perfect ICP. solo dev, built with Cursor (textbook vibe coder), launched day before alert, 0 paying users, $0 revenue. first-person, fresh pain, day one post-launch.
+opener_angle: reference Cursor build + 0 paying users day one. ask who they're reaching first (freelancers or accountants) and what they've tried so far.
+status: new
+outreach_id: O-175
+[RECORD_END]

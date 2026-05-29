@@ -2969,3 +2969,19 @@ target_url: https://www.reddit.com/user/Best-Reach1891
 notes: F5Bot "0 paying users" alert 2026-05-29T01:36:18Z. r/SaaS post "I almost paid a fake invoice, built a SaaS, pivoted twice, still at $0 MRR." Explicit pain: $0 paying users, no audience (no newsletter/Twitter/launch crowd), near-zero ad budget. Tried reddit, SEO, chrome extension, word of mouth. Asking what first channel actually worked for other founders. First-person throughout. DM via Reddit. Reference the pivot-twice framing and the specific channels they named.
 status: draft
 [RECORD_END]
+
+[RECORD_START]
+id: O-175
+date_created: 2026-05-29
+lead_id: L-182
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the stripe to quickbooks tool. built solo with cursor, launched yesterday, 0 paying users is a very specific day one.
+
+  who are you trying to reach first, freelancers or accountants? doing research on exactly this gap between building something useful and finding the people who would actually pay for it.
+action: DM
+target_url: https://www.reddit.com/r/SideProject/comments/1tpx4gt/built_a_local_tool_that_turns_messy_stripe/
+notes: F5Bot "0 paying users" alert 2026-05-28T08:16Z. Lorenzoak built Stripe-to-QuickBooks local tool with Cursor during 6-month job leave. launched day before alert. 0 paying users, $0. client-side only, one-time pricing. targets freelancers and accountants. perfect vibe coder ICP. DM via Reddit.
+status: draft
+[RECORD_END]
