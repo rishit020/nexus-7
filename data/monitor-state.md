@@ -1,10 +1,10 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-28T10:00:00Z
-next_lead_id: L-181
-next_outreach_id: O-174
-note: Run 111 (3 leads). Reddit egress blocked all 7 subreddits. F5Bot Gmail full parse (newer_than:2d, 54-msg thread + supplementary threads). 3 qualifying signals: CharmingTechFall (r/SaaS + r/digital_marketing, solo Claude-built AI website editor, 0 signups, "disaster" marketing comment, L-177/O-170 DM), eelgr (r/SaaS, "Just launched - now what?", shouting into the void, active thread 3+ commenters, L-179/O-172 COMMENT), ResponsibilitySad28 (r/SideProject, "22 days to first paying user", shouting into void in retrospective, L-180/O-173 COMMENT). Discarded: Able-Bread-9989 (r/micro_saas, not in target subreddit list, previously discarded run 104), Due_Peace_5114 (r/micro_saas commenter, same reason), zkvqx (r/micro_saas commenter, same reason), JonBuildsHQ (advisor comment, not in pain), ResponsibilitySad28 WATCH (success story, comment only), all off-topic subs (gaming, marriage, kpop, ireland, etc.). NOTE: L-178/O-171 IDs allocated and voided (Able-Bread-9989 removed post-write per previous-run discard policy). URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170, O-163) UNKNOWN username, O-160/O-161/O-162 UNKNOWN usernames. Pipeline: 179 leads total (L-177, L-179, L-180 added; L-178 voided).
+last_checked: 2026-05-29T02:07:04Z
+next_lead_id: L-182
+next_outreach_id: O-175
+note: Run 112 (1 lead). F5Bot Gmail parse (newer_than:2h). 1 qualifying signal: Best-Reach1891 (r/SaaS, "I almost paid a fake invoice, built a SaaS, pivoted twice, still at $0 MRR", $0 paying users, tiny audience, organic only, L-181/O-174 DM). Discarded: Lordz_Kreationz (r/AspiringTeenAuthors, "shouting into the void" but wrong subreddit and author context), Reddit College post (r/ApplyingToCollege, not relevant), older F5Bot threads from May 24-26 all previously parsed in runs 102-111 (TumbleweedTiny6567 9th discard, eelgr=L-162/L-179, Paludis=L-143, stellarton=asking general question not first-person pain, r/galaxys26ultra/r/balatro/r/gaming/r/LinkedInTips/r/smallbusiness/r/IntoTheBreach all wrong subs). URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170, O-163) UNKNOWN username, O-160/O-161/O-162 UNKNOWN usernames. Pipeline: 180 leads total (L-181 added).
 
 last_run_note: Run 104 (1 lead). Reddit digest email surfaced seyf_gharbi (r/indiehackers, "Talk to your customers first, but..." -- serial builder, talked to customers before every project, still failed, 13 upvotes/79 comments, L-175/O-168). F5Bot Gmail May 26-28 parsed (50+ emails). All other hits discarded: hyzokaaa (already logged L-174 by run 103), Less-Bite (r/SideProject affiliate question, weak ICP), Due_Peace_5114/zkvqx/Able-Bread-9989 (r/micro_saas, not in target subreddit list), all off-topic subs (r/Marriage, r/GTA6, r/coldemail, r/Wattpad, r/GrayZoneWarfare, r/ireland, r/patientgamers, r/ridgewood, r/DeadlockTheGame). URGENT STILL OPEN: r/SaaS/1tnd7u1 (L-170, O-163) UNKNOWN username, O-160/O-161/O-162 UNKNOWN usernames. Pipeline: 175 leads total.
 
@@ -185,6 +185,7 @@ leads_logged:
   - Top_Chemistry_9467
   - hyzokaaa
   - seyf_gharbi
+  - Best-Reach1891
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic

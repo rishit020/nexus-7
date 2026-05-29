@@ -2511,3 +2511,18 @@ opener_angle: comment asking what the distribution failures looked like in the f
 status: new
 outreach_id: O-173
 [RECORD_END]
+
+[RECORD_START]
+id: L-181
+date_found: 2026-05-29
+username: Best-Reach1891
+platform: reddit
+subreddit: r/SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tqn1dl/i_almost_paid_a_fake_invoice_built_a_saas_pivoted/
+pain_quote: "I'm stuck with $0 paying users. Tiny audience (no newsletter, no Twitter following, no launch crowd). Near-zero budget for ads or promoters."
+product_built: unknown SaaS (pivoted twice, currently at $0 MRR)
+fit_reason: first-person, post-launch, $0 mrr after pivoting twice. explicitly describes having no audience and near-zero budget. tried reddit, SEO, chrome extension, word of mouth with zero paying users. textbook ICP.
+opener_angle: reference the pivot-twice/$0 mrr framing plus the specific channels they named (reddit, chrome extension). ask what reddit actually looked like and whether the chrome extension drove any signups.
+status: new
+outreach_id: O-174
+[RECORD_END]

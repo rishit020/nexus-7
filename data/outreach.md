@@ -2953,3 +2953,19 @@ target_url: https://www.reddit.com/r/SideProject/comments/1tpa7tz/got_my_first_p
 notes: ResponsibilitySad28 posted in r/SideProject describing getting first paying user 22 days after launch (2026-05-27T16:18Z). post contains "shouting into the void" describing the pre-first-user phase. this is a retrospective pain signal. good comment target to understand what failed vs what worked in early distribution.
 status: draft
 [RECORD_END]
+
+[RECORD_START]
+id: O-174
+date_created: 2026-05-29
+lead_id: L-181
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the saas that pivoted twice and is still at $0 mrr. the 'tiny audience, near-zero budget, organic only' situation is exactly what i'm trying to map out.
+
+  what has reddit actually looked like when you tried it, and did the chrome extension drive any signups? doing research on the gap between launching something and getting first paying users with no audience to start from.
+action: DM
+target_url: https://www.reddit.com/user/Best-Reach1891
+notes: F5Bot "0 paying users" alert 2026-05-29T01:36:18Z. r/SaaS post "I almost paid a fake invoice, built a SaaS, pivoted twice, still at $0 MRR." Explicit pain: $0 paying users, no audience (no newsletter/Twitter/launch crowd), near-zero ad budget. Tried reddit, SEO, chrome extension, word of mouth. Asking what first channel actually worked for other founders. First-person throughout. DM via Reddit. Reference the pivot-twice framing and the specific channels they named.
+status: draft
+[RECORD_END]
