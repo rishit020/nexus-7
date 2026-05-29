@@ -2985,3 +2985,19 @@ target_url: https://www.reddit.com/r/SideProject/comments/1tpx4gt/built_a_local_
 notes: F5Bot "0 paying users" alert 2026-05-28T08:16Z. Lorenzoak built Stripe-to-QuickBooks local tool with Cursor during 6-month job leave. launched day before alert. 0 paying users, $0. client-side only, one-time pricing. targets freelancers and accountants. perfect vibe coder ICP. DM via Reddit.
 status: draft
 [RECORD_END]
+
+[RECORD_START]
+id: O-176
+date_created: 2026-05-29
+lead_id: L-183
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in the mrr thread. $102 after 1-2 months of pushing then going quiet is something i keep hearing.
+
+  what did you actually try during those months, and what made you stop? doing research on the post-launch distribution gap for solo saas founders.
+action: DM
+target_url: https://www.reddit.com/user/AttorneySome4992
+notes: F5Bot "launched my saas" alert 2026-05-28T11:08Z. AttorneySome4992 commented on r/SideProject "What's your MRR" thread. $102 MRR, launched Jan 2025, marketed 1-2 months then stopped. "lost in silent." 17 months post-launch with near-zero revenue. classic distribution dropout. DM via Reddit.
+status: draft
+[RECORD_END]

@@ -2541,3 +2541,18 @@ opener_angle: reference Cursor build + 0 paying users day one. ask who they're r
 status: new
 outreach_id: O-175
 [RECORD_END]
+
+[RECORD_START]
+id: L-183
+date_found: 2026-05-29
+username: AttorneySome4992
+platform: reddit
+subreddit: r/SideProject
+url: https://www.reddit.com/r/SideProject/comments/1tpsoxc/c/oockpgd
+pain_quote: "launched my saas last year on January, and marketed it for just 1-2 month, then lost in silent"
+product_built: unknown SaaS ($102 MRR after 17 months, mostly inactive)
+fit_reason: first-person pain. solo founder, launched Jan 2025, put 1-2 months into distribution then fully stopped. $102 MRR after all that time = almost nothing. describes it as "lost in silent." classic post-launch distribution dropout. the exact window Tide addresses.
+opener_angle: reference the $102 MRR and going quiet after 1-2 months. ask what they actually tried and what made them stop.
+status: new
+outreach_id: O-176
+[RECORD_END]
