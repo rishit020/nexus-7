@@ -2601,3 +2601,18 @@ opener_angle: reference first ph launch + no ads budget. ask what they've tried 
 status: new
 outreach_id: O-180
 [RECORD_END]
+
+[RECORD_START]
+id: L-187
+date_found: 2026-05-29
+username: unknown
+platform: reddit
+subreddit: r/AppBusiness
+url: https://www.reddit.com/r/AppBusiness/comments/1tq4f4g/
+pain_quote: "Stuck at 1 subscription, but its web app"
+product_built: web app (unknown product, single paying subscriber)
+fit_reason: solo web app builder, launched, stuck at 1 subscriber. commenters diagnosing as distribution problem. clear ICP pain but OP username unknown from F5Bot alert.
+opener_angle: the "stuck at 1" moment. ask what distribution they've actually tried and what that 1 subscriber found them through.
+status: watch
+outreach_id: none
+[RECORD_END]
