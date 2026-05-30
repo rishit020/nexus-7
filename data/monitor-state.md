@@ -1,10 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-30T05:06:00Z
+last_checked: 2026-05-30T07:30:00Z
 next_lead_id: L-191
 next_outreach_id: O-185
-note: Run 124 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:2h). Zero new qualifying signals. Only new signal since Run 123: r/GrowthHacking 04:43Z by LeaderAtLeading (advisory/skip-listed, discard). Pipeline: 190 total unchanged. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
+note: Run 125 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail full parse (all unread, 48h window). Zero new qualifying signals. Full cross-check: BuildMoreBetter=advisor on L-185 thread (OP unknown), eelgr=L-162 already logged, Lorenzoak=L-182 already logged, AttorneySome4992=L-183 already logged, KingfinityCreator=post removed, BeeTheGlitch=email marketer (no distro pain), zkvqx=$3K MRR (not in pain), ryansilk1=SEO CTR (not Tide ICP), all "distribution problem" hits in wrong-context subs (r/Bitcoin/r/starcitizen/r/worldnews/r/samharris/r/GrowthHacking/r/canada/r/hypotheticalsituation/r/LearningDevelopment). Pipeline: 190 total unchanged. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
+last_checked_124: 2026-05-30T05:06:00Z
+note_124: Run 124 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:2h). Zero new qualifying signals. Only new signal since Run 123: r/GrowthHacking 04:43Z by LeaderAtLeading (advisory/skip-listed, discard). Pipeline: 190 total unchanged. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
 last_checked_123: 2026-05-30T05:30:00Z
 note_123: Run 123 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:48h full sweep). Zero new qualifying signals. Only new signal since Run 122: r/samharris 04:02Z "distribution problem" in political context (discard). Backlog checked: amebaboys (r/linkbuilding, commenter giving link building advice, not ICP), Odysseus9385 (r/creators, YouTube content creator building multilingual workflow, wrong ICP), freeenergy_ua2022 (r/SoloDevelopment, advisor/competitor giving advice not in pain). Pipeline: 190 total unchanged. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
 last_checked_122: 2026-05-30T03:30:00Z
