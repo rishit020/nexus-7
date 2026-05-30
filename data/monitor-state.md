@@ -1,10 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-30T05:30:00Z
+last_checked: 2026-05-30T05:06:00Z
 next_lead_id: L-191
 next_outreach_id: O-185
-note: Run 123 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:48h full sweep). Zero new qualifying signals. Only new signal since Run 122: r/samharris 04:02Z "distribution problem" in political context (discard). Backlog checked: amebaboys (r/linkbuilding, commenter giving link building advice, not ICP), Odysseus9385 (r/creators, YouTube content creator building multilingual workflow, wrong ICP), freeenergy_ua2022 (r/SoloDevelopment, advisor/competitor giving advice not in pain). Pipeline: 190 total unchanged. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
+note: Run 124 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:2h). Zero new qualifying signals. Only new signal since Run 123: r/GrowthHacking 04:43Z by LeaderAtLeading (advisory/skip-listed, discard). Pipeline: 190 total unchanged. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
+last_checked_123: 2026-05-30T05:30:00Z
+note_123: Run 123 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:48h full sweep). Zero new qualifying signals. Only new signal since Run 122: r/samharris 04:02Z "distribution problem" in political context (discard). Backlog checked: amebaboys (r/linkbuilding, commenter giving link building advice, not ICP), Odysseus9385 (r/creators, YouTube content creator building multilingual workflow, wrong ICP), freeenergy_ua2022 (r/SoloDevelopment, advisor/competitor giving advice not in pain). Pipeline: 190 total unchanged. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
 last_checked_122: 2026-05-30T03:30:00Z
 note_122: Run 122 (3 DM leads + 1 comment). Reddit egress blocked all 7 subs. F5Bot Gmail full parse (newer_than:24h, 15+ threads). 3 new DMs: L-188 Money_Cobbler1321 (r/smallbusiness, "shipped SaaS 3 weeks ago, 0 users, tried everything"), L-189 tbrgraveyard (r/buildinpublic, "3700 views 0 signups" post), L-190 leaveat (r/buildinpublic, pulled plug after 3000 views 0 signups). 1 comment draft O-184 for tbrgraveyard thread. Discards: LeaderAtLeading (advisory, skip flagged in patterns.md), Born-Exercise-2932 (analytical advisor commenter), JonBuildsHQ (advisor, 43h old), Spark_by_Spark (r/Bitcoin wrong context), all off-topic subs (r/nba/r/LearningDevelopment/r/canada/r/hypotheticalsituation/r/AspiringTeenAuthors/r/AsOneAfterInfidelity/r/Vent/r/Pauper/r/MensRights/r/emotionalabuse). Pipeline: 190 total. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
 last_checked_121: 2026-05-29T11:35:00Z
