@@ -1,10 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-05-29T11:35:00Z
-next_lead_id: L-188
-next_outreach_id: O-181
-note: Run 121 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail full parse (newer_than:3h + broader 1d scan). Zero new qualifying signals. All hits were wrong subs or already-logged: samsribot=L-186, theresadfdert=advisor (discarded 118/119), Adventurous_Slide696=recruiting discard, all "shouting into void" from r/AsOneAfterInfidelity/r/Vent/r/Pauper/r/MensRights/r/emotionalabuse, BuildMoreBetter=advisor on L-185 thread (OP still unknown). L-187 AppBusiness OP still unresolvable (Reddit blocked). Pipeline: 187 total. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
+last_checked: 2026-05-30T03:30:00Z
+next_lead_id: L-191
+next_outreach_id: O-185
+note: Run 122 (3 DM leads + 1 comment). Reddit egress blocked all 7 subs. F5Bot Gmail full parse (newer_than:24h, 15+ threads). 3 new DMs: L-188 Money_Cobbler1321 (r/smallbusiness, "shipped SaaS 3 weeks ago, 0 users, tried everything"), L-189 tbrgraveyard (r/buildinpublic, "3700 views 0 signups" post), L-190 leaveat (r/buildinpublic, pulled plug after 3000 views 0 signups). 1 comment draft O-184 for tbrgraveyard thread. Discards: LeaderAtLeading (advisory, skip flagged in patterns.md), Born-Exercise-2932 (analytical advisor commenter), JonBuildsHQ (advisor, 43h old), Spark_by_Spark (r/Bitcoin wrong context), all off-topic subs (r/nba/r/LearningDevelopment/r/canada/r/hypotheticalsituation/r/AspiringTeenAuthors/r/AsOneAfterInfidelity/r/Vent/r/Pauper/r/MensRights/r/emotionalabuse). Pipeline: 190 total. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
+last_checked_121: 2026-05-29T11:35:00Z
+note_121: Run 121 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail full parse (newer_than:3h + broader 1d scan). Zero new qualifying signals. All hits were wrong subs or already-logged: samsribot=L-186, theresadfdert=advisor (discarded 118/119), Adventurous_Slide696=recruiting discard, all "shouting into void" from r/AsOneAfterInfidelity/r/Vent/r/Pauper/r/MensRights/r/emotionalabuse, BuildMoreBetter=advisor on L-185 thread (OP still unknown). L-187 AppBusiness OP still unresolvable (Reddit blocked). Pipeline: 187 total. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup.
 last_checked_120: 2026-05-29T11:15:00Z
 note_120: Run 120 (1 watch lead). Reddit egress blocked all subs. F5Bot Gmail full parse (all unread, 18 signals). 1 new WATCH lead: L-187 r/AppBusiness "Stuck at 1 subscription, but its web app" OP unknown (1tq4f4g, distribution problem hit 2026-05-28T14:48Z). All other signals were dupes of prior runs: Lorenzoak=L-182, samsribot=L-186 (prior run 119), AttorneySome4992=L-183, eelgr=L-162, vibecodingcommunity=already DM'd SpecialistBubbly4282. Discards: aitubers post removed, BeeTheGlitch email marketer not stuck, zkvqx $3K MRR success, ryansilk1 SEO CTR, donkempire 4 paying users, cofounderhunt recruiting, avsvishalmedia thought-leadership (comment already drafted), all off-topic subs (wallstreetbets/cripplingalcoholism/FIREUK/biotech/AspiringTeenAuthors/emotionalabuse/MensRights/Vent/Pauper). Pipeline: 187 total. URGENT: L-184/L-185/L-170/L-187 need username lookup.
 last_checked_119: 2026-05-29T11:00:00Z

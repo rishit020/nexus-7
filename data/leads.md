@@ -2616,3 +2616,48 @@ opener_angle: the "stuck at 1" moment. ask what distribution they've actually tr
 status: watch
 outreach_id: none
 [RECORD_END]
+
+[RECORD_START]
+id: L-188
+date_found: 2026-05-30
+username: Money_Cobbler1321
+platform: reddit
+subreddit: r/smallbusiness
+url: https://www.reddit.com/r/smallbusiness/comments/1tqysao/i_shipped_my_saas_3_weeks_ago_and_im_just_staring/
+pain_quote: "I launched my SaaS and had no idea what to do next for marketing. I built the product, shipped it, and then just... stared at the screen."
+product_built: SaaS (type unspecified, solo developer)
+fit_reason: developer who shipped a SaaS 3 weeks ago, 0 users, tried Product Hunt/blog/cold email/Twitter and nothing worked. asks "what actually moved the needle in your first 30 days." textbook Tide ICP -- exact moment of post-launch distribution confusion.
+opener_angle: reference the "tried everything and nothing worked" moment. ask which part felt most broken: visibility or conversion.
+status: new
+outreach_id: O-181
+[RECORD_END]
+
+[RECORD_START]
+id: L-189
+date_found: 2026-05-30
+username: tbrgraveyard
+platform: reddit
+subreddit: r/buildinpublic
+url: https://www.reddit.com/r/buildinpublic/comments/1tr27r7/day_4_3700_reddit_views_0_signups_heres_what_i/
+pain_quote: "0 waitlist signups despite the traffic"
+product_built: Shelf (book tracking app for BookTok readers)
+fit_reason: solo founder, day 4, actively doing distribution (r/52books post got 3700 views, instagram comments on bookstagram accounts), still 0 signups. understands distribution tactics but can't convert. post gaining traction in r/buildinpublic with multiple commenters.
+opener_angle: traffic-to-signup gap. ask what they think happened between someone reading the r/52books post and not signing up.
+status: new
+outreach_id: O-182
+[RECORD_END]
+
+[RECORD_START]
+id: L-190
+date_found: 2026-05-30
+username: leaveat
+platform: reddit
+subreddit: r/buildinpublic
+url: https://www.reddit.com/r/buildinpublic/comments/1trjz3v/c/ooo7hpy/?context=3
+pain_quote: "I pulled the plug on mine today... over 3000 page views and 0 signups or real interest signals"
+product_built: unknown (abandoned project)
+fit_reason: just gave up after 3000 views and 0 signups -- did not even convert free accounts. set a baseline, baseline not met, pulled plug. acute post-failure pain. describing exact Tide ICP failure mode. actively processing in r/buildinpublic.
+opener_angle: empathetic reference to pulling the plug. ask what they think actually broke. research framing.
+status: new
+outreach_id: O-183
+[RECORD_END]

@@ -3073,3 +3073,75 @@ date_sent: null
 result: null
 notes: F5Bot "launched my saas" alert 2026-05-29T07:18Z. samsribot posted in r/ProductHunters about launching AgentLine (AI agent telephony). First-time PH launch, no growth knowledge, no ad budget. Direct first-person distribution pain. DM via Reddit. No em dashes verified. 4 sentences max. Research framing, no pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-181
+date_created: 2026-05-30
+lead_id: L-188
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in smallbusiness. 3 weeks in, tried everything you could think of, still 0 users. that's exactly the wall most solo devs hit after shipping.
+
+  which part felt most broken to you: getting people to see it, or getting them to actually care once they did?
+
+  doing research on the gap between launching and getting real users. sounds like you're living it right now.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" alert 2026-05-29T11:29Z. Money_Cobbler1321 posted in r/smallbusiness "I shipped my SaaS 3 weeks ago and I'm just staring at 0 users." First-person pain, developer who built and shipped, tried PH/blog/cold email/Twitter, nothing worked. 15h post age. DM via Reddit. No em dashes verified. 4 sentences max. Research framing, no pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-182
+date_created: 2026-05-30
+lead_id: L-189
+platform: reddit
+variant: dm
+draft_text: |
+  saw your buildinpublic post. 3700 views, genuine distribution effort, and still 0 signups is such an interesting data point.
+
+  what do you think happened between someone reading your r/52books post and deciding not to sign up for the waitlist?
+
+  doing research on exactly this problem. the traffic is there but the signups aren't.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 signups" alert 2026-05-29T13:46Z. tbrgraveyard posted in r/buildinpublic "Day 4: 3,700 Reddit views, 0 signups. Here's what I learned." Solo founder building Shelf (book tracking), active distribution (r/52books post + instagram comments), still 0 signups. Post gained traction (multiple F5Bot alerts on comments). 12h post age. DM via Reddit. No em dashes verified. 4 sentences max.
+[RECORD_END]
+
+[RECORD_START]
+id: O-183
+date_created: 2026-05-30
+lead_id: L-190
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in buildinpublic. 3000 views and 0 signups before calling it is a rough place to land.
+
+  looking back, what do you think actually broke, was it the offer itself or how you were getting in front of people?
+
+  doing research on exactly this gap. would be curious what you learned from it.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 signups" alert 2026-05-30T00:15Z. leaveat commented on r/buildinpublic "Feeling kind of lost, any recommendation?" thread -- shared that they pulled the plug after 3000 views and 0 signups including free accounts. Just gave up, processing failure actively. Very fresh (3h old). DM via Reddit. No em dashes verified. 4 sentences max. Empathy angle, no pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-184
+date_created: 2026-05-30
+lead_id: L-189
+platform: reddit
+variant: comment
+draft_text: |
+  been doing research on exactly this. the 3700 views proves the problem resonated, which is actually hard to get.
+
+  usually when traffic doesn't convert to signups it's something about the ask itself. what did the waitlist page tell people they'd get? curious if that framing matched what made the r/52books post land so well.
+action: COMMENT
+target_url: https://www.reddit.com/r/buildinpublic/comments/1tr27r7/day_4_3700_reddit_views_0_signups_heres_what_i/
+status: draft
+date_sent: null
+result: null
+notes: tbrgraveyard thread gaining traction in r/buildinpublic. Good visibility play for Rishit as researcher on distribution problem. Comment adds genuine value, asks a real question about landing page vs post framing gap. Not a pitch. No em dashes verified.
+[RECORD_END]
