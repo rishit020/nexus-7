@@ -2661,3 +2661,18 @@ opener_angle: empathetic reference to pulling the plug. ask what they think actu
 status: new
 outreach_id: O-183
 [RECORD_END]
+
+[RECORD_START]
+id: L-191
+date_found: 2026-05-30
+username: Infamous_Ladder1394
+platform: reddit
+subreddit: r/SaaS
+url: https://www.reddit.com/r/SaaS/comments/1trd3yt/i_priced_my_saas_at_399month_a_year_in_i_have_20/
+pain_quote: "I priced my SaaS at $3.99/month. A year in I have 20 users. Is the price the problem?"
+product_built: SaaS (specifics unknown, solo founder)
+fit_reason: a year post-launch with only 20 users at $3.99. blaming the price, but 20 users in a year at any price is almost certainly a distribution problem not a pricing problem. asking the wrong question in r/SaaS. exact Tide ICP: solo SaaS founder, existing product, no growth, wrong root cause diagnosis.
+opener_angle: reference the $3.99/20 users data point. challenge the pricing assumption with a single question: how did those 20 actually find you? pivot the conversation from pricing to distribution reach.
+status: new
+outreach_id: O-185
+[RECORD_END]

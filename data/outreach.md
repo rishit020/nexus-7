@@ -3145,3 +3145,37 @@ date_sent: null
 result: null
 notes: tbrgraveyard thread gaining traction in r/buildinpublic. Good visibility play for Rishit as researcher on distribution problem. Comment adds genuine value, asks a real question about landing page vs post framing gap. Not a pitch. No em dashes verified.
 [RECORD_END]
+
+[RECORD_START]
+id: O-185
+date_created: 2026-05-30
+lead_id: L-191
+platform: reddit
+variant: dm
+draft_text: |
+  saw your r/SaaS post. a year in with 20 users at $3.99 is a really specific data point to try to diagnose.
+
+  genuine question before blaming the price: how did those 20 actually find you? doing research on exactly this gap for solo founders and that answer usually changes the whole diagnosis.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "distribution problem" alert 2026-05-29T19:42Z. Infamous_Ladder1394 posted on r/SaaS asking if $3.99/month is the reason they only have 20 users after a year. This is a mislabeled distribution problem. Reddit POST (OP confirmed). Post ~13h old at detection. DM via Reddit. No em dashes verified. 4 sentences. Challenges pricing assumption, redirects to distribution reach question. Research framing.
+[RECORD_END]
+
+[RECORD_START]
+id: O-186
+date_created: 2026-05-30
+lead_id: null
+platform: reddit
+variant: comment
+draft_text: |
+  been doing research on exactly this. the pattern i keep seeing is that founders treat posts like launch events rather than contributions to ongoing conversations. that's usually what triggers the removal or the silence.
+
+  what channels actually showed up most in your survey once reddit wasn't the plan?
+action: COMMENT
+target_url: https://www.reddit.com/r/buildinpublic/comments/1tqw6la/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "distribution problem" hit 2026-05-29T09:24Z. Thread in r/buildinpublic: "60 micro-SaaS founders told me exactly why Reddit keeps failing them." OP surveyed 60 founders on why Reddit fails them -- high-value community thread, good visibility play for Rishit as researcher. No DM target (OP unknown, not in pain themselves -- research poster). Comment adds genuine value, positions Rishit as fellow researcher, asks substantive follow-up. No em dashes verified. No pitch.
+[RECORD_END]
