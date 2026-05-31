@@ -47,3 +47,7 @@ LAST_UPDATED: 2026-05-18
 2026-05-23 | TYPE: mistake — NEVER REPEAT
 OBSERVED: Em dashes appeared in O-125 and O-126 DM drafts (third occurrence). Pattern: em dashes slip in when writing "saw your post in X — [detail]" sentence structure. Caught post-commit, fixed before Rishit could copy them, but Telegram was already sent with the em-dash version.
 IMPLICATION: Any sentence of the form "saw X in Y — [detail]" must be rewritten. Use a period instead: "saw X in Y. [detail]." Always scan every character before finalizing any DM. This is a persistent generation habit that requires explicit checking every single time.
+
+2026-05-31 | TYPE: content
+OBSERVED: GrandFit6072's r/vibecoding post "I talked to 40+ founders about what happens after they launch. Here's the pattern I keep seeing." got -3 points and 4 comments. Community rejected it.
+IMPLICATION: r/vibecoding doesn't respond to "researcher sharing findings" framing. Community wants peers, not analysts. Future posts there should be first-person builder perspective, not summary/research style. The ICP lives in this sub but the content angle has to match the energy.
