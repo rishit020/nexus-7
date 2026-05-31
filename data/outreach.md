@@ -3193,3 +3193,19 @@ date_sent: null
 result: null
 notes: F5Bot "0 paying users" alert 2026-05-30T10:29Z. Accomplished-Name1 posted in r/EntrepreneurRideAlong: solo founder, AI inventory mgmt for Shopify, day 41, App Store approved, 0 paying users. Tried SEO blogs (page 7, 0 clicks) and personalized cold emails to Stocky 1-star reviewers (Stocky shutting down Aug 31). Post ~15h old at logging. DM via Reddit. No em dashes verified. 4 sentences. Opens with their specific tactic (Stocky email campaign), genuine question about response rate, research framing.
 [RECORD_END]
+
+[RECORD_START]
+id: O-188
+date_created: 2026-05-31
+lead_id: L-193
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in r/SaaS about the beta. 5 days in, 1 real sign up, that's a tough spot. what channels have you tried to find testers beyond just posting here? doing research on exactly this: the post-launch gap between shipping something and actually getting people to use it.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1tsbp5y/how_do_i_get_more_people_to_try_my_beta/
+status: draft
+date_sent: null
+result: null
+notes: Reddit digest email 2026-05-31T00:48Z. Batmon3 posted in r/SaaS: launched 5 days ago, 1 real signup, struggling to find beta users. Post ~8h old at logging, 5 upvotes, 8 comments. First-person pain, clear ICP fit. DM via Reddit. No em dashes verified. 4 sentences. Opens with specific post reference, genuine question about channels tried, research framing. No call ask.
+[RECORD_END]

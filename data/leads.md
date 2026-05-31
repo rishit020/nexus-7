@@ -2691,3 +2691,18 @@ opener_angle: reference the Stocky email campaign specifically. ask what the res
 status: new
 outreach_id: O-187
 [RECORD_END]
+
+[RECORD_START]
+id: L-193
+date_found: 2026-05-31
+username: Batmon3
+platform: reddit
+subreddit: r/SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tsbp5y/how_do_i_get_more_people_to_try_my_beta/
+pain_quote: "I launched it five days ago. Have had 1 real sign up, they tested the app 1 time. I need to find 10-20 people to test out my app though and give me feedback, but it's so hard finding people."
+product_built: unknown (beta product, 5 days live)
+fit_reason: solo founder, launched 5 days ago, 1 real signup who tested once, actively struggling to find beta users. explicitly says "it's so hard finding people." first-person distribution pain, fresh post (~8h old at logging), textbook Tide ICP: built something, no users, no distribution path.
+opener_angle: reference the 5-day / 1-signup context. ask what channels they've tried beyond reddit. research framing. no pitch.
+status: new
+outreach_id: O-188
+[RECORD_END]
