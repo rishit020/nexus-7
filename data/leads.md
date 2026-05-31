@@ -2676,3 +2676,18 @@ opener_angle: reference the $3.99/20 users data point. challenge the pricing ass
 status: new
 outreach_id: O-185
 [RECORD_END]
+
+[RECORD_START]
+id: L-192
+date_found: 2026-05-31
+username: Accomplished-Name1
+platform: reddit
+subreddit: r/EntrepreneurRideAlong
+url: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1trw5q4/building_a_shopify_app_approved_on_the_app_store/
+pain_quote: "approved on the App Store, still 0 paying users"
+product_built: AI inventory management tool for Shopify sellers
+fit_reason: solo founder, day 41, Shopify App Store approved, billing fixed, 0 paying users. tried multiple channels: SEO blog posts (indexed, page 7, 0 clicks), personalized cold emails to Stocky app 1-star reviewers (Stocky shutting down Aug 31 -- direct substitution play). knows distribution is the gap and is actively testing channels. textbook Tide ICP: shipped something real, on the right track with outreach, still stuck.
+opener_angle: reference the Stocky email campaign specifically. ask what the response rate has been on those -- genuine curiosity, not pitch. the personalized outreach is actually the right instinct.
+status: new
+outreach_id: O-187
+[RECORD_END]

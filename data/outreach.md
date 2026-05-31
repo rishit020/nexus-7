@@ -3179,3 +3179,17 @@ date_sent: null
 result: null
 notes: F5Bot "distribution problem" hit 2026-05-29T09:24Z. Thread in r/buildinpublic: "60 micro-SaaS founders told me exactly why Reddit keeps failing them." OP surveyed 60 founders on why Reddit fails them -- high-value community thread, good visibility play for Rishit as researcher. No DM target (OP unknown, not in pain themselves -- research poster). Comment adds genuine value, positions Rishit as fellow researcher, asks substantive follow-up. No em dashes verified. No pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-187
+date_created: 2026-05-31
+lead_id: L-192
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the shopify inventory app, day 41 with 0 paying users. the personalized outreach to stocky's 1-star reviewers is actually a smart channel choice. what's the response rate been on those emails? doing research on exactly this gap between shipping something and getting paying customers.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 paying users" alert 2026-05-30T10:29Z. Accomplished-Name1 posted in r/EntrepreneurRideAlong: solo founder, AI inventory mgmt for Shopify, day 41, App Store approved, 0 paying users. Tried SEO blogs (page 7, 0 clicks) and personalized cold emails to Stocky 1-star reviewers (Stocky shutting down Aug 31). Post ~15h old at logging. DM via Reddit. No em dashes verified. 4 sentences. Opens with their specific tactic (Stocky email campaign), genuine question about response rate, research framing.
+[RECORD_END]
