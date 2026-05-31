@@ -3257,3 +3257,67 @@ date_sent: null
 result: null
 notes: F5Bot "distribution problem" alert 2026-05-29T07:04Z. theresadfdert posted in r/SaaS "How did you get your first real SaaS users?" -- OP seeking distribution help. Thread 2 days old. COMMENT action: add genuine value about what works for first 10 users, position as researcher, close with question. No em dashes verified. 5 sentences. No pitch or link.
 [RECORD_END]
+
+[RECORD_START]
+id: O-192
+date_created: 2026-05-31
+lead_id: L-195
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about 3 months building then day 1 with 0 views. that launch into nothing experience. when you look back, what was your first instinct for why nobody showed up? doing research on the post-launch window for solo builders.
+action: DM
+target_url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+status: draft
+date_sent: null
+result: null
+notes: Found via IH "early-stage founders building vs users" thread. Reddit egress blocked run 133. abitabovebytes described first-person launch data: 3 months build, 0 views day 1, 2 views day 2, 6 views/0 sales week 1. No em dashes verified. 4 sentences. No call ask. No pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-193
+date_created: 2026-05-31
+lead_id: L-196
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw you mentioned building 21 products and 1 gumroad page view in 30 days. that ratio is one of the most raw data points I've seen. across all 21, was there ever one that came close to traction or was it always the same wall? doing research on how the post-launch distribution problem shows up for serial builders.
+action: DM
+target_url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+status: draft
+date_sent: null
+result: null
+notes: Found via IH thread. Reddit egress blocked run 133. vemtraclabs: 21 products built, 1 gumroad page view, $0 in 30 days. Serial builder with extreme consistent distribution failure -- high-value research target. No em dashes verified. 4 sentences. No call ask. No pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-194
+date_created: 2026-05-31
+lead_id: L-197
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about 5 waitlist signups and traffic declining 3 weeks in. that declining week-over-week thing is one of the harder parts to watch. what did you try to get those 5 signups in the first place? doing research on what that early window after launch actually looks like.
+action: DM
+target_url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+status: draft
+date_sent: null
+result: null
+notes: Found via IH thread. Reddit egress blocked run 133. pastablekit: 3 weeks post-launch, 5 waitlist signups, 16 site visits/week declining, zero alpha feedback. Active product in decline. No em dashes verified. 4 sentences. No call ask. No pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-195
+date_created: 2026-05-31
+lead_id: L-198
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about 78 visitors and 2 signups both bouncing in under 10 seconds. that kind of data is brutal but actually more than most have at that stage. what changed after you saw those numbers? doing research on the distribution problem for builders who actually launched something.
+action: DM
+target_url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+status: draft
+date_sent: null
+result: null
+notes: Found via IH thread. Reddit egress blocked run 133. ideadose: live product, GA tracking, 78 visitors, 2 signups both instant-bounce. Has recent data ("checked my GA yesterday"). No em dashes verified. 4 sentences. No call ask. No pitch.
+[RECORD_END]

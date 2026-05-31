@@ -2721,3 +2721,63 @@ opener_angle: reference their specific "wall hits" comment. ask if they went thr
 status: new
 outreach_id: O-189
 [RECORD_END]
+
+[RECORD_START]
+id: L-195
+date_found: 2026-05-31
+username: abitabovebytes
+platform: indiehackers
+subreddit: null
+url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+pain_quote: "I spent 3 months building...Day 1: 0 views. Day 2: 2 views. A week in: 6 views, 0 sales."
+product_built: unknown (launched something, minimal views first week)
+fit_reason: solo builder, 3 months of work, launched to near-zero visibility. explicit first-person data: 0 views day 1, 2 views day 2, 6 views and 0 sales after a week. textbook Tide ICP: built something real, no distribution result, has concrete metrics to show the gap.
+opener_angle: reference the 3-month build and the day-1/day-2 view counts. ask what their first instinct was for why nobody showed up. research framing. no pitch.
+status: new
+outreach_id: O-192
+[RECORD_END]
+
+[RECORD_START]
+id: L-196
+date_found: 2026-05-31
+username: vemtraclabs
+platform: indiehackers
+subreddit: null
+url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+pain_quote: "built 21 products...1 gumroad page view in 30 days. $0."
+product_built: 21 products (serial builder, Gumroad products)
+fit_reason: serial builder, 21 products, still hitting the same distribution wall. 1 page view and $0 in 30 days. extreme pain signal. has enough experience to compare across products -- rich data source for Tide research and validation.
+opener_angle: reference the 21-product data point and the 1 page view. ask if any of the 21 ever came close to traction or if it was always the same wall. research framing. no pitch.
+status: new
+outreach_id: O-193
+[RECORD_END]
+
+[RECORD_START]
+id: L-197
+date_found: 2026-05-31
+username: pastablekit
+platform: indiehackers
+subreddit: null
+url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+pain_quote: "3 weeks in: 5 waitlist signups, 16 site visits/week (declining), zero alpha tester feedback."
+product_built: pastablekit (waitlist product, active)
+fit_reason: 3 weeks post-launch, declining weekly traffic, 5 waitlist signups, zero alpha feedback. actively measuring the decline. has a live product. clear Tide ICP: built something, launched, watching metrics go the wrong direction.
+opener_angle: reference the declining site visits specifically. ask what they tried to get those 5 waitlist signups. research framing. no pitch.
+status: new
+outreach_id: O-194
+[RECORD_END]
+
+[RECORD_START]
+id: L-198
+date_found: 2026-05-31
+username: ideadose
+platform: indiehackers
+subreddit: null
+url: https://www.indiehackers.com/post/early-stage-founders-what-s-been-harder-so-far-building-or-getting-users-592ec06594
+pain_quote: "checked my GA yesterday: 78 visitors, 2 signups, both bounced in under 10 seconds."
+product_built: unknown (has Google Analytics, active product)
+fit_reason: live product with GA tracking. 78 visitors but 2 signups both bounced instantly. tracking the metrics, knows the exact problem, clearly struggling with conversion and distribution. first-person, concrete data, recent ("checked my GA yesterday").
+opener_angle: reference the 78 visitors / 2 instant-bounce signups ratio. ask what changed after seeing those numbers. research framing. no pitch.
+status: new
+outreach_id: O-195
+[RECORD_END]
