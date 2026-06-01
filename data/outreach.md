@@ -3321,3 +3321,39 @@ date_sent: null
 result: null
 notes: Found via IH thread. Reddit egress blocked run 133. ideadose: live product, GA tracking, 78 visitors, 2 signups both instant-bounce. Has recent data ("checked my GA yesterday"). No em dashes verified. 4 sentences. No call ask. No pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-196
+date_created: 2026-06-01
+lead_id: L-199
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the outdoor route planner. 15 months since launch and 0 paying users is a painful and honest data point.
+
+  what did you actually try on the distribution side? doing research on that gap between launching something real and getting anyone to use it.
+action: DM
+target_url: https://www.reddit.com/r/SideProject/comments/1tsxy9h/built_an_outdoor_route_planner_as_a_side_project/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 paying users" keyword hit 2026-05-31T15:17Z. Crazy-Musician5208 r/SideProject. Post title is the pain: built outdoor route planner, 15mo since launch, 0 paying users. Post body [removed] by Reddit but author reachable via DM. No em dashes verified. 4 sentences. No call ask. No pitch.
+[RECORD_END]
+
+[RECORD_START]
+id: O-197
+date_created: 2026-06-01
+lead_id: L-200
+platform: reddit
+variant: dm
+draft_text: |
+  saw your firebase/supabase alternative post. 'shouting into the void' is exactly the experience I keep hearing from devs who ship something real and can't get it seen.
+
+  what did the launch look like for you? doing research on that gap between open-source projects going live and actually getting users.
+action: DM
+target_url: https://www.reddit.com/r/best_alternative/comments/1tsw5o3/100_opensource_alternative_to_firebase_and/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "shouting into the void" keyword hit 2026-05-31T14:02Z. harshalone r/best_alternative. Not in target ICP subs but expressing clear post-launch distribution pain. Built open-source Firebase/Supabase alternative, launched, feeling invisible. No em dashes verified. 4 sentences. No call ask. No pitch.
+[RECORD_END]

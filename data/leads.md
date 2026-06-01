@@ -2781,3 +2781,33 @@ opener_angle: reference the 78 visitors / 2 instant-bounce signups ratio. ask wh
 status: new
 outreach_id: O-195
 [RECORD_END]
+
+[RECORD_START]
+id: L-199
+date_found: 2026-06-01
+username: Crazy-Musician5208
+platform: reddit
+subreddit: SideProject
+url: https://www.reddit.com/r/SideProject/comments/1tsxy9h/built_an_outdoor_route_planner_as_a_side_project/
+pain_quote: "launched 15 months ago, still 0 paying users"
+product_built: outdoor route planner (side project)
+fit_reason: solo builder, 15-month build, launched, 0 paying users. explicit first-person pain in post title. post body was removed by Reddit but author still reachable via DM. textbook Tide ICP: built something real, launched, zero monetization after 15 months.
+opener_angle: reference the 15 months + 0 paying users specifically. ask what they tried on the distribution side. research framing. no pitch.
+status: new
+outreach_id: O-196
+[RECORD_END]
+
+[RECORD_START]
+id: L-200
+date_found: 2026-06-01
+username: harshalone
+platform: reddit
+subreddit: best_alternative
+url: https://www.reddit.com/r/best_alternative/comments/1tsw5o3/100_opensource_alternative_to_firebase_and/
+pain_quote: "if I'm just shouting into the void here"
+product_built: open-source Firebase and Supabase alternative
+fit_reason: developer who built and launched a real open-source tool, self-described "shouting into the void" in post body. not in target ICP sub but expressing classic post-launch distribution pain. technical builder, launched, feels invisible.
+opener_angle: reference the "shouting into the void" phrase from their post. ask what the launch looked like. research framing. no pitch.
+status: new
+outreach_id: O-197
+[RECORD_END]
