@@ -3357,3 +3357,17 @@ date_sent: null
 result: null
 notes: F5Bot "shouting into the void" keyword hit 2026-05-31T14:02Z. harshalone r/best_alternative. Not in target ICP subs but expressing clear post-launch distribution pain. Built open-source Firebase/Supabase alternative, launched, feeling invisible. No em dashes verified. 4 sentences. No call ask. No pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-198
+date_created: 2026-06-01
+lead_id: L-201
+platform: reddit
+variant: dm
+draft_text: |
+  hey, saw your comment about BriefForge. "the tool works but getting the right founders to find it is a whole different skill" really hit. curious what you've tried so far on the distribution side and what's felt most broken. doing research on exactly this gap between building something and getting it in front of the right people.
+status: draft
+date_sent: null
+result: null
+notes: TheJackal8821 commented on r/sideprojects "Built an AI tool for African founders!!" F5Bot "distribution problem" alert 2026-05-30. Actively submitting BriefForge to peerpush. First-person distribution pain, working product, stuck on reaching right audience. DM via Reddit.
+[RECORD_END]

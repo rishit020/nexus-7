@@ -1,11 +1,15 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-01T05:05:29Z
-next_lead_id: L-201
-next_outreach_id: O-198
-note: Run 139 (0 leads). Reddit egress blocked all 7 subs (curl). F5Bot Gmail full parse (all signals since run 138 / 00:00Z) -- zero new emails from June 1. Only unread threads are carryovers from May 29-31, all previously discarded in runs 133-138. Full discard confirmation: r/abovethenormnews El Nino (wrong context), r/Geico insurance (wrong context), r/GrowMyBusinessNow self-promo spam -- all three were run 138 discards, still UNREAD in Gmail (expected, we don't mark-read). May 29 UNREAD thread (theresadfdert/Adventurous_Slide696/LearningDevelopment/canada/hypotheticalsituation) confirmed discarded prior runs. Pipeline: 200 total unchanged. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard asked Qs about landing page -- Rishit should reply to keep alive, then send O-190.
+last_checked: 2026-06-01T05:09:28Z
+next_lead_id: L-202
+next_outreach_id: O-199
+note: Run 140 (1 lead). F5Bot Gmail full parse (newer_than:2h). 1 new qualifying lead: L-201 TheJackal8821 (r/sideprojects, "the tool works but getting the right founders to find it is a whole different skill", built BriefForge AI tool for African founders, actively submitting to peerpush, first-person distribution pain, DM drafted O-198). Full discard log: r/YouTubeCreators (shouting into void, wrong sub), r/CanadaPublicServants (wrong context), r/Bumble/r/atheism/r/Advice/r/labrats/r/TalesFromTheCreeps/r/R4R40Plus/r/PrequelMemes/r/CompanyOfHeroes/r/badgovnofreedom/r/Entrepreneur/r/starfox/r/VirtualYoutubers/r/aussie/r/CFB/r/nintendogrifting/r/reddithelp/r/wallstreetbets/r/orchids/r/writing/r/TeenageRapFans/r/raisedbynarcissists/r/InstagramEmpire (wrong sub/context), r/nocode No-Leek6949 (advisor commenter), r/buildinpublic Horror-Image-8452 (analytical take not personal pain), r/SaaS Competitive-Bee9834 (mild casual comment, no vivid pain), r/indiehackers Badsharishit (commenter empathizing with OP), r/SideProject Anantha_datta (advice from past experience), r/Solopreneur Existing_Growth8849 (analysis), r/buildinpublic thegreatsorcerer (COMPETITOR building Chrome extension for Reddit outreach), r/AppBusiness ahumanbeingmars (wrong sub), r/Entrepreneurs mohmmad_anas (wrong sub), r/microsaas (not in target list), r/GrowthHacking LeaderAtLeading (skip-listed), all other wrong-context subs. Pipeline: 201 total. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard asked Qs about landing page -- Rishit should reply to keep alive, then send O-190.
+last_checked_139: 2026-06-01T05:05:29Z
+note_139: Run 139 (0 leads). Reddit egress blocked all 7 subs (curl). F5Bot Gmail full parse (all signals since run 138 / 00:00Z) -- zero new emails from June 1. Only unread threads are carryovers from May 29-31, all previously discarded in runs 133-138. Pipeline: 200 total unchanged.
 last_checked_138: 2026-06-01T00:00:00Z
+note_138: Run 138 (2 leads). Reddit egress blocked all 7 subs (curl + WebFetch). F5Bot Gmail full parse (all unread since run 137 / 18:00Z). 2 new qualifying leads: L-199 Crazy-Musician5208 (r/SideProject, "built outdoor route planner, launched 15 months ago, still 0 paying users", post removed but author reachable, DM drafted O-196), L-200 harshalone (r/best_alternative, "100% open-source Firebase/Supabase alternative", self-described "shouting into the void", DM drafted O-197). Pipeline: 200 total. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard asked Qs about landing page -- Rishit should reply to keep alive, then send O-190.
+last_checked_137: 2026-05-31T18:00:00Z
 note_137: Run 137 (0 leads). Reddit egress blocked all 7 subs (curl + WebFetch). F5Bot Gmail full parse (all unread since run 136 / 16:00Z) -- zero new signals, most recent F5Bot hit still 2026-05-30T20:15Z (Previous_Editor2419, already discarded). HN Show HN scanned via Algolia (20 posts) -- none ICP, all technical showcases no distribution pain expressed. IH posts/RSS unrenderable (SPA). Full discard log: same as run 136 -- all signals cross-verified, nothing new. Pipeline: 198 total unchanged.
 last_checked_136: 2026-05-31T16:00:00Z
 last_checked_135: 2026-05-31T14:00:00Z
@@ -234,6 +238,9 @@ leads_logged:
   - Best-Reach1891
   - Lorenzoak
   - samsribot
+  - Crazy-Musician5208
+  - harshalone
+  - TheJackal8821
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic

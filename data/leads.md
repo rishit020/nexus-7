@@ -2811,3 +2811,17 @@ opener_angle: reference the "shouting into the void" phrase from their post. ask
 status: new
 outreach_id: O-197
 [RECORD_END]
+
+[RECORD_START]
+id: L-201
+date_found: 2026-06-01
+username: TheJackal8821
+platform: reddit
+url: https://reddit.com/r/sideprojects
+pain_quote: "the tool works but getting the right founders to find it is a whole different skill"
+product_built: BriefForge (AI tool for African founders)
+fit_reason: First-person distribution pain. Built a working product, actively submitting to launch directories (peerpush), explicitly describes the discovery gap Tide solves.
+opener_angle: The "works but can't get the right people to find it" gap. Ask what they've tried and what's felt most broken.
+status: new
+outreach_id: O-198
+[RECORD_END]
