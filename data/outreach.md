@@ -3389,3 +3389,23 @@ date_sent: null
 result: null
 notes: F5Bot "launched my saas" keyword hit 2026-06-01T05:51:20Z. SeaworthinessNo30 r/SaaS. Post-launch SaaS, $20 revenue in 10 days, stuck on growth. No social following (0 Insta/X). Reddit strategy producing zero engagement. No em dashes verified. 4 sentences. No call ask. No pitch. DM via Reddit.
 [RECORD_END]
+
+[RECORD_START]
+id: O-200
+date_created: 2026-06-01
+lead_id: L-203
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post before it got pulled. "people love it. nobody paid" is one of the more honest descriptions of the distribution gap i've seen.
+
+  what did you build? and where have you actually tried to find people who'd pay for it?
+
+  doing research on exactly this window between launch and first paying users.
+action: DM
+target_url: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1ttnesa/launched_my_saas_people_love_it_nobody_paid/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-01T09:59:15Z. SearchFair3888 r/EntrepreneurRideAlong. Post title is the entire pain signal. Post body [removed] by Reddit but author still reachable via DM. Detected < 1 hour after posting. No em dashes verified. 3 sentences. No call ask. No pitch. DM via Reddit.
+[RECORD_END]
