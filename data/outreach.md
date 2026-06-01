@@ -3371,3 +3371,21 @@ date_sent: null
 result: null
 notes: TheJackal8821 commented on r/sideprojects "Built an AI tool for African founders!!" F5Bot "distribution problem" alert 2026-05-30. Actively submitting BriefForge to peerpush. First-person distribution pain, working product, stuck on reaching right audience. DM via Reddit.
 [RECORD_END]
+
+[RECORD_START]
+id: O-199
+date_created: 2026-06-01
+lead_id: L-202
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about launching your saas on may 21st and getting $20 but not knowing where to go from there. curious what the reddit approach actually looks like for you. like which subs, what posts, and what happens when you try to get people talking?
+
+  doing research on the gap between getting first users and building real distribution from scratch.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1ttiywf/how_do_i_grow_my_saas_further/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-01T05:51:20Z. SeaworthinessNo30 r/SaaS. Post-launch SaaS, $20 revenue in 10 days, stuck on growth. No social following (0 Insta/X). Reddit strategy producing zero engagement. No em dashes verified. 4 sentences. No call ask. No pitch. DM via Reddit.
+[RECORD_END]

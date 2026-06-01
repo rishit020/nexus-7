@@ -2825,3 +2825,18 @@ opener_angle: The "works but can't get the right people to find it" gap. Ask wha
 status: new
 outreach_id: O-198
 [RECORD_END]
+
+[RECORD_START]
+id: L-202
+date_found: 2026-06-01
+username: SeaworthinessNo30
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1ttiywf/how_do_i_grow_my_saas_further/
+pain_quote: "I don't have any followers on Insta or X...people on reddit most of the times seems to abandon discussions even when I help them"
+product_built: SaaS (details unknown, launched May 21 2026, ~$20 revenue in 10 days)
+fit_reason: Post-launch with early revenue but stuck on distribution. No social presence (0 followers on Insta or X). Reddit engagement strategy not converting. Actively asking how to grow. Classic Tide ICP window.
+opener_angle: Reference the $20 in 10 days but hitting the wall on where to go next. Ask what the Reddit strategy actually looks like in practice.
+status: new
+outreach_id: O-199
+[RECORD_END]
