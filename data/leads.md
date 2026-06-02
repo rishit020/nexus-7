@@ -2885,3 +2885,18 @@ opener_angle: Lead with "absolute crickets" quote. Ask what they built and what 
 status: new
 outreach_id: O-202
 [RECORD_END]
+
+[RECORD_START]
+id: L-206
+date_found: 2026-06-02
+username: LiveUnderstanding535
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tup8cu/35_visitors_74_bounce_rate_0_signups_the_reality/
+pain_quote: "35 visitors, 74% bounce rate, 0 signups. The reality of my first two weeks."
+product_built: unknown SaaS (2 weeks post-launch)
+fit_reason: Week 2 post-launch, specific numbers, first-person pain. Posted twice in r/SaaS (both removed by mods) signaling active desperation for help. Exact Tide ICP window -- shipped something, zero users, hitting the wall.
+opener_angle: Reference the specific numbers (35 visitors / 74% bounce / 0 signups). Ask what they built and where traffic came from.
+status: new
+outreach_id: O-203
+[RECORD_END]
