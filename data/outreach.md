@@ -3409,3 +3409,43 @@ date_sent: null
 result: null
 notes: F5Bot "launched my saas" keyword hit 2026-06-01T09:59:15Z. SearchFair3888 r/EntrepreneurRideAlong. Post title is the entire pain signal. Post body [removed] by Reddit but author still reachable via DM. Detected < 1 hour after posting. No em dashes verified. 3 sentences. No call ask. No pitch. DM via Reddit.
 [RECORD_END]
+
+[RECORD_START]
+id: O-201
+date_created: 2026-06-02
+lead_id: L-204
+platform: reddit
+variant: dm
+draft_text: |
+  saw your day 15 post about the chrome extension. the distribution vs positioning question is actually the right one to be asking.
+
+  what have you tried distribution-wise so far? like which channels and what was the response, even if tiny?
+
+  doing research on exactly this gap between day 1 and first 100 users for solo builders.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1ttsb9g/day_15_of_my_chrome_extension_the_feature_i/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "distribution problem" keyword hit 2026-06-01T13:36:22Z. hookedupwithclaude r/SaaS. Day 15 Chrome extension, 0-100 users, asking directly if they have a distribution problem. Solo builder, target sub confirmed. No em dashes verified. 3 sentences. No call ask. No pitch. DM via Reddit.
+[RECORD_END]
+
+[RECORD_START]
+id: O-202
+date_created: 2026-06-02
+lead_id: L-205
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about launching to absolute crickets. that exact window is what i'm trying to understand.
+
+  what are you building? and what did distribution actually look like in the first few days?
+
+  doing research on the gap between launch and getting the first real users.
+action: DM
+target_url: https://www.reddit.com/r/microsaas/comments/1ttpjqq/launched_to_absolute_crickets_0_mrr_and_starting/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "shouting into the void" commenter on this thread led to OP discovery 2026-06-01T13:43:20Z. theclammyboasting r/microsaas. "Launched to absolute crickets. $0 MRR and starting to question everything." Textbook pain language, first-person. Product unknown. No em dashes verified. 3 sentences. No call ask. No pitch. DM via Reddit.
+[RECORD_END]

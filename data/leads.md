@@ -2855,3 +2855,33 @@ opener_angle: reference the title directly. "people love it. nobody paid." is th
 status: new
 outreach_id: O-200
 [RECORD_END]
+
+[RECORD_START]
+id: L-204
+date_found: 2026-06-02
+username: hookedupwithclaude
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1ttsb9g/day_15_of_my_chrome_extension_the_feature_i/
+pain_quote: "Is this a distribution problem or positioning problem? Chrome extensions are brutal — uninstall is 1 click, and intent is very weak."
+product_built: Chrome extension toolkit (exact name unknown, multi-feature, Day 15 post-launch)
+fit_reason: Day 15 solo builder, 0-100 users phase, explicitly asking if they have a distribution problem. First-person confusion at the exact post-launch stuck point. r/SaaS target sub. Asking community for help on what to fix first.
+opener_angle: The distribution vs positioning question -- ask what they've actually tried distribution-wise and what the response looked like. Frame as research on exactly that window.
+status: new
+outreach_id: O-201
+[RECORD_END]
+
+[RECORD_START]
+id: L-205
+date_found: 2026-06-02
+username: theclammyboasting
+platform: reddit
+subreddit: microsaas
+url: https://www.reddit.com/r/microsaas/comments/1ttpjqq/launched_to_absolute_crickets_0_mrr_and_starting/
+pain_quote: "Launched to absolute crickets. $0 MRR and starting to question everything."
+product_built: unknown micro-SaaS (post in r/microsaas)
+fit_reason: Textbook Tide ICP language ("absolute crickets"), $0 MRR, questioning everything after launch. First-person, fresh post, classic post-launch distribution wall.
+opener_angle: Lead with "absolute crickets" quote. Ask what they built and what distribution looked like first few days. Research framing.
+status: new
+outreach_id: O-202
+[RECORD_END]
