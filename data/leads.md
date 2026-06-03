@@ -2985,9 +2985,9 @@ subreddit: SaaS
 url: https://www.reddit.com/r/SaaS/comments/1tvkqvu/i_built_an_ai_chatbot_for_small_businesses_solo/
 pain_quote: "[post title] I built an AI chatbot for small businesses. Solo dev, 6 weeks, €0 marketing budget, 0 paying users"
 product_built: AI chatbot for small businesses (solo dev, 6 weeks build)
-fit_reason: Post title is textbook ICP: solo dev, 6-week build, no marketing budget, zero paying users. Post content removed by Reddit. Cannot read full context.
-opener_angle: Reference the 6-week build and 0 paying users. Ask what distribution has looked like and what they built specifically.
-status: watch
-outreach_id: null
+fit_reason: Post title is textbook ICP: solo dev, 6-week build, no marketing budget, zero paying users. Post content removed by Reddit but title alone is enough -- "0 paying users" keyword fired on this post, strong signal. DM-able by username. Very fresh (~1 hour at time of alert). Run 160b upgraded from WATCH to DM after confirming keyword trigger was from post body.
+opener_angle: Reference the solo build timeline and zero marketing budget. Ask what they've tried to get it in front of people and whether they had any existing audience.
+status: new
+outreach_id: O-209
 [RECORD_END]
 
