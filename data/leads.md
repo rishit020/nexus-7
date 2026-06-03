@@ -2961,3 +2961,33 @@ status: new
 outreach_id: O-207
 [RECORD_END]
 
+[RECORD_START]
+id: L-211
+date_found: 2026-06-03
+username: rwecho
+platform: reddit
+subreddit: vibecoding
+url: https://www.reddit.com/r/vibecoding/comments/1tnrib6/c/opfekby/?context=3
+pain_quote: "I need to figure out where other people doing rapid AI prototyping and automated workflows actually hang out"
+product_built: unknown tool for managing multiple AI workers without config overhead (vibe coded)
+fit_reason: Builder in r/vibecoding who built a product from their own itch, now explicitly stuck on where to find users. First-person distribution confusion. Not analysis, not advice -- they're asking for help finding their audience in a comment on a distribution thread.
+opener_angle: Reference the exact quote about finding where AI prototyping people hang out. Ask what channels they've tried and what happened.
+status: new
+outreach_id: O-208
+[RECORD_END]
+
+[RECORD_START]
+id: L-212
+date_found: 2026-06-03
+username: Willing_North513
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tvkqvu/i_built_an_ai_chatbot_for_small_businesses_solo/
+pain_quote: "[post title] I built an AI chatbot for small businesses. Solo dev, 6 weeks, €0 marketing budget, 0 paying users"
+product_built: AI chatbot for small businesses (solo dev, 6 weeks build)
+fit_reason: Post title is textbook ICP: solo dev, 6-week build, no marketing budget, zero paying users. Post content removed by Reddit. Cannot read full context.
+opener_angle: Reference the 6-week build and 0 paying users. Ask what distribution has looked like and what they built specifically.
+status: watch
+outreach_id: null
+[RECORD_END]
+

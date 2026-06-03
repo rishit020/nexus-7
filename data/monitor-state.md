@@ -1,10 +1,12 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-03T14:30:00Z
-next_lead_id: L-211
-next_outreach_id: O-208
-note: Run 159 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail full parse (all unread since run 158 / 12:30Z). 6 signals evaluated, all discarded: LittleZombie7537 r/DigitalMarketing (advisor with 20 customers sharing acquisition tips, not ICP), Winter7649 r/EntrepreneurRideAlong (freight broker CRM India, post [removed], B2B logistics too far from Jackson ICP), UnifriesYT r/web_design (web designer finding clients, wrong ICP), ContFiv r/AskMarketing (10k users in China, international expansion not zero-users pain), Connect-Positive-166 r/buildinpublic (advisor commenter on golf app), all other threads confirmed already-processed in runs 146-158 (tbrgraveyard=L-189, LiveUnderstanding535=L-206/L-210, SaaSEnthusiastt=advisor discard, r/Athens/r/MurderedByAOC/r/dating_advice/r/SaasDevelopers=wrong context). Pipeline: 210 total unchanged. PENDING REVIEW: L-199 thru L-210 (O-196 thru O-207) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+last_checked: 2026-06-03T15:30:00Z
+next_lead_id: L-213
+next_outreach_id: O-209
+note: Run 160 (1 lead). Reddit egress blocked all subs (consistent with runs 146-159). F5Bot Gmail full parse (all unread since run 159 / 14:30Z). 2 new signals: rwecho r/vibecoding (DM lead L-211/O-208, "I need to figure out where other people doing rapid AI prototyping and automated workflows actually hang out", vibe coded AI worker management tool, first-person distribution confusion), Willing_North513 r/SaaS (WATCH L-212, post removed, title-only: solo dev AI chatbot 6wks €0 marketing 0 paying users, cannot confirm content). Full discards: wahoo20 r/Athens (wrong sub, political context), fw3d r/SaaS (advisor commenter giving landing page advice, no personal pain), david_ciarmatori r/indiehackers + r/Indiehacker (advisor + competitor built Linkyscout), SalamanderTypical538 r/gamedev (wrong sub). Pipeline: 212 total. PENDING REVIEW: L-199 thru L-211 (O-196 thru O-208) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+last_checked_159: 2026-06-03T14:30:00Z
+note_159: Run 159 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail full parse (all unread since run 158 / 12:30Z). 6 signals evaluated, all discarded: LittleZombie7537 r/DigitalMarketing (advisor with 20 customers sharing acquisition tips, not ICP), Winter7649 r/EntrepreneurRideAlong (freight broker CRM India, post [removed], B2B logistics too far from Jackson ICP), UnifriesYT r/web_design (web designer finding clients, wrong ICP), ContFiv r/AskMarketing (10k users in China, international expansion not zero-users pain), Connect-Positive-166 r/buildinpublic (advisor commenter on golf app), all other threads confirmed already-processed in runs 146-158 (tbrgraveyard=L-189, LiveUnderstanding535=L-206/L-210, SaaSEnthusiastt=advisor discard, r/Athens/r/MurderedByAOC/r/dating_advice/r/SaasDevelopers=wrong context). Pipeline: 210 total unchanged. PENDING REVIEW: L-199 thru L-210 (O-196 thru O-207) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
 last_checked_158: 2026-06-03T12:30:00Z
 last_checked_157: 2026-06-03T10:30:00Z
 last_checked_156: 2026-06-03T08:30:00Z
@@ -274,6 +276,8 @@ leads_logged:
   - Equivalent-Brain-234
   - Primary-Plan-7039
   - Infamous_Hat972
+  - rwecho
+  - Willing_North513
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic
