@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-03T11:05:00Z
+last_checked: 2026-06-03T17:30:00Z
 next_lead_id: L-213
 next_outreach_id: O-210
-note: Run 160b (0 new leads, 1 upgrade). Reddit egress blocked. Gmail F5Bot parse cross-checked against run 160 (15:30Z). No new leads beyond L-211/L-212 already logged. Upgrade: L-212 Willing_North513 promoted from WATCH to DM (run 160 couldn't read removed post body; keyword "0 paying users" confirms distribution pain, DM-able by username). Draft O-209 added. Pipeline: 212 total leads. PENDING REVIEW: L-199 thru L-212 (O-196 thru O-209) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+note: Run 161 (0 new leads). Reddit egress blocked all subs. F5Bot Gmail full parse (all unread since run 160 / 15:30Z). 10 signals evaluated, all discarded: SalamanderTypical538 r/gamedev (advisory, game dev vertical), wahoo20 r/Athens (political, irrelevant), rwecho r/vibecoding (already L-211), fw3d r/SaaS (giving advice, not in pain), david_ciarmatori r/Indiehacker (pitching own tool Linkyscout), Low-Squash-3572 r/WhatsappBusinessAPI (B2B India advisory), Own-Rip505 r/micro_saas (advisory), k-i-e-r-a-n r/SideProject (B2B fleet safety, wrong ICP), azure1716 r/JapanDev (social platform launch copy), Ashamed-Platypus8873 r/SaasDevelopers (success story). hookedupwithclaude already logged as L-204. Pipeline: 212 total unchanged. PENDING REVIEW: L-199 thru L-212 (O-196 thru O-209) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+last_checked_161: 2026-06-03T17:30:00Z
 last_checked_160: 2026-06-03T15:30:00Z
 note_160: Run 160 (1 lead). Reddit egress blocked all subs. F5Bot Gmail full parse (all unread since run 159 / 14:30Z). 2 new signals: rwecho r/vibecoding (DM lead L-211/O-208, "I need to figure out where other people doing rapid AI prototyping and automated workflows actually hang out", vibe coded AI worker management tool, first-person distribution confusion), Willing_North513 r/SaaS (WATCH L-212, post removed, title-only: solo dev AI chatbot 6wks €0 marketing 0 paying users, cannot confirm content). Pipeline: 212 total.
 last_checked_159: 2026-06-03T14:30:00Z
