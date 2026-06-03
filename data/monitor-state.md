@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-03T06:06:17Z
-next_lead_id: L-209
-next_outreach_id: O-206
-note: Run 154 (2 leads). Reddit egress blocked (403). F5Bot Gmail full parse (newer_than:1d, 7 threads). 2 new leads: L-207 Equivalent-Brain-234 (r/SaaS commenter, "6 months since I launched my saas, still no paying user...getting discovered among my competitors is the hardest part", DM drafted O-204) and L-208 Primary-Plan-7039 (r/SaaS OP "Why is it harder to get 10 users than to build the product?" + shouting into the void comment in own thread, COMMENT drafted O-205). EXISTING LEAD ACTIVITY: tbrgraveyard posted "Day 8: I asked 7,200 people what to build. Then I built it in 48 hours." with "7,200 views and 0 signups" -- new post, existing lead, O-190 draft still pending. DISCARDED: Winter7649 r/EntrepreneurRideAlong (freight broker CRM for India, niche B2B, post removed), Own-Rip505 r/micro_saas (advisor sharing tips, not in pain), UnifriesYT r/web_design (designer seeking freelance work, wrong ICP), multiple "shouting into the void" hits in r/Athens/r/MurderedByAOC/r/dating_advice/r/wallstreetbets (all wrong context), Keef--Girgo r/wallstreetbets (NPC joke context). Pipeline: 208 total. PENDING REVIEW: L-199 thru L-208 (O-196 thru O-205) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard new Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+last_checked: 2026-06-03T06:30:00Z
+next_lead_id: L-210
+next_outreach_id: O-207
+note: Run 155 (1 lead). Reddit egress blocked all subs. F5Bot Gmail full parse (all new signals since run 154 / 06:06Z June 3). 1 new qualifying lead: L-209 Infamous_Hat972 (r/iOSAppsMarketing, "I've tried posting on X, improving App Store keywords, and sharing short demos, but most of the time it feels like I'm just shouting into the void", DM drafted O-206). Full discard log: Broad-Remote-7984 r/SideProject (pre-build validation -- asking if problem exists before building, NOT post-launch pain), thegreatsorcerer r/micro_saas (competitor, flagged run 140), r/PoliticalHumor/r/MicrosoftRewards/r/BestofRedditorUpdates/r/justincaseyoumissedit/r/INAT/r/DeepRockGalactic/r/fo76/r/ageregression/r/Frontend/r/playstation/r/GME/r/AO3 (wrong context). NOTE: Infamous_Hat972 posted 03:50Z June 3 but was missed by run 154 (r/iOSAppsMarketing not in concurrent run's scan scope). Included per prior flexibility (r/microsaas run 146, r/ProductHunters run 119). Pipeline: 209 total. PENDING REVIEW: L-199 thru L-209 (O-196 thru O-206) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+last_checked_154: 2026-06-03T06:06:17Z
 last_checked_153: 2026-06-02T16:00:00Z
 last_checked_152: 2026-06-02T15:00:00Z
 last_checked_151: 2026-06-02T13:00:00Z
@@ -263,6 +264,12 @@ leads_logged:
   - TheJackal8821
   - SeaworthinessNo30
   - SearchFair3888
+  - hookedupwithclaude
+  - theclammyboasting
+  - LiveUnderstanding535
+  - Equivalent-Brain-234
+  - Primary-Plan-7039
+  - Infamous_Hat972
 
 ## RUN LOG
 2026-05-17 (run 1) | leads: 1 (mysteerio117/reddit) | source: reddit/buildinpublic

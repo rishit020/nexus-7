@@ -2930,3 +2930,18 @@ opener_angle: Comment on the thread with genuine value about the 0-to-first-user
 status: new
 outreach_id: O-205
 [RECORD_END]
+
+[RECORD_START]
+id: L-209
+date_found: 2026-06-03
+username: Infamous_Hat972
+platform: reddit
+subreddit: iOSAppsMarketing
+url: https://www.reddit.com/r/iOSAppsMarketing/comments/1tvdqnu/how_do_you_actually_market_a_small_ios_app_as_an/
+pain_quote: "I've tried posting on X, improving App Store keywords, and sharing short demos, but most of the time it feels like I'm just shouting into the void"
+product_built: small iOS app (indie developer, details unknown)
+fit_reason: Indie iOS app developer, tried X, ASO, and short video demos post-launch with no results. Multiple channels attempted, all silent. First-person distribution wall, classic ICP.
+opener_angle: Reference the three channels tried (x, aso, demos) and still hitting silence. Ask what the app is and whether they had any existing audience going in.
+status: new
+outreach_id: O-206
+[RECORD_END]

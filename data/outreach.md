@@ -3507,3 +3507,23 @@ date_sent: null
 result: null
 notes: F5Bot "shouting into the void" keyword hit 2026-06-02T19:44:29Z. Primary-Plan-7039 is OP of r/SaaS thread "Why is it harder to get 10 users than to build the product?" and commented in own thread using "shouting into the void" phrase confirming first-person pain. 3 months building. Comment adds genuine value to discussion and surfaces Rishit as distribution researcher. No pitch. No call. No em dashes verified.
 [RECORD_END]
+
+[RECORD_START]
+id: O-206
+date_created: 2026-06-03
+lead_id: L-209
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your post about marketing your ios app. you've tried x, aso, and short demos and you're still hitting silence.
+
+  what's the app and did you have any existing audience going in, or starting from zero?
+
+  doing research on how indie app builders are handling the gap between shipping something and actually getting people to find it.
+action: DM
+target_url: https://www.reddit.com/r/iOSAppsMarketing/comments/1tvdqnu/how_do_you_actually_market_a_small_ios_app_as_an/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "shouting into the void" keyword hit 2026-06-03T03:50:23Z. Infamous_Hat972 r/iOSAppsMarketing. Post: "How do you actually market a small iOS app as an indie developer?" Tried X, ASO, short demos, still silence. First-person distribution pain, indie app developer ICP. Subreddit not in original target list but pain is strong, consistent with prior monitor flexibility (r/microsaas run 146, r/ProductHunters run 119). No em dashes verified. 3 sentences. No call ask. No pitch. DM via Reddit.
+[RECORD_END]
