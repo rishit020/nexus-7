@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-03T12:30:00Z
+last_checked: 2026-06-03T14:30:00Z
 next_lead_id: L-211
 next_outreach_id: O-208
-note: Run 158 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:4h, unread). 1 unread F5Bot thread found (08:08Z June 3, missed by run 157). Both signals discarded: Low-Squash-3572 r/WhatsappBusinessAPI (advisor giving B2B distribution tips, wrong sub, not ICP in pain), SeaMagickWitch r/BlackSails (TV show discussion, wrong context). Pipeline: 210 total unchanged. PENDING REVIEW: L-199 thru L-210 (O-196 thru O-207) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+note: Run 159 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail full parse (all unread since run 158 / 12:30Z). 6 signals evaluated, all discarded: LittleZombie7537 r/DigitalMarketing (advisor with 20 customers sharing acquisition tips, not ICP), Winter7649 r/EntrepreneurRideAlong (freight broker CRM India, post [removed], B2B logistics too far from Jackson ICP), UnifriesYT r/web_design (web designer finding clients, wrong ICP), ContFiv r/AskMarketing (10k users in China, international expansion not zero-users pain), Connect-Positive-166 r/buildinpublic (advisor commenter on golf app), all other threads confirmed already-processed in runs 146-158 (tbrgraveyard=L-189, LiveUnderstanding535=L-206/L-210, SaaSEnthusiastt=advisor discard, r/Athens/r/MurderedByAOC/r/dating_advice/r/SaasDevelopers=wrong context). Pipeline: 210 total unchanged. PENDING REVIEW: L-199 thru L-210 (O-196 thru O-207) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+last_checked_158: 2026-06-03T12:30:00Z
 last_checked_157: 2026-06-03T10:30:00Z
 last_checked_156: 2026-06-03T08:30:00Z
 last_checked_155: 2026-06-03T06:30:00Z
