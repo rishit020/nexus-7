@@ -2900,3 +2900,33 @@ opener_angle: Reference the specific numbers (35 visitors / 74% bounce / 0 signu
 status: new
 outreach_id: O-203
 [RECORD_END]
+
+[RECORD_START]
+id: L-207
+date_found: 2026-06-03
+username: Equivalent-Brain-234
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tukbxt/c/opcfaw6/?context=3
+pain_quote: "It's been almost six months since I launched my saas, still no paying user...getting discovered among my competitors is the hardest part"
+product_built: unknown SaaS (6 months post-launch)
+fit_reason: Six months post-launch, 0 paying users, explicitly naming discovery/competition as the problem. First-person commenter expressing active distribution pain. r/SaaS target sub. Long enough post-launch to be desperate, honest enough to admit no users publicly.
+opener_angle: Reference the "6 months in, no paying users" specifics. Ask what they built and what distribution they've tried. Research framing.
+status: new
+outreach_id: O-204
+[RECORD_END]
+
+[RECORD_START]
+id: L-208
+date_found: 2026-06-03
+username: Primary-Plan-7039
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tqspjw/
+pain_quote: "i've been building for three months now, and most days it feels like shouting into the void"
+product_built: unknown SaaS (3 months building)
+fit_reason: OP who started a thread asking "Why is it harder to get 10 users than to build the product?" and in the thread comments wrote "shouting into the void." Double signal: the post itself is a distribution frustration question, and the comment confirms first-person pain. Active thread with engagement. r/SaaS target sub.
+opener_angle: Comment on the thread with genuine value about the 0-to-first-user asymmetry. Positions Rishit as a researcher studying this exact problem. If thread gains traction, follow with DM.
+status: new
+outreach_id: O-205
+[RECORD_END]
