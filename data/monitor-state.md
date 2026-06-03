@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-03T06:30:00Z
-next_lead_id: L-210
-next_outreach_id: O-207
-note: Run 155 (1 lead). Reddit egress blocked all subs. F5Bot Gmail full parse (all new signals since run 154 / 06:06Z June 3). 1 new qualifying lead: L-209 Infamous_Hat972 (r/iOSAppsMarketing, "I've tried posting on X, improving App Store keywords, and sharing short demos, but most of the time it feels like I'm just shouting into the void", DM drafted O-206). Full discard log: Broad-Remote-7984 r/SideProject (pre-build validation -- asking if problem exists before building, NOT post-launch pain), thegreatsorcerer r/micro_saas (competitor, flagged run 140), r/PoliticalHumor/r/MicrosoftRewards/r/BestofRedditorUpdates/r/justincaseyoumissedit/r/INAT/r/DeepRockGalactic/r/fo76/r/ageregression/r/Frontend/r/playstation/r/GME/r/AO3 (wrong context). NOTE: Infamous_Hat972 posted 03:50Z June 3 but was missed by run 154 (r/iOSAppsMarketing not in concurrent run's scan scope). Included per prior flexibility (r/microsaas run 146, r/ProductHunters run 119). Pipeline: 209 total. PENDING REVIEW: L-199 thru L-209 (O-196 thru O-206) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+last_checked: 2026-06-03T08:30:00Z
+next_lead_id: L-211
+next_outreach_id: O-208
+note: Run 156 (1 lead). Reddit egress blocked all subs. F5Bot Gmail full parse (all unread since run 155 / 06:30Z June 3). 1 new qualifying lead: L-210 LiveUnderstanding535 (r/SaaS, "35 visitors, 74% bounce rate, 0 signups. The reality of my first two weeks." -- POST OP, post removed by AutoMod but DM-able, DM drafted O-207). Full discard log: SaaSEnthusiastt r/SaaS (advisor commenter, already noted run 148), tbrgraveyard r/buildinpublic Day 8 (already L-189, ongoing), Connect-Positive-166 r/buildinpublic (advisor commenter, built startupsuperpowers.io), ContFiv r/AskMarketing "10k China users" (scale-up problem not cold-start, wrong sub), Winter7649 r/EntrepreneurRideAlong "freight broker CRM India" (wrong ICP, B2B vertical not indie SaaS, post removed), Own-Rip505 r/micro_saas (advisor commenter giving tips for Trophy Jar), all wrong-context subs (r/Athens/r/MurderedByAOC/r/dating_advice/r/web_design/r/Bitcoin/r/starcitizen/r/worldnews/r/samharris/r/GrowthHacking/r/YouTubeCreators/r/CanadaPublicServants/r/sideprojects/r/Bumble/r/atheism). Pipeline: 210 total. PENDING REVIEW: L-199 thru L-210 (O-196 thru O-207) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+last_checked_155: 2026-06-03T06:30:00Z
 last_checked_154: 2026-06-03T06:06:17Z
 last_checked_153: 2026-06-02T16:00:00Z
 last_checked_152: 2026-06-02T15:00:00Z

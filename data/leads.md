@@ -2945,3 +2945,18 @@ opener_angle: Reference the three channels tried (x, aso, demos) and still hitti
 status: new
 outreach_id: O-206
 [RECORD_END]
+
+[RECORD_START]
+id: L-210
+date_found: 2026-06-03
+username: LiveUnderstanding535
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tuoxtg/35_visitors_74_bounce_rate_0_signups_the_reality/
+pain_quote: "35 visitors, 74% bounce rate, 0 signups. The reality of my first two weeks."
+product_built: unknown SaaS (post-launch, first two weeks)
+fit_reason: Post OP, r/SaaS target sub. First two weeks post-launch with specific metrics. Title IS the pain quote. The framing "reality of my first two weeks" suggests this is exactly the moment Tide targets -- just launched, confronting the distribution wall for the first time. Post removed by AutoModerator (low karma) but author DM-able. Very fresh: posted June 2 2026.
+opener_angle: Reference the specific numbers. Ask what they built and whether the 74% bounce is wrong audience (traffic problem) or right audience not getting it (messaging problem). Diagnostic question opens the conversation.
+status: new
+outreach_id: O-207
+[RECORD_END]
