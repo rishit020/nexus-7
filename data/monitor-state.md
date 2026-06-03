@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-03T10:30:00Z
+last_checked: 2026-06-03T12:30:00Z
 next_lead_id: L-211
 next_outreach_id: O-208
-note: Run 157 (0 leads). Reddit egress blocked all 7 subs (403). Full F5Bot Gmail parse -- all signals from June 1-3 confirmed already processed in runs 142-156. Cross-checked all unread threads: SearchFair3888 (already L-203/O-200 run 143), SeaworthinessNo30 (already L-202/O-199 run 142), hookedupwithclaude (already L-204/O-201 run 146), theclammyboasting (already L-205/O-202 run 146), Ashamed-Platypus8873 SaasDevelopers success story (already discarded run 147), frank_be Trustbourne (already WATCH run 144, messaging not distribution), k-i-e-r-a-n B2B fleet safety (already discarded run 146, wrong ICP), all wrong-sub hits (r/Athens/r/ProfessorErica/r/StartupIdeasIndia/r/digitalmarketing201/r/HorusHeresyLegions/r/leagueoflegends/r/GEO_optimization/r/blogspot/r/JapanDev/r/DigitalProductSellers commenters/r/TikTokLounge/r/Spiritual-Tie-91/r/mylittlepony/r/survivinginfidelity/r/videogames). Pipeline: 210 total unchanged. PENDING REVIEW: L-199 thru L-210 (O-196 thru O-207) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+note: Run 158 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse (newer_than:4h, unread). 1 unread F5Bot thread found (08:08Z June 3, missed by run 157). Both signals discarded: Low-Squash-3572 r/WhatsappBusinessAPI (advisor giving B2B distribution tips, wrong sub, not ICP in pain), SeaMagickWitch r/BlackSails (TV show discussion, wrong context). Pipeline: 210 total unchanged. PENDING REVIEW: L-199 thru L-210 (O-196 thru O-207) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post active -- Rishit should reply to keep alive, send O-190 soon.
+last_checked_157: 2026-06-03T10:30:00Z
 last_checked_156: 2026-06-03T08:30:00Z
 last_checked_155: 2026-06-03T06:30:00Z
 last_checked_154: 2026-06-03T06:06:17Z
