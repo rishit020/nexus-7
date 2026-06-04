@@ -3036,3 +3036,18 @@ opener_angle: Reference the week 1 / distribution grind. Ask what channels they'
 status: new
 outreach_id: O-211
 [RECORD_END]
+
+[RECORD_START]
+id: L-216
+date_found: 2026-06-04
+username: LiveUnderstanding535
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tuoxtg/35_visitors_74_bounce_rate_0_signups_the_reality/
+pain_quote: "35 visitors, 74% bounce rate, 0 signups. The reality of my first two weeks."
+product_built: unknown (post removed -- only title preserved)
+fit_reason: Post-launch SaaS builder sharing honest first two weeks numbers. Title is pure first-person pain: zero signups, high bounce rate, minimal traffic. Exact Tide ICP. Post was removed by AutoModerator but title survived and the DM angle is clear. Two weeks in = fresh wound, likely still searching for answers.
+opener_angle: Reference the post title directly. Ask where those 35 visitors actually came from -- organic, launch posts, or something else. Keep it a genuine question about their traffic source, not a pitch.
+status: new
+outreach_id: O-212
+[RECORD_END]

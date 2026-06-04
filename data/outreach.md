@@ -3623,3 +3623,23 @@ date_sent: null
 result: null
 notes: F5Bot "launched my saas" keyword hit 2026-06-04T09:52:00Z. Imthatguyimhimfr r/SaaS. Post: "50 signups in my first week, but am I focusing on the wrong thing?" -- 50 registrations, ~10% visitor-to-signup rate, 50% onboarding completion, spending most time on distribution. Different from zero-traction leads -- has early signups but distribution is the active daily grind. Ideal research convo: what channels, what signal, what's actually driving those 50. No em dashes verified. 4 sentences. No pitch. No call ask.
 [RECORD_END]
+
+[RECORD_START]
+id: O-212
+date_created: 2026-06-04
+lead_id: L-216
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post on r/saas about two weeks in and zero signups. that's a rough spot.
+
+  where did those 35 visitors actually come from? organic search, launch posts, something else?
+
+  doing research on what the post-launch window actually looks like for solo builders and what drives traffic (or doesn't) in those first few weeks.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1tuoxtg/35_visitors_74_bounce_rate_0_signups_the_reality/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 signups" keyword hit 2026-06-02T12:12:00Z. LiveUnderstanding535 r/SaaS. Post: "35 visitors, 74% bounce rate, 0 signups. The reality of my first two weeks." Post was removed by AutoModerator (body [removed]) but title survived -- strong first-person pain signal. 2 days old at time of logging (post-launch fresh wound). DM action: title gives enough context to craft genuine opening. No em dashes verified. 3 sentences. No pitch. No call ask.
+[RECORD_END]
