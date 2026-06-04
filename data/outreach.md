@@ -3605,3 +3605,21 @@ date_sent: null
 result: null
 notes: F5Bot "launched my saas" keyword hit 2026-06-03T17:42:00Z. Im__Broke__ r/SideProject. Post: "I launched my SaaS on Product Hunt and finished Top 5. Here are the real numbers..." Product: Bulkmark (Twitter/X bookmarks to weekly email digest). Builder sharing honest post-launch numbers after Top 5 PH finish -- "every launch recap I read before mine was suspiciously glossy, that quietly wrecked my expectations" is clear signal the actual results fell short. Post is 16+ hours old, COMMENT action (not DM). r/SideProject is target sub. No em dashes verified. 2 sentences. No pitch. No call ask.
 [RECORD_END]
+
+[RECORD_START]
+id: O-211
+date_created: 2026-06-04
+lead_id: L-215
+platform: reddit
+variant: dm
+draft_text: |
+  saw your r/saas post about week 1 with 50 signups. you said most of your time's going into distribution right now. curious what channels you're actually hitting and whether any of them are producing consistent traffic or it's been all over the place.
+
+  doing research on the post-launch distribution window for solo devs.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1twiuq1/50_signups_in_my_first_week_but_am_i_focusing_on/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-04T09:52:00Z. Imthatguyimhimfr r/SaaS. Post: "50 signups in my first week, but am I focusing on the wrong thing?" -- 50 registrations, ~10% visitor-to-signup rate, 50% onboarding completion, spending most time on distribution. Different from zero-traction leads -- has early signups but distribution is the active daily grind. Ideal research convo: what channels, what signal, what's actually driving those 50. No em dashes verified. 4 sentences. No pitch. No call ask.
+[RECORD_END]

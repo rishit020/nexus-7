@@ -3021,3 +3021,18 @@ opener_angle: Join the thread as a researcher on the post-launch distribution wi
 status: new
 outreach_id: O-210
 [RECORD_END]
+
+[RECORD_START]
+id: L-215
+date_found: 2026-06-04
+username: Imthatguyimhimfr
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1twiuq1/50_signups_in_my_first_week_but_am_i_focusing_on/
+pain_quote: "most of my time is going into distribution and trying to get more people through the door"
+product_built: SaaS (unspecified -- 50 registrations week 1, ~10% visitor signup rate, ~50% onboarding completion)
+fit_reason: Week 1 post-launch, distribution is the active daily focus, asking whether to prioritize it vs fixing onboarding. Real post-launch distribution struggle with first-person pain.
+opener_angle: Reference the week 1 / distribution grind. Ask what channels they're hitting and whether anything is producing consistent traffic. Research framing.
+status: new
+outreach_id: O-211
+[RECORD_END]
