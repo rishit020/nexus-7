@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-03T19:30:00Z
-next_lead_id: L-213
+last_checked: 2026-06-04T01:30:00Z
+next_lead_id: L-214
 next_outreach_id: O-210
-note: Run 162 (0 new leads). Reddit egress blocked all subs. F5Bot Gmail: no new emails since run 161 / 17:30Z. Reviewed unconfirmed 12:07Z batch from thread 19e8c86ab769de1c: Ok-Storage-3003 r/StartUpIndia (advisor giving growth advice to design studio, not ICP), Quick-Radio9128 r/founder (advisor coaching trades business, not ICP). Both discard. Pipeline: 212 total unchanged. PENDING REVIEW: L-199 thru L-212 (O-196 thru O-209) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post -- Rishit should reply to keep thread alive, send O-190 soon.
+note: Run 163 (0 DM leads, 1 WATCH). Reddit egress blocked all subs. F5Bot Gmail full parse since run 162 / 19:30Z. Signals after cutoff: HighwayHungry8456 r/buildinpublic (WATCH L-213, Welkome.app just launched, ICP profile but no explicit pain stated), all other "shouting into the void" hits were gaming/music/personal off-topic. Pre-cutoff unprocessed batch also cleared: fw3d r/SaaS (advisor, not ICP), david_ciarmatori r/Indiehacker (competitor, built Linkyscout), Apprehensive-Hippo70 r/SaaS (asking about beating competitor hype, not personal distribution pain), PlateanDotCom r/uae_startups (has paying customer, B2B healthcare, not solo vibe coder), SalamanderTypical538 r/gamedev (past tense commenter, not currently struggling). Pipeline: 213 total. PENDING REVIEW: L-199 thru L-212 (O-196 thru O-209) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post -- Rishit should reply to keep thread alive, send O-190 soon.
+last_checked_163: 2026-06-04T01:30:00Z
 last_checked_162: 2026-06-03T19:30:00Z
 last_checked_161: 2026-06-03T17:30:00Z
 last_checked_160: 2026-06-03T15:30:00Z

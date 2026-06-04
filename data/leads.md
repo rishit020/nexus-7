@@ -2991,3 +2991,18 @@ status: new
 outreach_id: O-209
 [RECORD_END]
 
+[RECORD_START]
+id: L-213
+date_found: 2026-06-04
+username: HighwayHungry8456
+platform: reddit
+subreddit: buildinpublic
+url: https://www.reddit.com/r/buildinpublic/comments/1tw0cjd/im_tired_of_guests_never_reading_my_house_manual/
+pain_quote: "I just launched my Saas Welkome.app"
+product_built: Welkome.app -- digital guide platform for Airbnb/vacation rental hosts (modular guides, usage tracking, multilingual)
+fit_reason: Post-launch SaaS in r/buildinpublic. Solo build solving a personal pain point. No explicit distribution struggle stated -- post is a "show your work" launch announcement. ICP profile fits but no first-person pain signal yet.
+opener_angle: Reference the just-launched context. Ask whether they've started thinking about how to get it in front of hosts or if launch day itself was the focus.
+status: watch
+outreach_id: null
+[RECORD_END]
+
