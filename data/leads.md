@@ -3006,3 +3006,18 @@ status: watch
 outreach_id: null
 [RECORD_END]
 
+
+[RECORD_START]
+id: L-214
+date_found: 2026-06-04
+username: Im__Broke__
+platform: reddit
+subreddit: SideProject
+url: https://www.reddit.com/r/SideProject/comments/1tvwnf3/i_launched_my_saas_on_product_hunt_and_finished/
+pain_quote: "Every launch recap I read before mine was suspiciously glossy, and that quietly wrecked my expectations. So here is the honest version."
+product_built: Bulkmark -- turns saved Twitter/X bookmarks into a weekly email digest
+fit_reason: Post-launch SaaS builder sharing honest (disappointing) numbers from Product Hunt launch. Top 5 on PH but explicitly acknowledging reality fell short of expectations. The "honest version" framing is a clear signal that the numbers didn't translate to real traction. Post-launch distribution gap is exactly Tide's thesis.
+opener_angle: Join the thread as a researcher on the post-launch distribution window. Ask what the traffic curve looked like after day 1. Add genuine value to the discussion around PH vs sustained growth.
+status: new
+outreach_id: O-210
+[RECORD_END]
