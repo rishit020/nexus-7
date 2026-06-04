@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-04T07:06:52Z
+last_checked: 2026-06-04T08:08:44Z
 next_lead_id: L-214
 next_outreach_id: O-210
-note: Run 164 (0 leads). Reddit egress blocked all subs. F5Bot Gmail full parse since run 163 / 01:30Z. No new F5Bot signals in window. All June 3 "shouting into the void" hits (r/kingdomcome, r/u_Runeblud, r/onlyconnect, r/blackmen, r/texts) confirmed off-topic, already cleared in run 163. Pipeline: 213 total unchanged. PENDING REVIEW: L-199 thru L-213 (O-196 thru O-209) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post -- Rishit should reply to keep thread alive, send O-190 soon.
+note: Run 165 (0 leads). Reddit egress blocked all subs (curl + WebFetch + WebSearch all blocked for reddit.com). F5Bot Gmail full parse since run 164 / 07:06Z. No new F5Bot signals in window. All June 3 F5Bot hits fully evaluated and confirmed stale: rwecho already L-211/O-208 (run 160), all "shouting into the void" hits already cleared (run 163), LittleZombie7537 confirmed advisor (run 159), HighwayHungry8456 weak ICP (no distribution pain expressed, Airbnb guide product), PlateanDotCom not ICP (healthcare B2B with paying customer), Willing_North513 WATCH L-212 (removed post). Pipeline: 213 total unchanged. PENDING REVIEW: L-199 thru L-213 (O-196 thru O-209) -- all drafted, awaiting Rishit approval. URGENT STILL OPEN: L-184/L-185/L-170/L-187 need username lookup. ACTION NEEDED: tbrgraveyard Day 8 post -- Rishit should reply to keep thread alive, send O-190 soon.
+last_checked_165: 2026-06-04T08:08:44Z
 last_checked_164: 2026-06-04T07:06:52Z
 last_checked_163: 2026-06-04T01:30:00Z
 last_checked_162: 2026-06-03T19:30:00Z
