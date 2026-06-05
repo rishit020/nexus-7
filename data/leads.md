@@ -3107,3 +3107,31 @@ opener_angle: Focus on the conversion drop -- 100s of waitlist signups to under 
 status: new
 outreach_id: O-214
 [RECORD_END]
+
+[RECORD_START]
+id: L-221
+date_found: 2026-06-05
+username: Unlikely_Being_6032
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1twsezh/
+pain_quote: "having a great product and getting people to discover it are two completely different skill sets. it can feel like you're shouting into the void trying to get anyone to notice"
+product_built: SaaS (specifics unknown -- experimenting with LinkedIn for distribution, finding it slow)
+fit_reason: first-person post-launch distribution struggle, explicitly names the product-to-discovery skill gap, using LinkedIn but finding it slow -- actively stuck, r/buildinpublic, exact ICP
+opener_angle: the LinkedIn experimentation that is "quite slow" -- ask what distribution has looked like beyond LinkedIn and where it falls apart
+status: new
+outreach_id: O-215
+[RECORD_END]
+
+[RECORD_START]
+id: L-222
+date_found: 2026-06-05
+username: Subject_Bullfrog703
+platform: reddit
+url: https://www.reddit.com/r/micro_saas/comments/1tgdlop/
+pain_quote: "I used to grind out helpful content on every channel and it felt like shouting into the void. What actually moved the needle was hunting for people who were already pissed off"
+product_built: micro SaaS (unknown specifics -- built manual Reddit outreach tracking system: saved searches + spreadsheet logging post/pain/reply/conversion)
+fit_reason: first-person past distribution pain solved manually with a spreadsheet system -- Tide would automate exactly what they built. power user profile, high-context research conversation. r/micro_saas.
+opener_angle: the manual system they built -- ask how it holds up at scale and whether the overhead becomes its own problem
+status: new
+outreach_id: O-216
+[RECORD_END]

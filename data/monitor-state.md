@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-05T09:05:00Z
-next_lead_id: L-221
-next_outreach_id: O-215
-note: Run 174 (0 leads). Reddit egress blocked all 7 subs (persistent). F5Bot Gmail: no new alerts since run 173 (07:05Z). All UNREAD threads already processed: use_lyra (discarded, local biz Riyadh) + Minimum_Boss9220 (L-220/O-214). Imthatguyimhimfr (r/SaaS, 50 signups, 50% onboarding drop) already in pipeline. Pipeline: 220 total. PENDING REVIEW: L-199 thru L-220 -- all drafted, awaiting Rishit approval. ACTION NEEDED: tbrgraveyard thread reply + O-190 send still pending from prior runs.
+last_checked: 2026-06-05T09:30:00Z
+next_lead_id: L-223
+next_outreach_id: O-217
+note: Run 175 (2 DM leads). Reddit egress blocked all 7 subs (persistent). F5Bot Gmail: parsed Jun 3-5 "shouting into the void" thread (39 msgs). Found 2 leads in 15h monitoring gap (runs 171 to 172): L-221 Unlikely_Being_6032 r/buildinpublic (built SaaS, discovery vs building skill gap, LinkedIn slow, O-215 drafted), L-222 Subject_Bullfrog703 r/micro_saas (past pain + manual outreach system, Tide automation angle, O-216 drafted). All other signals discarded (gaming, news, music, politics, personal subs, analysis-only comments). Pipeline: 222 total. PENDING REVIEW: L-199 thru L-222 -- all drafted, awaiting Rishit approval. ACTION NEEDED: tbrgraveyard thread reply + O-190 send still pending from prior runs.
+last_checked_175: 2026-06-05T09:30:00Z
 last_checked_174: 2026-06-05T09:05:00Z
 last_checked_173: 2026-06-05T07:05:00Z
 last_checked_172: 2026-06-05T06:30:00Z

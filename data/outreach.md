@@ -3681,3 +3681,37 @@ date_sent: null
 result: null
 notes: F5Bot "launched my saas" keyword hit 2026-06-05T03:28:18Z. Minimum_Boss9220 r/SaaS. Post: "Failed So Many Times, I lost count." -- launched SaaS with waitlist (100s), spent 4-5mo fixing code, re-launched and emailed list, less than 10% converted. Only distribution: LinkedIn + small email list. Zero budget. Post title not explicit pain but body is first-person launch failure + distribution gap. Fresh post (same-day F5Bot alert). 4 sentences. No em dashes verified. No pitch. No call ask.
 [RECORD_END]
+
+[RECORD_START]
+id: O-215
+date_created: 2026-06-05
+lead_id: L-221
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in buildinpublic about building a saas and realizing that getting people to find it is a completely different skill than building it. what has that actually looked like beyond linkedin? like what have you tried and where does it fall apart?
+
+  doing research on exactly this gap between shipping something real and getting people to discover it.
+action: DM
+target_url: https://www.reddit.com/r/buildinpublic/comments/1twsezh/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "shouting into the void" keyword hit 2026-06-04T17:30:20Z. Unlikely_Being_6032 r/buildinpublic. Comment on "How helpful would LinkedIn be for me?" thread. First-person pain: built a SaaS, realizing discovery is a separate skill, experimenting with LinkedIn but "quite slow." Fell in monitoring gap (runs 171 to 172 skipped 15 hours). Neither username in any prior file. 4 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-216
+date_created: 2026-06-05
+lead_id: L-222
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in micro_saas about grinding content everywhere and it feeling like shouting into the void. the manual system you built after that is sharp. saved searches and a spreadsheet tracking post to reply to conversion. doing research on this exact gap and curious how it holds up as you scale it.
+action: DM
+target_url: https://www.reddit.com/r/micro_saas/comments/1tgdlop/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "shouting into the void" keyword hit 2026-06-04T12:30:15Z. Subject_Bullfrog703 r/micro_saas. Comment on "Getting users feels weird now" thread. Describes past first-person pain (grinding content, felt like shouting into void) and built a manual workaround (saved Reddit searches + spreadsheet). Tide would automate exactly this. Strong power-user/early-adopter research angle. 4 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
