@@ -3150,3 +3150,45 @@ status: watch
 outreach_id: null
 notes: ACTION NEEDED -- Reddit access blocked in this environment. Rishit must open the URL above to get the OP username, then this upgrades to DM with O-217.
 [RECORD_END]
+
+[RECORD_START]
+id: L-224
+date_found: 2026-06-05
+username: theuniverseson
+platform: indiehackers
+url: https://www.indiehackers.com/post/launched-on-product-hunt-to-zero-users-heres-what-i-changed-37f6925837
+pain_quote: "the positioning sold a philosophy when people wanted to know what the thing does"
+product_built: BotWork -- AI Agent Freelance Network
+fit_reason: Post-launch, zero external users after weeks of positioning work. Honest post-mortem on a June 3 2026 launch. Named the exact failure mode (messaging problem) and came out with a fix. Solo builder, real product, first-person pain. ICP fit: built something, launched, hit the wall.
+opener_angle: The zero external users after weeks of prep -- ask what channels they tried beyond the PH positioning and where it fell apart.
+status: new
+outreach_id: O-217
+[RECORD_END]
+
+[RECORD_START]
+id: L-225
+date_found: 2026-06-05
+username: m1tisch
+platform: indiehackers
+url: https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8
+pain_quote: "11 signups, all people I already know. Permanently banned from r/personalfinance on my first day trying Reddit."
+product_built: Yesterday -- AI financial coach
+fit_reason: Two distribution walls hit at once: closed network (11 signups all known contacts) and Reddit permanently banned day one. $0 revenue. Actively searching for what to do next. LinkedIn identified as possible channel but no results yet. Strong first-person pain, named product, real numbers.
+opener_angle: The Reddit ban on day one + all-known-contacts problem. Ask what the plan is now that Reddit is off the table and the warm network is exhausted.
+status: new
+outreach_id: O-218
+[RECORD_END]
+
+[RECORD_START]
+id: L-226
+date_found: 2026-06-05
+username: JaejooLEE
+platform: indiehackers
+url: https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8
+pain_quote: "10+ people visit my site, look at the landing page, and leave. Distribution honestly feels harder than building sometimes."
+product_built: unknown -- helping small founders with customer development (exact product unclear)
+fit_reason: Traffic-to-conversion gap with specific numbers (10+ visits, zero conversions). First-person pain quote. However, "helping small founders with customer development" framing is ambiguous -- may be more advisor than solo builder. WATCH: check IH profile before upgrading to DM.
+opener_angle: The 10+ visitors leaving without converting -- ask what the product is and whether it's a messaging gap or wrong audience.
+status: watch
+outreach_id: null
+[RECORD_END]

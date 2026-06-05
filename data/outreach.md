@@ -3715,3 +3715,43 @@ date_sent: null
 result: null
 notes: F5Bot "shouting into the void" keyword hit 2026-06-04T12:30:15Z. Subject_Bullfrog703 r/micro_saas. Comment on "Getting users feels weird now" thread. Describes past first-person pain (grinding content, felt like shouting into void) and built a manual workaround (saved Reddit searches + spreadsheet). Tide would automate exactly this. Strong power-user/early-adopter research angle. 4 sentences. No em dashes verified. No pitch. No call ask.
 [RECORD_END]
+
+[RECORD_START]
+id: O-217
+date_created: 2026-06-05
+lead_id: L-224
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your post about botwork. launched to zero external users after weeks of positioning work is exactly the gap i keep researching.
+
+  what channels did you actually try beyond the positioning work? and where did it fall apart?
+
+  doing research on this for solo builders post-launch. your situation is a clean version of what i keep hearing.
+action: DM
+target_url: https://www.indiehackers.com/theuniverseson
+status: draft
+date_sent: null
+result: null
+notes: theuniverseson posted "Launched on Product Hunt to zero users" on June 3 2026. BotWork -- AI Agent Freelance Network. Zero external users post-launch. Did a positioning post-mortem and came out with a fix. First-person, honest, fresh. DM via IH. 3 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-218
+date_created: 2026-06-05
+lead_id: L-225
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on kelon's post. "yesterday" has 11 signups all people you already know, and reddit banned you on day one.
+
+  that's two distribution walls at once. what's the plan now that reddit is off the table?
+
+  doing research on the post-launch gap for solo builders. your situation is exactly what i'm trying to map out.
+action: DM
+target_url: https://www.indiehackers.com/m1tisch
+status: draft
+date_sent: null
+result: null
+notes: m1tisch commented on Kelon's "30 days ago $0 revenue" post (May 23 2026). Building "Yesterday" AI financial coach. 11 signups all known contacts, $0 revenue. Permanently banned from r/personalfinance on day one. LinkedIn identified as potential channel but no results yet. Two distribution walls in one comment -- strong first-person, named product, real numbers. DM via IH. 3 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
