@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-05T10:45:00Z
+last_checked: 2026-06-05T12:00:00Z
 next_lead_id: L-223
 next_outreach_id: O-217
-note: Run 176 (0 leads). Reddit egress blocked all 7 subs (persistent). F5Bot Gmail: full parse of all UNREAD since last run. Evaluated 20+ signals. All discarded or already in pipeline: use_lyra r/EntrepreneurRideAlong (local Riyadh biz, not ICP), SalamanderTypical538 r/gamedev (game dev, wrong ICP), Willing_North513 already L-212, tbrgraveyard already in pipeline, Equivalent-Brain-234 already L-207, Minimum_Boss9220 already L-220, Ashamed-Platypus8873 success story, Imthatguyimhimfr 50 signups (not no-user ICP), LiveUnderstanding535 post removed, ContFiv 10k users China already discarded run 159, all others advisors/off-topic. Pipeline: 222 total unchanged. PENDING REVIEW: L-199 thru L-222 -- all drafted, awaiting Rishit approval. ACTION NEEDED: tbrgraveyard thread reply + O-190 send still pending from prior runs.
+note: Run 177 (0 leads). Reddit egress blocked all 7 subs (persistent). F5Bot Gmail: no new signals since run 176 (10:45Z). Re-verified 3 remaining unread F5Bot threads -- all confirmed noise: use_lyra r/EntrepreneurRideAlong (local Riyadh physical biz, not ICP), goatting r/PsyMains (video game skin complaint), LittleZombie7537 r/DigitalMarketing (success story/advisor, already discarded run 159). Pipeline: 222 total unchanged. PENDING REVIEW: L-199 thru L-222 -- all drafted, awaiting Rishit approval. ACTION NEEDED: tbrgraveyard thread reply + O-190 send still pending from prior runs.
+last_checked_177: 2026-06-05T12:00:00Z
 last_checked_176: 2026-06-05T10:45:00Z
 last_checked_175: 2026-06-05T09:30:00Z
 last_checked_174: 2026-06-05T09:05:00Z
