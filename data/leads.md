@@ -3192,3 +3192,33 @@ opener_angle: The 10+ visitors leaving without converting -- ask what the produc
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-227
+date_found: 2026-06-05
+username: HighwayHungry8456
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1tw0cjd/im_tired_of_guests_never_reading_my_house_manual/
+pain_quote: "I just launched my Saas Welkome.app"
+product_built: Welkome.app -- digital guide platform for Airbnb/short-term rental hosts (modular guest guides, usage tracking, multilingual)
+fit_reason: Fresh launch post on r/buildinpublic. No distribution pain expressed yet, but literally just shipped. High probability of hitting the distribution wall in the coming days or weeks. Pattern: "I built something, just launched it" with no mention of traction or channel strategy. ICP candidate to revisit.
+opener_angle: Ask what channels they're planning to use to get their first hosts. Low-pressure research angle.
+status: watch
+outreach_id: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-03T19:48:21Z. r/buildinpublic. Post is a product announcement, no distribution pain yet. Revisit if they post again about traction or crickets. Do NOT DM now -- too early, no pain signal.
+[RECORD_END]
+
+[RECORD_START]
+id: L-228
+date_found: 2026-06-05
+username: Minimum_Boss9220
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tx994v/failed_so_many_times_i_lost_count/
+pain_quote: "Just had LinkedIn and a small email list. Users weren't enough to help me decide moving on."
+product_built: unknown SaaS (launched last year with waitlist, code issues, relaunched, <10% email conversion, $0 campaign budget)
+fit_reason: Real distribution failure story: hundreds of waitlist signups, relaunched, emailed list, <10% conversion. No budget for campaigns. Classic post-launch distribution wall. However: (1) uses "we" throughout so team, not solo. (2) pain is past-tense, they already moved on. (3) post tone is "raising awareness" not seeking help. Low urgency for outreach.
+opener_angle: The <10% email conversion after waitlist relaunch -- ask what the product was and whether the problem was messaging, audience, or timing.
+status: watch
+outreach_id: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-05T03:28:18Z. r/SaaS post. Pain is historical. "We" language suggests team. Post explicitly says "NOT LOOKING FOR ANY SYMPATHY." Upgrade to DM only if they post again with active distribution frustration. r/SaaS AutoModerator risk -- verify post is still live before engaging.
+[RECORD_END]

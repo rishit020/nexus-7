@@ -3755,3 +3755,23 @@ date_sent: null
 result: null
 notes: m1tisch commented on Kelon's "30 days ago $0 revenue" post (May 23 2026). Building "Yesterday" AI financial coach. 11 signups all known contacts, $0 revenue. Permanently banned from r/personalfinance on day one. LinkedIn identified as potential channel but no results yet. Two distribution walls in one comment -- strong first-person, named product, real numbers. DM via IH. 3 sentences. No em dashes verified. No pitch. No call ask.
 [RECORD_END]
+
+[RECORD_START]
+id: O-219
+date_created: 2026-06-05
+lead_id: null
+platform: reddit
+variant: comment
+draft_text: |
+  doing research on this exact problem for solo builders. one thing that keeps coming up: the landing-page-first approach solves launch day momentum but most founders still hit a wall a few weeks later when that initial wave dies.
+
+  curious what happened after those email signups actually converted. did the list end up mattering, or did the users who stuck around come from somewhere else entirely?
+
+  trying to map out what actually determines whether post-launch distribution works or just delays the crickets.
+action: COMMENT
+target_url: https://www.reddit.com/r/SaaS/comments/1tvkotj/
+status: draft
+date_sent: null
+result: null
+notes: r/SaaS "B2C micro SaaS founders who got your first users: would you build the MVP first or..." thread. Active discussion about pre-launch strategy and first users. Good thread to be visible in as a researcher. Comment angle: what happens AFTER the initial email list converts -- post-launch gap. 3 sentences. No em dashes verified. No pitch. CAUTION: r/SaaS has removed Rishit's posts before (patterns.md). This is a comment not a post, lower mod risk, but Rishit should check sub rules before dropping.
+[RECORD_END]
