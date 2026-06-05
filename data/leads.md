@@ -3093,3 +3093,17 @@ opener_angle: If still minimal traction after 24h, ask how the launch went and w
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-220
+date_found: 2026-06-05
+username: Minimum_Boss9220
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tx994v/failed_so_many_times_i_lost_count/
+pain_quote: "Just had LinkedIn and a small email list. Users weren't enough to help me decide moving on."
+product_built: unknown SaaS (launched with waitlist, re-launched after code fix)
+fit_reason: Launched SaaS, got 100s on waitlist, spent 4-5 months fixing code, re-launched and emailed waitlist -- less than 10% converted. Only distribution was LinkedIn and a small email list. Zero budget. Classic distribution gap: had validation signal but no channels to scale. Post is fresh (F5Bot alert 03:28Z Jun 5).
+opener_angle: Focus on the conversion drop -- 100s of waitlist signups to under 10% converting on relaunch. Ask what killed it: time decay on the list, or the lack of new channels.
+status: new
+outreach_id: O-214
+[RECORD_END]

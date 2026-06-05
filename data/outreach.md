@@ -3663,3 +3663,21 @@ date_sent: null
 result: null
 notes: IH commenter on Buildfield "2 weeks later" thread (April 30, 2026). Product: Phoebe predictive migraine engine. Pain: "zero paying anything... just trying to get people to look." Identified via IH background mining run 172 (Reddit/F5Bot both dry). Health app ICP -- slightly atypical but real post-launch distribution gap. 3 sentences. No em dashes verified. No pitch. No call ask.
 [RECORD_END]
+
+[RECORD_START]
+id: O-214
+date_created: 2026-06-05
+lead_id: L-220
+platform: reddit
+variant: dm
+draft_text: |
+  saw your r/saas post. going from 100s on a waitlist to under 10% converting on relaunch is brutal. do you think it was time decay on the list, or the lack of new channels to get fresh eyes after the code was ready?
+
+  doing research on the post-launch distribution problem for saas founders.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1tx994v/failed_so_many_times_i_lost_count/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-05T03:28:18Z. Minimum_Boss9220 r/SaaS. Post: "Failed So Many Times, I lost count." -- launched SaaS with waitlist (100s), spent 4-5mo fixing code, re-launched and emailed list, less than 10% converted. Only distribution: LinkedIn + small email list. Zero budget. Post title not explicit pain but body is first-person launch failure + distribution gap. Fresh post (same-day F5Bot alert). 4 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
