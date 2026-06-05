@@ -3643,3 +3643,23 @@ date_sent: null
 result: null
 notes: F5Bot "0 signups" keyword hit 2026-06-02T12:12:00Z. LiveUnderstanding535 r/SaaS. Post: "35 visitors, 74% bounce rate, 0 signups. The reality of my first two weeks." Post was removed by AutoModerator (body [removed]) but title survived -- strong first-person pain signal. 2 days old at time of logging (post-launch fresh wound). DM action: title gives enough context to craft genuine opening. No em dashes verified. 3 sentences. No pitch. No call ask.
 [RECORD_END]
+
+[RECORD_START]
+id: O-213
+date_created: 2026-06-05
+lead_id: L-217
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the buildfield thread about phoebe. "just trying to get people to look" is the exact thing i'm researching right now.
+
+  what channels have you actually tried for a health app and what was the response like, even if it was tiny?
+
+  doing research on the post-launch distribution problem for builders who can ship but can't get traction.
+action: DM
+target_url: https://www.indiehackers.com/PhoebeHealth
+status: draft
+date_sent: null
+result: null
+notes: IH commenter on Buildfield "2 weeks later" thread (April 30, 2026). Product: Phoebe predictive migraine engine. Pain: "zero paying anything... just trying to get people to look." Identified via IH background mining run 172 (Reddit/F5Bot both dry). Health app ICP -- slightly atypical but real post-launch distribution gap. 3 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]

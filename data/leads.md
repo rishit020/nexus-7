@@ -3051,3 +3051,45 @@ opener_angle: Reference the post title directly. Ask where those 35 visitors act
 status: new
 outreach_id: O-212
 [RECORD_END]
+
+[RECORD_START]
+id: L-217
+date_found: 2026-06-05
+username: PhoebeHealth
+platform: indiehackers
+url: https://www.indiehackers.com/post/2-weeks-later-still-no-paying-users-heres-what-i-ve-learned-0bc55f0cdb
+pain_quote: "zero paying anything... just trying to get people to look"
+product_built: Phoebe -- predictive migraine engine (health app)
+fit_reason: First-person post-launch pain, named product, explicit distribution gap. Not a typical SaaS/vibe coder but real ICP signal -- built something, can't get eyes on it. Commented in a thread full of exact Tide ICP builders, which means they self-selected into the conversation.
+opener_angle: Reference the Buildfield thread comment. Ask what channels they've tried for a health app specifically and what the response looked like even if small.
+status: new
+outreach_id: O-213
+[RECORD_END]
+
+[RECORD_START]
+id: L-218
+date_found: 2026-06-05
+username: javamantraact
+platform: hackernews
+url: https://news.ycombinator.com/shownew
+pain_quote: "Show HN: CentProof -- Local-first bank statement reconciliation for macOS" (1 pt, 0 comments, 38 min old at time of logging)
+product_built: CentProof -- local-first bank statement reconciliation tool for macOS
+fit_reason: Show HN launched to near-silence (1 point, 0 comments). Classic post-launch HN distribution gap. No explicit pain language yet -- too new to confirm. WATCH: check in next run for comment thread and engagement signal.
+opener_angle: If still stuck after 24h, reference the Show HN launch and ask how it went and where they're going next.
+status: watch
+outreach_id: null
+[RECORD_END]
+
+[RECORD_START]
+id: L-219
+date_found: 2026-06-05
+username: Clikdeo
+platform: hackernews
+url: https://news.ycombinator.com/shownew
+pain_quote: "Show HN: ClikDeo -- Browser-based video editor" (1 pt, 1 comment, 49 min old at time of logging)
+product_built: ClikDeo -- browser-based video editor (trim, merge, shorts creator)
+fit_reason: Show HN launched to near-silence (1 point, 1 comment). Crowded market (video editors). No explicit pain language yet. WATCH: needs 24h to assess real traction level and whether distribution pain is explicit.
+opener_angle: If still minimal traction after 24h, ask how the launch went and what distribution looks like beyond HN.
+status: watch
+outreach_id: null
+[RECORD_END]
