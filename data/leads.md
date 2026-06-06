@@ -3237,3 +3237,33 @@ status: watch
 outreach_id: null
 notes: F5Bot "distribution problem" keyword hit via ai_without_borders comment on thread 2026-06-05T14:32:18Z. OP username unknown -- F5Bot only captured the commenter. ACTION: Rishit must manually visit reddit.com/r/ClaudeAI/comments/1txkn86/ to find the OP username. Promote to DM once username confirmed. Do not DM ai_without_borders (commenter, not ICP).
 [RECORD_END]
+
+[RECORD_START]
+id: L-230
+date_found: 2026-06-06
+username: Quirky_Situation581
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tx994v/ -- NOTE: full URL needs verification, Reddit egress blocked. Post was in r/SaaS titled "My Learnings from a first time SaaS founder."
+pain_quote: "Launched my SaaS about 2 days ago."
+product_built: unknown (first SaaS, product details not available -- Reddit egress blocked)
+fit_reason: First-time SaaS founder, 2 days post-launch, actively documenting learnings and asking questions. In the exact window Tide targets -- the build-to-users gap is live right now. High urgency because the post is fresh.
+opener_angle: The 2-days-post-launch timing -- ask what distribution looks like right now, what they've tried first. Research framing is natural here.
+status: new
+outreach_id: O-220
+notes: F5Bot "launched my saas" keyword hit 2026-06-06T01:37:15Z. r/SaaS post titled "My Learnings from a first time SaaS founder." Appeared in run 183's parse window (01:37Z June 6, after run 182's 00:45Z cutoff) but NOT listed in run 183's evaluated signals -- confirmed missed. Reddit egress blocked so full post content unavailable. Rishit should verify exact URL and product before sending DM. DM via Reddit.
+[RECORD_END]
+
+[RECORD_START]
+id: L-231
+date_found: 2026-06-06
+username: unknown -- Rishit must check manually
+platform: reddit
+url: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1twll4g/
+pain_quote: "266k views, 11 tiles sold, 0 press responses"
+product_built: digital product (tiles -- likely design assets, icon sets, or similar. Not SaaS. Creator/maker profile.)
+fit_reason: Went viral (266k views) and couldn't convert. 11 units sold from 266k views is a brutal conversion gap. This is the exact views-to-users problem Tide addresses, in creator form rather than SaaS. Slightly weaker ICP than vibe-coder-with-SaaS but the distribution gap is identical. Worth a DM once username confirmed.
+opener_angle: The 266k views to 11 sales ratio -- ask whether the problem was click-through from video or people landing and not converting. Same diagnostic question as L-040 (DishCheck).
+status: watch
+outreach_id: null
+notes: F5Bot "shouting into the void" keyword hit via SpecialDance7619 comment on this post 2026-06-05T12:19:19Z. OP username unknown -- SpecialDance7619 is the commenter. ACTION: Rishit must manually visit reddit.com/r/EntrepreneurRideAlong/comments/1twll4g/ to find OP username. If product is digital asset (not SaaS/software), ICP is weaker but still valid for research conversation. Promote to DM once username confirmed and product type verified.
+[RECORD_END]

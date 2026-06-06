@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-06T06:00:00Z
-next_lead_id: L-230
-next_outreach_id: O-220
-note: Run 183 (0 leads). F5Bot Gmail parse since run 182 (00:45Z). Signals evaluated: Exotic_Pollution5870 r/SaaS already discarded in Run 182 (paying customers/activation problem, not crickets ICP). External-Mix-1037 r/Entrepreneur (advisor, no personal pain). Full-Perception641 r/airbnb_hosts (wrong ICP). camwest03 r/aitubers (YouTube distribution, not SaaS/launch). QuestBridge Reddit notification (irrelevant). 0 new qualified leads. Pipeline unchanged at 229. PENDING REVIEW: L-199 thru L-226 DM drafts awaiting Rishit approval. ACTION NEEDED: L-223 manual username check (r/buildinpublic/comments/1rgdmcu/), L-229 manual username check (r/ClaudeAI/comments/1txkn86/).
+last_checked: 2026-06-06T08:15:00Z
+next_lead_id: L-232
+next_outreach_id: O-221
+note: Run 184 (2 leads). Reddit egress blocked all subs. F5Bot Gmail full parse (all unread since run 183 / 06:00Z). 17 signals evaluated. 14 discarded (wrong context: r/AO3, r/boymeetsworld, r/Natalism, r/TrueUnpopularOpinion, r/Futurology, r/RandomThoughts, r/bangladesh, r/smallbusinessuk, r/MarketingGeek, r/EntrepreneurRideAlong use_lyra local biz Riyadh, r/Entrepreneurs PotentialDiligent823 market analyst, r/micro_saas imagiself pitching own product, r/EntrepreneurRideAlong SpecialDance7619 commenter/advisor, indiehackers [deleted] post). 2 already in pipeline (L-223 r/buildinpublic/1rgdmcu still needs manual username check, L-229 r/ClaudeAI/1txkn86 still needs manual username check). NEW: L-230 (DM) Quirky_Situation581 r/SaaS "launched my saas 2 days ago" -- missed by run 183 despite being in parse window. Draft O-220 ready. L-231 (WATCH) r/EntrepreneurRideAlong "266k views, 11 tiles sold, 0 press responses" -- OP username unknown, manual check needed at reddit.com/r/EntrepreneurRideAlong/comments/1twll4g/. Pipeline: 231 total. PENDING REVIEW: L-199 thru L-226 + L-230 DM drafts awaiting Rishit approval. ACTION NEEDED: L-223 manual username check (r/buildinpublic/1rgdmcu/), L-229 manual username check (r/ClaudeAI/1txkn86/), L-231 manual username check (r/EntrepreneurRideAlong/1twll4g/).
+last_checked_184: 2026-06-06T08:15:00Z
 last_checked_183: 2026-06-06T06:00:00Z
 last_checked_182: 2026-06-06T00:45:00Z
 last_checked_181: 2026-06-05T18:05:00Z

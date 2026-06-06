@@ -3775,3 +3775,21 @@ date_sent: null
 result: null
 notes: r/SaaS "B2C micro SaaS founders who got your first users: would you build the MVP first or..." thread. Active discussion about pre-launch strategy and first users. Good thread to be visible in as a researcher. Comment angle: what happens AFTER the initial email list converts -- post-launch gap. 3 sentences. No em dashes verified. No pitch. CAUTION: r/SaaS has removed Rishit's posts before (patterns.md). This is a comment not a post, lower mod risk, but Rishit should check sub rules before dropping.
 [RECORD_END]
+
+[RECORD_START]
+id: O-220
+date_created: 2026-06-06
+lead_id: L-230
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in r/saas about launching your first saas two days ago. curious what the distribution side looks like right now. what have you tried first to actually get people to it?
+
+  doing research on the window between shipping something and getting real users. your timing is about as fresh as it gets.
+action: DM
+target_url: https://www.reddit.com/user/Quirky_Situation581
+status: draft
+date_sent: null
+result: null
+notes: Quirky_Situation581 posted "My Learnings from a first time SaaS founder" in r/SaaS on 2026-06-06 around 01:37Z. F5Bot "launched my saas" keyword hit. First-time SaaS founder, 2 days post-launch. Full post content unavailable (Reddit egress blocked) -- Rishit should read the post before sending to verify ICP fit and personalize line 1 with product name. DM via Reddit. 2 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
