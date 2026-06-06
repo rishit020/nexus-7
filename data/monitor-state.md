@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-06T05:05:00Z
+last_checked: 2026-06-06T06:02:00Z
 next_lead_id: L-234
 next_outreach_id: O-222
-note: Run 187 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail parse: newest email is 01:37Z June 6 (Quirky_Situation581, already L-230). All UNREAD signals cross-checked: Minimum_Boss9220 already L-220+L-225 (watch, past-tense pain), Imthatguyimhimfr already L-213 (new, O-211 drafted). No new signals since run 186. External-Mix-1037/r/Entrepreneur (advisory "distribution problem" comment, DISCARD), camwest03/r/aitubers (content creator context, not SaaS ICP, DISCARD), erkose/r/RandomThoughts ("shouting into the void" social media rant, DISCARD). Pipeline: 233 total unchanged. PENDING REVIEW: All DM drafts O-004 thru O-221 await Rishit approval. ACTION NEEDED: L-223 manual username check (r/buildinpublic/1rgdmcu/), L-229 manual username check (r/ClaudeAI/1txkn86/), L-231 manual username check (r/EntrepreneurRideAlong/1twll4g/).
+note: Run 188 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail full parse since run 187 (05:05Z). Window 05:05Z-06:02Z: zero new F5Bot emails arrived. Full unread batch re-evaluated: use_lyra/r/EntrepreneurRideAlong (service business "clients" framing, not indie SaaS builder, wrong ICP, DISCARD), PotentialDiligent823/r/Entrepreneurs (commentary/analysis style, not personal pain, per patterns.md DISCARD). All high-signal emails from this window already logged in runs 183-185: Quirky_Situation581=L-230/O-220, Exotic_Pollution5870=L-232/O-221, Riveras_4u=L-233(watch), L-231(watch, username unknown). Pipeline: 233 total unchanged. PENDING REVIEW: All DM drafts O-004 thru O-221 await Rishit approval. ACTION NEEDED: L-223 manual username check (r/buildinpublic/1rgdmcu/), L-229 manual username check (r/ClaudeAI/1txkn86/), L-231 manual username check (r/EntrepreneurRideAlong/1twll4g/).
+last_checked_188: 2026-06-06T06:02:00Z
 last_checked_187: 2026-06-06T05:05:00Z
 last_checked_186: 2026-06-06T12:30:00Z
 last_checked_185: 2026-06-06T10:30:00Z
