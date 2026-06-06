@@ -3297,3 +3297,18 @@ status: watch
 outreach_id: null
 notes: F5Bot "launched my saas" keyword hit 2026-06-05T21:40:21Z. r/SaaS. Has $1.3K MRR but burning $5K net on ads. Different from zero-user ICP. Do NOT DM now -- they are in paid ads mode and have partial traction. Monitor for follow-up post about organic channels or ads not working. Run 185.
 [RECORD_END]
+
+[RECORD_START]
+id: L-234
+date_found: 2026-06-06
+username: shailzy
+platform: reddit
+url: https://www.reddit.com/r/indiehackers/ (full URL unavailable -- Reddit egress blocked; post found via F5Bot)
+pain_quote: "spent 2 months building a consumer app and still have almost no users outside my [network]"
+product_built: consumer app (specifics unknown -- full post content unavailable)
+fit_reason: 2 months post-build, almost no users outside their immediate circle. First-person post in r/indiehackers with "distribution problem" keyword match. Classic post-launch distribution gap in the exact Tide ICP window.
+opener_angle: The 2-month window with near-zero outside users -- ask what distribution actually looked like and which channels they tried.
+status: new
+outreach_id: O-222
+notes: F5Bot "distribution problem" keyword hit 2026-06-06T06:12:16Z. r/indiehackers post (Reddit egress blocked, full content unavailable). Rishit should read the full post before sending to verify ICP fit and personalize with product name. DM via Reddit. Run 189.
+[RECORD_END]

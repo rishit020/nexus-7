@@ -3813,3 +3813,21 @@ date_sent: null
 result: null
 notes: Exotic_Pollution5870 posted "Distribution Problem or Wrong Category?" in r/SaaS on 2026-06-05 ~18:00Z. Bootstrapped founder with paying customers but activation <30% and stalled growth. Explicitly named distribution vs wrong category as the question. F5Bot "distribution problem" keyword hit on post title. Run 185. 3 sentences. No em dashes verified. No pitch. No call ask. Rishit should verify post still live (r/SaaS AutoModerator risk) and read full post before sending. Also posted in r/SaasDevelopers as backup DM target if r/SaaS post is removed.
 [RECORD_END]
+
+[RECORD_START]
+id: O-222
+date_created: 2026-06-06
+lead_id: L-234
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post on r/indiehackers about 2 months building a consumer app with almost no users outside your circle. what has distribution actually looked like over those 2 months? like which channels did you try and what was the response like?
+
+  doing research on exactly this gap between building something and getting people who aren't your friends to use it.
+action: DM
+target_url: https://www.reddit.com/user/shailzy
+status: draft
+date_sent: null
+result: null
+notes: shailzy posted "I spent 2 months building a consumer app and still have almost no users outside my..." on r/indiehackers. F5Bot "distribution problem" keyword hit 2026-06-06T06:12:16Z. Full post content unavailable (Reddit egress blocked) -- Rishit should read full post before sending to verify ICP fit and personalize line 1 with product name. DM via Reddit. No em dashes verified. No pitch. No call ask. Run 189.
+[RECORD_END]

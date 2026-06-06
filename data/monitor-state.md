@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-06T06:02:00Z
-next_lead_id: L-234
-next_outreach_id: O-222
-note: Run 188 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail full parse since run 187 (05:05Z). Window 05:05Z-06:02Z: zero new F5Bot emails arrived. Full unread batch re-evaluated: use_lyra/r/EntrepreneurRideAlong (service business "clients" framing, not indie SaaS builder, wrong ICP, DISCARD), PotentialDiligent823/r/Entrepreneurs (commentary/analysis style, not personal pain, per patterns.md DISCARD). All high-signal emails from this window already logged in runs 183-185: Quirky_Situation581=L-230/O-220, Exotic_Pollution5870=L-232/O-221, Riveras_4u=L-233(watch), L-231(watch, username unknown). Pipeline: 233 total unchanged. PENDING REVIEW: All DM drafts O-004 thru O-221 await Rishit approval. ACTION NEEDED: L-223 manual username check (r/buildinpublic/1rgdmcu/), L-229 manual username check (r/ClaudeAI/1txkn86/), L-231 manual username check (r/EntrepreneurRideAlong/1twll4g/).
+last_checked: 2026-06-06T08:00:00Z
+next_lead_id: L-235
+next_outreach_id: O-223
+note: Run 189 (1 lead). Reddit egress blocked all 7 subs. F5Bot Gmail full parse since run 188 (06:02Z). New signals evaluated: shailzy/r/indiehackers "I spent 2 months building a consumer app and still have almost no users outside my..." -- KEEP, DM lead L-234/O-222. r/CreatorEconomy "Launched my SaaS: YouTube monetization Engine" -- WATCH, username unknown, Rishit to check manually (Gmail thread 404, egress blocked). Discarded: AllThatSaaSS (advisor comment), SpecialDance7619 (advisor comment), billyisred (UK small biz wrong ICP), ai_without_borders (commentary), all entertainment/politics/gaming "shouting into void" hits. Pipeline: 234 total. PENDING REVIEW: All DM drafts O-004 thru O-222 await Rishit approval. ACTION NEEDED: L-223 manual username check (r/buildinpublic/1rgdmcu/), L-229 manual username check (r/ClaudeAI/1txkn86/), L-231 manual username check (r/EntrepreneurRideAlong/1twll4g/), r/CreatorEconomy "YouTube monetization Engine" post username unknown (manual check).
+last_checked_189: 2026-06-06T08:00:00Z
 last_checked_188: 2026-06-06T06:02:00Z
 last_checked_187: 2026-06-06T05:05:00Z
 last_checked_186: 2026-06-06T12:30:00Z
