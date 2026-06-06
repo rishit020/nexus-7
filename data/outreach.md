@@ -3831,3 +3831,19 @@ date_sent: null
 result: null
 notes: shailzy posted "I spent 2 months building a consumer app and still have almost no users outside my..." on r/indiehackers. F5Bot "distribution problem" keyword hit 2026-06-06T06:12:16Z. Full post content unavailable (Reddit egress blocked) -- Rishit should read full post before sending to verify ICP fit and personalize line 1 with product name. DM via Reddit. No em dashes verified. No pitch. No call ask. Run 189.
 [RECORD_END]
+
+[RECORD_START]
+id: O-223
+date_created: 2026-06-06
+lead_id: L-236
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your post about your saas being a month in with no users or revenue. what have you actually tried to get people to discover it? doing research on this exact window between shipping something and getting real users. what did you build?
+action: DM
+target_url: https://www.reddit.com/user/arjanirh624
+status: draft
+date_sent: null
+result: null
+notes: arjanirh624 posted "My Saas Is Month Old With No Return!" in r/SaaS. F5Bot "distribution problem" keyword hit 2026-06-06T20:51:20Z via comment on their post. Post confirmed: month-old SaaS, 0 users, 0 revenue. Commenter diagnosed distribution problem. First-person, correct subreddit, clear ICP fit. Run 192. 4 sentences. No em dashes verified. No pitch. No call ask. Rishit should verify post still live and read full post before sending to personalize with product name.
+[RECORD_END]
