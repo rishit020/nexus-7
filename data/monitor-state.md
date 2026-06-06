@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-06T10:00:00Z
+last_checked: 2026-06-06T09:05:00Z
 next_lead_id: L-236
 next_outreach_id: O-223
-note: Run 190 (1 WATCH). Reddit egress blocked all 7 subs. F5Bot Gmail full parse since run 189 (08:00Z). Signals evaluated: Quirky_Situation581/r/SaaS "My Learnings from a first time SaaS founder" 2 days post-launch -- WATCH L-235 (full post text unavailable, manual check needed at r/SaaS/1ty3ouy/). KingfinityCreator/r/CreatorEconomy YouTube monetization SaaS -- DISCARD (creator economy, wrong ICP, closes out the manual check from run 189). All other signals discarded: Exotic_Pollution5870 (L-232, already logged run 185), Riveras_4u (L-233, already logged run 185), shailzy (L-234, already logged run 189), External-Mix-1037/use_lyra/PotentialDiligent823/imagiself/ai_without_borders (advisors/analysts/off-ICP), Full-Perception641 (airbnb), camwest03 (YouTube algo), billyisred (UK small biz), SpecialDance7619 (advisor, already noted), all entertainment/politics hits. Pipeline: 235 total. PENDING REVIEW: All DM drafts O-004 thru O-222 await Rishit approval. ACTION NEEDED: L-235 manual check (r/SaaS/1ty3ouy/ -- first-time SaaS founder 2 days post-launch, confirm distribution pain before DM), L-223 (r/buildinpublic/1rgdmcu/), L-229 (r/ClaudeAI/1txkn86/), L-231 (r/EntrepreneurRideAlong/1twll4g/) username checks still pending.
+note: Run 191 (0 leads). Reddit egress blocked all 7 subs. F5Bot Gmail full parse since run 190. All signals already processed or discarded: KingfinityCreator/r/micro_saas "Launched my SaaS this week: a YouTube monetization tracker" -- DISCARD (same person as KingfinityCreator/r/CreatorEconomy from run 190, cross-posted, creator economy ICP). All others: Riveras_4u L-233 already logged, Quirky_Situation581 L-235 already logged, SpecialDance7619 advisor (L-231 already for OP), billyisred UK small biz, Panda-Community-885/boymeetsworld/crymachine/LiftSleepRepeat123/GunsGoldCosmicDread all off-topic, ai_without_borders L-229 already logged for OP, TaylorFromFaire advisor. Pipeline: 235 total unchanged. PENDING REVIEW: All DM drafts O-004 thru O-222 await Rishit approval. ACTION NEEDED: L-235 manual check (r/SaaS/1ty3ouy/ -- first-time SaaS founder 2 days post-launch, confirm distribution pain before DM), L-223 (r/buildinpublic/1rgdmcu/), L-229 (r/ClaudeAI/1txkn86/), L-231 (r/EntrepreneurRideAlong/1twll4g/) username checks still pending.
+last_checked_191: 2026-06-06T09:05:00Z
 last_checked_190: 2026-06-06T10:00:00Z
 last_checked_189: 2026-06-06T08:00:00Z
 last_checked_188: 2026-06-06T06:02:00Z
