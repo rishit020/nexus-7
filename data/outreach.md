@@ -3793,3 +3793,23 @@ date_sent: null
 result: null
 notes: Quirky_Situation581 posted "My Learnings from a first time SaaS founder" in r/SaaS on 2026-06-06 around 01:37Z. F5Bot "launched my saas" keyword hit. First-time SaaS founder, 2 days post-launch. Full post content unavailable (Reddit egress blocked) -- Rishit should read the post before sending to verify ICP fit and personalize line 1 with product name. DM via Reddit. 2 sentences. No em dashes verified. No pitch. No call ask.
 [RECORD_END]
+
+[RECORD_START]
+id: O-221
+date_created: 2026-06-06
+lead_id: L-232
+platform: reddit
+variant: dm
+draft_text: |
+  your post in r/saas about the distribution problem vs. wrong category question is one of the more honest framings of that dilemma i've read. "building is comfortable, distribution is not" is exactly what keeps coming up.
+
+  what does distribution actually look like as a blocker for you right now? is it finding new customers, or converting the ones who find you?
+
+  doing research on the post-launch distribution problem for bootstrapped founders. your situation is one of the more nuanced versions of it.
+action: DM
+target_url: https://www.reddit.com/user/Exotic_Pollution5870
+status: draft
+date_sent: null
+result: null
+notes: Exotic_Pollution5870 posted "Distribution Problem or Wrong Category?" in r/SaaS on 2026-06-05 ~18:00Z. Bootstrapped founder with paying customers but activation <30% and stalled growth. Explicitly named distribution vs wrong category as the question. F5Bot "distribution problem" keyword hit on post title. Run 185. 3 sentences. No em dashes verified. No pitch. No call ask. Rishit should verify post still live (r/SaaS AutoModerator risk) and read full post before sending. Also posted in r/SaasDevelopers as backup DM target if r/SaaS post is removed.
+[RECORD_END]

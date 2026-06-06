@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-06T08:15:00Z
-next_lead_id: L-232
-next_outreach_id: O-221
-note: Run 184 (2 leads). Reddit egress blocked all subs. F5Bot Gmail full parse (all unread since run 183 / 06:00Z). 17 signals evaluated. 14 discarded (wrong context: r/AO3, r/boymeetsworld, r/Natalism, r/TrueUnpopularOpinion, r/Futurology, r/RandomThoughts, r/bangladesh, r/smallbusinessuk, r/MarketingGeek, r/EntrepreneurRideAlong use_lyra local biz Riyadh, r/Entrepreneurs PotentialDiligent823 market analyst, r/micro_saas imagiself pitching own product, r/EntrepreneurRideAlong SpecialDance7619 commenter/advisor, indiehackers [deleted] post). 2 already in pipeline (L-223 r/buildinpublic/1rgdmcu still needs manual username check, L-229 r/ClaudeAI/1txkn86 still needs manual username check). NEW: L-230 (DM) Quirky_Situation581 r/SaaS "launched my saas 2 days ago" -- missed by run 183 despite being in parse window. Draft O-220 ready. L-231 (WATCH) r/EntrepreneurRideAlong "266k views, 11 tiles sold, 0 press responses" -- OP username unknown, manual check needed at reddit.com/r/EntrepreneurRideAlong/comments/1twll4g/. Pipeline: 231 total. PENDING REVIEW: L-199 thru L-226 + L-230 DM drafts awaiting Rishit approval. ACTION NEEDED: L-223 manual username check (r/buildinpublic/1rgdmcu/), L-229 manual username check (r/ClaudeAI/1txkn86/), L-231 manual username check (r/EntrepreneurRideAlong/1twll4g/).
+last_checked: 2026-06-06T10:30:00Z
+next_lead_id: L-234
+next_outreach_id: O-222
+note: Run 185 (1 DM lead, 1 WATCH). Reddit egress blocked all subs. F5Bot Gmail parse (all unread since run 184 / 08:15Z). 15 signals evaluated. 11 discarded (r/airbnb_hosts Full-Perception641, r/aitubers camwest03, r/Entrepreneur External-Mix-1037, r/WhatToDo Less-Bite, r/AskMarketing Crescitaly, r/terf_trans_truce irrelevant, use_lyra already discarded, PotentialDiligent823 already discarded, imagiself already discarded, Imthatguyimhimfr already in pipeline, r/buildinpublic 0-signups already L-223). 3 already in pipeline (L-223, L-228 Minimum_Boss9220, L-230 Quirky_Situation581). NEW: L-232 (DM) Exotic_Pollution5870 r/SaaS "Distribution Problem or Wrong Category?" O-221 draft ready. L-233 (WATCH) Riveras_4u r/SaaS $1.3K MRR $6K ads spend. Pipeline: 233 total. PENDING REVIEW: All DM drafts O-004 thru O-221 await Rishit approval. ACTION NEEDED: L-223 manual username check (r/buildinpublic/1rgdmcu/), L-229 manual username check (r/ClaudeAI/1txkn86/), L-231 manual username check (r/EntrepreneurRideAlong/1twll4g/).
+last_checked_185: 2026-06-06T10:30:00Z
 last_checked_184: 2026-06-06T08:15:00Z
 last_checked_183: 2026-06-06T06:00:00Z
 last_checked_182: 2026-06-06T00:45:00Z

@@ -3267,3 +3267,33 @@ status: watch
 outreach_id: null
 notes: F5Bot "shouting into the void" keyword hit via SpecialDance7619 comment on this post 2026-06-05T12:19:19Z. OP username unknown -- SpecialDance7619 is the commenter. ACTION: Rishit must manually visit reddit.com/r/EntrepreneurRideAlong/comments/1twll4g/ to find OP username. If product is digital asset (not SaaS/software), ICP is weaker but still valid for research conversation. Promote to DM once username confirmed and product type verified.
 [RECORD_END]
+
+[RECORD_START]
+id: L-232
+date_found: 2026-06-06
+username: Exotic_Pollution5870
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1txsa18/distribution_problem_or_wrong_category/
+pain_quote: "Building is comfortable. Distribution is not."
+product_built: bootstrapped SaaS (has paying customers, activation <30%, growth stalled)
+fit_reason: Technical founder who explicitly named distribution as the blocker. Has revenue but activation is broken and growth has stalled. Asked the exact question Tide answers: distribution problem or wrong category. Research conversation.
+opener_angle: The distribution vs. wrong category framing -- ask what distribution actually looks like as a blocker right now: finding new customers or converting the ones who find them.
+status: new
+outreach_id: O-221
+notes: F5Bot "distribution problem" keyword hit 2026-06-05T18:00:17Z. r/SaaS post title exact keyword match. Also posted in r/SaasDevelopers. Bootstrapped, technical founder, has paying customers but activation <30% and growth stalled. Not zero-user ICP but in explicit distribution pain window. Run 185. DM via Reddit. r/SaaS AutoModerator risk -- verify post still live before engaging.
+[RECORD_END]
+
+[RECORD_START]
+id: L-233
+date_found: 2026-06-06
+username: Riveras_4u
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1txy7jl/100_honest_breakdown_of_my_saas_journey_13k_mrr/
+pain_quote: "ROAS is 0.5 (lol) So far no churn, but too early to tell"
+product_built: unknown SaaS (launched April 22 2026, 2 weeks old, spending $600+/day on Meta + Google ads)
+fit_reason: 2 weeks post-launch, $1.3K MRR but net -$5K on ads. Has users via paid but ROAS 0.5 means the paid channel will break eventually. Will need organic distribution. Watch for organic pivot post.
+opener_angle: The paid-to-organic pivot moment -- when ads stop making financial sense they will want alternative channels.
+status: watch
+outreach_id: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-05T21:40:21Z. r/SaaS. Has $1.3K MRR but burning $5K net on ads. Different from zero-user ICP. Do NOT DM now -- they are in paid ads mode and have partial traction. Monitor for follow-up post about organic channels or ads not working. Run 185.
+[RECORD_END]
