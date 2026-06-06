@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-06T08:00:00Z
-next_lead_id: L-235
+last_checked: 2026-06-06T10:00:00Z
+next_lead_id: L-236
 next_outreach_id: O-223
-note: Run 189 (1 lead). Reddit egress blocked all 7 subs. F5Bot Gmail full parse since run 188 (06:02Z). New signals evaluated: shailzy/r/indiehackers "I spent 2 months building a consumer app and still have almost no users outside my..." -- KEEP, DM lead L-234/O-222. r/CreatorEconomy "Launched my SaaS: YouTube monetization Engine" -- WATCH, username unknown, Rishit to check manually (Gmail thread 404, egress blocked). Discarded: AllThatSaaSS (advisor comment), SpecialDance7619 (advisor comment), billyisred (UK small biz wrong ICP), ai_without_borders (commentary), all entertainment/politics/gaming "shouting into void" hits. Pipeline: 234 total. PENDING REVIEW: All DM drafts O-004 thru O-222 await Rishit approval. ACTION NEEDED: L-223 manual username check (r/buildinpublic/1rgdmcu/), L-229 manual username check (r/ClaudeAI/1txkn86/), L-231 manual username check (r/EntrepreneurRideAlong/1twll4g/), r/CreatorEconomy "YouTube monetization Engine" post username unknown (manual check).
+note: Run 190 (1 WATCH). Reddit egress blocked all 7 subs. F5Bot Gmail full parse since run 189 (08:00Z). Signals evaluated: Quirky_Situation581/r/SaaS "My Learnings from a first time SaaS founder" 2 days post-launch -- WATCH L-235 (full post text unavailable, manual check needed at r/SaaS/1ty3ouy/). KingfinityCreator/r/CreatorEconomy YouTube monetization SaaS -- DISCARD (creator economy, wrong ICP, closes out the manual check from run 189). All other signals discarded: Exotic_Pollution5870 (L-232, already logged run 185), Riveras_4u (L-233, already logged run 185), shailzy (L-234, already logged run 189), External-Mix-1037/use_lyra/PotentialDiligent823/imagiself/ai_without_borders (advisors/analysts/off-ICP), Full-Perception641 (airbnb), camwest03 (YouTube algo), billyisred (UK small biz), SpecialDance7619 (advisor, already noted), all entertainment/politics hits. Pipeline: 235 total. PENDING REVIEW: All DM drafts O-004 thru O-222 await Rishit approval. ACTION NEEDED: L-235 manual check (r/SaaS/1ty3ouy/ -- first-time SaaS founder 2 days post-launch, confirm distribution pain before DM), L-223 (r/buildinpublic/1rgdmcu/), L-229 (r/ClaudeAI/1txkn86/), L-231 (r/EntrepreneurRideAlong/1twll4g/) username checks still pending.
+last_checked_190: 2026-06-06T10:00:00Z
 last_checked_189: 2026-06-06T08:00:00Z
 last_checked_188: 2026-06-06T06:02:00Z
 last_checked_187: 2026-06-06T05:05:00Z
