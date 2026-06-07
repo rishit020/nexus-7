@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-07T12:00:00Z
+last_checked: 2026-06-07T14:00:00Z
 next_lead_id: L-240
 next_outreach_id: O-225
-note: Run 202 (0 leads). Reddit egress blocked all subs. F5Bot Gmail full parse post-run-201 (Jun 7). No new F5Bot emails after 06:24 UTC -- all signals already processed. Full email content verified for: basavaraja_dev/r/AppBusiness (advisor commenter confirmed), RyBread7/r/SideProject Farro (consumer food app confirmed), SpecialDance7619/r/EntrepreneurRideAlong (commenter not OP). Pipeline: 239 total unchanged. PENDING: L-235 (Quirky_Situation581 r/SaaS/1ty3ouy/), L-237 (Exotic_Pollution5870 r/SaaS/1txsa18/), L-223 (r/buildinpublic/1rgdmcu/), r/SaaS/1tyhetq/ ("My Saas Is Month Old With No Return!"), L-229 (r/ClaudeAI/1txkn86/ -- built 4 iOS apps with Claude zero users), L-231 (r/EntrepreneurRideAlong/1twll4g/), L-238 (jj_wondering101 r/SaaS/1tyavn3/ confirm DM), L-239 (KingfinityCreator), r/micro_saas/1ty0j6r/ "first 10 SaaS customers". All pending Reddit unblock.
+note: Run 203 (0 leads). Reddit egress blocked all subs (curl + WebFetch both fail). HN Show HN scanned -- no distribution pain signals in titles or bodies (Persist/persist.chat = B2B sales tool wrong ICP, others purely technical). IndiehHackers only loads nav via WebFetch. F5Bot Gmail: no new emails after 06:24 UTC, all prior signals confirmed processed. Pipeline: 239 total unchanged. PENDING (all require Reddit unblock): L-235, L-237, L-223, L-238, L-239 and r/SaaS/1tyhetq/, r/ClaudeAI/1txkn86/, r/EntrepreneurRideAlong/1twll4g/, r/micro_saas/1ty0j6r/.
+last_checked_202: 2026-06-07T12:00:00Z
 last_checked_201: 2026-06-07T10:15:00Z
 last_checked_199: 2026-06-07T09:45:00Z
 next_outreach_id: O-224
