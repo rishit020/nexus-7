@@ -3847,3 +3847,19 @@ date_sent: null
 result: null
 notes: arjanirh624 posted "My Saas Is Month Old With No Return!" in r/SaaS. F5Bot "distribution problem" keyword hit 2026-06-06T20:51:20Z via comment on their post. Post confirmed: month-old SaaS, 0 users, 0 revenue. Commenter diagnosed distribution problem. First-person, correct subreddit, clear ICP fit. Run 192. 4 sentences. No em dashes verified. No pitch. No call ask. Rishit should verify post still live and read full post before sending to personalize with product name.
 [RECORD_END]
+
+[RECORD_START]
+id: O-224
+date_created: 2026-06-07
+lead_id: L-238
+platform: reddit
+variant: dm
+draft_text: |
+  saw you just launched your saas and are looking for advice. curious what feels hardest right now. is it getting people to actually find it, or something else?
+
+  doing research on the post-launch distribution problem for solo devs and would love to hear what you're running into early on.
+status: draft
+date_sent: null
+result: null
+notes: jj_wondering101 commented on r/SaaS post "I burnt all my investor money and my saas failed" saying "I just launched my saas app, any more advice you may have?" Fresh post-launch advice-seeking energy. 4 sentences. No em dashes verified. No pitch. No call ask. Rishit should verify comment is still live before sending. Run 198.
+[RECORD_END]
