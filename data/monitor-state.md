@@ -1,10 +1,11 @@
 # MONITOR STATE
 # Updated automatically each monitor run. Do not edit manually.
 
-last_checked: 2026-06-07T02:30:00Z
+last_checked: 2026-06-07T04:30:00Z
 next_lead_id: L-238
 next_outreach_id: O-224
-note: Run 195 (0 DM leads, 1 WATCH). Reddit egress blocked all subs. F5Bot Gmail full parse. New signals evaluated: Exotic_Pollution5870/r/SaaS (WATCH L-237, "Building is comfortable. Distribution is not." -- has paying customers, slightly advanced ICP), Riveras_4u/r/SaaS ($1.3K MRR $6K ad spend ROAS 0.5 -- has revenue, wrong phase, DISCARD), Background_Wrap_5834 x2 (building mantlehq.app distribution competitor, DISCARD). All others already processed or wrong ICP. Pipeline: 237 total. PENDING REVIEW: All DM drafts O-004 thru O-223 await Rishit approval. ACTION NEEDED: L-235 (Quirky_Situation581 r/SaaS/1ty3ouy/ manual check needed), L-237 (Exotic_Pollution5870 r/SaaS/1txsa18/ manual check when Reddit unblocked), L-223 (r/buildinpublic/1rgdmcu/), L-229 (r/ClaudeAI/1txkn86/), L-231 (r/EntrepreneurRideAlong/1twll4g/) username checks pending Reddit blocked.
+note: Run 196 (0 leads). Reddit egress blocked all subs. F5Bot Gmail full parse since 02:30Z. All signals DISCARD or already logged: RyBread7/r/SideProject (food app landing page conversion, wrong ICP), Cool_Afternoon3265/r/BeybladeX (toy distribution, wrong context), Striking-Ant-8693/r/IndiaStartups (has paying client, wrong phase), BeybladeX/r/Journalism/r/IFParents (noise), ProfessorErica crypto key distribution (wrong context), AskMarketing commentary, WalkaboutMiniGolf/007FirstLight/Entrepreneur (noise). KingfinityCreator (YouTube monetization SaaS, r/CreatorEconomy, wrong ICP). All prior unread F5Bot emails from Jun 5-6 already processed in runs 189-195 (shailzy=L-234, Quirky_Situation581=L-235, arjanirh624=L-236, Exotic_Pollution5870=L-237). Pipeline: 237 total unchanged. PENDING REVIEW: All DM drafts O-004 thru O-223 await Rishit approval. ACTION NEEDED: L-235 (Quirky_Situation581 r/SaaS/1ty3ouy/ manual check needed), L-237 (Exotic_Pollution5870 r/SaaS/1txsa18/ manual check when Reddit unblocked), L-223 (r/buildinpublic/1rgdmcu/), L-229 (r/ClaudeAI/1txkn86/), L-231 (r/EntrepreneurRideAlong/1twll4g/) username checks pending Reddit blocked.
+last_checked_196: 2026-06-07T04:30:00Z
 last_checked_195: 2026-06-07T02:30:00Z
 last_checked_194: 2026-06-07T00:45:00Z
 last_checked_193: 2026-06-06T23:20:00Z
