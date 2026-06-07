@@ -3387,3 +3387,18 @@ status: watch
 outreach_id: null
 notes: F5Bot "launched my saas" keyword hit in post titles: r/CreatorEconomy 2026-06-06T06:49:13Z and r/micro_saas 2026-06-06T08:16:15Z. Cross-posting the same launch post across subs. "I've been lurking and posting here for a while" in snippet -- no explicit pain statement. Reddit egress blocked, cannot read full post. Manual check at https://www.reddit.com/r/micro_saas/comments/1tybcar/ when Reddit unblocks. Run 198.
 [RECORD_END]
+
+[RECORD_START]
+id: L-240
+date_found: 2026-06-07
+username: [unknown - Reddit egress blocked]
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tz8ppb/
+pain_quote: "7 Users. $5.02 Burned. Almost No Revenue."
+product_built: AI Document Scanning SaaS
+fit_reason: Built an AI SaaS, launched, ended up with 7 users and almost no revenue. Classic post-launch distribution wall. Strong ICP fit -- vibe-coder-adjacent builder who shipped something real and got stuck.
+opener_angle: WATCH -- if upgraded, ask what they tried after launch to get those 7 users and which channels they focused on.
+status: watch
+outreach_id: null
+notes: F5Bot "distribution problem" keyword hit 2026-06-07T10:51:16Z via comment by SwiggityDiggity8 on r/SaaS post. OP is the ICP target. Reddit egress blocked -- cannot fetch OP username or full post content. Manual check at https://www.reddit.com/r/SaaS/comments/1tz8ppb/ when Reddit unblocks to get username and verify post is live. Run 205.
+[RECORD_END]
