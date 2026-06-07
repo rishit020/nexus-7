@@ -3342,3 +3342,18 @@ status: watch
 outreach_id: null
 notes: F5Bot "launched my saas" keyword hit 2026-06-06T01:37:15Z. r/SaaS. Full post text unavailable (Reddit egress blocked). Snippet truncated at "Do you have..." -- likely asking for distribution advice. Manual check needed at https://www.reddit.com/r/SaaS/comments/1ty3ouy/ before deciding DM vs. discard. Run 190.
 [RECORD_END]
+
+[RECORD_START]
+id: L-237
+date_found: 2026-06-07
+username: Exotic_Pollution5870
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1txsa18/distribution_problem_or_wrong_category/
+pain_quote: "Building is comfortable. Distribution is not."
+product_built: unknown bootstrapped SaaS with paying customers but low activation (<30% of paid signups complete onboarding)
+fit_reason: Bootstrapped founder who explicitly named the distribution problem vs. category question. Has revenue but stuck on growth -- slightly more advanced than core Tide ICP (zero-user Jackson) but the pain is real and the language is exact. Research conversation on what breaks at the growth stage vs. launch stage would be valuable.
+opener_angle: WATCH -- if upgraded, ask whether the 30% onboarding completion is a product UX problem or a distribution/ICP mismatch. That distinction is what Tide's targeting data would solve.
+status: watch
+outreach_id: null
+notes: F5Bot "distribution problem" keyword hit in post title 2026-06-05T18:00:17Z. r/SaaS and r/SaasDevelopers cross-post. Not listed in any prior run's processed list. Has paying customers so slightly outside core ICP, but the distribution framing is exact. Reddit egress blocked -- cannot fetch full post or comments. Manual check at https://www.reddit.com/r/SaaS/comments/1txsa18/ when Reddit unblocks. Run 195.
+[RECORD_END]
