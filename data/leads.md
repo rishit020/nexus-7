@@ -3446,3 +3446,33 @@ status: new
 outreach_id: O-227
 notes: F5Bot "launched my saas" keyword hit 2026-06-08T11:20:16Z, r/SaaS. Post ~6 hours old at time of logging. Run 220.
 [RECORD_END]
+
+[RECORD_START]
+id: L-244
+date_found: 2026-06-08
+username: jay_cobski
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u0kvj8/customer_2_felt_like_the_first_real_moment_of/
+pain_quote: "from February to mid-May was mostly crickets: a few demos, a lot of 'no thanks' after the demo, and a pile of cold emails and LinkedIn DMs that just never got replies"
+product_built: SaaS (launched late December 2025, got first customer January, then months of crickets before customer #2)
+fit_reason: clear first-person distribution pain across 5 months between customers. explicitly names cold email and LinkedIn DMs going nowhere. r/SaaS post. someone who eventually broke through -- high value research conversation about what actually worked.
+opener_angle: what finally moved the needle for customer #2 -- research angle on what works, not just what fails
+status: new
+outreach_id: O-228
+notes: F5Bot "launched my saas" keyword hit 2026-06-08T21:14:22Z, r/SaaS. Second message in thread 19ea6f640ec21561 (first message was Dapper-Turn-3021, processed Run 220). Run 223.
+[RECORD_END]
+
+[RECORD_START]
+id: L-245
+date_found: 2026-06-08
+username: settern-io
+platform: reddit
+url: https://www.reddit.com/r/vibecoding/comments/1u0hdzc/c/oqj1w8r
+pain_quote: "Built an interactive world map. Launched it. 0 signups. Might be the most ignored map ever."
+product_built: settern.io -- interactive world map (consumer web app)
+fit_reason: launched something, got 0 signups, in r/vibecoding (HIGH orbit fit). weaker ICP than SaaS founders since product is a free consumer app, but the distribution pain is real and the subreddit is exact target.
+opener_angle: what they actually tried to distribute it post-launch, any channel with even weak signal
+status: new
+outreach_id: O-229
+notes: F5Bot "0 signups" keyword hit 2026-06-08T21:46:19Z, r/vibecoding. Comment in "Drop your app, I'll roast it" thread. Humorous tone but genuine 0-signup post-launch pain. Run 223.
+[RECORD_END]

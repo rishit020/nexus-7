@@ -3915,3 +3915,39 @@ date_sent: null
 result: null
 notes: Dapper-Turn-3021 posted r/SaaS "Built the product. Got free users. Now stuck on distribution" (2026-06-08T11:20:16Z). Technical founder, organic free signups, positive feedback, but no paid customers and no distribution strategy. ~6 hours old at time of logging. Reference the free-but-not-paid gap specifically. No em dashes verified. No pitch. No call ask. Run 220.
 [RECORD_END]
+
+[RECORD_START]
+id: O-228
+date_created: 2026-06-08
+lead_id: L-244
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the feb-to-may crickets stretch after your first customer. cold emails and linkedin DMs going nowhere for months while figuring out what actually works is a brutal phase.
+
+  curious what finally moved the needle for customer #2. did it come from a different channel than you expected?
+
+  doing research on this exact gap between getting first traction and figuring out how to repeat it.
+status: draft
+date_sent: null
+result: null
+notes: jay_cobski posted r/SaaS "Customer #2 felt like the first real moment of SaaS for me" (2026-06-08T21:14:22Z). Launched December 2025, got customer #1 in January, then Feb-May was mostly crickets. Eventually got customer #2. Research angle: they solved it, useful conversation about what worked. No em dashes verified. No pitch. No call ask. Run 223.
+[RECORD_END]
+
+[RECORD_START]
+id: O-229
+date_created: 2026-06-08
+lead_id: L-245
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in the vibecoding thread. built settern.io and launched it to 0 signups -- that gap between shipping something and getting anyone to actually use it is exactly what i keep hearing from builders.
+
+  what did you try to get it in front of people after launch? any channel that showed even weak signal?
+
+  doing research on this post-launch distribution problem.
+status: draft
+date_sent: null
+result: null
+notes: settern-io commented on r/vibecoding "Drop your app. I'll roast it publicly" thread (2026-06-08T21:46:19Z). Built interactive world map (settern.io), launched, 0 signups. Weaker ICP than SaaS founders but r/vibecoding is HIGH orbit fit. No em dashes verified. No pitch. No call ask. Run 223.
+[RECORD_END]
