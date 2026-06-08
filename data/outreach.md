@@ -3897,3 +3897,21 @@ date_sent: null
 result: null
 notes: Conscious-Image-4161 posted r/SaaS "83 visitors, 0 signups — how do you diagnose where activation is breaking?" (2026-06-08T00:09:15Z). First-person: "I'm working on a small SaaS." Specific numbers, zero conversions across full funnel. Different post from r/microsaas discard in Run 213 (that was promotional). 4 sentences. No em dashes verified. No pitch. No call ask. Run 217.
 [RECORD_END]
+
+[RECORD_START]
+id: O-227
+date_created: 2026-06-08
+lead_id: L-243
+platform: reddit
+variant: dm
+draft_text: |
+  saw your r/SaaS post. free users signing up organically but no clear path to paid is one of the more specific versions of the distribution problem i keep hearing from technical founders.
+
+  what have you actually tried on the distribution side so far? like which channels did you test first and what did the response look like?
+
+  doing research on exactly this gap for solo builders post-launch. the space between "people are using it" and "people are paying for it."
+status: draft
+date_sent: null
+result: null
+notes: Dapper-Turn-3021 posted r/SaaS "Built the product. Got free users. Now stuck on distribution" (2026-06-08T11:20:16Z). Technical founder, organic free signups, positive feedback, but no paid customers and no distribution strategy. ~6 hours old at time of logging. Reference the free-but-not-paid gap specifically. No em dashes verified. No pitch. No call ask. Run 220.
+[RECORD_END]
