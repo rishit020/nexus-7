@@ -3863,3 +3863,19 @@ date_sent: null
 result: null
 notes: jj_wondering101 commented on r/SaaS post "I burnt all my investor money and my saas failed" saying "I just launched my saas app, any more advice you may have?" Fresh post-launch advice-seeking energy. 4 sentences. No em dashes verified. No pitch. No call ask. Rishit should verify comment is still live before sending. Run 198.
 [RECORD_END]
+
+[RECORD_START]
+id: O-225
+date_created: 2026-06-08
+lead_id: L-241
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about analyzing 102 r/saas posts because your own saas got 3 sales and then went quiet. what happened after those 3 sales? was it that you couldn't repeat the channel, or did the channel just dry up completely?
+
+  doing research on the gap between initial traction and sustained distribution for solo builders.
+status: draft
+date_sent: null
+result: null
+notes: lcuennof posted r/SaaS "I analyzed 102 recent r/SaaS posts because my own SaaS got 3 tiny sales and then went quiet" (2026-06-07T23:46:19Z). First-person pain: 3 initial sales then silence. Analyzed 102 posts as a research effort to solve it -- personal pain is the motivation. Strong ICP. 4 sentences. No em dashes verified. No pitch. No call ask. Run 215.
+[RECORD_END]
