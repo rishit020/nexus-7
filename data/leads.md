@@ -3521,3 +3521,33 @@ status: watch
 outreach_id: null
 notes: IH post April 8 2026, 2 months old at logging. 33+ comments (high-engagement thread). Not in prior pipeline or monitor notes. Run 243.
 [RECORD_END]
+
+[RECORD_START]
+id: L-249
+date_found: 2026-06-10
+username: theuniverseson
+platform: indiehackers
+url: https://www.indiehackers.com/post/launched-on-product-hunt-to-zero-users-heres-what-i-changed-37f6925837
+pain_quote: "I led with a worldview when people had a job in mind" (author reply, June 9 -- still actively working through positioning)
+product_built: BotWork -- solo founder launched on Product Hunt to zero external users, now rebuilding as web app with repositioned messaging
+fit_reason: post-PH silence, zero external users, actively iterating on positioning and distribution. author still engaged (replied to comment June 9). IH founder who shipped something real and is in the middle of the distribution problem.
+opener_angle: the PH-to-zero-users experience and the worldview-vs-job positioning shift -- ask how the web app version is landing and whether any channel is producing signal
+status: watch
+outreach_id: O-231
+notes: IH post June 3 2026. Author (Andrii Krugliak) active -- replied to comment "1 day ago" as of Run 245. Has surfaced in monitor runs 213-245 (17 consecutive runs) without being logged. OVERDUE for manual DM review. Run 245.
+[RECORD_END]
+
+[RECORD_START]
+id: L-250
+date_found: 2026-06-10
+username: m1tisch
+platform: indiehackers
+url: https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8
+pain_quote: "Launching Yesterday (AI financial coach); 11 signups all personal contacts; banned from r/personalfinance"
+product_built: Yesterday -- AI financial coach
+fit_reason: launched an AI financial coach, only 11 signups all from personal contacts (zero organic), got banned from r/personalfinance when trying to distribute. classic post-launch distribution gap with a specific failed-channel data point.
+opener_angle: the 11-personal-contacts-only gap and the r/personalfinance ban -- zero organic traction, tried the obvious channel and got shut down
+status: watch
+outreach_id: null
+notes: commenter on Kelon/TruthScore IH thread 93c9df78f8. Comment ~May 26 2026 (~14 days old at Run 245). Not previously logged. IH profile stub only -- needs more research before DM. Run 245.
+[RECORD_END]

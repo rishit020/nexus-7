@@ -3967,3 +3967,21 @@ draft_text: |
 status: draft
 notes: Key-Tea-3775 commented in "For founders: what kept you going when nobody cared?" thread in r/Femalefounders. Technical founder (mentions Python, building features) with clear distribution pain. No em dashes verified. No pitch. No call ask. 3 sentences. Rishit should DM via Reddit to u/Key-Tea-3775. Run 238.
 [RECORD_END]
+
+[RECORD_START]
+id: O-231
+date_created: 2026-06-10
+lead_id: L-249
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your botwork post. "led with a worldview when people had a job in mind" is one of the sharper post-launch diagnoses i've read.
+
+  how has the web app version landed compared to the original ph launch? any early signal from the repositioning?
+
+  doing research on the post-launch distribution gap for founders who shipped something real and are still figuring out how people find it.
+status: draft
+date_sent: null
+result: null
+notes: theuniverseson/Andrii Krugliak. BotWork. IH post June 3 2026. Author active as of June 9. OVERDUE -- has surfaced 17 consecutive scout runs (R213-R245) without being logged or contacted. DM via IH. No em dashes verified. No pitch. No call ask. Run 245.
+[RECORD_END]
