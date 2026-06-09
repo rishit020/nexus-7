@@ -3491,3 +3491,33 @@ status: new
 outreach_id: O-230
 notes: F5Bot "shouting into the void" keyword hit 2026-06-09T12:11:18Z, r/Femalefounders comment. email thread 19eac4b5343fbe27. Run 238.
 [RECORD_END]
+
+[RECORD_START]
+id: L-247
+date_found: 2026-06-09
+username: flynnsinclair
+platform: indiehackers
+url: https://www.indiehackers.com/post/launched-on-product-hunt-yesterday-2-upvotes-0-sales-what-the-data-actually-said-259e99ca68
+pain_quote: "PH doesn't create distribution. It amplifies existing distribution. I was relying on the platform to do the audience-building I hadn't done."
+product_built: The Job Hunter's AI Bundle -- 44 ChatGPT prompts + 118-page workbook, $39 one-time
+fit_reason: solo creator, launched on PH with 2 upvotes and 0 sales, named the exact distribution gap: relied on PH instead of building audience first. not a SaaS but digital product launch pattern is same. post May 27 2026.
+opener_angle: the "PH amplifies distribution, not creates it" insight -- they've already diagnosed the problem correctly. ask what audience-building has looked like since and what they've tried.
+status: watch
+outreach_id: null
+notes: IH post May 27 2026, 13 days old at logging. Surfaced in monitor runs 228/231 as "old" but never logged. 1 comment on thread. flynnsinclair confirmed not in prior pipeline. Run 243.
+[RECORD_END]
+
+[RECORD_START]
+id: L-248
+date_found: 2026-06-09
+username: JoshBlythe
+platform: indiehackers
+url: https://www.indiehackers.com/post/142-month-in-aws-bills-9-users-0-revenue-i-built-the-internets-first-multimodal-ai-hacking-game-57ce5c7a65
+pain_quote: "I spent 95% of time building and 5% distributing. That's backwards."
+product_built: Bordair -- multimodal AI security API detecting prompt injection across text, images, documents, audio. $19/month tier. Includes gamified experience (Bordair's Castle, 5 kingdoms, 35 levels) as distribution layer.
+fit_reason: solo dev (evenings/weekends), 9 users, 0 revenue, $142/mo AWS. explicitly named the 95%/5% build-to-distribute ratio inversion. first-person, strong diagnostic awareness. weaker ICP than typical vibe coder (security API is niche B2B) but the distribution gap is identical.
+opener_angle: the 95/5 ratio -- ask what the 5% distributing actually looked like and whether any channel gave even weak signal.
+status: watch
+outreach_id: null
+notes: IH post April 8 2026, 2 months old at logging. 33+ comments (high-engagement thread). Not in prior pipeline or monitor notes. Run 243.
+[RECORD_END]
