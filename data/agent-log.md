@@ -323,6 +323,7 @@ session_start: 2026-06-08 00:02
 
 
 session_start: 2026-06-09 00:02
+scout_run_237: 2026-06-09 16:30 UTC -- 0 leads. Reddit blocked. Gmail F5Bot full parse: mindCare-wellness DISCARD (mental health/India/wrong sub). Thread 19ea7015498d0473 cleared: Local_Loan_9890/Minute_Estimate_4418/Vaprolol all DISCARD (commenters/non-target subs, usernames confirmed real). Pipeline 245 unchanged.
 
 
 
