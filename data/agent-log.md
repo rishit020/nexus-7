@@ -324,6 +324,8 @@ session_start: 2026-06-08 00:02
 
 session_start: 2026-06-09 00:02
 scout_run_237: 2026-06-09 16:30 UTC -- 0 leads. Reddit blocked. Gmail F5Bot full parse: mindCare-wellness DISCARD (mental health/India/wrong sub). Thread 19ea7015498d0473 cleared: Local_Loan_9890/Minute_Estimate_4418/Vaprolol all DISCARD (commenters/non-target subs, usernames confirmed real). Pipeline 245 unchanged.
+scout_run_238: 2026-06-09 17:00 UTC -- 0 leads. Gmail F5Bot newer_than:2h: 4 signals evaluated, all DISCARD. Ecstatic_Law3753/r/startups (takes/analysis, no first-person pain). Key-Tea-3775/r/Femalefounders (first-person pain but wrong sub). mindCare-wellness/r/SideProject+r/Anxietyhelp (already discarded R237, India mental health app, post removed). Pipeline 245 unchanged.
+
 
 
 
