@@ -3476,3 +3476,18 @@ status: new
 outreach_id: O-229
 notes: F5Bot "0 signups" keyword hit 2026-06-08T21:46:19Z, r/vibecoding. Comment in "Drop your app, I'll roast it" thread. Humorous tone but genuine 0-signup post-launch pain. Run 223.
 [RECORD_END]
+
+[RECORD_START]
+id: L-246
+date_found: 2026-06-09
+username: Key-Tea-3775
+platform: reddit
+url: https://www.reddit.com/r/Femalefounders/comments/1u0im10/c/oqmjq1x
+pain_quote: "Marketing often feels like shouting into the void and hoping someone hears you. As an introvert, creating content has been much harder for me than learning Python or building features."
+product_built: unknown (building something, technical founder with Python/feature-building skills)
+fit_reason: first-person distribution pain, technical founder who builds but struggles with marketing. exact ICP framing -- knows how to code, cannot figure out how to get users. in r/Femalefounders responding to "what kept you going when nobody cared?" thread.
+opener_angle: the introvert-builder angle -- technical skills vs. distribution skills gap
+status: new
+outreach_id: O-230
+notes: F5Bot "shouting into the void" keyword hit 2026-06-09T12:11:18Z, r/Femalefounders comment. email thread 19eac4b5343fbe27. Run 238.
+[RECORD_END]

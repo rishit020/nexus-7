@@ -3951,3 +3951,19 @@ date_sent: null
 result: null
 notes: settern-io commented on r/vibecoding "Drop your app. I'll roast it publicly" thread (2026-06-08T21:46:19Z). Built interactive world map (settern.io), launched, 0 signups. Weaker ICP than SaaS founders but r/vibecoding is HIGH orbit fit. No em dashes verified. No pitch. No call ask. Run 223.
 [RECORD_END]
+
+[RECORD_START]
+id: O-230
+date_created: 2026-06-09
+lead_id: L-246
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in the femalefounders thread about marketing feeling like shouting into the void. that line about users not being able to love a product they never discover hit.
+
+  what's the actual bottleneck for you right now. is it knowing which channels to try, or have you tried things and nothing's getting traction?
+
+  doing research on how builders navigate distribution post-launch. curious what that wall looks like for you specifically.
+status: draft
+notes: Key-Tea-3775 commented in "For founders: what kept you going when nobody cared?" thread in r/Femalefounders. Technical founder (mentions Python, building features) with clear distribution pain. No em dashes verified. No pitch. No call ask. 3 sentences. Rishit should DM via Reddit to u/Key-Tea-3775. Run 238.
+[RECORD_END]
