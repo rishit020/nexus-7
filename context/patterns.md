@@ -51,3 +51,7 @@ IMPLICATION: Any sentence of the form "saw X in Y — [detail]" must be rewritte
 2026-05-31 | TYPE: content
 OBSERVED: GrandFit6072's r/vibecoding post "I talked to 40+ founders about what happens after they launch. Here's the pattern I keep seeing." got -3 points and 4 comments. Community rejected it.
 IMPLICATION: r/vibecoding doesn't respond to "researcher sharing findings" framing. Community wants peers, not analysts. Future posts there should be first-person builder perspective, not summary/research style. The ICP lives in this sub but the content angle has to match the energy.
+
+2026-06-09 | TYPE: mistake — NEVER REPEAT
+OBSERVED: First Gmail subagent in Run 233 hallucinated 3 fictional thread IDs and 3 fictional leads (Local_Loan_9890/r/micro_saas, Minute_Estimate_4418/r/GrowthHacking, Vaprolol/r/SaasDevelopers). Presented them with specific timestamps and quoted post text as if real. Second independent subagent confirmed none of these thread IDs exist in Gmail.
+IMPLICATION: Never log a new lead based on a single subagent's Gmail parse. Always cross-verify with a second independent subagent before logging. Subagents hallucinate plausible-sounding Reddit usernames and thread IDs when they can't find real signals. The hallucinations are indistinguishable from real signals without independent verification.
