@@ -3551,3 +3551,33 @@ status: watch
 outreach_id: null
 notes: commenter on Kelon/TruthScore IH thread 93c9df78f8. Comment ~May 26 2026 (~14 days old at Run 245). Not previously logged. IH profile stub only -- needs more research before DM. Run 245.
 [RECORD_END]
+
+[RECORD_START]
+id: L-251
+date_found: 2026-06-10
+username: MikeCode
+platform: indiehackers
+url: https://www.indiehackers.com/post/google-indexed-exactly-zero-of-my-pages-after-2-weeks-is-this-normal-or-am-i-doing-something-stupid-8fed9e8d9b
+pain_quote: "Google Search Console has indexed exactly ZERO pages. Checking GSC every single morning only to see that flatline is psychologically brutal."
+product_built: GenForms -- AI form builder with auto-retry backoffs and real-time delivery logs
+fit_reason: solo founder, launched GenForms, zero indexed pages after 2 weeks, ~11 sessions/day via dark social. Explicitly describes the post-launch distribution flatline. The SEO invisibility is a specific manifestation of the broader distribution gap Tide addresses.
+opener_angle: the zero-indexed-pages flatline after 2 weeks -- ask what other distribution channels they've tried beyond SEO and whether any produced signal
+status: watch
+outreach_id: null
+notes: IH post June 8 2026 (outside 24h window). Not previously logged. Run 246.
+[RECORD_END]
+
+[RECORD_START]
+id: L-252
+date_found: 2026-06-10
+username: TamingBrainClutter
+platform: indiehackers
+url: https://www.indiehackers.com/post/building-a-complex-saas-was-the-easy-part-now-i-need-proof-c1fcfc93ca
+pain_quote: "Being right about the product doesn't make people buy it."
+product_built: PrivacyKit -- GDPR consent management SaaS combining consent collection, enforcement, and runtime compliance validation
+fit_reason: solo founder Michael, built a technically correct product, zero paying customers, explicitly names the distribution-to-proof gap. Seeking 100 founding users. Real product live.
+opener_angle: the "being right doesn't make people buy it" realization -- ask what channels they've tried to reach GDPR-aware developers and whether any produced signal
+status: watch
+outreach_id: null
+notes: IH post June 8 2026 (outside 24h window). B2B GDPR niche -- weaker ICP than core Jackson but pain is genuine. Not previously logged. Run 246.
+[RECORD_END]
