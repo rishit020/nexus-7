@@ -3985,3 +3985,23 @@ date_sent: null
 result: null
 notes: theuniverseson/Andrii Krugliak. BotWork. IH post June 3 2026. Author active as of June 9. OVERDUE -- has surfaced 17 consecutive scout runs (R213-R245) without being logged or contacted. DM via IH. No em dashes verified. No pitch. No call ask. Run 245.
 [RECORD_END]
+
+[RECORD_START]
+id: O-232
+date_created: 2026-06-10
+lead_id: L-253
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the wasted ph launch. launched on a whim and now two days of cold emails with nothing to show is exactly the gap i'm researching.
+
+  what did you build and what did ph day actually look like? any votes at all, or pretty much invisible?
+
+  doing research on the post-launch distribution problem for solo builders. curious what the plan is from here.
+action: DM
+target_url: https://www.reddit.com/r/micro_saas/comments/1u1isvd/dont_be_like_me_and_waste_your_producthunt_launch/
+status: draft
+date_sent: null
+result: null
+notes: SpinachMakesYouFat posted r/micro_saas "Don't be like me and waste your ProductHunt launch" (2026-06-09T21:47:19Z). F5Bot "launched my saas" keyword hit. First-person: launched PH on a whim after YC video, wasted the opportunity, now cold emails going nowhere after 2 days. r/micro_saas not in primary target sub list but strong first-person ICP pain qualifies. Under 12h old at time of logging. 3 sentences. No em dashes verified. No pitch. No call ask. Run 247.
+[RECORD_END]
