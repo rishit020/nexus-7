@@ -4025,3 +4025,18 @@ date_sent: null
 result: null
 notes: No_Trainer6906 posted r/SaaS "Launched my SaaS 3 weeks ago and can't get traffic—what am I missing?" (2026-06-10T12:47:18Z). F5Bot "launched my saas" keyword hit. First-person: 3 weeks post-launch, zero traffic, asking for help. Under 1h old at time of logging. 3 sentences. No em dashes verified. No pitch. No call ask. Exact post URL needs verification once Reddit unblocked. Run 254.
 [RECORD_END]
+
+[RECORD_START]
+id: O-234
+date_created: 2026-06-10
+lead_id: L-255
+platform: reddit
+variant: dm
+draft_text: |
+  hey saw your comment about the distribution problem in the r/SideProject thread. curious what shipping day actually looked like for you. what channels did you try first and what was the reaction? doing research on this gap between shipping and getting real users.
+action: DM u/Couponpicked on Reddit
+status: draft
+date_sent: null
+result: null
+notes: Couponpicked commented on "Shipped a month ago, still 0 beta users. What am I doing wrong" thread in r/SideProject using "distribution problem" phrase. F5Bot "distribution problem" keyword hit. Reddit egress blocked -- Rishit must verify comment text before sending. 4 sentences. No em dashes verified. No pitch. No call ask. Run 255.
+[RECORD_END]

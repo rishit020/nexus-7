@@ -3610,3 +3610,18 @@ status: new
 outreach_id: O-233
 notes: F5Bot email 19eb192a678a5473 (2026-06-10T12:47:18Z). Gmail thread fetch failed (entity not found). Reddit direct access blocked. Post URL needs verification once Reddit unblocked. Run 254.
 [RECORD_END]
+
+[RECORD_START]
+id: L-255
+date_found: 2026-06-10
+username: Couponpicked
+platform: reddit
+url: https://reddit.com/r/SideProject (comment on "Shipped a month ago, still 0 beta users. What am I doing wrong" thread)
+pain_quote: used "distribution problem" phrase commenting on 0-beta-users thread in r/SideProject
+product_built: unknown (Reddit egress blocked, full comment text not accessible)
+fit_reason: commented on exact ICP pain thread using "distribution problem" phrase. r/SideProject is core target sub. thread context confirms post-launch builder with no users. never appeared in any prior run discard note despite being in historical thread 19e98f1668e8a5e8.
+opener_angle: reference the r/SideProject comment, ask what their own shipping and distribution experience looked like
+status: new
+outreach_id: O-234
+notes: F5Bot "distribution problem" keyword hit. Found during full parse of thread 19e98f1668e8a5e8 -- gap in prior processing. Reddit blocked so full comment unverified. Rishit should verify before sending. Run 255.
+[RECORD_END]
