@@ -3655,3 +3655,18 @@ status: new
 outreach_id: O-236
 notes: F5Bot "launched my saas" keyword hit. Thread "My Tool crossed 2000+ users today" in r/SaaS. Comment context: asking successful founder for tips implies they haven't reached that level yet. Email thread 19eb53301c3cb485 (2026-06-11T05:41:19Z). Run 269.
 [RECORD_END]
+
+[RECORD_START]
+id: L-258
+date_found: 2026-06-11
+username: nynrathod
+platform: indiehackers
+url: https://www.indiehackers.com/post/277-cold-emails-reddit-posts-x-threads-5-signups-0-paid-users-this-is-what-month-one-actually-looked-like-7397288132
+pain_quote: "277 cold emails. reddit posts. x threads. 5 signups. 0 paid users. this is what month one actually looked like."
+product_built: DooCloud -- generates production-ready APIs from schemas in under 5 minutes (authentication, SSL, rate limiting included). Solo founder.
+fit_reason: 6 weeks post-launch, tried 7+ channels (Apollo cold email, LinkedIn, X daily threads, Reddit across 6+ subs, dev.to, PH, HN). 277 cold emails yielded 5 signups and 0 paid. Highest effort-to-zero-result ratio logged this pipeline. Identifies "trust gap" not product quality as the problem. First-person, specific numbers, still actively struggling.
+opener_angle: the 277 cold emails to 0 paid ratio. ask if people were actually replying and not converting, or mostly ghosting. that reply-vs-ghost distinction opens the diagnostic conversation.
+status: new
+outreach_id: O-237
+notes: IH post May 27 2026 (7397288132). 0 comments -- very low engagement despite vivid pain. Never appeared in any prior run note or discard list. Found via IH WebSearch during Reddit-blocked run 274. DM via IH messaging.
+[RECORD_END]

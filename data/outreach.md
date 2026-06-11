@@ -4070,3 +4070,22 @@ date_sent: null
 result: null
 notes: F5Bot "launched my saas" keyword hit. Comment on r/SaaS "My Tool crossed 2000+ users today" thread. Recently launched SaaS for event managers, asking for tips. 4 sentences. No em dashes verified. No pitch. No call ask. Run 269.
 [RECORD_END]
+
+[RECORD_START]
+id: O-237
+date_created: 2026-06-11
+lead_id: L-258
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your month one post. 277 cold emails and 5 signups with 0 paid is a specific dataset to have after all that effort.
+
+  on the cold email side, were people actually replying and not converting, or mostly ghosting entirely? that distinction tells a lot about where the breakdown is.
+
+  doing research on the post-launch distribution gap for solo founders. your numbers are one of the more complete pictures of it i've seen.
+action: DM u/nynrathod via Indie Hackers messaging
+status: draft
+date_sent: null
+result: null
+notes: nynrathod built DooCloud (production API generator). May 27 IH post with 0 comments, strong ICP. 277 cold emails (Apollo), LinkedIn, X threads daily, Reddit 6+ subs, dev.to, PH, HN -- all tried, 5 signups, 0 paid. 4 sentences. No em dashes verified. No pitch. No call ask. Research framing. Run 274.
+[RECORD_END]
