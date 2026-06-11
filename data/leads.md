@@ -3625,3 +3625,18 @@ status: new
 outreach_id: O-234
 notes: F5Bot "distribution problem" keyword hit. Found during full parse of thread 19e98f1668e8a5e8 -- gap in prior processing. Reddit blocked so full comment unverified. Rishit should verify before sending. Run 255.
 [RECORD_END]
+
+[RECORD_START]
+id: L-256
+date_found: 2026-06-11
+username: enjoyminded
+platform: hackernews
+url: https://news.ycombinator.com/item?id=48472285
+pain_quote: "Distribution turned out to be much harder than building. AI significantly accelerated development but didn't solve the distribution problem."
+product_built: UK job board with built-in ATS (plus other solo projects built around a full-time job and family)
+fit_reason: solo builder, working full-time while raising a child, explicitly names the AI-accelerates-building-but-not-distribution gap. that's Tide's thesis in their own words. HN post June 10, first-person, not advisory.
+opener_angle: the AI-sped-up-building-but-not-distribution line. ask what distribution actually looked like and what felt most broken about it.
+status: new
+outreach_id: O-235
+notes: F5Bot "distribution problem" keyword hit in thread 19e98f1668e8a5e8 (MSG 51, 2026-06-10T02:41:19Z). HN post 48472285 created 2026-06-10T06:33:22Z, pain quote from comment 48474113 (2026-06-10T10:19:12Z). Not present in any prior run note. Run 263.
+[RECORD_END]

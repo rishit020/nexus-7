@@ -4040,3 +4040,18 @@ date_sent: null
 result: null
 notes: Couponpicked commented on "Shipped a month ago, still 0 beta users. What am I doing wrong" thread in r/SideProject using "distribution problem" phrase. F5Bot "distribution problem" keyword hit. Reddit egress blocked -- Rishit must verify comment text before sending. 4 sentences. No em dashes verified. No pitch. No call ask. Run 255.
 [RECORD_END]
+
+[RECORD_START]
+id: O-235
+date_created: 2026-06-11
+lead_id: L-256
+platform: hackernews
+variant: comment_reply
+draft_text: |
+  saw your post about building the solo project around real life. the part about AI accelerating the build but not solving distribution really resonated. i've been mapping out that exact gap, what actually happens between 'it works' and 'people discover it.' curious what distribution actually looked like for you, what you tried first and what felt most broken about it?
+action: reply to comment https://news.ycombinator.com/item?id=48474113 on HN post https://news.ycombinator.com/item?id=48472285
+status: draft
+date_sent: null
+result: null
+notes: enjoyminded HN post "What I Got Right and Wrong Building a Solo Project Around Real Life" (2026-06-10). Quote: "Distribution turned out to be much harder than building. AI significantly accelerated development but didn't solve the distribution problem." 4 sentences. No em dashes verified. No pitch. No call ask. Run 263.
+[RECORD_END]
