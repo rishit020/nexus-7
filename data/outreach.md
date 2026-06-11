@@ -4089,3 +4089,20 @@ date_sent: null
 result: null
 notes: nynrathod built DooCloud (production API generator). May 27 IH post with 0 comments, strong ICP. 277 cold emails (Apollo), LinkedIn, X threads daily, Reddit 6+ subs, dev.to, PH, HN -- all tried, 5 signups, 0 paid. 4 sentences. No em dashes verified. No pitch. No call ask. Research framing. Run 274.
 [RECORD_END]
+
+[RECORD_START]
+id: O-238
+date_created: 2026-06-11
+lead_id: L-259
+platform: reddit
+variant: dm
+draft_text: |
+  hey, saw you just launched casagbic and were hunting for places to promote it. what channels have you tried so far, or are you still at the very start of figuring that out?
+
+  doing research on exactly this window right after launch when distribution is all unknown territory.
+action: DM u/GoodProfessional4993 on Reddit
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" keyword hit in r/buildinpublic thread (19eb7594f3c61f90, 2026-06-11T15:42:23Z). Just launched casagbic, commented on "100 places to promote your app" list seeking promotion resources. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Run 280.
+[RECORD_END]

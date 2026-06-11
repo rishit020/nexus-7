@@ -3670,3 +3670,18 @@ status: new
 outreach_id: O-237
 notes: IH post May 27 2026 (7397288132). 0 comments -- very low engagement despite vivid pain. Never appeared in any prior run note or discard list. Found via IH WebSearch during Reddit-blocked run 274. DM via IH messaging.
 [RECORD_END]
+
+[RECORD_START]
+id: L-259
+date_found: 2026-06-11
+username: GoodProfessional4993
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1u20ftc/c/or1xvyw
+pain_quote: "I just launched my SAAS product casagbic, I was searching for website like this"
+product_built: casagbic (product type unknown, just launched)
+fit_reason: just launched their SaaS and immediately sought out a list of 100 places to promote it. no distribution plan at launch is the classic ICP entry point. searching for promotion resources right after shipping = the distribution gap is live right now. r/buildinpublic is a target sub.
+opener_angle: just launched casagbic and hunting for promotion resources -- ask what channels they have in mind or whether they're still figuring out where to start
+status: new
+outreach_id: O-238
+notes: F5Bot "launched my saas" keyword hit in thread 19eb7594f3c61f90 (2026-06-11T15:42:23Z). Comment on "i made a free list of 100 places where you can promote your app" thread in r/buildinpublic. Thread not processed in any prior run. Pain implicit (seeking promotion help right after launch) rather than explicit crickets. DM via Reddit. Run 280.
+[RECORD_END]
