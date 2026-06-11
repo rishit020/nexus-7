@@ -4106,3 +4106,20 @@ date_sent: null
 result: null
 notes: F5Bot "launched my saas" keyword hit in r/buildinpublic thread (19eb7594f3c61f90, 2026-06-11T15:42:23Z). Just launched casagbic, commented on "100 places to promote your app" list seeking promotion resources. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Run 280.
 [RECORD_END]
+
+[RECORD_START]
+id: O-239
+lead_id: L-260
+platform: indiehackers
+username: Tabby
+type: DM
+draft: "saw your post about tabby. chrome store rejecting it twice then hitting the marketing wall is the exact thing nobody warns you about.
+
+what have you tried beyond reddit so far? any small wins at all?
+
+doing research on the distribution gap for solo builders post-launch. your situation is a pattern i keep hearing about."
+status: draft
+date_sent: null
+result: null
+notes: IH post 914c457f0f (2026-06-11T08:58am). 11 upvotes, 19 comments. Day 2 post-launch, first-person marketing pain, explicitly asking for advice. 3 sentences + 1 research line. No em dashes verified. No pitch. No call ask. Research framing. Run 287.
+[RECORD_END]

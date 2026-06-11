@@ -3685,3 +3685,18 @@ status: new
 outreach_id: O-238
 notes: F5Bot "launched my saas" keyword hit in thread 19eb7594f3c61f90 (2026-06-11T15:42:23Z). Comment on "i made a free list of 100 places where you can promote your app" thread in r/buildinpublic. Thread not processed in any prior run. Pain implicit (seeking promotion help right after launch) rather than explicit crickets. DM via Reddit. Run 280.
 [RECORD_END]
+
+[RECORD_START]
+id: L-260
+date_found: 2026-06-11
+username: Tabby
+platform: indiehackers
+url: https://www.indiehackers.com/post/6-weeks-solo-2-rejections-finally-live-but-nobody-told-me-marketing-would-be-this-hard-914c457f0f
+pain_quote: "The building part? Hard but manageable. The marketing part? A completely different beast that I was not prepared for."
+product_built: Tabby -- Chrome extension that monitors RAM pressure and auto-sleeps idle tabs when memory gets high
+fit_reason: solo builder, 6 weeks of work, post-launch day 2, explicitly struggling with marketing alone, Reddit bounced them (low karma), asking the IH community for help. first-person pain, not advice content. low-karma Reddit bounce maps directly to the distribution wall Tide solves.
+opener_angle: reference the Reddit brutality + marketing wall combo. ask what they've tried beyond Reddit. research framing.
+status: new
+outreach_id: O-239
+notes: IH post 914c457f0f (2026-06-11T08:58am). 11 upvotes, 19 comments -- active thread. Chrome store rejected extension twice before launch, now Day 2 post-launch hitting the marketing wall. Author is Adrian, IH handle Tabby. DM via IH messaging. Found via IH homepage WebFetch during Reddit-blocked run 287.
+[RECORD_END]
