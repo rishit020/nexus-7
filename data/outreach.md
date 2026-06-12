@@ -4229,3 +4229,19 @@ date_sent: null
 result: null
 notes: r/ShowMeYourSaaS post by 2Martian (F5Bot caught 06:12Z Jun 12). SWE with portfolio of 12+ apps. $150 ads, 100 clicks, 0 paying users. No em dashes verified. No pitch. No call ask. Research framing. DM via Reddit u/2Martian. Run 297.
 [RECORD_END]
+
+[RECORD_START]
+id: O-246
+date_created: 2026-06-12
+lead_id: L-267
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your post about launching FashClick and getting 216 visitors with 0 signups. genuinely curious what's felt most broken about it.
+
+  doing research on exactly this gap between getting traffic and actually getting strangers to use it.
+status: draft
+date_sent: null
+result: null
+notes: r/micro_saas post by AmbitiousPlant4721 (F5Bot caught 09:44Z Jun 12). AI fashion SaaS (FashClick), first week, 216 visitors, 0 signups. No em dashes verified. No pitch. No call ask. Research framing. DM via Reddit u/AmbitiousPlant4721. Run 301.
+[RECORD_END]
