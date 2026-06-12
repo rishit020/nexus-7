@@ -4245,3 +4245,19 @@ date_sent: null
 result: null
 notes: r/micro_saas post by AmbitiousPlant4721 (F5Bot caught 09:44Z Jun 12). AI fashion SaaS (FashClick), first week, 216 visitors, 0 signups. No em dashes verified. No pitch. No call ask. Research framing. DM via Reddit u/AmbitiousPlant4721. Run 301.
 [RECORD_END]
+
+[RECORD_START]
+id: O-247
+date_created: 2026-06-12
+lead_id: L-268
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about quitting your job 6 months ago with runway shrinking and still no PMF. curious what distribution has actually looked like over those 6 months. what have you tried and what signal have you gotten. doing research on exactly this phase for founders who shipped something and are still trying to find who actually wants it.
+action: DM
+target_url: https://www.reddit.com/user/pradhyum15
+status: draft
+date_sent: null
+result: null
+notes: pradhyum15 posted r/SideProject "I quit my job 6 months ago. My runway is shrinking and I'm still looking for PMF" (2026-06-11T07:56:20Z). High-urgency first-person pain. F5Bot keyword "distribution problem" in post body. Reddit egress blocked -- DM ready to send when Reddit unblocks. No em dashes verified. No pitch. No call ask. Run 308.
+[RECORD_END]

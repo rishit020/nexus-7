@@ -3805,3 +3805,18 @@ status: new
 outreach_id: O-246
 notes: r/micro_saas post (title: "Launched my AI fashion SaaS this week -- 216 visitors, 0 signups. Here's what I lea..."). F5Bot keyword "0 signups" triggered 09:44Z Jun 12 (thread 19ebb37e44da7d46). Sub is borderline (r/micro_saas not on explicit target list but clearly builder-relevant). ICP match is perfect -- qualify. DM via Reddit. Run 301.
 [RECORD_END]
+
+[RECORD_START]
+id: L-268
+date_found: 2026-06-12
+username: pradhyum15
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1u2siut/i_quit_my_job_6_months_ago_my_runway_is_shrinking/
+pain_quote: "I quit my job 6 months ago. My runway is shrinking and I'm still looking for PMF"
+product_built: unknown -- Reddit egress blocked, cannot fetch full post content
+fit_reason: first-person, high-urgency. quit job, 6 months in, shrinking runway, no PMF. F5Bot keyword "distribution problem" confirmed in post body. r/SideProject is a target sub. strong ICP.
+opener_angle: reference 6 months/shrinking runway tension. ask what distribution has actually looked like.
+status: new
+outreach_id: O-247
+notes: F5Bot "distribution problem" keyword hit 2026-06-11T07:56:20Z (thread 19e98f1668e8a5e8). Reddit POST on r/SideProject. Reddit egress blocked -- cannot fetch full post content. DM via Reddit when unblocked. Run 308.
+[RECORD_END]
