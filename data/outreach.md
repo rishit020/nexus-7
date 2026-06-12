@@ -4227,5 +4227,5 @@ draft_text: |
 status: draft
 date_sent: null
 result: null
-notes: r/ShowMeYourSaaS post by 2Martian (F5Bot caught 06:12Z Jun 12). SWE with portfolio of 12+ apps. $150 ads, 100 clicks, 0 paying users. 4 sentences. No em dashes verified. No pitch. No call ask. Research framing. DM via Reddit u/2Martian. Run 297.
+notes: r/ShowMeYourSaaS post by 2Martian (F5Bot caught 06:12Z Jun 12). SWE with portfolio of 12+ apps. $150 ads, 100 clicks, 0 paying users. No em dashes verified. No pitch. No call ask. Research framing. DM via Reddit u/2Martian. Run 297.
 [RECORD_END]
