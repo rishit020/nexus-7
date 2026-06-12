@@ -3820,3 +3820,18 @@ status: new
 outreach_id: O-247
 notes: F5Bot "distribution problem" keyword hit 2026-06-11T07:56:20Z (thread 19e98f1668e8a5e8). Reddit POST on r/SideProject. Reddit egress blocked -- cannot fetch full post content. DM via Reddit when unblocked. Run 308.
 [RECORD_END]
+
+[RECORD_START]
+id: L-269
+date_found: 2026-06-12
+username: Mysterious-Honey1457
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1u41csf/my_tiktok_ads_hit_3_ctr_and_045_clicks_and/
+pain_quote: "~3,800 visits → ~85 tapped the CTA → 19 created a poll → ~0 signups. TikTok visitors engage at ~1%; my word-of-mouth visitors at ~13% on the same page. So I'm winning the click and losing the human the second they land."
+product_built: unknown -- early stage, one city, running TikTok ads, significant traffic but zero signups
+fit_reason: first-person, explicit 0 signups despite 3,800 visits and paid TikTok traffic. r/SideProject is a target sub. "winning the click and losing the human" -- textbook post-launch distribution pain. F5Bot keyword "0 signups" in post.
+opener_angle: reference 3,800 visits / 0 signups with the paid vs word-of-mouth conversion gap. ask what they think is actually off.
+status: new
+outreach_id: O-248
+notes: r/SideProject post (F5Bot keyword "0 signups"). Thread 19ebcd5b551d85d7 at 17:16Z Jun 12 -- not processed in any prior run. Same user also posted on r/PPC (thread 19ebb37e44da7d46 msg 19ebccab02a49d90, 17:04Z) -- DISCARD (wrong sub). DM via Reddit. Run 309.
+[RECORD_END]

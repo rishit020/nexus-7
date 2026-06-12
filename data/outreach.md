@@ -4261,3 +4261,17 @@ date_sent: null
 result: null
 notes: pradhyum15 posted r/SideProject "I quit my job 6 months ago. My runway is shrinking and I'm still looking for PMF" (2026-06-11T07:56:20Z). High-urgency first-person pain. F5Bot keyword "distribution problem" in post body. Reddit egress blocked -- DM ready to send when Reddit unblocks. No em dashes verified. No pitch. No call ask. Run 308.
 [RECORD_END]
+
+[RECORD_START]
+id: O-248
+date_created: 2026-06-12
+lead_id: L-269
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about 3,800 visits and 0 signups while your TikTok metrics look solid. the fact that word-of-mouth visitors convert at 13% but paid traffic at 1% is a really specific signal. curious what you think is actually off. doing research on exactly this gap between getting traffic and getting real users to stick.
+status: draft
+date_sent: null
+result: null
+notes: Mysterious-Honey1457 posted r/SideProject (F5Bot thread 19ebcd5b551d85d7, 17:16Z Jun 12). 3,800 visits, 0 signups, TikTok ads running. No em dashes verified. No pitch. No call ask. DM via Reddit u/Mysterious-Honey1457. Run 309.
+[RECORD_END]
