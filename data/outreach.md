@@ -4275,3 +4275,17 @@ date_sent: null
 result: null
 notes: Mysterious-Honey1457 posted r/SideProject (F5Bot thread 19ebcd5b551d85d7, 17:16Z Jun 12). 3,800 visits, 0 signups, TikTok ads running. No em dashes verified. No pitch. No call ask. DM via Reddit u/Mysterious-Honey1457. Run 309.
 [RECORD_END]
+
+[RECORD_START]
+id: O-249
+date_created: 2026-06-12
+lead_id: L-270
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about 45 days and 0 users on r/saas. 10k views with 0 signups is a really specific kind of stuck. what are you building, and where did those views actually come from? doing research on this exact gap between getting traffic and getting anyone to convert.
+status: draft
+date_sent: null
+result: null
+notes: desilvakdn posted r/SaaS "45 days, 0 users. Should I move on?" (F5Bot thread 19ebb37e44da7d46 msg 19ebd1b3cc090a5c, 18:32Z Jun 12). 10k views / 0 signups confirmed from comment on post. Reddit egress blocked -- DM via Reddit u/desilvakdn when unblocked. No em dashes verified. No pitch. No call ask. Run 311.
+[RECORD_END]
