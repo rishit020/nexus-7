@@ -3700,3 +3700,18 @@ status: new
 outreach_id: O-239
 notes: IH post 914c457f0f (2026-06-11T08:58am). 11 upvotes, 19 comments -- active thread. Chrome store rejected extension twice before launch, now Day 2 post-launch hitting the marketing wall. Author is Adrian, IH handle Tabby. DM via IH messaging. Found via IH homepage WebFetch during Reddit-blocked run 287.
 [RECORD_END]
+
+[RECORD_START]
+id: L-261
+date_found: 2026-06-12
+username: Kerigami
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-built-a-chrome-extension-after-getting-frustrated-with-switching-tabs-marketing-is-a-completely-different-beast-914c457f0f
+pain_quote: "Mine shipped with a leftover staging tag and the site was literally invisible to Google"
+product_built: unknown (shipped product, details unclear -- check IH profile before sending)
+fit_reason: first-person "mine shipped" confirms they launched something. SEO invisibility from a staging tag is a distribution failure -- they were invisible at the exact moment they needed to be found. classic post-launch distribution gap. comment 4 hours old at time of run, active on the Tabby thread.
+opener_angle: reference the staging tag / Google invisibility. ask what they built and whether fixing the indexing actually brought traffic or if it stayed quiet.
+status: new
+outreach_id: O-240
+notes: comment on Adrian/Tabby IH thread 914c457f0f (2026-06-11, ~20:20 UTC, ~4h before this run). Not previously seen in any note or discard list. DM via IH messaging. Check https://www.indiehackers.com/Kerigami for product details before sending. Run 289.
+[RECORD_END]

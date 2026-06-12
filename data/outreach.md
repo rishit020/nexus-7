@@ -4123,3 +4123,21 @@ date_sent: null
 result: null
 notes: IH post 914c457f0f (2026-06-11T08:58am). 11 upvotes, 19 comments. Day 2 post-launch, first-person marketing pain, explicitly asking for advice. 3 sentences + 1 research line. No em dashes verified. No pitch. No call ask. Research framing. Run 287.
 [RECORD_END]
+
+[RECORD_START]
+id: O-240
+date_created: 2026-06-12
+lead_id: L-261
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about shipping with a leftover staging tag and the site being literally invisible to Google. that's a brutal way to find out.
+
+  what did you build? and once you fixed the indexing, did traffic actually show up or was it still quiet?
+
+  doing research on exactly this gap between launching something and getting people to actually find it.
+status: draft
+date_sent: null
+result: null
+notes: Kerigami commented on Tabby/Adrian thread 914c457f0f (~20:20 UTC June 11, 4h before run). "Mine shipped with a leftover staging tag" confirms first-person launch. SEO invisibility = distribution failure. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check https://www.indiehackers.com/Kerigami before sending to personalize with product name. Run 289.
+[RECORD_END]
