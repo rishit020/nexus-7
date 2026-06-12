@@ -3775,3 +3775,18 @@ status: new
 outreach_id: O-244
 notes: comment on max_flowly_run's 2cbea1089d thread (June 4, ~8 days before run). First seen R252 as WATCH, never formally logged. Check https://www.indiehackers.com/markbnet for product details. DM via IH. Run 291.
 [RECORD_END]
+
+[RECORD_START]
+id: L-266
+date_found: 2026-06-12
+username: 2Martian
+platform: reddit
+url: https://www.reddit.com/r/ShowMeYourSaaS/comments/1u3mzk3/launched_my_multiproperty_ga4_analytics_tool_2/
+pain_quote: "$150 on Ads, 100 clicks, 0 paying users"
+product_built: multi-property GA4 analytics dashboard. SWE/tech lead building portfolio of ~12 side projects. built because native GA4 was clunky for managing multiple properties.
+fit_reason: solo developer, post-launch, spent real money on ads, got traffic but zero conversions. "0 paying users" in post title. clear distribution/conversion problem. first-person pain. fresh 24h.
+opener_angle: reference the $150/100 clicks/zero paying pattern. ask where the drop-off is -- landing page or post-signup.
+status: new
+outreach_id: O-245
+notes: r/ShowMeYourSaaS post (title: "Launched my multi-property GA4 Analytics tool 2 days ago, $150 on Ads, 100 clicks, 0 paying users"). F5Bot keyword "0 paying users" triggered 06:12Z Jun 12 (thread 19eba75b8118aef4). First-person pain, real ad spend, zero conversions. DM via Reddit. Run 297.
+[RECORD_END]

@@ -4213,3 +4213,19 @@ date_sent: null
 result: null
 notes: markbnet commented on max_flowly_run's 2cbea1089d thread (June 4). Zero paying customers from months of IH+X posting. Was R252 WATCH, now promoted to DM after 8 days. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check https://www.indiehackers.com/markbnet for product details before sending. Run 291.
 [RECORD_END]
+
+[RECORD_START]
+id: O-245
+date_created: 2026-06-12
+lead_id: L-266
+platform: reddit
+variant: dm
+draft_text: |
+  saw your ShowMeYourSaaS post. $150 on ads, 100 clicks, and zero paying users is a really specific kind of frustrating, especially when the tool solves a real problem you personally had.
+
+  did those 100 clicks bounce from the landing page, or did people sign up and not convert? doing research on exactly this gap between getting traffic and turning it into customers.
+status: draft
+date_sent: null
+result: null
+notes: r/ShowMeYourSaaS post by 2Martian (F5Bot caught 06:12Z Jun 12). SWE with portfolio of 12+ apps. $150 ads, 100 clicks, 0 paying users. 4 sentences. No em dashes verified. No pitch. No call ask. Research framing. DM via Reddit u/2Martian. Run 297.
+[RECORD_END]
