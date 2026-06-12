@@ -4141,3 +4141,75 @@ date_sent: null
 result: null
 notes: Kerigami commented on Tabby/Adrian thread 914c457f0f (~20:20 UTC June 11, 4h before run). "Mine shipped with a leftover staging tag" confirms first-person launch. SEO invisibility = distribution failure. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check https://www.indiehackers.com/Kerigami before sending to personalize with product name. Run 289.
 [RECORD_END]
+
+[RECORD_START]
+id: O-241
+date_created: 2026-06-12
+lead_id: L-262
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your lazyeats ai post. 10 installs mostly friends after 20+ days building, then the silence. that pattern is exactly what i keep hearing.
+
+  what happened when you tried the videos and quora? was it mostly spam flags, or did anything produce even weak signal?
+
+  doing research on the gap between shipping something and actually getting people to find it.
+status: draft
+date_sent: null
+result: null
+notes: Iyasele Emmanuel built LazyEats AI (Android meal suggestion app). IH post 5dbae4eb5e (June 3, 2026). 10 installs mostly friends, tried short-form video/Quora/forums. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check IH profile for any product updates before sending. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: O-242
+date_created: 2026-06-12
+lead_id: L-263
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on max's build-in-public post. 10 weeks in, 2 paid sales, $54 is a very specific place to be stuck with developer tools.
+
+  curious where those 2 sales came from. and what distribution looks like for you beyond IH?
+
+  doing research on how devtool builders find the right audience post-launch.
+status: draft
+date_sent: null
+result: null
+notes: hakim_linkcover commented on max_flowly_run's 2cbea1089d thread (June 11). Developer tools, 10 weeks post-launch, $54 revenue from 2 sales, no pre-built audience. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check https://www.indiehackers.com/hakim_linkcover for product details before sending. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: O-243
+date_created: 2026-06-12
+lead_id: L-264
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on max's post. five months of steady IH engagement and exactly zero paying customers is one of the more honest descriptions of that gap i've read.
+
+  what are you building? and what channels have you tried beyond IH?
+
+  doing research on the distribution problem for indie builders. your situation is exactly the pattern i keep seeing.
+status: draft
+date_sent: null
+result: null
+notes: memolife23 commented on max_flowly_run's 2cbea1089d thread (June 3-4). 5 months IH posts, zero paying customers. Strong self-diagnosis. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check https://www.indiehackers.com/memolife23 for product details before sending. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: O-244
+date_created: 2026-06-12
+lead_id: L-265
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on max's post. months of IH and X posting with solid engagement and zero paying customers is a really specific kind of stuck.
+
+  what are you building, and have you tried any channels beyond IH and X yet?
+
+  doing research on this gap between getting engagement and actually getting people to pay. sounds like you're in the middle of it.
+status: draft
+date_sent: null
+result: null
+notes: markbnet commented on max_flowly_run's 2cbea1089d thread (June 4). Zero paying customers from months of IH+X posting. Was R252 WATCH, now promoted to DM after 8 days. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check https://www.indiehackers.com/markbnet for product details before sending. Run 291.
+[RECORD_END]

@@ -3715,3 +3715,63 @@ status: new
 outreach_id: O-240
 notes: comment on Adrian/Tabby IH thread 914c457f0f (2026-06-11, ~20:20 UTC, ~4h before this run). Not previously seen in any note or discard list. DM via IH messaging. Check https://www.indiehackers.com/Kerigami for product details before sending. Run 289.
 [RECORD_END]
+
+[RECORD_START]
+id: L-262
+date_found: 2026-06-12
+username: Iyasele_emmanuel
+platform: indiehackers
+url: https://www.indiehackers.com/post/spent-months-building-lazyeats-ai-spent-1-day-realizing-i-have-no-idea-how-to-get-users-5dbae4eb5e
+pain_quote: "Turns out building the thing is only half the battle and nobody really prepares you for the other half."
+product_built: LazyEats AI -- Android meal suggestion app. 20+ days to build, Play Store approved. 10 installs, mostly friends.
+fit_reason: solo dev, post-launch, tried multiple channels (short-form video, Quora, forums) and got spam flags and zero traction. explicit first-person admission that distribution is the unsolved half. 35 comments/12 likes -- active thread.
+opener_angle: reference the 10 installs mostly friends + the channels they tried. ask what happened when they hit the forums/video wall. research framing.
+status: new
+outreach_id: O-241
+notes: IH post 5dbae4eb5e (June 3, 2026). OP is Iyasele Emmanuel. Product is Android app not SaaS but distribution pain is identical ICP. 3vo (L-090) is a thread commenter. DM via IH. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: L-263
+date_found: 2026-06-12
+username: hakim_linkcover
+platform: indiehackers
+url: https://www.indiehackers.com/post/your-build-in-public-audience-is-not-your-market-i-learned-the-difference-the-slow-way-2cbea1089d
+pain_quote: "10 weeks in, 2 paid sales, $54" with developer tools and no pre-built audience
+product_built: developer tools (type unclear -- check IH profile before sending)
+fit_reason: 10 weeks post-launch, $54 total revenue from 2 sales, explicitly describes the no-pre-built-audience distribution gap. comment 1 day old (June 11) -- most recent on the thread. devtool ICP is strong.
+opener_angle: reference the 10 weeks/$54 gap. ask where those 2 sales actually came from and what distribution beyond IH looks like.
+status: new
+outreach_id: O-242
+notes: comment on max_flowly_run's 2cbea1089d thread (June 11, ~1 day before run). Not in any prior note or discard list. Check https://www.indiehackers.com/hakim_linkcover for product details. DM via IH. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: L-264
+date_found: 2026-06-12
+username: memolife23
+platform: indiehackers
+url: https://www.indiehackers.com/post/your-build-in-public-audience-is-not-your-market-i-learned-the-difference-the-slow-way-2cbea1089d
+pain_quote: "Five months my IH posts pulled steady comments and exactly zero of those readers paid"
+product_built: unknown -- 5 months of IH building-in-public. check IH profile for product details.
+fit_reason: 5 months of consistent IH content with zero paying customers. sharp self-diagnosis about the audience mismatch. strong first-person pain.
+opener_angle: reference the 5 months / zero paying customers ratio. ask what they're building and what channels they've tried beyond IH.
+status: new
+outreach_id: O-243
+notes: comment on max_flowly_run's 2cbea1089d thread (June 3-4, ~9 days before run). Not in any prior note or discard list. Check https://www.indiehackers.com/memolife23 for product details. DM via IH. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: L-265
+date_found: 2026-06-12
+username: markbnet
+platform: indiehackers
+url: https://www.indiehackers.com/post/your-build-in-public-audience-is-not-your-market-i-learned-the-difference-the-slow-way-2cbea1089d
+pain_quote: "Zero paying customers from months of posting here and on X" despite solid engagement metrics
+product_built: unknown -- active IH+X builder with engagement but no revenue. check IH profile.
+fit_reason: months of IH and X posting, solid engagement, zero paying customers. exact audience mismatch pattern. was R252 WATCH (outside 24h), now promoted to DM.
+opener_angle: reference months of IH+X engagement vs. zero paying customers. ask what they're building and if they've tried channels beyond IH/X.
+status: new
+outreach_id: O-244
+notes: comment on max_flowly_run's 2cbea1089d thread (June 4, ~8 days before run). First seen R252 as WATCH, never formally logged. Check https://www.indiehackers.com/markbnet for product details. DM via IH. Run 291.
+[RECORD_END]
