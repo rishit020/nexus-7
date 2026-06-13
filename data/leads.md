@@ -3803,7 +3803,7 @@ fit_reason: launched AI SaaS this week, 216 visitors, 0 signups, first-person ex
 opener_angle: reference 216 visitors/0 signups disconnect. ask what they've tried to move the needle.
 status: new
 outreach_id: O-246
-notes: r/micro_saas post (title: "Launched my AI fashion SaaS this week -- 216 visitors, 0 signups. Here's what I lea..."). F5Bot keyword "0 signups" triggered 09:44Z Jun 12 (thread 19ebb37e44da7d46). Sub is borderline (r/micro_saas not on explicit target list but clearly builder-relevant). ICP match is perfect -- qualify. DM via Reddit. Run 301.
+notes: r/micro_saas post (title: "Launched my AI fashion SaaS this week -- 216 visitors, 0 signups. Here's what I lea..."). F5Bot keyword "0 signups" triggered 09:44Z Jun 12 (thread 19ebb37e44da7d46). Sub is borderline (r/micro_saas not on explicit target list but clearly builder-relevant). ICP match is perfect -- qualify. DM via Reddit. Run 301. SECOND POST (09:42Z Jun 13): same person posted again on r/buildinpublic "Building FashClick taught me that getting traffic is easier than getting trust" (https://www.reddit.com/r/buildinpublic/comments/1u4mkm2/building_fashclick_taught_me_that_getting_traffic/) -- 200+ visitors, 0 signups, same pain restated. Still in the pain window and posting publicly. Use buildinpublic post as opener angle (more recent). Run 323.
 [RECORD_END]
 
 [RECORD_START]
