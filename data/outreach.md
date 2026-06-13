@@ -4321,3 +4321,17 @@ date_sent: null
 result: null
 notes: VectorVisionary34 posted r/SaaS "I have a SaaS, but..." (F5Bot keyword "launched my saas", thread 19ebf3100c9aed36, 04:15Z Jun 13). First-person, post-launch, can't figure out Reddit marketing. Reddit egress blocked -- DM via Reddit u/VectorVisionary34 when unblocked. No em dashes verified. No pitch. No call ask. Run 315.
 [RECORD_END]
+
+[RECORD_START]
+id: O-252
+date_created: 2026-06-13
+lead_id: L-273
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your comment in r/saas about 1 sale every 11 visits at zero budget. 9% conversion is actually really solid, which tells me the problem is distribution, not the product itself. what channels have you tried so far and what's the response been? doing research on exactly this gap between having something that converts and actually getting it in front of people.
+status: draft
+date_sent: null
+result: null
+notes: owlyvision commented on r/SaaS post (F5Bot keyword "distribution problem", thread 19e98f1668e8a5e8 msg 19ebf8ba390ecaf0, 05:54Z Jun 13). Real conversion metrics (1 sale/11 visits), $0 marketing budget, explicitly stuck on distribution. Reddit egress blocked -- DM via Reddit u/owlyvision when unblocked. No em dashes verified. No pitch. No call ask. Run 316.
+[RECORD_END]

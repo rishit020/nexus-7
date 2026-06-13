@@ -3880,3 +3880,18 @@ status: new
 outreach_id: O-251
 notes: F5Bot keyword "launched my saas" (thread 19ebf3100c9aed36, 04:15Z Jun 13). r/SaaS post. Reddit egress blocked -- DM via Reddit u/VectorVisionary34 when unblocked. No em dashes verified. No pitch. No call ask. Run 315.
 [RECORD_END]
+
+[RECORD_START]
+id: L-273
+date_found: 2026-06-13
+username: owlyvision
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u4io17/c/orda3e6?context=3
+pain_quote: "1 sale every 11 landing page visits, $0 marketing budget, and completely stuck on distribution problem"
+product_built: unknown SaaS (has conversions, distribution-constrained, zero budget)
+fit_reason: first-person r/SaaS commenter sharing real metrics. 1/11 (~9%) conversion rate is strong -- bottleneck is getting traffic, not converting it. explicit "distribution problem" keyword, $0 marketing budget. textbook Tide ICP.
+opener_angle: the 9% conversion rate is actually solid -- the problem is distribution volume not product quality. ask what channels they've tried and what the response has been.
+status: new
+outreach_id: O-252
+notes: F5Bot keyword "distribution problem" (thread 19e98f1668e8a5e8 msg 19ebf8ba390ecaf0, 05:54Z Jun 13). r/SaaS comment. Not processed in R315 despite being within 06:30Z last_checked window -- R315 labeled thread as "confirmed fully processed" without evaluating Jun 13 messages. Reddit egress blocked -- DM via Reddit u/owlyvision when unblocked. No em dashes verified. No pitch. No call ask. Run 316.
+[RECORD_END]
