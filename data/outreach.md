@@ -4289,3 +4289,21 @@ date_sent: null
 result: null
 notes: desilvakdn posted r/SaaS "45 days, 0 users. Should I move on?" (F5Bot thread 19ebb37e44da7d46 msg 19ebd1b3cc090a5c, 18:32Z Jun 12). 10k views / 0 signups confirmed from comment on post. Reddit egress blocked -- DM via Reddit u/desilvakdn when unblocked. No em dashes verified. No pitch. No call ask. Run 311.
 [RECORD_END]
+
+[RECORD_START]
+id: O-250
+date_created: 2026-06-13
+lead_id: L-271
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post on r/askvibecoders about getting stuck at 0 users for 3 months after building with claude code. that window of improving a product nobody was using while trying to figure out distribution is exactly what i'm researching.
+
+  what did those first few months of distribution attempts actually look like. like what did you try and what was the response you got?
+
+  doing research on the post-launch gap for vibe coders. would genuinely love to understand what tools or resources you wish existed back then.
+status: draft
+date_sent: null
+result: null
+notes: PieZealousideal6228 posted r/AskVibecoders "Stuck at 0 users for 3 months after launch. The things that actually got me moving" (F5Bot thread 19ebb37e44da7d46 msg 19ebdf7eb4f44a41, 22:33Z Jun 12). Shipped app with Claude Code March 2026, 0 signups, 3 months improving product nobody used. Reddit egress blocked -- DM via Reddit u/PieZealousideal6228 when unblocked. No em dashes verified. No pitch. No call ask. Research angle: what did failed distribution attempts look like, what would have helped. Run 312.
+[RECORD_END]

@@ -3850,3 +3850,18 @@ status: new
 outreach_id: O-249
 notes: F5Bot thread 19ebb37e44da7d46 msg 19ebd1b3cc090a5c at 18:32Z Jun 12. "Reddit Comments" format = keyword found in a comment on desilvakdn's post. desilvakdn is the OP. Reddit egress blocked -- DM via Reddit when unblocked. Run 311.
 [RECORD_END]
+
+[RECORD_START]
+id: L-271
+date_found: 2026-06-13
+username: PieZealousideal6228
+platform: reddit
+url: https://www.reddit.com/r/AskVibecoders/comments/1u49nti/stuck_at_0_users_for_3_months_after_launch_the/
+pain_quote: "Shipped my app in March, Claude Code did most of the heavy lifting. Then nothing. 11 visitors on launch day, 0 signups, and I spent the next three months 'improving' a product nobody was using."
+product_built: unknown app shipped March 2026 using Claude Code, 3 months post-launch at 0 users
+fit_reason: textbook vibe coder ICP. used Claude Code, shipped in March, 0 signups on launch day, 3 months improving a product nobody used. post on r/AskVibecoders sharing lessons learned -- strong research conversation target on what distribution wall felt like and what tools were missing in that window.
+opener_angle: reference the 3 months improving a product nobody was using. ask what distribution attempts actually looked like during that window. research framing: what would have helped.
+status: new
+outreach_id: O-250
+notes: F5Bot thread 19ebb37e44da7d46 msg 19ebdf7eb4f44a41 (22:33Z Jun 12 -- NOT processed in R311). r/AskVibecoders (not on explicit target sub list but vibe coder community, ICP match perfect). Post is retrospective lessons-learned, person had exact distribution pain using Claude Code. Reddit egress blocked -- DM via Reddit u/PieZealousideal6228 when unblocked. Run 312.
+[RECORD_END]
