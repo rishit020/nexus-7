@@ -4307,3 +4307,17 @@ date_sent: null
 result: null
 notes: PieZealousideal6228 posted r/AskVibecoders "Stuck at 0 users for 3 months after launch. The things that actually got me moving" (F5Bot thread 19ebb37e44da7d46 msg 19ebdf7eb4f44a41, 22:33Z Jun 12). Shipped app with Claude Code March 2026, 0 signups, 3 months improving product nobody used. Reddit egress blocked -- DM via Reddit u/PieZealousideal6228 when unblocked. No em dashes verified. No pitch. No call ask. Research angle: what did failed distribution attempts look like, what would have helped. Run 312.
 [RECORD_END]
+
+[RECORD_START]
+id: O-251
+date_created: 2026-06-13
+lead_id: L-272
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about launching your saas and not knowing how to get traction on reddit. curious what you've tried so far and what happened. what are you building? doing research on the gap between shipping something and actually getting people to use it.
+status: draft
+date_sent: null
+result: null
+notes: VectorVisionary34 posted r/SaaS "I have a SaaS, but..." (F5Bot keyword "launched my saas", thread 19ebf3100c9aed36, 04:15Z Jun 13). First-person, post-launch, can't figure out Reddit marketing. Reddit egress blocked -- DM via Reddit u/VectorVisionary34 when unblocked. No em dashes verified. No pitch. No call ask. Run 315.
+[RECORD_END]

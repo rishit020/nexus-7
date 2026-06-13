@@ -3865,3 +3865,18 @@ status: new
 outreach_id: O-250
 notes: F5Bot thread 19ebb37e44da7d46 msg 19ebdf7eb4f44a41 (22:33Z Jun 12 -- NOT processed in R311). r/AskVibecoders (not on explicit target sub list but vibe coder community, ICP match perfect). Post is retrospective lessons-learned, person had exact distribution pain using Claude Code. Reddit egress blocked -- DM via Reddit u/PieZealousideal6228 when unblocked. Run 312.
 [RECORD_END]
+
+[RECORD_START]
+id: L-272
+date_found: 2026-06-13
+username: VectorVisionary34
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u4guuc/i_have_a_saas_but/
+pain_quote: "I have already launched my SaaS, but don't know how I can use reddit for its marketing. Help me!!"
+product_built: unknown SaaS (post-launch, marketing phase)
+fit_reason: first-person post-launch, explicitly cannot figure out any channel for marketing. r/SaaS is a target sub. textbook distribution-wall pain immediately after launch.
+opener_angle: reference their reddit marketing confusion. ask what they've tried and what they're building.
+status: new
+outreach_id: O-251
+notes: F5Bot keyword "launched my saas" (thread 19ebf3100c9aed36, 04:15Z Jun 13). r/SaaS post. Reddit egress blocked -- DM via Reddit u/VectorVisionary34 when unblocked. No em dashes verified. No pitch. No call ask. Run 315.
+[RECORD_END]
