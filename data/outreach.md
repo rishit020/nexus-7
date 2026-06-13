@@ -4343,9 +4343,13 @@ lead_id: L-274
 platform: reddit
 variant: dm
 draft_text: |
-  saw your post about being completely stuck on the distribution side while school is piling up. curious what you're building and what distribution has actually looked like so far. like what did you try first and what happened. doing research on exactly this gap between shipping something and getting people to use it.
+  saw your r/saas post about the distribution problem eating both your traction and your grades. brutal spot to be in.
+
+  what have you actually tried on the distribution side so far, like which channels and what happened?
+
+  doing research on exactly this wall that founders hit post-launch.
 status: draft
 date_sent: null
 result: null
-notes: Opposite-Mall-4269 posted r/SaaS "16yo, I'm about to mess up both my studies and my venture (Need advice)" (F5Bot thread 19ec0a85bc6d28d7, 11:05Z Jun 13). 16yo founder naming distribution paralysis explicitly in first person. Reddit egress blocked -- DM via Reddit u/Opposite-Mall-4269 when unblocked. No em dashes verified. No pitch. No call ask. Run 324.
+notes: Opposite-Mall-4269 posted r/SaaS "16yo, I'm about to mess up both my studies and my venture (Need advice)" (F5Bot NEW thread 19ec0a85bc6d28d7, 11:05Z Jun 13 -- missed by R323). Body: "I am so deeply concentrated on trying to fix this distribution problem that I can't even focus on my school studies properly anymore." r/SaaS target sub, first-person, explicit "distribution problem" language, high urgency. Reddit egress blocked -- DM via Reddit u/Opposite-Mall-4269 when unblocked. No em dashes verified. No pitch. No call ask. Run 324.
 [RECORD_END]
