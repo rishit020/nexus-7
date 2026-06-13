@@ -3895,3 +3895,18 @@ status: new
 outreach_id: O-252
 notes: F5Bot keyword "distribution problem" (thread 19e98f1668e8a5e8 msg 19ebf8ba390ecaf0, 05:54Z Jun 13). r/SaaS comment. Not processed in R315 despite being within 06:30Z last_checked window -- R315 labeled thread as "confirmed fully processed" without evaluating Jun 13 messages. Reddit egress blocked -- DM via Reddit u/owlyvision when unblocked. No em dashes verified. No pitch. No call ask. Run 316.
 [RECORD_END]
+
+[RECORD_START]
+id: L-274
+date_found: 2026-06-13
+username: Opposite-Mall-4269
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u4nyb6/16yo_im_about_to_mess_up_both_my_studies_and_my/
+pain_quote: "I am so deeply concentrated on trying to fix this distribution problem that I can't even focus on my school studies properly anymore. I feel completely stuck."
+product_built: unknown (16yo founder, has a venture, currently in distribution struggle)
+fit_reason: 16yo founder first-person naming distribution as the thing consuming them to the point of paralysis. studies vs startup trade-off because distribution is not working. explicit "distribution problem" language, r/SaaS target sub. exact ICP moment.
+opener_angle: the stuck-on-distribution-while-school-piles-up framing. ask what the product is and what distribution has actually looked like. research angle on what the wall feels like.
+status: new
+outreach_id: O-253
+notes: F5Bot keywords "distribution problem" and "shouting into the void" (thread 19ec0a85bc6d28d7, 11:05Z Jun 13). Only r/SaaS signal qualifies -- r/bigdickproblems "shouting into the void" DISCARD. R323 incorrectly labeled this thread as "previously processed" -- first time actually evaluated. Reddit egress blocked -- DM via Reddit u/Opposite-Mall-4269 when unblocked. No em dashes verified. No pitch. No call ask. Run 324.
+[RECORD_END]

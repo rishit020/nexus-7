@@ -4335,3 +4335,17 @@ date_sent: null
 result: null
 notes: owlyvision commented on r/SaaS post (F5Bot keyword "distribution problem", thread 19e98f1668e8a5e8 msg 19ebf8ba390ecaf0, 05:54Z Jun 13). Real conversion metrics (1 sale/11 visits), $0 marketing budget, explicitly stuck on distribution. Reddit egress blocked -- DM via Reddit u/owlyvision when unblocked. No em dashes verified. No pitch. No call ask. Run 316.
 [RECORD_END]
+
+[RECORD_START]
+id: O-253
+date_created: 2026-06-13
+lead_id: L-274
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about being completely stuck on the distribution side while school is piling up. curious what you're building and what distribution has actually looked like so far. like what did you try first and what happened. doing research on exactly this gap between shipping something and getting people to use it.
+status: draft
+date_sent: null
+result: null
+notes: Opposite-Mall-4269 posted r/SaaS "16yo, I'm about to mess up both my studies and my venture (Need advice)" (F5Bot thread 19ec0a85bc6d28d7, 11:05Z Jun 13). 16yo founder naming distribution paralysis explicitly in first person. Reddit egress blocked -- DM via Reddit u/Opposite-Mall-4269 when unblocked. No em dashes verified. No pitch. No call ask. Run 324.
+[RECORD_END]
