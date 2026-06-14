@@ -4353,3 +4353,21 @@ date_sent: null
 result: null
 notes: Opposite-Mall-4269 posted r/SaaS "16yo, I'm about to mess up both my studies and my venture (Need advice)" (F5Bot NEW thread 19ec0a85bc6d28d7, 11:05Z Jun 13 -- missed by R323). Body: "I am so deeply concentrated on trying to fix this distribution problem that I can't even focus on my school studies properly anymore." r/SaaS target sub, first-person, explicit "distribution problem" language, high urgency. Reddit egress blocked -- DM via Reddit u/Opposite-Mall-4269 when unblocked. No em dashes verified. No pitch. No call ask. Run 324.
 [RECORD_END]
+
+[RECORD_START]
+id: O-254
+date_created: 2026-06-14
+lead_id: L-275
+platform: reddit
+variant: dm
+draft_text: |
+  saw you posted in r/indiehackers about running into a distribution problem with your own product. what did you build and what happened when you tried to get users?
+
+  also curious what pushed you to start building your own tool to fix it. like what specifically wasn't working that made you go that route?
+
+  doing research on exactly this wall that builders hit post-launch.
+status: draft
+date_sent: null
+result: null
+notes: keulevoras posted "I have ran into a distribution problem, now I'm creating distribution tool" and "Trying to solve distribution problem in a fun way" on r/indiehackers (F5Bot NEW thread 19ec3811b32e5db7, 00:21Z Jun 14). Both posts auto-removed by AutoModerator. Username confirmed real via F5Bot. Reddit egress blocked -- DM via Reddit u/keulevoras when unblocked. No em dashes verified. No pitch. No call ask. Run 339.
+[RECORD_END]

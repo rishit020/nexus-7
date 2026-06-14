@@ -3910,3 +3910,18 @@ status: new
 outreach_id: O-253
 notes: F5Bot keyword "distribution problem" (NEW thread 19ec0a85bc6d28d7, 11:05Z Jun 13 -- missed by R323 despite being within newer_than:1d window). r/SaaS post. Reddit egress blocked -- DM via Reddit u/Opposite-Mall-4269 when unblocked. No em dashes verified. No pitch. No call ask. Run 324.
 [RECORD_END]
+
+[RECORD_START]
+id: L-275
+date_found: 2026-06-14
+username: keulevoras
+platform: reddit
+url: https://www.reddit.com/r/indiehackers/comments/1u56bs7/i_have_ran_into_a_distribution_problem_now_im/
+pain_quote: "I have ran into a distribution problem, now I'm creating distribution tool"
+product_built: unknown (built something, hit distribution wall, now building own tool to solve it)
+fit_reason: first-person distribution pain explicit in post title, r/indiehackers target sub, ICP confirmed by their own attempt to build a solution. textbook Tide ICP with the strongest possible signal -- felt the pain bad enough to start building.
+opener_angle: their attempt to build a tool is the strongest signal of all. someone who felt this pain bad enough to start building. ask what they actually launched and what the distribution wall looked like specifically.
+status: new
+outreach_id: O-254
+notes: F5Bot keyword "distribution problem" (NEW thread 19ec3811b32e5db7, 00:21Z Jun 14, not surfaced by R338 newer_than:4h gap). Two r/indiehackers posts by keulevoras: 1u56bs7 "I have ran into a distribution problem, now I'm creating distribution tool" and 1u56cjq "Trying to solve distribution problem in a fun way" -- both auto-removed by r/indiehackers AutoModerator (body = [removed]), username real and confirmed via F5Bot. Reddit egress blocked -- DM via Reddit u/keulevoras when unblocked. No em dashes verified. No pitch. No call ask. Run 339.
+[RECORD_END]
