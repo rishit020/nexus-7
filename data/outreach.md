@@ -4371,3 +4371,21 @@ date_sent: null
 result: null
 notes: keulevoras posted "I have ran into a distribution problem, now I'm creating distribution tool" and "Trying to solve distribution problem in a fun way" on r/indiehackers (F5Bot NEW thread 19ec3811b32e5db7, 00:21Z Jun 14). Both posts auto-removed by AutoModerator. Username confirmed real via F5Bot. Reddit egress blocked -- DM via Reddit u/keulevoras when unblocked. No em dashes verified. No pitch. No call ask. Run 339.
 [RECORD_END]
+
+[RECORD_START]
+id: O-255
+date_created: 2026-06-14
+lead_id: L-276
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment on the r/saas thread asking how people got paid users. what did you build?
+
+  been digging into exactly that post-launch window for a while now. talking to people who just launched and trying to map out what's actually working and what isn't.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1u3wj79/c/orjeybv?context=3
+status: draft
+date_sent: null
+result: null
+notes: Weird-Pangolin9490 commented on r/SaaS "Weee freaking did itt" success thread asking "How did you get paid users? I recently launched my SAAS and now I'm trying to find out how to get users" (F5Bot NEW msg 19ec45a16c3ba3c5, 04:18Z Jun 14). Product known as Artiphik.com from R312 context but not referenced in DM. Reddit egress blocked -- DM via Reddit u/Weird-Pangolin9490 when unblocked. No em dashes verified. No pitch. No call ask. Run 342.
+[RECORD_END]
