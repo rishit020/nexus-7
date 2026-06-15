@@ -4407,3 +4407,35 @@ date_sent: null
 result: null
 notes: LawfulGoodGM posted "Looking for testers. LLM Request Observability Platform" on r/SaaS (F5Bot NEW thread 19ec9498f933de3a, 03:18Z Jun 15). Product: Witness (witness.sh) -- LLM observability SaaS + 4 SDKs. Just soft-launched, seeking testers = zero organic users. Reddit egress blocked -- DM via Reddit u/LawfulGoodGM when unblocked. No em dashes verified. No pitch. No call ask. Run 359.
 [RECORD_END]
+
+[RECORD_START]
+id: O-257
+date_created: 2026-06-15
+lead_id: L-278
+platform: hn
+variant: comment
+draft_text: |
+  honest answer: the first users for niche tools almost never come from traditional marketing. they come from being in communities where your target users already hang out, and being genuinely useful there. for power user tools that usually means specific subreddits or discord servers in that niche. been researching this exact gap between launch and first users. what kind of problems do your apps solve?
+action: COMMENT on https://news.ycombinator.com/item?id=48532821
+target_url: https://news.ycombinator.com/item?id=48532821
+status: draft
+date_sent: null
+result: null
+notes: rohand7 Ask HN "How do I do marketing for an app I made" (48532821, 2026-06-14T21:16:22Z). Casual lowercase, no em dashes, no pitch, ends with genuine question. Run 361.
+[RECORD_END]
+
+[RECORD_START]
+id: O-258
+date_created: 2026-06-15
+lead_id: L-279
+platform: hn
+variant: comment
+draft_text: |
+  been doing a lot of research on this exact question. for tool-type products especially, written content in niche communities still outperforms most other channels for early traction. targeted posts in relevant subreddits, HN threads, and niche newsletters tend to convert better than video for the first few hundred users. saw you launched legitize.app too. what's the specific person you're trying to reach with it?
+action: COMMENT on https://news.ycombinator.com/item?id=48529892
+target_url: https://news.ycombinator.com/item?id=48529892
+status: draft
+date_sent: null
+result: null
+notes: ynxshiny Ask HN "What's the best way to advertise your startup without making videos?" (48529892, 2026-06-14T17:19Z) + Show HN legitize.app (48533403). Dual signal strongest fit of run. Casual lowercase, no em dashes, no pitch, ends with genuine question. Run 361.
+[RECORD_END]

@@ -3955,3 +3955,33 @@ status: new
 outreach_id: O-256
 notes: F5Bot keyword "launched my saas" (NEW thread 19ec9498f933de3a, 03:18Z Jun 15). r/SaaS post. Reddit egress blocked -- DM via Reddit u/LawfulGoodGM when unblocked. No em dashes verified. No pitch. No call ask. Run 359.
 [RECORD_END]
+
+[RECORD_START]
+id: L-278
+date_found: 2026-06-15
+username: rohand7
+platform: hn
+url: https://news.ycombinator.com/item?id=48532821
+pain_quote: "a few apps that I feel are really helpful for power users" but "not sure how to promote it or to get users"
+product_built: multiple apps for power users (unspecified, positive feedback from friends)
+fit_reason: first-person distribution confusion, built things, explicitly asking how to promote and get users. textbook ICP.
+opener_angle: add genuine value on where power-user tool builders find first users. end with question about what problems the apps solve.
+status: new
+outreach_id: O-257
+notes: HN Ask HN post 48532821 "How do I do marketing for an app I made" (2026-06-14T21:16:22Z, 2pts/0c). Reddit egress blocked -- HN COMMENT action. No em dashes verified. No pitch. No call ask. Run 361.
+[RECORD_END]
+
+[RECORD_START]
+id: L-279
+date_found: 2026-06-15
+username: ynxshiny
+platform: hn
+url: https://news.ycombinator.com/item?id=48529892
+pain_quote: "What's the best way to advertise your startup without making videos?"
+product_built: legitize.app (tool to check if side hustle income claims are real, Show HN 48533403)
+fit_reason: dual signal -- built a product AND explicitly asking how to market it. strongest ICP fit of run.
+opener_angle: acknowledge the question with genuine value on written-content channels. reference legitize.app launch. end with question about target user.
+status: new
+outreach_id: O-258
+notes: HN Ask HN post 48529892 "What's the best way to advertise your startup without making videos?" (2026-06-14T17:19Z, 2pts/0c) + Show HN 48533403 legitize.app (2026-06-14T22:13Z, 2pts/0c). Dual signal. Reddit egress blocked -- HN COMMENT action on 48529892. No em dashes verified. No pitch. No call ask. Run 361.
+[RECORD_END]
