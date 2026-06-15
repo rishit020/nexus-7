@@ -255,3 +255,226 @@ session_start: 2026-06-03 06:05
 session_start: 2026-06-04 06:05
 
 
+
+
+
+
+
+
+session_start: 2026-06-05 06:05
+
+
+
+
+
+
+
+
+
+
+
+session_start: 2026-06-06 01:01
+
+
+
+
+
+
+
+
+
+
+
+
+session_start: 2026-06-07 00:02
+
+monitor_run: 2026-06-07 17:00 UTC
+emails_checked: F5Bot + Reddit (newer_than:2h)
+hits: 2 (slimhagrid/r/CommanderMTG, Taxibl/r/Jordans)
+qualified_leads: 0 — both wrong subreddits, not builder pain
+action: none
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+session_start: 2026-06-08 00:02
+
+
+
+
+
+
+
+
+session_start: 2026-06-09 00:02
+scout_run_237: 2026-06-09 16:30 UTC -- 0 leads. Reddit blocked. Gmail F5Bot full parse: mindCare-wellness DISCARD (mental health/India/wrong sub). Thread 19ea7015498d0473 cleared: Local_Loan_9890/Minute_Estimate_4418/Vaprolol all DISCARD (commenters/non-target subs, usernames confirmed real). Pipeline 245 unchanged.
+scout_run_238: 2026-06-09 17:00 UTC -- 0 leads. Gmail F5Bot newer_than:2h: 4 signals evaluated, all DISCARD. Ecstatic_Law3753/r/startups (takes/analysis, no first-person pain). Key-Tea-3775/r/Femalefounders (first-person pain but wrong sub). mindCare-wellness/r/SideProject+r/Anxietyhelp (already discarded R237, India mental health app, post removed). Pipeline 245 unchanged.
+scout_run_240: 2026-06-09 21:30 UTC -- 0 leads. Gmail F5Bot newer_than:2h: Thread 19e98f1668e8a5e8 (dist problem, 38 msgs) + Thread 19ea7015498d0473 (shouting void, 28 msgs). 5 new signals since R239 cutoff (12:11Z): Ok-Concert-533/r/microsaas (non-target sub), AcanthisittaTall127/r/micro_saas (non-target sub), TheButterNote/r/NintendoSwitch (gaming), Curious_Tap_6078/r/SideProject (built own solution, promotional), CrunchyGobbo/r/duneawakening (gaming). All DISCARD. Pipeline 246 unchanged. PENDING REVIEW: O-222 thru O-230 (9 DM drafts).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+session_start: 2026-06-10 00:02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+session_start: 2026-06-11 00:05
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+session_start: 2026-06-12 00:01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+session_start: 2026-06-13 02:01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+session_start: 2026-06-14 00:01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+session_start: 2026-06-15 00:02
+
+
+
+
+
+
+
+
+
+
+
+

@@ -3006,3 +3006,982 @@ status: watch
 outreach_id: null
 [RECORD_END]
 
+
+[RECORD_START]
+id: L-214
+date_found: 2026-06-04
+username: Im__Broke__
+platform: reddit
+subreddit: SideProject
+url: https://www.reddit.com/r/SideProject/comments/1tvwnf3/i_launched_my_saas_on_product_hunt_and_finished/
+pain_quote: "Every launch recap I read before mine was suspiciously glossy, and that quietly wrecked my expectations. So here is the honest version."
+product_built: Bulkmark -- turns saved Twitter/X bookmarks into a weekly email digest
+fit_reason: Post-launch SaaS builder sharing honest (disappointing) numbers from Product Hunt launch. Top 5 on PH but explicitly acknowledging reality fell short of expectations. The "honest version" framing is a clear signal that the numbers didn't translate to real traction. Post-launch distribution gap is exactly Tide's thesis.
+opener_angle: Join the thread as a researcher on the post-launch distribution window. Ask what the traffic curve looked like after day 1. Add genuine value to the discussion around PH vs sustained growth.
+status: new
+outreach_id: O-210
+[RECORD_END]
+
+[RECORD_START]
+id: L-215
+date_found: 2026-06-04
+username: Imthatguyimhimfr
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1twiuq1/50_signups_in_my_first_week_but_am_i_focusing_on/
+pain_quote: "most of my time is going into distribution and trying to get more people through the door"
+product_built: SaaS (unspecified -- 50 registrations week 1, ~10% visitor signup rate, ~50% onboarding completion)
+fit_reason: Week 1 post-launch, distribution is the active daily focus, asking whether to prioritize it vs fixing onboarding. Real post-launch distribution struggle with first-person pain.
+opener_angle: Reference the week 1 / distribution grind. Ask what channels they're hitting and whether anything is producing consistent traffic. Research framing.
+status: new
+outreach_id: O-211
+[RECORD_END]
+
+[RECORD_START]
+id: L-216
+date_found: 2026-06-04
+username: LiveUnderstanding535
+platform: reddit
+subreddit: SaaS
+url: https://www.reddit.com/r/SaaS/comments/1tuoxtg/35_visitors_74_bounce_rate_0_signups_the_reality/
+pain_quote: "35 visitors, 74% bounce rate, 0 signups. The reality of my first two weeks."
+product_built: unknown (post removed -- only title preserved)
+fit_reason: Post-launch SaaS builder sharing honest first two weeks numbers. Title is pure first-person pain: zero signups, high bounce rate, minimal traffic. Exact Tide ICP. Post was removed by AutoModerator but title survived and the DM angle is clear. Two weeks in = fresh wound, likely still searching for answers.
+opener_angle: Reference the post title directly. Ask where those 35 visitors actually came from -- organic, launch posts, or something else. Keep it a genuine question about their traffic source, not a pitch.
+status: new
+outreach_id: O-212
+[RECORD_END]
+
+[RECORD_START]
+id: L-217
+date_found: 2026-06-05
+username: PhoebeHealth
+platform: indiehackers
+url: https://www.indiehackers.com/post/2-weeks-later-still-no-paying-users-heres-what-i-ve-learned-0bc55f0cdb
+pain_quote: "zero paying anything... just trying to get people to look"
+product_built: Phoebe -- predictive migraine engine (health app)
+fit_reason: First-person post-launch pain, named product, explicit distribution gap. Not a typical SaaS/vibe coder but real ICP signal -- built something, can't get eyes on it. Commented in a thread full of exact Tide ICP builders, which means they self-selected into the conversation.
+opener_angle: Reference the Buildfield thread comment. Ask what channels they've tried for a health app specifically and what the response looked like even if small.
+status: new
+outreach_id: O-213
+[RECORD_END]
+
+[RECORD_START]
+id: L-218
+date_found: 2026-06-05
+username: javamantraact
+platform: hackernews
+url: https://news.ycombinator.com/shownew
+pain_quote: "Show HN: CentProof -- Local-first bank statement reconciliation for macOS" (1 pt, 0 comments, 38 min old at time of logging)
+product_built: CentProof -- local-first bank statement reconciliation tool for macOS
+fit_reason: Show HN launched to near-silence (1 point, 0 comments). Classic post-launch HN distribution gap. No explicit pain language yet -- too new to confirm. WATCH: check in next run for comment thread and engagement signal.
+opener_angle: If still stuck after 24h, reference the Show HN launch and ask how it went and where they're going next.
+status: watch
+outreach_id: null
+[RECORD_END]
+
+[RECORD_START]
+id: L-219
+date_found: 2026-06-05
+username: Clikdeo
+platform: hackernews
+url: https://news.ycombinator.com/shownew
+pain_quote: "Show HN: ClikDeo -- Browser-based video editor" (1 pt, 1 comment, 49 min old at time of logging)
+product_built: ClikDeo -- browser-based video editor (trim, merge, shorts creator)
+fit_reason: Show HN launched to near-silence (1 point, 1 comment). Crowded market (video editors). No explicit pain language yet. WATCH: needs 24h to assess real traction level and whether distribution pain is explicit.
+opener_angle: If still minimal traction after 24h, ask how the launch went and what distribution looks like beyond HN.
+status: watch
+outreach_id: null
+[RECORD_END]
+
+[RECORD_START]
+id: L-220
+date_found: 2026-06-05
+username: Minimum_Boss9220
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tx994v/failed_so_many_times_i_lost_count/
+pain_quote: "Just had LinkedIn and a small email list. Users weren't enough to help me decide moving on."
+product_built: unknown SaaS (launched with waitlist, re-launched after code fix)
+fit_reason: Launched SaaS, got 100s on waitlist, spent 4-5 months fixing code, re-launched and emailed waitlist -- less than 10% converted. Only distribution was LinkedIn and a small email list. Zero budget. Classic distribution gap: had validation signal but no channels to scale. Post is fresh (F5Bot alert 03:28Z Jun 5).
+opener_angle: Focus on the conversion drop -- 100s of waitlist signups to under 10% converting on relaunch. Ask what killed it: time decay on the list, or the lack of new channels.
+status: new
+outreach_id: O-214
+[RECORD_END]
+
+[RECORD_START]
+id: L-221
+date_found: 2026-06-05
+username: Unlikely_Being_6032
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1twsezh/
+pain_quote: "having a great product and getting people to discover it are two completely different skill sets. it can feel like you're shouting into the void trying to get anyone to notice"
+product_built: SaaS (specifics unknown -- experimenting with LinkedIn for distribution, finding it slow)
+fit_reason: first-person post-launch distribution struggle, explicitly names the product-to-discovery skill gap, using LinkedIn but finding it slow -- actively stuck, r/buildinpublic, exact ICP
+opener_angle: the LinkedIn experimentation that is "quite slow" -- ask what distribution has looked like beyond LinkedIn and where it falls apart
+status: new
+outreach_id: O-215
+[RECORD_END]
+
+[RECORD_START]
+id: L-222
+date_found: 2026-06-05
+username: Subject_Bullfrog703
+platform: reddit
+url: https://www.reddit.com/r/micro_saas/comments/1tgdlop/
+pain_quote: "I used to grind out helpful content on every channel and it felt like shouting into the void. What actually moved the needle was hunting for people who were already pissed off"
+product_built: micro SaaS (unknown specifics -- built manual Reddit outreach tracking system: saved searches + spreadsheet logging post/pain/reply/conversion)
+fit_reason: first-person past distribution pain solved manually with a spreadsheet system -- Tide would automate exactly what they built. power user profile, high-context research conversation. r/micro_saas.
+opener_angle: the manual system they built -- ask how it holds up at scale and whether the overhead becomes its own problem
+status: new
+outreach_id: O-216
+[RECORD_END]
+
+[RECORD_START]
+id: L-223
+date_found: 2026-06-05
+username: UNKNOWN — Reddit egress blocked. Check reddit.com/r/buildinpublic/comments/1rgdmcu/ manually for OP username.
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1rgdmcu/
+pain_quote: "Launched my SaaS 20 days ago, getting traffic but 0 signups. Is this normal?"
+product_built: SaaS (unknown -- 20 days post-launch, has traffic, zero signup conversion)
+fit_reason: Post-launch 20 days, traffic but 0 signups -- exact distribution-to-conversion gap Tide targets. Classic ICP: built something, getting eyes on it, nobody signing up. Very fresh (F5Bot alert 10:46Z Jun 5). r/buildinpublic. HIGH priority once username is found.
+opener_angle: The traffic-zero-signups gap -- ask what the SaaS does and where the traffic is coming from. Research framing on why traffic doesn't convert in the early window.
+status: watch
+outreach_id: null
+notes: ACTION NEEDED -- Reddit access blocked in this environment. Rishit must open the URL above to get the OP username, then this upgrades to DM with O-217.
+[RECORD_END]
+
+[RECORD_START]
+id: L-224
+date_found: 2026-06-05
+username: theuniverseson
+platform: indiehackers
+url: https://www.indiehackers.com/post/launched-on-product-hunt-to-zero-users-heres-what-i-changed-37f6925837
+pain_quote: "the positioning sold a philosophy when people wanted to know what the thing does"
+product_built: BotWork -- AI Agent Freelance Network
+fit_reason: Post-launch, zero external users after weeks of positioning work. Honest post-mortem on a June 3 2026 launch. Named the exact failure mode (messaging problem) and came out with a fix. Solo builder, real product, first-person pain. ICP fit: built something, launched, hit the wall.
+opener_angle: The zero external users after weeks of prep -- ask what channels they tried beyond the PH positioning and where it fell apart.
+status: new
+outreach_id: O-217
+[RECORD_END]
+
+[RECORD_START]
+id: L-225
+date_found: 2026-06-05
+username: m1tisch
+platform: indiehackers
+url: https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8
+pain_quote: "11 signups, all people I already know. Permanently banned from r/personalfinance on my first day trying Reddit."
+product_built: Yesterday -- AI financial coach
+fit_reason: Two distribution walls hit at once: closed network (11 signups all known contacts) and Reddit permanently banned day one. $0 revenue. Actively searching for what to do next. LinkedIn identified as possible channel but no results yet. Strong first-person pain, named product, real numbers.
+opener_angle: The Reddit ban on day one + all-known-contacts problem. Ask what the plan is now that Reddit is off the table and the warm network is exhausted.
+status: new
+outreach_id: O-218
+[RECORD_END]
+
+[RECORD_START]
+id: L-226
+date_found: 2026-06-05
+username: JaejooLEE
+platform: indiehackers
+url: https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8
+pain_quote: "10+ people visit my site, look at the landing page, and leave. Distribution honestly feels harder than building sometimes."
+product_built: unknown -- helping small founders with customer development (exact product unclear)
+fit_reason: Traffic-to-conversion gap with specific numbers (10+ visits, zero conversions). First-person pain quote. However, "helping small founders with customer development" framing is ambiguous -- may be more advisor than solo builder. WATCH: check IH profile before upgrading to DM.
+opener_angle: The 10+ visitors leaving without converting -- ask what the product is and whether it's a messaging gap or wrong audience.
+status: watch
+outreach_id: null
+[RECORD_END]
+
+[RECORD_START]
+id: L-227
+date_found: 2026-06-05
+username: HighwayHungry8456
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1tw0cjd/im_tired_of_guests_never_reading_my_house_manual/
+pain_quote: "I just launched my Saas Welkome.app"
+product_built: Welkome.app -- digital guide platform for Airbnb/short-term rental hosts (modular guest guides, usage tracking, multilingual)
+fit_reason: Fresh launch post on r/buildinpublic. No distribution pain expressed yet, but literally just shipped. High probability of hitting the distribution wall in the coming days or weeks. Pattern: "I built something, just launched it" with no mention of traction or channel strategy. ICP candidate to revisit.
+opener_angle: Ask what channels they're planning to use to get their first hosts. Low-pressure research angle.
+status: watch
+outreach_id: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-03T19:48:21Z. r/buildinpublic. Post is a product announcement, no distribution pain yet. Revisit if they post again about traction or crickets. Do NOT DM now -- too early, no pain signal.
+[RECORD_END]
+
+[RECORD_START]
+id: L-228
+date_found: 2026-06-05
+username: Minimum_Boss9220
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tx994v/failed_so_many_times_i_lost_count/
+pain_quote: "Just had LinkedIn and a small email list. Users weren't enough to help me decide moving on."
+product_built: unknown SaaS (launched last year with waitlist, code issues, relaunched, <10% email conversion, $0 campaign budget)
+fit_reason: Real distribution failure story: hundreds of waitlist signups, relaunched, emailed list, <10% conversion. No budget for campaigns. Classic post-launch distribution wall. However: (1) uses "we" throughout so team, not solo. (2) pain is past-tense, they already moved on. (3) post tone is "raising awareness" not seeking help. Low urgency for outreach.
+opener_angle: The <10% email conversion after waitlist relaunch -- ask what the product was and whether the problem was messaging, audience, or timing.
+status: watch
+outreach_id: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-05T03:28:18Z. r/SaaS post. Pain is historical. "We" language suggests team. Post explicitly says "NOT LOOKING FOR ANY SYMPATHY." Upgrade to DM only if they post again with active distribution frustration. r/SaaS AutoModerator risk -- verify post is still live before engaging.
+[RECORD_END]
+
+[RECORD_START]
+id: L-229
+date_found: 2026-06-06
+username: unknown -- Rishit must check manually
+platform: reddit
+url: https://www.reddit.com/r/ClaudeAI/comments/1txkn86/
+pain_quote: "I've built 4 iOS apps with Claude. 5 more in progress. Zero users. Zero revenue."
+product_built: 4+ iOS apps built with Claude AI. Vibe coder profile -- used AI tools to ship multiple products, zero traction on all of them.
+fit_reason: Textbook vibe coder ICP. Multiple products shipped with AI tools, zero users and zero revenue across all of them. Described in post title directly. iOS focus is slightly weaker fit for Tide (web-first) but the distribution gap is the same. Strong pain signal from post title alone.
+opener_angle: Reference the "4 apps, zero users" pattern -- ask what distribution looked like across those and whether it was the same wall each time.
+status: watch
+outreach_id: null
+notes: F5Bot "distribution problem" keyword hit via ai_without_borders comment on thread 2026-06-05T14:32:18Z. OP username unknown -- F5Bot only captured the commenter. ACTION: Rishit must manually visit reddit.com/r/ClaudeAI/comments/1txkn86/ to find the OP username. Promote to DM once username confirmed. Do not DM ai_without_borders (commenter, not ICP).
+[RECORD_END]
+
+[RECORD_START]
+id: L-230
+date_found: 2026-06-06
+username: Quirky_Situation581
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tx994v/ -- NOTE: full URL needs verification, Reddit egress blocked. Post was in r/SaaS titled "My Learnings from a first time SaaS founder."
+pain_quote: "Launched my SaaS about 2 days ago."
+product_built: unknown (first SaaS, product details not available -- Reddit egress blocked)
+fit_reason: First-time SaaS founder, 2 days post-launch, actively documenting learnings and asking questions. In the exact window Tide targets -- the build-to-users gap is live right now. High urgency because the post is fresh.
+opener_angle: The 2-days-post-launch timing -- ask what distribution looks like right now, what they've tried first. Research framing is natural here.
+status: new
+outreach_id: O-220
+notes: F5Bot "launched my saas" keyword hit 2026-06-06T01:37:15Z. r/SaaS post titled "My Learnings from a first time SaaS founder." Appeared in run 183's parse window (01:37Z June 6, after run 182's 00:45Z cutoff) but NOT listed in run 183's evaluated signals -- confirmed missed. Reddit egress blocked so full post content unavailable. Rishit should verify exact URL and product before sending DM. DM via Reddit.
+[RECORD_END]
+
+[RECORD_START]
+id: L-231
+date_found: 2026-06-06
+username: unknown -- Rishit must check manually
+platform: reddit
+url: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1twll4g/
+pain_quote: "266k views, 11 tiles sold, 0 press responses"
+product_built: digital product (tiles -- likely design assets, icon sets, or similar. Not SaaS. Creator/maker profile.)
+fit_reason: Went viral (266k views) and couldn't convert. 11 units sold from 266k views is a brutal conversion gap. This is the exact views-to-users problem Tide addresses, in creator form rather than SaaS. Slightly weaker ICP than vibe-coder-with-SaaS but the distribution gap is identical. Worth a DM once username confirmed.
+opener_angle: The 266k views to 11 sales ratio -- ask whether the problem was click-through from video or people landing and not converting. Same diagnostic question as L-040 (DishCheck).
+status: watch
+outreach_id: null
+notes: F5Bot "shouting into the void" keyword hit via SpecialDance7619 comment on this post 2026-06-05T12:19:19Z. OP username unknown -- SpecialDance7619 is the commenter. ACTION: Rishit must manually visit reddit.com/r/EntrepreneurRideAlong/comments/1twll4g/ to find OP username. If product is digital asset (not SaaS/software), ICP is weaker but still valid for research conversation. Promote to DM once username confirmed and product type verified.
+[RECORD_END]
+
+[RECORD_START]
+id: L-232
+date_found: 2026-06-06
+username: Exotic_Pollution5870
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1txsa18/distribution_problem_or_wrong_category/
+pain_quote: "Building is comfortable. Distribution is not."
+product_built: bootstrapped SaaS (has paying customers, activation <30%, growth stalled)
+fit_reason: Technical founder who explicitly named distribution as the blocker. Has revenue but activation is broken and growth has stalled. Asked the exact question Tide answers: distribution problem or wrong category. Research conversation.
+opener_angle: The distribution vs. wrong category framing -- ask what distribution actually looks like as a blocker right now: finding new customers or converting the ones who find them.
+status: new
+outreach_id: O-221
+notes: F5Bot "distribution problem" keyword hit 2026-06-05T18:00:17Z. r/SaaS post title exact keyword match. Also posted in r/SaasDevelopers. Bootstrapped, technical founder, has paying customers but activation <30% and growth stalled. Not zero-user ICP but in explicit distribution pain window. Run 185. DM via Reddit. r/SaaS AutoModerator risk -- verify post still live before engaging.
+[RECORD_END]
+
+[RECORD_START]
+id: L-233
+date_found: 2026-06-06
+username: Riveras_4u
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1txy7jl/100_honest_breakdown_of_my_saas_journey_13k_mrr/
+pain_quote: "ROAS is 0.5 (lol) So far no churn, but too early to tell"
+product_built: unknown SaaS (launched April 22 2026, 2 weeks old, spending $600+/day on Meta + Google ads)
+fit_reason: 2 weeks post-launch, $1.3K MRR but net -$5K on ads. Has users via paid but ROAS 0.5 means the paid channel will break eventually. Will need organic distribution. Watch for organic pivot post.
+opener_angle: The paid-to-organic pivot moment -- when ads stop making financial sense they will want alternative channels.
+status: watch
+outreach_id: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-05T21:40:21Z. r/SaaS. Has $1.3K MRR but burning $5K net on ads. Different from zero-user ICP. Do NOT DM now -- they are in paid ads mode and have partial traction. Monitor for follow-up post about organic channels or ads not working. Run 185.
+[RECORD_END]
+
+[RECORD_START]
+id: L-234
+date_found: 2026-06-06
+username: shailzy
+platform: reddit
+url: https://www.reddit.com/r/indiehackers/ (full URL unavailable -- Reddit egress blocked; post found via F5Bot)
+pain_quote: "spent 2 months building a consumer app and still have almost no users outside my [network]"
+product_built: consumer app (specifics unknown -- full post content unavailable)
+fit_reason: 2 months post-build, almost no users outside their immediate circle. First-person post in r/indiehackers with "distribution problem" keyword match. Classic post-launch distribution gap in the exact Tide ICP window.
+opener_angle: The 2-month window with near-zero outside users -- ask what distribution actually looked like and which channels they tried.
+status: new
+outreach_id: O-222
+notes: F5Bot "distribution problem" keyword hit 2026-06-06T06:12:16Z. r/indiehackers post (Reddit egress blocked, full content unavailable). Rishit should read the full post before sending to verify ICP fit and personalize with product name. DM via Reddit. Run 189.
+[RECORD_END]
+
+[RECORD_START]
+id: L-236
+date_found: 2026-06-06
+username: arjanirh624
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tyhetq/my_saas_is_month_old_with_no_return/
+pain_quote: "My Saas Is Month Old With No Return!"
+product_built: unknown SaaS (one month post-launch, 0 users, 0 revenue)
+fit_reason: Month-old SaaS with zero users or revenue. Post title is first-person pain. Commenters confirmed the distribution problem diagnosis. Classic Tide ICP post-launch window.
+opener_angle: The month-in, zero users data point -- ask what they've tried to get people to discover it and what they built.
+status: new
+outreach_id: O-223
+notes: F5Bot "distribution problem" keyword hit 2026-06-06T20:51:20Z. Comment on arjanirh624's r/SaaS post confirmed "A month in with 0 users usually isn't a product problem; it's a distribution problem." arjanirh624 is the post author with the pain. r/SaaS has AutoModerator risk -- Rishit should verify post still live before engaging. Run 192. DM via Reddit.
+[RECORD_END]
+
+[RECORD_START]
+id: L-235
+date_found: 2026-06-06
+username: Quirky_Situation581
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1ty3ouy/my_learnings_from_a_first_time_saas_founder/
+pain_quote: "Launched my SaaS about 2 days ago. Do you have..."
+product_built: unknown SaaS (2 days post-launch, first product)
+fit_reason: First-time SaaS founder in the very first days post-launch, sharing learnings and asking for help. Asking a question mid-post ("do you have...") suggests seeking advice on the distribution problem. Classic ICP entry window.
+opener_angle: The day-2 reality check -- ask what distribution looks like right now and where they're planning to focus first.
+status: watch
+outreach_id: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-06T01:37:15Z. r/SaaS. Full post text unavailable (Reddit egress blocked). Snippet truncated at "Do you have..." -- likely asking for distribution advice. Manual check needed at https://www.reddit.com/r/SaaS/comments/1ty3ouy/ before deciding DM vs. discard. Run 190.
+[RECORD_END]
+
+[RECORD_START]
+id: L-237
+date_found: 2026-06-07
+username: Exotic_Pollution5870
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1txsa18/distribution_problem_or_wrong_category/
+pain_quote: "Building is comfortable. Distribution is not."
+product_built: unknown bootstrapped SaaS with paying customers but low activation (<30% of paid signups complete onboarding)
+fit_reason: Bootstrapped founder who explicitly named the distribution problem vs. category question. Has revenue but stuck on growth -- slightly more advanced than core Tide ICP (zero-user Jackson) but the pain is real and the language is exact. Research conversation on what breaks at the growth stage vs. launch stage would be valuable.
+opener_angle: WATCH -- if upgraded, ask whether the 30% onboarding completion is a product UX problem or a distribution/ICP mismatch. That distinction is what Tide's targeting data would solve.
+status: watch
+outreach_id: null
+notes: F5Bot "distribution problem" keyword hit in post title 2026-06-05T18:00:17Z. r/SaaS and r/SaasDevelopers cross-post. Not listed in any prior run's processed list. Has paying customers so slightly outside core ICP, but the distribution framing is exact. Reddit egress blocked -- cannot fetch full post or comments. Manual check at https://www.reddit.com/r/SaaS/comments/1txsa18/ when Reddit unblocks. Run 195.
+[RECORD_END]
+
+[RECORD_START]
+id: L-238
+date_found: 2026-06-07
+username: jj_wondering101
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tyavn3/c/oq70vv3?context=3
+pain_quote: "I just launched my saas app, any more advice you may have?"
+product_built: unknown SaaS (just launched, seeking advice)
+fit_reason: Freshly launched SaaS, first-person, asking for advice by commenting on a SaaS failure post. Classic early post-launch window before the crickets set in. Prime DM candidate while the advice-seeking energy is fresh.
+opener_angle: They're fresh out of the gate asking for advice. Ask what the hardest part feels like right now -- getting people to find it, or something else.
+status: new
+outreach_id: O-224
+notes: F5Bot "launched my saas" keyword hit 2026-06-07T02:04:19Z. Commented on r/SaaS post "I burnt all my investor money and my saas failed. Here's how i burnt it" (post ID: 1tyavn3). Full comment: "I just launched my saas app, any more advice you may have?" Reddit egress blocked -- cannot verify current comment/post. DM via Reddit. Run 198.
+[RECORD_END]
+
+[RECORD_START]
+id: L-239
+date_found: 2026-06-07
+username: KingfinityCreator
+platform: reddit
+url: https://www.reddit.com/r/micro_saas/comments/1tybcar/
+pain_quote: "Launched my SaaS this week: a YouTube monetization tracker."
+product_built: YouTube monetization tracker/engine SaaS
+fit_reason: Just launched a SaaS and cross-posting across subreddits (r/CreatorEconomy, r/micro_saas) to get visibility. Cross-posting = active distribution effort with no organic traction yet. Plausible ICP fit.
+opener_angle: WATCH -- if upgraded, ask what channels they've tried beyond Reddit posting and how the launch has gone traction-wise.
+status: watch
+outreach_id: null
+notes: F5Bot "launched my saas" keyword hit in post titles: r/CreatorEconomy 2026-06-06T06:49:13Z and r/micro_saas 2026-06-06T08:16:15Z. Cross-posting the same launch post across subs. "I've been lurking and posting here for a while" in snippet -- no explicit pain statement. Reddit egress blocked, cannot read full post. Manual check at https://www.reddit.com/r/micro_saas/comments/1tybcar/ when Reddit unblocks. Run 198.
+[RECORD_END]
+
+[RECORD_START]
+id: L-240
+date_found: 2026-06-07
+username: [unknown - Reddit egress blocked]
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tz8ppb/
+pain_quote: "7 Users. $5.02 Burned. Almost No Revenue."
+product_built: AI Document Scanning SaaS
+fit_reason: Built an AI SaaS, launched, ended up with 7 users and almost no revenue. Classic post-launch distribution wall. Strong ICP fit -- vibe-coder-adjacent builder who shipped something real and got stuck.
+opener_angle: WATCH -- if upgraded, ask what they tried after launch to get those 7 users and which channels they focused on.
+status: watch
+outreach_id: null
+notes: F5Bot "distribution problem" keyword hit 2026-06-07T10:51:16Z via comment by SwiggityDiggity8 on r/SaaS post. OP is the ICP target. Reddit egress blocked -- cannot fetch OP username or full post content. Manual check at https://www.reddit.com/r/SaaS/comments/1tz8ppb/ when Reddit unblocks to get username and verify post is live. Run 205.
+[RECORD_END]
+
+[RECORD_START]
+id: L-241
+date_found: 2026-06-08
+username: lcuennof
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tzrp1h/i_analyzed_102_recent_rsaas_posts_because_my_own/
+pain_quote: "my own SaaS got 3 tiny sales and then went quiet"
+product_built: unknown SaaS (post-launch, minimal traction)
+fit_reason: got 3 initial sales then silence. Analyzed 102 r/SaaS posts trying to crack distribution — personal pain is the motivation. Solo builder in the exact post-launch stuck window Tide targets. r/SaaS poster, first-person pain confirmed.
+opener_angle: reference the 3 sales then silence gap, ask what happened after those sales and whether it was a channel problem or message problem
+status: new
+outreach_id: O-225
+[RECORD_END]
+
+[RECORD_START]
+id: L-242
+date_found: 2026-06-08
+username: Conscious-Image-4161
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1tzs6q9/83_visitors_0_signups_how_do_you_diagnose_where/
+pain_quote: "83 visitors, 0 signups — 0 core actions, 0 checkouts, 0 paid users. 0 signups still feels like a signal that something is off."
+product_built: small SaaS (unknown specifics)
+fit_reason: 83 total visitors with zero conversions anywhere in the funnel. First-person, specific numbers, actively diagnosing the problem. Early-stage distribution/activation failure in r/SaaS.
+opener_angle: the blank funnel diagnostic — 83 visitors with zero anything tells a story. ask what the product is and where those 83 visitors came from
+status: new
+outreach_id: O-226
+notes: F5Bot "0 signups" keyword hit 2026-06-08T00:09:15Z. Different post from r/microsaas discard in Run 213 (that was a promotional listing). This post is genuine first-person pain in r/SaaS. Email was UNREAD in Run 216 check. Run 217.
+[RECORD_END]
+
+[RECORD_START]
+id: L-243
+date_found: 2026-06-08
+username: Dapper-Turn-3021
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u04vmz/built_the_product_got_free_users_now_stuck_on/
+pain_quote: "I have no idea how to consistently get paid customers. I spent most of my time building the product and very little time learning distribution."
+product_built: SaaS (unknown specifics — has organic free users, positive feedback, product is live)
+fit_reason: Technical founder who launched, has organic free signups and positive feedback, but explicitly stuck on distribution and paid conversion. Named the gap directly: building vs distribution time split. Classic Tide ICP — past launch, real product, real users, stuck on paid.
+opener_angle: reference the free-users-but-no-paid gap specifically, ask what channels they've actually tried for distribution so far
+status: new
+outreach_id: O-227
+notes: F5Bot "launched my saas" keyword hit 2026-06-08T11:20:16Z, r/SaaS. Post ~6 hours old at time of logging. Run 220.
+[RECORD_END]
+
+[RECORD_START]
+id: L-244
+date_found: 2026-06-08
+username: jay_cobski
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u0kvj8/customer_2_felt_like_the_first_real_moment_of/
+pain_quote: "from February to mid-May was mostly crickets: a few demos, a lot of 'no thanks' after the demo, and a pile of cold emails and LinkedIn DMs that just never got replies"
+product_built: SaaS (launched late December 2025, got first customer January, then months of crickets before customer #2)
+fit_reason: clear first-person distribution pain across 5 months between customers. explicitly names cold email and LinkedIn DMs going nowhere. r/SaaS post. someone who eventually broke through -- high value research conversation about what actually worked.
+opener_angle: what finally moved the needle for customer #2 -- research angle on what works, not just what fails
+status: new
+outreach_id: O-228
+notes: F5Bot "launched my saas" keyword hit 2026-06-08T21:14:22Z, r/SaaS. Second message in thread 19ea6f640ec21561 (first message was Dapper-Turn-3021, processed Run 220). Run 223.
+[RECORD_END]
+
+[RECORD_START]
+id: L-245
+date_found: 2026-06-08
+username: settern-io
+platform: reddit
+url: https://www.reddit.com/r/vibecoding/comments/1u0hdzc/c/oqj1w8r
+pain_quote: "Built an interactive world map. Launched it. 0 signups. Might be the most ignored map ever."
+product_built: settern.io -- interactive world map (consumer web app)
+fit_reason: launched something, got 0 signups, in r/vibecoding (HIGH orbit fit). weaker ICP than SaaS founders since product is a free consumer app, but the distribution pain is real and the subreddit is exact target.
+opener_angle: what they actually tried to distribute it post-launch, any channel with even weak signal
+status: new
+outreach_id: O-229
+notes: F5Bot "0 signups" keyword hit 2026-06-08T21:46:19Z, r/vibecoding. Comment in "Drop your app, I'll roast it" thread. Humorous tone but genuine 0-signup post-launch pain. Run 223.
+[RECORD_END]
+
+[RECORD_START]
+id: L-246
+date_found: 2026-06-09
+username: Key-Tea-3775
+platform: reddit
+url: https://www.reddit.com/r/Femalefounders/comments/1u0im10/c/oqmjq1x
+pain_quote: "Marketing often feels like shouting into the void and hoping someone hears you. As an introvert, creating content has been much harder for me than learning Python or building features."
+product_built: unknown (building something, technical founder with Python/feature-building skills)
+fit_reason: first-person distribution pain, technical founder who builds but struggles with marketing. exact ICP framing -- knows how to code, cannot figure out how to get users. in r/Femalefounders responding to "what kept you going when nobody cared?" thread.
+opener_angle: the introvert-builder angle -- technical skills vs. distribution skills gap
+status: new
+outreach_id: O-230
+notes: F5Bot "shouting into the void" keyword hit 2026-06-09T12:11:18Z, r/Femalefounders comment. email thread 19eac4b5343fbe27. Run 238.
+[RECORD_END]
+
+[RECORD_START]
+id: L-247
+date_found: 2026-06-09
+username: flynnsinclair
+platform: indiehackers
+url: https://www.indiehackers.com/post/launched-on-product-hunt-yesterday-2-upvotes-0-sales-what-the-data-actually-said-259e99ca68
+pain_quote: "PH doesn't create distribution. It amplifies existing distribution. I was relying on the platform to do the audience-building I hadn't done."
+product_built: The Job Hunter's AI Bundle -- 44 ChatGPT prompts + 118-page workbook, $39 one-time
+fit_reason: solo creator, launched on PH with 2 upvotes and 0 sales, named the exact distribution gap: relied on PH instead of building audience first. not a SaaS but digital product launch pattern is same. post May 27 2026.
+opener_angle: the "PH amplifies distribution, not creates it" insight -- they've already diagnosed the problem correctly. ask what audience-building has looked like since and what they've tried.
+status: watch
+outreach_id: null
+notes: IH post May 27 2026, 13 days old at logging. Surfaced in monitor runs 228/231 as "old" but never logged. 1 comment on thread. flynnsinclair confirmed not in prior pipeline. Run 243.
+[RECORD_END]
+
+[RECORD_START]
+id: L-248
+date_found: 2026-06-09
+username: JoshBlythe
+platform: indiehackers
+url: https://www.indiehackers.com/post/142-month-in-aws-bills-9-users-0-revenue-i-built-the-internets-first-multimodal-ai-hacking-game-57ce5c7a65
+pain_quote: "I spent 95% of time building and 5% distributing. That's backwards."
+product_built: Bordair -- multimodal AI security API detecting prompt injection across text, images, documents, audio. $19/month tier. Includes gamified experience (Bordair's Castle, 5 kingdoms, 35 levels) as distribution layer.
+fit_reason: solo dev (evenings/weekends), 9 users, 0 revenue, $142/mo AWS. explicitly named the 95%/5% build-to-distribute ratio inversion. first-person, strong diagnostic awareness. weaker ICP than typical vibe coder (security API is niche B2B) but the distribution gap is identical.
+opener_angle: the 95/5 ratio -- ask what the 5% distributing actually looked like and whether any channel gave even weak signal.
+status: watch
+outreach_id: null
+notes: IH post April 8 2026, 2 months old at logging. 33+ comments (high-engagement thread). Not in prior pipeline or monitor notes. Run 243.
+[RECORD_END]
+
+[RECORD_START]
+id: L-249
+date_found: 2026-06-10
+username: theuniverseson
+platform: indiehackers
+url: https://www.indiehackers.com/post/launched-on-product-hunt-to-zero-users-heres-what-i-changed-37f6925837
+pain_quote: "I led with a worldview when people had a job in mind" (author reply, June 9 -- still actively working through positioning)
+product_built: BotWork -- solo founder launched on Product Hunt to zero external users, now rebuilding as web app with repositioned messaging
+fit_reason: post-PH silence, zero external users, actively iterating on positioning and distribution. author still engaged (replied to comment June 9). IH founder who shipped something real and is in the middle of the distribution problem.
+opener_angle: the PH-to-zero-users experience and the worldview-vs-job positioning shift -- ask how the web app version is landing and whether any channel is producing signal
+status: watch
+outreach_id: O-231
+notes: IH post June 3 2026. Author (Andrii Krugliak) active -- replied to comment "1 day ago" as of Run 245. Has surfaced in monitor runs 213-245 (17 consecutive runs) without being logged. OVERDUE for manual DM review. Run 245.
+[RECORD_END]
+
+[RECORD_START]
+id: L-250
+date_found: 2026-06-10
+username: m1tisch
+platform: indiehackers
+url: https://www.indiehackers.com/post/30-days-ago-i-posted-here-with-0-revenue-heres-what-actually-happened-next-93c9df78f8
+pain_quote: "Launching Yesterday (AI financial coach); 11 signups all personal contacts; banned from r/personalfinance"
+product_built: Yesterday -- AI financial coach
+fit_reason: launched an AI financial coach, only 11 signups all from personal contacts (zero organic), got banned from r/personalfinance when trying to distribute. classic post-launch distribution gap with a specific failed-channel data point.
+opener_angle: the 11-personal-contacts-only gap and the r/personalfinance ban -- zero organic traction, tried the obvious channel and got shut down
+status: watch
+outreach_id: null
+notes: commenter on Kelon/TruthScore IH thread 93c9df78f8. Comment ~May 26 2026 (~14 days old at Run 245). Not previously logged. IH profile stub only -- needs more research before DM. Run 245.
+[RECORD_END]
+
+[RECORD_START]
+id: L-251
+date_found: 2026-06-10
+username: MikeCode
+platform: indiehackers
+url: https://www.indiehackers.com/post/google-indexed-exactly-zero-of-my-pages-after-2-weeks-is-this-normal-or-am-i-doing-something-stupid-8fed9e8d9b
+pain_quote: "Google Search Console has indexed exactly ZERO pages. Checking GSC every single morning only to see that flatline is psychologically brutal."
+product_built: GenForms -- AI form builder with auto-retry backoffs and real-time delivery logs
+fit_reason: solo founder, launched GenForms, zero indexed pages after 2 weeks, ~11 sessions/day via dark social. Explicitly describes the post-launch distribution flatline. The SEO invisibility is a specific manifestation of the broader distribution gap Tide addresses.
+opener_angle: the zero-indexed-pages flatline after 2 weeks -- ask what other distribution channels they've tried beyond SEO and whether any produced signal
+status: watch
+outreach_id: null
+notes: IH post June 8 2026 (outside 24h window). Not previously logged. Run 246.
+[RECORD_END]
+
+[RECORD_START]
+id: L-252
+date_found: 2026-06-10
+username: TamingBrainClutter
+platform: indiehackers
+url: https://www.indiehackers.com/post/building-a-complex-saas-was-the-easy-part-now-i-need-proof-c1fcfc93ca
+pain_quote: "Being right about the product doesn't make people buy it."
+product_built: PrivacyKit -- GDPR consent management SaaS combining consent collection, enforcement, and runtime compliance validation
+fit_reason: solo founder Michael, built a technically correct product, zero paying customers, explicitly names the distribution-to-proof gap. Seeking 100 founding users. Real product live.
+opener_angle: the "being right doesn't make people buy it" realization -- ask what channels they've tried to reach GDPR-aware developers and whether any produced signal
+status: watch
+outreach_id: null
+notes: IH post June 8 2026 (outside 24h window). B2B GDPR niche -- weaker ICP than core Jackson but pain is genuine. Not previously logged. Run 246.
+[RECORD_END]
+
+[RECORD_START]
+id: L-253
+date_found: 2026-06-10
+username: SpinachMakesYouFat
+platform: reddit
+url: https://www.reddit.com/r/micro_saas/comments/1u1isvd/dont_be_like_me_and_waste_your_producthunt_launch/
+pain_quote: "launched my SaaS on ProductHunt on a whim...completely wasted a serious opportunity...blasting cold emails for two days now to no avail"
+product_built: unknown SaaS (launched on Product Hunt, now in post-launch cold email phase with zero results)
+fit_reason: launched PH without prep, no results, now cold emails going nowhere. explicit first-person post-launch distribution failure. F5Bot "launched my saas" keyword hit. post under 12h old at time of logging. strong ICP pain even though r/micro_saas is outside primary target sub list.
+opener_angle: reference the wasted PH launch and cold email dead-end, ask what they built and what PH day actually looked like
+status: new
+outreach_id: O-232
+[RECORD_END]
+
+[RECORD_START]
+id: L-254
+date_found: 2026-06-10
+username: No_Trainer6906
+platform: reddit
+url: https://www.reddit.com/r/SaaS/ (exact post URL pending -- Reddit egress blocked, post found via F5Bot email 19eb192a678a5473)
+pain_quote: "Launched my SaaS 3 weeks ago and can't get traffic—what am I missing?"
+product_built: unknown SaaS (3 weeks post-launch, zero traffic)
+fit_reason: first-person post-launch distribution struggle. 3 weeks live, explicitly zero traffic, asking for help. r/SaaS target sub. F5Bot "launched my saas" keyword hit. post under 1h old at time of logging (12:47Z). strong Jackson archetype.
+opener_angle: 3 weeks live with no traffic -- ask what channels they've tried and whether anything produced any signal at all
+status: new
+outreach_id: O-233
+notes: F5Bot email 19eb192a678a5473 (2026-06-10T12:47:18Z). Gmail thread fetch failed (entity not found). Reddit direct access blocked. Post URL needs verification once Reddit unblocked. Run 254.
+[RECORD_END]
+
+[RECORD_START]
+id: L-255
+date_found: 2026-06-10
+username: Couponpicked
+platform: reddit
+url: https://reddit.com/r/SideProject (comment on "Shipped a month ago, still 0 beta users. What am I doing wrong" thread)
+pain_quote: used "distribution problem" phrase commenting on 0-beta-users thread in r/SideProject
+product_built: unknown (Reddit egress blocked, full comment text not accessible)
+fit_reason: commented on exact ICP pain thread using "distribution problem" phrase. r/SideProject is core target sub. thread context confirms post-launch builder with no users. never appeared in any prior run discard note despite being in historical thread 19e98f1668e8a5e8.
+opener_angle: reference the r/SideProject comment, ask what their own shipping and distribution experience looked like
+status: new
+outreach_id: O-234
+notes: F5Bot "distribution problem" keyword hit. Found during full parse of thread 19e98f1668e8a5e8 -- gap in prior processing. Reddit blocked so full comment unverified. Rishit should verify before sending. Run 255.
+[RECORD_END]
+
+[RECORD_START]
+id: L-256
+date_found: 2026-06-11
+username: enjoyminded
+platform: hackernews
+url: https://news.ycombinator.com/item?id=48472285
+pain_quote: "Distribution turned out to be much harder than building. AI significantly accelerated development but didn't solve the distribution problem."
+product_built: UK job board with built-in ATS (plus other solo projects built around a full-time job and family)
+fit_reason: solo builder, working full-time while raising a child, explicitly names the AI-accelerates-building-but-not-distribution gap. that's Tide's thesis in their own words. HN post June 10, first-person, not advisory.
+opener_angle: the AI-sped-up-building-but-not-distribution line. ask what distribution actually looked like and what felt most broken about it.
+status: new
+outreach_id: O-235
+notes: F5Bot "distribution problem" keyword hit in thread 19e98f1668e8a5e8 (MSG 51, 2026-06-10T02:41:19Z). HN post 48472285 created 2026-06-10T06:33:22Z, pain quote from comment 48474113 (2026-06-10T10:19:12Z). Not present in any prior run note. Run 263.
+[RECORD_END]
+
+[RECORD_START]
+id: L-257
+date_found: 2026-06-11
+username: Hot_Low_6552
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u2013w/c/oqzd0yi
+pain_quote: "I also recently launched my SaaS for event managers any tips for me"
+product_built: SaaS for event managers (recently launched)
+fit_reason: recently launched, asking for tips on a 2000+ users success story thread. implies no traction yet, seeking distribution help. first-person builder in r/SaaS target sub.
+opener_angle: reference the event manager SaaS and ask what the first few weeks looked like, getting visibility or converting people who do find it
+status: new
+outreach_id: O-236
+notes: F5Bot "launched my saas" keyword hit. Thread "My Tool crossed 2000+ users today" in r/SaaS. Comment context: asking successful founder for tips implies they haven't reached that level yet. Email thread 19eb53301c3cb485 (2026-06-11T05:41:19Z). Run 269.
+[RECORD_END]
+
+[RECORD_START]
+id: L-258
+date_found: 2026-06-11
+username: nynrathod
+platform: indiehackers
+url: https://www.indiehackers.com/post/277-cold-emails-reddit-posts-x-threads-5-signups-0-paid-users-this-is-what-month-one-actually-looked-like-7397288132
+pain_quote: "277 cold emails. reddit posts. x threads. 5 signups. 0 paid users. this is what month one actually looked like."
+product_built: DooCloud -- generates production-ready APIs from schemas in under 5 minutes (authentication, SSL, rate limiting included). Solo founder.
+fit_reason: 6 weeks post-launch, tried 7+ channels (Apollo cold email, LinkedIn, X daily threads, Reddit across 6+ subs, dev.to, PH, HN). 277 cold emails yielded 5 signups and 0 paid. Highest effort-to-zero-result ratio logged this pipeline. Identifies "trust gap" not product quality as the problem. First-person, specific numbers, still actively struggling.
+opener_angle: the 277 cold emails to 0 paid ratio. ask if people were actually replying and not converting, or mostly ghosting. that reply-vs-ghost distinction opens the diagnostic conversation.
+status: new
+outreach_id: O-237
+notes: IH post May 27 2026 (7397288132). 0 comments -- very low engagement despite vivid pain. Never appeared in any prior run note or discard list. Found via IH WebSearch during Reddit-blocked run 274. DM via IH messaging.
+[RECORD_END]
+
+[RECORD_START]
+id: L-259
+date_found: 2026-06-11
+username: GoodProfessional4993
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1u20ftc/c/or1xvyw
+pain_quote: "I just launched my SAAS product casagbic, I was searching for website like this"
+product_built: casagbic (product type unknown, just launched)
+fit_reason: just launched their SaaS and immediately sought out a list of 100 places to promote it. no distribution plan at launch is the classic ICP entry point. searching for promotion resources right after shipping = the distribution gap is live right now. r/buildinpublic is a target sub.
+opener_angle: just launched casagbic and hunting for promotion resources -- ask what channels they have in mind or whether they're still figuring out where to start
+status: new
+outreach_id: O-238
+notes: F5Bot "launched my saas" keyword hit in thread 19eb7594f3c61f90 (2026-06-11T15:42:23Z). Comment on "i made a free list of 100 places where you can promote your app" thread in r/buildinpublic. Thread not processed in any prior run. Pain implicit (seeking promotion help right after launch) rather than explicit crickets. DM via Reddit. Run 280.
+[RECORD_END]
+
+[RECORD_START]
+id: L-260
+date_found: 2026-06-11
+username: Tabby
+platform: indiehackers
+url: https://www.indiehackers.com/post/6-weeks-solo-2-rejections-finally-live-but-nobody-told-me-marketing-would-be-this-hard-914c457f0f
+pain_quote: "The building part? Hard but manageable. The marketing part? A completely different beast that I was not prepared for."
+product_built: Tabby -- Chrome extension that monitors RAM pressure and auto-sleeps idle tabs when memory gets high
+fit_reason: solo builder, 6 weeks of work, post-launch day 2, explicitly struggling with marketing alone, Reddit bounced them (low karma), asking the IH community for help. first-person pain, not advice content. low-karma Reddit bounce maps directly to the distribution wall Tide solves.
+opener_angle: reference the Reddit brutality + marketing wall combo. ask what they've tried beyond Reddit. research framing.
+status: new
+outreach_id: O-239
+notes: IH post 914c457f0f (2026-06-11T08:58am). 11 upvotes, 19 comments -- active thread. Chrome store rejected extension twice before launch, now Day 2 post-launch hitting the marketing wall. Author is Adrian, IH handle Tabby. DM via IH messaging. Found via IH homepage WebFetch during Reddit-blocked run 287.
+[RECORD_END]
+
+[RECORD_START]
+id: L-261
+date_found: 2026-06-12
+username: Kerigami
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-built-a-chrome-extension-after-getting-frustrated-with-switching-tabs-marketing-is-a-completely-different-beast-914c457f0f
+pain_quote: "Mine shipped with a leftover staging tag and the site was literally invisible to Google"
+product_built: unknown (shipped product, details unclear -- check IH profile before sending)
+fit_reason: first-person "mine shipped" confirms they launched something. SEO invisibility from a staging tag is a distribution failure -- they were invisible at the exact moment they needed to be found. classic post-launch distribution gap. comment 4 hours old at time of run, active on the Tabby thread.
+opener_angle: reference the staging tag / Google invisibility. ask what they built and whether fixing the indexing actually brought traffic or if it stayed quiet.
+status: new
+outreach_id: O-240
+notes: comment on Adrian/Tabby IH thread 914c457f0f (2026-06-11, ~20:20 UTC, ~4h before this run). Not previously seen in any note or discard list. DM via IH messaging. Check https://www.indiehackers.com/Kerigami for product details before sending. Run 289.
+[RECORD_END]
+
+[RECORD_START]
+id: L-262
+date_found: 2026-06-12
+username: Iyasele_emmanuel
+platform: indiehackers
+url: https://www.indiehackers.com/post/spent-months-building-lazyeats-ai-spent-1-day-realizing-i-have-no-idea-how-to-get-users-5dbae4eb5e
+pain_quote: "Turns out building the thing is only half the battle and nobody really prepares you for the other half."
+product_built: LazyEats AI -- Android meal suggestion app. 20+ days to build, Play Store approved. 10 installs, mostly friends.
+fit_reason: solo dev, post-launch, tried multiple channels (short-form video, Quora, forums) and got spam flags and zero traction. explicit first-person admission that distribution is the unsolved half. 35 comments/12 likes -- active thread.
+opener_angle: reference the 10 installs mostly friends + the channels they tried. ask what happened when they hit the forums/video wall. research framing.
+status: new
+outreach_id: O-241
+notes: IH post 5dbae4eb5e (June 3, 2026). OP is Iyasele Emmanuel. Product is Android app not SaaS but distribution pain is identical ICP. 3vo (L-090) is a thread commenter. DM via IH. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: L-263
+date_found: 2026-06-12
+username: hakim_linkcover
+platform: indiehackers
+url: https://www.indiehackers.com/post/your-build-in-public-audience-is-not-your-market-i-learned-the-difference-the-slow-way-2cbea1089d
+pain_quote: "10 weeks in, 2 paid sales, $54" with developer tools and no pre-built audience
+product_built: developer tools (type unclear -- check IH profile before sending)
+fit_reason: 10 weeks post-launch, $54 total revenue from 2 sales, explicitly describes the no-pre-built-audience distribution gap. comment 1 day old (June 11) -- most recent on the thread. devtool ICP is strong.
+opener_angle: reference the 10 weeks/$54 gap. ask where those 2 sales actually came from and what distribution beyond IH looks like.
+status: new
+outreach_id: O-242
+notes: comment on max_flowly_run's 2cbea1089d thread (June 11, ~1 day before run). Not in any prior note or discard list. Check https://www.indiehackers.com/hakim_linkcover for product details. DM via IH. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: L-264
+date_found: 2026-06-12
+username: memolife23
+platform: indiehackers
+url: https://www.indiehackers.com/post/your-build-in-public-audience-is-not-your-market-i-learned-the-difference-the-slow-way-2cbea1089d
+pain_quote: "Five months my IH posts pulled steady comments and exactly zero of those readers paid"
+product_built: unknown -- 5 months of IH building-in-public. check IH profile for product details.
+fit_reason: 5 months of consistent IH content with zero paying customers. sharp self-diagnosis about the audience mismatch. strong first-person pain.
+opener_angle: reference the 5 months / zero paying customers ratio. ask what they're building and what channels they've tried beyond IH.
+status: new
+outreach_id: O-243
+notes: comment on max_flowly_run's 2cbea1089d thread (June 3-4, ~9 days before run). Not in any prior note or discard list. Check https://www.indiehackers.com/memolife23 for product details. DM via IH. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: L-265
+date_found: 2026-06-12
+username: markbnet
+platform: indiehackers
+url: https://www.indiehackers.com/post/your-build-in-public-audience-is-not-your-market-i-learned-the-difference-the-slow-way-2cbea1089d
+pain_quote: "Zero paying customers from months of posting here and on X" despite solid engagement metrics
+product_built: unknown -- active IH+X builder with engagement but no revenue. check IH profile.
+fit_reason: months of IH and X posting, solid engagement, zero paying customers. exact audience mismatch pattern. was R252 WATCH (outside 24h), now promoted to DM.
+opener_angle: reference months of IH+X engagement vs. zero paying customers. ask what they're building and if they've tried channels beyond IH/X.
+status: new
+outreach_id: O-244
+notes: comment on max_flowly_run's 2cbea1089d thread (June 4, ~8 days before run). First seen R252 as WATCH, never formally logged. Check https://www.indiehackers.com/markbnet for product details. DM via IH. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: L-266
+date_found: 2026-06-12
+username: 2Martian
+platform: reddit
+url: https://www.reddit.com/r/ShowMeYourSaaS/comments/1u3mzk3/launched_my_multiproperty_ga4_analytics_tool_2/
+pain_quote: "$150 on Ads, 100 clicks, 0 paying users"
+product_built: multi-property GA4 analytics dashboard. SWE/tech lead building portfolio of ~12 side projects. built because native GA4 was clunky for managing multiple properties.
+fit_reason: solo developer, post-launch, spent real money on ads, got traffic but zero conversions. "0 paying users" in post title. clear distribution/conversion problem. first-person pain. fresh 24h.
+opener_angle: reference the $150/100 clicks/zero paying pattern. ask where the drop-off is -- landing page or post-signup.
+status: new
+outreach_id: O-245
+notes: r/ShowMeYourSaaS post (title: "Launched my multi-property GA4 Analytics tool 2 days ago, $150 on Ads, 100 clicks, 0 paying users"). F5Bot keyword "0 paying users" triggered 06:12Z Jun 12 (thread 19eba75b8118aef4). First-person pain, real ad spend, zero conversions. DM via Reddit. Run 297.
+[RECORD_END]
+
+[RECORD_START]
+id: L-267
+date_found: 2026-06-12
+username: AmbitiousPlant4721
+platform: reddit
+url: https://www.reddit.com/r/micro_saas/comments/1u3qla4/launched_my_ai_fashion_saas_this_week_216/
+pain_quote: "The harder part has been getting strangers to care. Over the last few days I got around 216 visitors and 450+ page views." [0 signups]
+product_built: FashClick -- AI tool that turns fashion product photos into model and marketing images without a photoshoot
+fit_reason: launched AI SaaS this week, 216 visitors, 0 signups, first-person explicit distribution pain. perfect ICP. F5Bot keyword "0 signups" in post title.
+opener_angle: reference 216 visitors/0 signups disconnect. ask what they've tried to move the needle.
+status: new
+outreach_id: O-246
+notes: r/micro_saas post (title: "Launched my AI fashion SaaS this week -- 216 visitors, 0 signups. Here's what I lea..."). F5Bot keyword "0 signups" triggered 09:44Z Jun 12 (thread 19ebb37e44da7d46). Sub is borderline (r/micro_saas not on explicit target list but clearly builder-relevant). ICP match is perfect -- qualify. DM via Reddit. Run 301. SECOND POST (09:42Z Jun 13): same person posted again on r/buildinpublic "Building FashClick taught me that getting traffic is easier than getting trust" (https://www.reddit.com/r/buildinpublic/comments/1u4mkm2/building_fashclick_taught_me_that_getting_traffic/) -- 200+ visitors, 0 signups, same pain restated. Still in the pain window and posting publicly. Use buildinpublic post as opener angle (more recent). Run 323.
+[RECORD_END]
+
+[RECORD_START]
+id: L-268
+date_found: 2026-06-12
+username: pradhyum15
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1u2siut/i_quit_my_job_6_months_ago_my_runway_is_shrinking/
+pain_quote: "I quit my job 6 months ago. My runway is shrinking and I'm still looking for PMF"
+product_built: unknown -- Reddit egress blocked, cannot fetch full post content
+fit_reason: first-person, high-urgency. quit job, 6 months in, shrinking runway, no PMF. F5Bot keyword "distribution problem" confirmed in post body. r/SideProject is a target sub. strong ICP.
+opener_angle: reference 6 months/shrinking runway tension. ask what distribution has actually looked like.
+status: new
+outreach_id: O-247
+notes: F5Bot "distribution problem" keyword hit 2026-06-11T07:56:20Z (thread 19e98f1668e8a5e8). Reddit POST on r/SideProject. Reddit egress blocked -- cannot fetch full post content. DM via Reddit when unblocked. Run 308.
+[RECORD_END]
+
+[RECORD_START]
+id: L-269
+date_found: 2026-06-12
+username: Mysterious-Honey1457
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1u41csf/my_tiktok_ads_hit_3_ctr_and_045_clicks_and/
+pain_quote: "~3,800 visits → ~85 tapped the CTA → 19 created a poll → ~0 signups. TikTok visitors engage at ~1%; my word-of-mouth visitors at ~13% on the same page. So I'm winning the click and losing the human the second they land."
+product_built: unknown -- early stage, one city, running TikTok ads, significant traffic but zero signups
+fit_reason: first-person, explicit 0 signups despite 3,800 visits and paid TikTok traffic. r/SideProject is a target sub. "winning the click and losing the human" -- textbook post-launch distribution pain. F5Bot keyword "0 signups" in post.
+opener_angle: reference 3,800 visits / 0 signups with the paid vs word-of-mouth conversion gap. ask what they think is actually off.
+status: new
+outreach_id: O-248
+notes: r/SideProject post (F5Bot keyword "0 signups"). Thread 19ebcd5b551d85d7 at 17:16Z Jun 12 -- not processed in any prior run. Same user also posted on r/PPC (thread 19ebb37e44da7d46 msg 19ebccab02a49d90, 17:04Z) -- DISCARD (wrong sub). DM via Reddit. Run 309.
+[RECORD_END]
+
+[RECORD_START]
+id: L-270
+date_found: 2026-06-12
+username: desilvakdn
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u3wajz/
+pain_quote: "45 days, 0 users. Should I move on?"
+product_built: unknown -- 45 days post-launch, has traffic (10k views) but zero signups
+fit_reason: first-person, 45 days post-launch with 0 users and 10k views / 0 signups. r/SaaS is a target sub. actively asking whether to give up -- peak distribution-pain urgency. F5Bot "0 signups" keyword found in comment on their post.
+opener_angle: reference the 10k views / 0 signups gap. that's a conversion problem not a discovery problem -- ask what they're building and where the views came from.
+status: new
+outreach_id: O-249
+notes: F5Bot thread 19ebb37e44da7d46 msg 19ebd1b3cc090a5c at 18:32Z Jun 12. "Reddit Comments" format = keyword found in a comment on desilvakdn's post. desilvakdn is the OP. Reddit egress blocked -- DM via Reddit when unblocked. Run 311.
+[RECORD_END]
+
+[RECORD_START]
+id: L-271
+date_found: 2026-06-13
+username: PieZealousideal6228
+platform: reddit
+url: https://www.reddit.com/r/AskVibecoders/comments/1u49nti/stuck_at_0_users_for_3_months_after_launch_the/
+pain_quote: "Shipped my app in March, Claude Code did most of the heavy lifting. Then nothing. 11 visitors on launch day, 0 signups, and I spent the next three months 'improving' a product nobody was using."
+product_built: unknown app shipped March 2026 using Claude Code, 3 months post-launch at 0 users
+fit_reason: textbook vibe coder ICP. used Claude Code, shipped in March, 0 signups on launch day, 3 months improving a product nobody used. post on r/AskVibecoders sharing lessons learned -- strong research conversation target on what distribution wall felt like and what tools were missing in that window.
+opener_angle: reference the 3 months improving a product nobody was using. ask what distribution attempts actually looked like during that window. research framing: what would have helped.
+status: new
+outreach_id: O-250
+notes: F5Bot thread 19ebb37e44da7d46 msg 19ebdf7eb4f44a41 (22:33Z Jun 12 -- NOT processed in R311). r/AskVibecoders (not on explicit target sub list but vibe coder community, ICP match perfect). Post is retrospective lessons-learned, person had exact distribution pain using Claude Code. Reddit egress blocked -- DM via Reddit u/PieZealousideal6228 when unblocked. Run 312.
+[RECORD_END]
+
+[RECORD_START]
+id: L-272
+date_found: 2026-06-13
+username: VectorVisionary34
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u4guuc/i_have_a_saas_but/
+pain_quote: "I have already launched my SaaS, but don't know how I can use reddit for its marketing. Help me!!"
+product_built: unknown SaaS (post-launch, marketing phase)
+fit_reason: first-person post-launch, explicitly cannot figure out any channel for marketing. r/SaaS is a target sub. textbook distribution-wall pain immediately after launch.
+opener_angle: reference their reddit marketing confusion. ask what they've tried and what they're building.
+status: new
+outreach_id: O-251
+notes: F5Bot keyword "launched my saas" (thread 19ebf3100c9aed36, 04:15Z Jun 13). r/SaaS post. Reddit egress blocked -- DM via Reddit u/VectorVisionary34 when unblocked. No em dashes verified. No pitch. No call ask. Run 315.
+[RECORD_END]
+
+[RECORD_START]
+id: L-273
+date_found: 2026-06-13
+username: owlyvision
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u4io17/c/orda3e6?context=3
+pain_quote: "1 sale every 11 landing page visits, $0 marketing budget, and completely stuck on distribution problem"
+product_built: unknown SaaS (has conversions, distribution-constrained, zero budget)
+fit_reason: first-person r/SaaS commenter sharing real metrics. 1/11 (~9%) conversion rate is strong -- bottleneck is getting traffic, not converting it. explicit "distribution problem" keyword, $0 marketing budget. textbook Tide ICP.
+opener_angle: the 9% conversion rate is actually solid -- the problem is distribution volume not product quality. ask what channels they've tried and what the response has been.
+status: new
+outreach_id: O-252
+notes: F5Bot keyword "distribution problem" (thread 19e98f1668e8a5e8 msg 19ebf8ba390ecaf0, 05:54Z Jun 13). r/SaaS comment. Not processed in R315 despite being within 06:30Z last_checked window -- R315 labeled thread as "confirmed fully processed" without evaluating Jun 13 messages. Reddit egress blocked -- DM via Reddit u/owlyvision when unblocked. No em dashes verified. No pitch. No call ask. Run 316.
+[RECORD_END]
+
+[RECORD_START]
+id: L-274
+date_found: 2026-06-13
+username: Opposite-Mall-4269
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u4nyb6/16yo_im_about_to_mess_up_both_my_studies_and_my/
+pain_quote: "I am so deeply concentrated on trying to fix this distribution problem that I can't even focus on my school studies properly anymore. I feel completely stuck."
+product_built: unknown startup (16yo founder, post-launch, distribution wall)
+fit_reason: first-person, r/SaaS target sub, explicit "distribution problem" in their own words, post-launch with zero results, desperate enough that it is bleeding into school. textbook Tide ICP with high urgency signal.
+opener_angle: the distribution-vs-grades pressure they named directly. ask what they have actually tried on the distribution side so far.
+status: new
+outreach_id: O-253
+notes: F5Bot keyword "distribution problem" (NEW thread 19ec0a85bc6d28d7, 11:05Z Jun 13 -- missed by R323 despite being within newer_than:1d window). r/SaaS post. Reddit egress blocked -- DM via Reddit u/Opposite-Mall-4269 when unblocked. No em dashes verified. No pitch. No call ask. Run 324.
+[RECORD_END]
+
+[RECORD_START]
+id: L-275
+date_found: 2026-06-14
+username: keulevoras
+platform: reddit
+url: https://www.reddit.com/r/indiehackers/comments/1u56bs7/i_have_ran_into_a_distribution_problem_now_im/
+pain_quote: "I have ran into a distribution problem, now I'm creating distribution tool"
+product_built: unknown (built something, hit distribution wall, now building own tool to solve it)
+fit_reason: first-person distribution pain explicit in post title, r/indiehackers target sub, ICP confirmed by their own attempt to build a solution. textbook Tide ICP with the strongest possible signal -- felt the pain bad enough to start building.
+opener_angle: their attempt to build a tool is the strongest signal of all. someone who felt this pain bad enough to start building. ask what they actually launched and what the distribution wall looked like specifically.
+status: new
+outreach_id: O-254
+notes: F5Bot keyword "distribution problem" (NEW thread 19ec3811b32e5db7, 00:21Z Jun 14, not surfaced by R338 newer_than:4h gap). Two r/indiehackers posts by keulevoras: 1u56bs7 "I have ran into a distribution problem, now I'm creating distribution tool" and 1u56cjq "Trying to solve distribution problem in a fun way" -- both auto-removed by r/indiehackers AutoModerator (body = [removed]), username real and confirmed via F5Bot. Reddit egress blocked -- DM via Reddit u/keulevoras when unblocked. No em dashes verified. No pitch. No call ask. Run 339.
+[RECORD_END]
+
+[RECORD_START]
+id: L-276
+date_found: 2026-06-14
+username: Weird-Pangolin9490
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u3wj79/c/orjeybv?context=3
+pain_quote: "I recently launched my SAAS and now I'm trying to find out how to get users"
+product_built: Artiphik.com (confirmed from R312: promotional post in r/ShowMeYourSaaS)
+fit_reason: first-person r/SaaS comment, explicit post-launch + user-acquisition pain, < 6h old at time of logging. previously evaluated R312 as DISCARD (promotional launch announcement, no pain expressed). this comment is a different post expressing real active pain.
+opener_angle: they are already asking the community how to get paid users. ask what they built and what distribution has looked like so far. no need to mention we know about Artiphik -- let them tell the story.
+status: new
+outreach_id: O-255
+notes: F5Bot keyword "launched my saas" (thread 19ec0fcc0b34f18f msg 19ec45a16c3ba3c5, 04:18Z Jun 14, NOT processed in R341 despite being within 12h window). r/SaaS comment on "Weee freaking did itt" success thread. Reddit egress blocked -- DM via Reddit u/Weird-Pangolin9490 when unblocked. No em dashes verified. No pitch. No call ask. Run 342.
+[RECORD_END]
+
+[RECORD_START]
+id: L-277
+date_found: 2026-06-15
+username: LawfulGoodGM
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u64u17/looking_for_testers_llm_request_observability/
+pain_quote: "I've soft-launched my SaaS along with 4 SDKs. Would anyone be up for testing it?"
+product_built: Witness (witness.sh) -- LLM request observability platform. Logs token usage, time to first/last token, model spend. Built 4 SDKs alongside launch.
+fit_reason: just soft-launched, seeking testers on r/SaaS = zero organic users. first-time API/SDK builder. implicit distribution gap: no users finding it naturally, resorting to manual Reddit outreach for first users. r/SaaS target sub.
+opener_angle: soft launch + seeking testers = zero organic traction. ask how it's going beyond the Reddit post, whether any devs are finding it organically.
+status: new
+outreach_id: O-256
+notes: F5Bot keyword "launched my saas" (NEW thread 19ec9498f933de3a, 03:18Z Jun 15). r/SaaS post. Reddit egress blocked -- DM via Reddit u/LawfulGoodGM when unblocked. No em dashes verified. No pitch. No call ask. Run 359.
+[RECORD_END]
+
+[RECORD_START]
+id: L-278
+date_found: 2026-06-15
+username: rohand7
+platform: hn
+url: https://news.ycombinator.com/item?id=48532821
+pain_quote: "a few apps that I feel are really helpful for power users" but "not sure how to promote it or to get users"
+product_built: multiple apps for power users (unspecified, positive feedback from friends)
+fit_reason: first-person distribution confusion, built things, explicitly asking how to promote and get users. textbook ICP.
+opener_angle: add genuine value on where power-user tool builders find first users. end with question about what problems the apps solve.
+status: new
+outreach_id: O-257
+notes: HN Ask HN post 48532821 "How do I do marketing for an app I made" (2026-06-14T21:16:22Z, 2pts/0c). Reddit egress blocked -- HN COMMENT action. No em dashes verified. No pitch. No call ask. Run 361.
+[RECORD_END]
+
+[RECORD_START]
+id: L-279
+date_found: 2026-06-15
+username: ynxshiny
+platform: hn
+url: https://news.ycombinator.com/item?id=48529892
+pain_quote: "What's the best way to advertise your startup without making videos?"
+product_built: legitize.app (tool to check if side hustle income claims are real, Show HN 48533403)
+fit_reason: dual signal -- built a product AND explicitly asking how to market it. strongest ICP fit of run.
+opener_angle: acknowledge the question with genuine value on written-content channels. reference legitize.app launch. end with question about target user.
+status: new
+outreach_id: O-258
+notes: HN Ask HN post 48529892 "What's the best way to advertise your startup without making videos?" (2026-06-14T17:19Z, 2pts/0c) + Show HN 48533403 legitize.app (2026-06-14T22:13Z, 2pts/0c). Dual signal. Reddit egress blocked -- HN COMMENT action on 48529892. No em dashes verified. No pitch. No call ask. Run 361.
+[RECORD_END]

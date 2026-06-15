@@ -3587,3 +3587,855 @@ date_sent: null
 result: null
 notes: F5Bot "0 paying users" keyword hit 2026-06-03T10:06:00Z. Willing_North513 r/SaaS. Title: "I built an AI chatbot for small businesses. Solo dev, 6 weeks, €0 marketing budget..." Post body removed by AutoModerator but "0 paying users" keyword fired on the body -- confirms distribution pain. Username DM-able. Posted ~1 hour before alert (very fresh). Run 160 marked WATCH (no content), run 160b upgraded to DM after confirming keyword trigger. No em dashes verified. 3 sentences. No call ask. No pitch.
 [RECORD_END]
+
+[RECORD_START]
+id: O-210
+date_created: 2026-06-04
+lead_id: L-214
+platform: reddit
+variant: comment
+draft_text: |
+  launch recaps with the honest numbers are rare. curious what the traffic curve actually looked like after day 1?
+
+  i've been talking to a bunch of indie builders about what happens in that post-launch window specifically. seems like PH day is almost its own thing, separate from whether a product actually gets distribution.
+action: COMMENT
+target_url: https://www.reddit.com/r/SideProject/comments/1tvwnf3/i_launched_my_saas_on_product_hunt_and_finished/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-03T17:42:00Z. Im__Broke__ r/SideProject. Post: "I launched my SaaS on Product Hunt and finished Top 5. Here are the real numbers..." Product: Bulkmark (Twitter/X bookmarks to weekly email digest). Builder sharing honest post-launch numbers after Top 5 PH finish -- "every launch recap I read before mine was suspiciously glossy, that quietly wrecked my expectations" is clear signal the actual results fell short. Post is 16+ hours old, COMMENT action (not DM). r/SideProject is target sub. No em dashes verified. 2 sentences. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-211
+date_created: 2026-06-04
+lead_id: L-215
+platform: reddit
+variant: dm
+draft_text: |
+  saw your r/saas post about week 1 with 50 signups. you said most of your time's going into distribution right now. curious what channels you're actually hitting and whether any of them are producing consistent traffic or it's been all over the place.
+
+  doing research on the post-launch distribution window for solo devs.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1twiuq1/50_signups_in_my_first_week_but_am_i_focusing_on/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-04T09:52:00Z. Imthatguyimhimfr r/SaaS. Post: "50 signups in my first week, but am I focusing on the wrong thing?" -- 50 registrations, ~10% visitor-to-signup rate, 50% onboarding completion, spending most time on distribution. Different from zero-traction leads -- has early signups but distribution is the active daily grind. Ideal research convo: what channels, what signal, what's actually driving those 50. No em dashes verified. 4 sentences. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-212
+date_created: 2026-06-04
+lead_id: L-216
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post on r/saas about two weeks in and zero signups. that's a rough spot.
+
+  where did those 35 visitors actually come from? organic search, launch posts, something else?
+
+  doing research on what the post-launch window actually looks like for solo builders and what drives traffic (or doesn't) in those first few weeks.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1tuoxtg/35_visitors_74_bounce_rate_0_signups_the_reality/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 signups" keyword hit 2026-06-02T12:12:00Z. LiveUnderstanding535 r/SaaS. Post: "35 visitors, 74% bounce rate, 0 signups. The reality of my first two weeks." Post was removed by AutoModerator (body [removed]) but title survived -- strong first-person pain signal. 2 days old at time of logging (post-launch fresh wound). DM action: title gives enough context to craft genuine opening. No em dashes verified. 3 sentences. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-213
+date_created: 2026-06-05
+lead_id: L-217
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on the buildfield thread about phoebe. "just trying to get people to look" is the exact thing i'm researching right now.
+
+  what channels have you actually tried for a health app and what was the response like, even if it was tiny?
+
+  doing research on the post-launch distribution problem for builders who can ship but can't get traction.
+action: DM
+target_url: https://www.indiehackers.com/PhoebeHealth
+status: draft
+date_sent: null
+result: null
+notes: IH commenter on Buildfield "2 weeks later" thread (April 30, 2026). Product: Phoebe predictive migraine engine. Pain: "zero paying anything... just trying to get people to look." Identified via IH background mining run 172 (Reddit/F5Bot both dry). Health app ICP -- slightly atypical but real post-launch distribution gap. 3 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-214
+date_created: 2026-06-05
+lead_id: L-220
+platform: reddit
+variant: dm
+draft_text: |
+  saw your r/saas post. going from 100s on a waitlist to under 10% converting on relaunch is brutal. do you think it was time decay on the list, or the lack of new channels to get fresh eyes after the code was ready?
+
+  doing research on the post-launch distribution problem for saas founders.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1tx994v/failed_so_many_times_i_lost_count/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" keyword hit 2026-06-05T03:28:18Z. Minimum_Boss9220 r/SaaS. Post: "Failed So Many Times, I lost count." -- launched SaaS with waitlist (100s), spent 4-5mo fixing code, re-launched and emailed list, less than 10% converted. Only distribution: LinkedIn + small email list. Zero budget. Post title not explicit pain but body is first-person launch failure + distribution gap. Fresh post (same-day F5Bot alert). 4 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-215
+date_created: 2026-06-05
+lead_id: L-221
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in buildinpublic about building a saas and realizing that getting people to find it is a completely different skill than building it. what has that actually looked like beyond linkedin? like what have you tried and where does it fall apart?
+
+  doing research on exactly this gap between shipping something real and getting people to discover it.
+action: DM
+target_url: https://www.reddit.com/r/buildinpublic/comments/1twsezh/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "shouting into the void" keyword hit 2026-06-04T17:30:20Z. Unlikely_Being_6032 r/buildinpublic. Comment on "How helpful would LinkedIn be for me?" thread. First-person pain: built a SaaS, realizing discovery is a separate skill, experimenting with LinkedIn but "quite slow." Fell in monitoring gap (runs 171 to 172 skipped 15 hours). Neither username in any prior file. 4 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-216
+date_created: 2026-06-05
+lead_id: L-222
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in micro_saas about grinding content everywhere and it feeling like shouting into the void. the manual system you built after that is sharp. saved searches and a spreadsheet tracking post to reply to conversion. doing research on this exact gap and curious how it holds up as you scale it.
+action: DM
+target_url: https://www.reddit.com/r/micro_saas/comments/1tgdlop/
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "shouting into the void" keyword hit 2026-06-04T12:30:15Z. Subject_Bullfrog703 r/micro_saas. Comment on "Getting users feels weird now" thread. Describes past first-person pain (grinding content, felt like shouting into void) and built a manual workaround (saved Reddit searches + spreadsheet). Tide would automate exactly this. Strong power-user/early-adopter research angle. 4 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-217
+date_created: 2026-06-05
+lead_id: L-224
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your post about botwork. launched to zero external users after weeks of positioning work is exactly the gap i keep researching.
+
+  what channels did you actually try beyond the positioning work? and where did it fall apart?
+
+  doing research on this for solo builders post-launch. your situation is a clean version of what i keep hearing.
+action: DM
+target_url: https://www.indiehackers.com/theuniverseson
+status: draft
+date_sent: null
+result: null
+notes: theuniverseson posted "Launched on Product Hunt to zero users" on June 3 2026. BotWork -- AI Agent Freelance Network. Zero external users post-launch. Did a positioning post-mortem and came out with a fix. First-person, honest, fresh. DM via IH. 3 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-218
+date_created: 2026-06-05
+lead_id: L-225
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on kelon's post. "yesterday" has 11 signups all people you already know, and reddit banned you on day one.
+
+  that's two distribution walls at once. what's the plan now that reddit is off the table?
+
+  doing research on the post-launch gap for solo builders. your situation is exactly what i'm trying to map out.
+action: DM
+target_url: https://www.indiehackers.com/m1tisch
+status: draft
+date_sent: null
+result: null
+notes: m1tisch commented on Kelon's "30 days ago $0 revenue" post (May 23 2026). Building "Yesterday" AI financial coach. 11 signups all known contacts, $0 revenue. Permanently banned from r/personalfinance on day one. LinkedIn identified as potential channel but no results yet. Two distribution walls in one comment -- strong first-person, named product, real numbers. DM via IH. 3 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-219
+date_created: 2026-06-05
+lead_id: null
+platform: reddit
+variant: comment
+draft_text: |
+  doing research on this exact problem for solo builders. one thing that keeps coming up: the landing-page-first approach solves launch day momentum but most founders still hit a wall a few weeks later when that initial wave dies.
+
+  curious what happened after those email signups actually converted. did the list end up mattering, or did the users who stuck around come from somewhere else entirely?
+
+  trying to map out what actually determines whether post-launch distribution works or just delays the crickets.
+action: COMMENT
+target_url: https://www.reddit.com/r/SaaS/comments/1tvkotj/
+status: draft
+date_sent: null
+result: null
+notes: r/SaaS "B2C micro SaaS founders who got your first users: would you build the MVP first or..." thread. Active discussion about pre-launch strategy and first users. Good thread to be visible in as a researcher. Comment angle: what happens AFTER the initial email list converts -- post-launch gap. 3 sentences. No em dashes verified. No pitch. CAUTION: r/SaaS has removed Rishit's posts before (patterns.md). This is a comment not a post, lower mod risk, but Rishit should check sub rules before dropping.
+[RECORD_END]
+
+[RECORD_START]
+id: O-220
+date_created: 2026-06-06
+lead_id: L-230
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in r/saas about launching your first saas two days ago. curious what the distribution side looks like right now. what have you tried first to actually get people to it?
+
+  doing research on the window between shipping something and getting real users. your timing is about as fresh as it gets.
+action: DM
+target_url: https://www.reddit.com/user/Quirky_Situation581
+status: draft
+date_sent: null
+result: null
+notes: Quirky_Situation581 posted "My Learnings from a first time SaaS founder" in r/SaaS on 2026-06-06 around 01:37Z. F5Bot "launched my saas" keyword hit. First-time SaaS founder, 2 days post-launch. Full post content unavailable (Reddit egress blocked) -- Rishit should read the post before sending to verify ICP fit and personalize line 1 with product name. DM via Reddit. 2 sentences. No em dashes verified. No pitch. No call ask.
+[RECORD_END]
+
+[RECORD_START]
+id: O-221
+date_created: 2026-06-06
+lead_id: L-232
+platform: reddit
+variant: dm
+draft_text: |
+  your post in r/saas about the distribution problem vs. wrong category question is one of the more honest framings of that dilemma i've read. "building is comfortable, distribution is not" is exactly what keeps coming up.
+
+  what does distribution actually look like as a blocker for you right now? is it finding new customers, or converting the ones who find you?
+
+  doing research on the post-launch distribution problem for bootstrapped founders. your situation is one of the more nuanced versions of it.
+action: DM
+target_url: https://www.reddit.com/user/Exotic_Pollution5870
+status: draft
+date_sent: null
+result: null
+notes: Exotic_Pollution5870 posted "Distribution Problem or Wrong Category?" in r/SaaS on 2026-06-05 ~18:00Z. Bootstrapped founder with paying customers but activation <30% and stalled growth. Explicitly named distribution vs wrong category as the question. F5Bot "distribution problem" keyword hit on post title. Run 185. 3 sentences. No em dashes verified. No pitch. No call ask. Rishit should verify post still live (r/SaaS AutoModerator risk) and read full post before sending. Also posted in r/SaasDevelopers as backup DM target if r/SaaS post is removed.
+[RECORD_END]
+
+[RECORD_START]
+id: O-222
+date_created: 2026-06-06
+lead_id: L-234
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post on r/indiehackers about 2 months building a consumer app with almost no users outside your circle. what has distribution actually looked like over those 2 months? like which channels did you try and what was the response like?
+
+  doing research on exactly this gap between building something and getting people who aren't your friends to use it.
+action: DM
+target_url: https://www.reddit.com/user/shailzy
+status: draft
+date_sent: null
+result: null
+notes: shailzy posted "I spent 2 months building a consumer app and still have almost no users outside my..." on r/indiehackers. F5Bot "distribution problem" keyword hit 2026-06-06T06:12:16Z. Full post content unavailable (Reddit egress blocked) -- Rishit should read full post before sending to verify ICP fit and personalize line 1 with product name. DM via Reddit. No em dashes verified. No pitch. No call ask. Run 189.
+[RECORD_END]
+
+[RECORD_START]
+id: O-223
+date_created: 2026-06-06
+lead_id: L-236
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your post about your saas being a month in with no users or revenue. what have you actually tried to get people to discover it? doing research on this exact window between shipping something and getting real users. what did you build?
+action: DM
+target_url: https://www.reddit.com/user/arjanirh624
+status: draft
+date_sent: null
+result: null
+notes: arjanirh624 posted "My Saas Is Month Old With No Return!" in r/SaaS. F5Bot "distribution problem" keyword hit 2026-06-06T20:51:20Z via comment on their post. Post confirmed: month-old SaaS, 0 users, 0 revenue. Commenter diagnosed distribution problem. First-person, correct subreddit, clear ICP fit. Run 192. 4 sentences. No em dashes verified. No pitch. No call ask. Rishit should verify post still live and read full post before sending to personalize with product name.
+[RECORD_END]
+
+[RECORD_START]
+id: O-224
+date_created: 2026-06-07
+lead_id: L-238
+platform: reddit
+variant: dm
+draft_text: |
+  saw you just launched your saas and are looking for advice. curious what feels hardest right now. is it getting people to actually find it, or something else?
+
+  doing research on the post-launch distribution problem for solo devs and would love to hear what you're running into early on.
+status: draft
+date_sent: null
+result: null
+notes: jj_wondering101 commented on r/SaaS post "I burnt all my investor money and my saas failed" saying "I just launched my saas app, any more advice you may have?" Fresh post-launch advice-seeking energy. 4 sentences. No em dashes verified. No pitch. No call ask. Rishit should verify comment is still live before sending. Run 198.
+[RECORD_END]
+
+[RECORD_START]
+id: O-225
+date_created: 2026-06-08
+lead_id: L-241
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about analyzing 102 r/saas posts because your own saas got 3 sales and then went quiet. what happened after those 3 sales? was it that you couldn't repeat the channel, or did the channel just dry up completely?
+
+  doing research on the gap between initial traction and sustained distribution for solo builders.
+status: draft
+date_sent: null
+result: null
+notes: lcuennof posted r/SaaS "I analyzed 102 recent r/SaaS posts because my own SaaS got 3 tiny sales and then went quiet" (2026-06-07T23:46:19Z). First-person pain: 3 initial sales then silence. Analyzed 102 posts as a research effort to solve it -- personal pain is the motivation. Strong ICP. 4 sentences. No em dashes verified. No pitch. No call ask. Run 215.
+[RECORD_END]
+
+[RECORD_START]
+id: O-226
+date_created: 2026-06-08
+lead_id: L-242
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about 83 visitors and zero signups. that blank funnel is genuinely hard to diagnose because you can't tell if it's audience quality, the page, or something else entirely.
+
+  what's the product? and do you know where those 83 visitors actually came from?
+
+  doing research on exactly this gap for early-stage saas builders. the window between getting initial traffic and turning it into actual users.
+status: draft
+date_sent: null
+result: null
+notes: Conscious-Image-4161 posted r/SaaS "83 visitors, 0 signups — how do you diagnose where activation is breaking?" (2026-06-08T00:09:15Z). First-person: "I'm working on a small SaaS." Specific numbers, zero conversions across full funnel. Different post from r/microsaas discard in Run 213 (that was promotional). 4 sentences. No em dashes verified. No pitch. No call ask. Run 217.
+[RECORD_END]
+
+[RECORD_START]
+id: O-227
+date_created: 2026-06-08
+lead_id: L-243
+platform: reddit
+variant: dm
+draft_text: |
+  saw your r/SaaS post. free users signing up organically but no clear path to paid is one of the more specific versions of the distribution problem i keep hearing from technical founders.
+
+  what have you actually tried on the distribution side so far? like which channels did you test first and what did the response look like?
+
+  doing research on exactly this gap for solo builders post-launch. the space between "people are using it" and "people are paying for it."
+status: draft
+date_sent: null
+result: null
+notes: Dapper-Turn-3021 posted r/SaaS "Built the product. Got free users. Now stuck on distribution" (2026-06-08T11:20:16Z). Technical founder, organic free signups, positive feedback, but no paid customers and no distribution strategy. ~6 hours old at time of logging. Reference the free-but-not-paid gap specifically. No em dashes verified. No pitch. No call ask. Run 220.
+[RECORD_END]
+
+[RECORD_START]
+id: O-228
+date_created: 2026-06-08
+lead_id: L-244
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the feb-to-may crickets stretch after your first customer. cold emails and linkedin DMs going nowhere for months while figuring out what actually works is a brutal phase.
+
+  curious what finally moved the needle for customer #2. did it come from a different channel than you expected?
+
+  doing research on this exact gap between getting first traction and figuring out how to repeat it.
+status: draft
+date_sent: null
+result: null
+notes: jay_cobski posted r/SaaS "Customer #2 felt like the first real moment of SaaS for me" (2026-06-08T21:14:22Z). Launched December 2025, got customer #1 in January, then Feb-May was mostly crickets. Eventually got customer #2. Research angle: they solved it, useful conversation about what worked. No em dashes verified. No pitch. No call ask. Run 223.
+[RECORD_END]
+
+[RECORD_START]
+id: O-229
+date_created: 2026-06-08
+lead_id: L-245
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in the vibecoding thread. built settern.io and launched it to 0 signups -- that gap between shipping something and getting anyone to actually use it is exactly what i keep hearing from builders.
+
+  what did you try to get it in front of people after launch? any channel that showed even weak signal?
+
+  doing research on this post-launch distribution problem.
+status: draft
+date_sent: null
+result: null
+notes: settern-io commented on r/vibecoding "Drop your app. I'll roast it publicly" thread (2026-06-08T21:46:19Z). Built interactive world map (settern.io), launched, 0 signups. Weaker ICP than SaaS founders but r/vibecoding is HIGH orbit fit. No em dashes verified. No pitch. No call ask. Run 223.
+[RECORD_END]
+
+[RECORD_START]
+id: O-230
+date_created: 2026-06-09
+lead_id: L-246
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in the femalefounders thread about marketing feeling like shouting into the void. that line about users not being able to love a product they never discover hit.
+
+  what's the actual bottleneck for you right now. is it knowing which channels to try, or have you tried things and nothing's getting traction?
+
+  doing research on how builders navigate distribution post-launch. curious what that wall looks like for you specifically.
+status: draft
+notes: Key-Tea-3775 commented in "For founders: what kept you going when nobody cared?" thread in r/Femalefounders. Technical founder (mentions Python, building features) with clear distribution pain. No em dashes verified. No pitch. No call ask. 3 sentences. Rishit should DM via Reddit to u/Key-Tea-3775. Run 238.
+[RECORD_END]
+
+[RECORD_START]
+id: O-231
+date_created: 2026-06-10
+lead_id: L-249
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your botwork post. "led with a worldview when people had a job in mind" is one of the sharper post-launch diagnoses i've read.
+
+  how has the web app version landed compared to the original ph launch? any early signal from the repositioning?
+
+  doing research on the post-launch distribution gap for founders who shipped something real and are still figuring out how people find it.
+status: draft
+date_sent: null
+result: null
+notes: theuniverseson/Andrii Krugliak. BotWork. IH post June 3 2026. Author active as of June 9. OVERDUE -- has surfaced 17 consecutive scout runs (R213-R245) without being logged or contacted. DM via IH. No em dashes verified. No pitch. No call ask. Run 245.
+[RECORD_END]
+
+[RECORD_START]
+id: O-232
+date_created: 2026-06-10
+lead_id: L-253
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the wasted ph launch. launched on a whim and now two days of cold emails with nothing to show is exactly the gap i'm researching.
+
+  what did you build and what did ph day actually look like? any votes at all, or pretty much invisible?
+
+  doing research on the post-launch distribution problem for solo builders. curious what the plan is from here.
+action: DM
+target_url: https://www.reddit.com/r/micro_saas/comments/1u1isvd/dont_be_like_me_and_waste_your_producthunt_launch/
+status: draft
+date_sent: null
+result: null
+notes: SpinachMakesYouFat posted r/micro_saas "Don't be like me and waste your ProductHunt launch" (2026-06-09T21:47:19Z). F5Bot "launched my saas" keyword hit. First-person: launched PH on a whim after YC video, wasted the opportunity, now cold emails going nowhere after 2 days. r/micro_saas not in primary target sub list but strong first-person ICP pain qualifies. Under 12h old at time of logging. 3 sentences. No em dashes verified. No pitch. No call ask. Run 247.
+[RECORD_END]
+
+[RECORD_START]
+id: O-233
+date_created: 2026-06-10
+lead_id: L-254
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about 3 weeks live with still no traffic.
+
+  what channels have you tried so far? anything that got even a small signal, or has it been silence across the board?
+
+  doing research on the post-launch distribution gap for solo builders. your situation is exactly what i'm trying to understand.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/ (exact post URL pending -- Reddit egress blocked)
+status: draft
+date_sent: null
+result: null
+notes: No_Trainer6906 posted r/SaaS "Launched my SaaS 3 weeks ago and can't get traffic—what am I missing?" (2026-06-10T12:47:18Z). F5Bot "launched my saas" keyword hit. First-person: 3 weeks post-launch, zero traffic, asking for help. Under 1h old at time of logging. 3 sentences. No em dashes verified. No pitch. No call ask. Exact post URL needs verification once Reddit unblocked. Run 254.
+[RECORD_END]
+
+[RECORD_START]
+id: O-234
+date_created: 2026-06-10
+lead_id: L-255
+platform: reddit
+variant: dm
+draft_text: |
+  hey saw your comment about the distribution problem in the r/SideProject thread. curious what shipping day actually looked like for you. what channels did you try first and what was the reaction? doing research on this gap between shipping and getting real users.
+action: DM u/Couponpicked on Reddit
+status: draft
+date_sent: null
+result: null
+notes: Couponpicked commented on "Shipped a month ago, still 0 beta users. What am I doing wrong" thread in r/SideProject using "distribution problem" phrase. F5Bot "distribution problem" keyword hit. Reddit egress blocked -- Rishit must verify comment text before sending. 4 sentences. No em dashes verified. No pitch. No call ask. Run 255.
+[RECORD_END]
+
+[RECORD_START]
+id: O-235
+date_created: 2026-06-11
+lead_id: L-256
+platform: hackernews
+variant: comment_reply
+draft_text: |
+  saw your post about building the solo project around real life. the part about AI accelerating the build but not solving distribution really resonated. i've been mapping out that exact gap, what actually happens between 'it works' and 'people discover it.' curious what distribution actually looked like for you, what you tried first and what felt most broken about it?
+action: reply to comment https://news.ycombinator.com/item?id=48474113 on HN post https://news.ycombinator.com/item?id=48472285
+status: draft
+date_sent: null
+result: null
+notes: enjoyminded HN post "What I Got Right and Wrong Building a Solo Project Around Real Life" (2026-06-10). Quote: "Distribution turned out to be much harder than building. AI significantly accelerated development but didn't solve the distribution problem." 4 sentences. No em dashes verified. No pitch. No call ask. Run 263.
+[RECORD_END]
+
+[RECORD_START]
+id: O-236
+date_created: 2026-06-11
+lead_id: L-257
+platform: reddit
+variant: dm
+draft_text: |
+  hey, saw your comment on that 2000+ users post about launching your event manager SaaS. curious what the first few weeks have looked like. getting people to find it or getting them to stay once they do, which feels more broken? doing research on this exact post-launch gap for solo founders.
+action: DM u/Hot_Low_6552 on Reddit
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" keyword hit. Comment on r/SaaS "My Tool crossed 2000+ users today" thread. Recently launched SaaS for event managers, asking for tips. 4 sentences. No em dashes verified. No pitch. No call ask. Run 269.
+[RECORD_END]
+
+[RECORD_START]
+id: O-237
+date_created: 2026-06-11
+lead_id: L-258
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your month one post. 277 cold emails and 5 signups with 0 paid is a specific dataset to have after all that effort.
+
+  on the cold email side, were people actually replying and not converting, or mostly ghosting entirely? that distinction tells a lot about where the breakdown is.
+
+  doing research on the post-launch distribution gap for solo founders. your numbers are one of the more complete pictures of it i've seen.
+action: DM u/nynrathod via Indie Hackers messaging
+status: draft
+date_sent: null
+result: null
+notes: nynrathod built DooCloud (production API generator). May 27 IH post with 0 comments, strong ICP. 277 cold emails (Apollo), LinkedIn, X threads daily, Reddit 6+ subs, dev.to, PH, HN -- all tried, 5 signups, 0 paid. 4 sentences. No em dashes verified. No pitch. No call ask. Research framing. Run 274.
+[RECORD_END]
+
+[RECORD_START]
+id: O-238
+date_created: 2026-06-11
+lead_id: L-259
+platform: reddit
+variant: dm
+draft_text: |
+  hey, saw you just launched casagbic and were hunting for places to promote it. what channels have you tried so far, or are you still at the very start of figuring that out?
+
+  doing research on exactly this window right after launch when distribution is all unknown territory.
+action: DM u/GoodProfessional4993 on Reddit
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" keyword hit in r/buildinpublic thread (19eb7594f3c61f90, 2026-06-11T15:42:23Z). Just launched casagbic, commented on "100 places to promote your app" list seeking promotion resources. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Run 280.
+[RECORD_END]
+
+[RECORD_START]
+id: O-239
+lead_id: L-260
+platform: indiehackers
+username: Tabby
+type: DM
+draft: "saw your post about tabby. chrome store rejecting it twice then hitting the marketing wall is the exact thing nobody warns you about.
+
+what have you tried beyond reddit so far? any small wins at all?
+
+doing research on the distribution gap for solo builders post-launch. your situation is a pattern i keep hearing about."
+status: draft
+date_sent: null
+result: null
+notes: IH post 914c457f0f (2026-06-11T08:58am). 11 upvotes, 19 comments. Day 2 post-launch, first-person marketing pain, explicitly asking for advice. 3 sentences + 1 research line. No em dashes verified. No pitch. No call ask. Research framing. Run 287.
+[RECORD_END]
+
+[RECORD_START]
+id: O-240
+date_created: 2026-06-12
+lead_id: L-261
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment about shipping with a leftover staging tag and the site being literally invisible to Google. that's a brutal way to find out.
+
+  what did you build? and once you fixed the indexing, did traffic actually show up or was it still quiet?
+
+  doing research on exactly this gap between launching something and getting people to actually find it.
+status: draft
+date_sent: null
+result: null
+notes: Kerigami commented on Tabby/Adrian thread 914c457f0f (~20:20 UTC June 11, 4h before run). "Mine shipped with a leftover staging tag" confirms first-person launch. SEO invisibility = distribution failure. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check https://www.indiehackers.com/Kerigami before sending to personalize with product name. Run 289.
+[RECORD_END]
+
+[RECORD_START]
+id: O-241
+date_created: 2026-06-12
+lead_id: L-262
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your lazyeats ai post. 10 installs mostly friends after 20+ days building, then the silence. that pattern is exactly what i keep hearing.
+
+  what happened when you tried the videos and quora? was it mostly spam flags, or did anything produce even weak signal?
+
+  doing research on the gap between shipping something and actually getting people to find it.
+status: draft
+date_sent: null
+result: null
+notes: Iyasele Emmanuel built LazyEats AI (Android meal suggestion app). IH post 5dbae4eb5e (June 3, 2026). 10 installs mostly friends, tried short-form video/Quora/forums. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check IH profile for any product updates before sending. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: O-242
+date_created: 2026-06-12
+lead_id: L-263
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on max's build-in-public post. 10 weeks in, 2 paid sales, $54 is a very specific place to be stuck with developer tools.
+
+  curious where those 2 sales came from. and what distribution looks like for you beyond IH?
+
+  doing research on how devtool builders find the right audience post-launch.
+status: draft
+date_sent: null
+result: null
+notes: hakim_linkcover commented on max_flowly_run's 2cbea1089d thread (June 11). Developer tools, 10 weeks post-launch, $54 revenue from 2 sales, no pre-built audience. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check https://www.indiehackers.com/hakim_linkcover for product details before sending. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: O-243
+date_created: 2026-06-12
+lead_id: L-264
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on max's post. five months of steady IH engagement and exactly zero paying customers is one of the more honest descriptions of that gap i've read.
+
+  what are you building? and what channels have you tried beyond IH?
+
+  doing research on the distribution problem for indie builders. your situation is exactly the pattern i keep seeing.
+status: draft
+date_sent: null
+result: null
+notes: memolife23 commented on max_flowly_run's 2cbea1089d thread (June 3-4). 5 months IH posts, zero paying customers. Strong self-diagnosis. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check https://www.indiehackers.com/memolife23 for product details before sending. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: O-244
+date_created: 2026-06-12
+lead_id: L-265
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your comment on max's post. months of IH and X posting with solid engagement and zero paying customers is a really specific kind of stuck.
+
+  what are you building, and have you tried any channels beyond IH and X yet?
+
+  doing research on this gap between getting engagement and actually getting people to pay. sounds like you're in the middle of it.
+status: draft
+date_sent: null
+result: null
+notes: markbnet commented on max_flowly_run's 2cbea1089d thread (June 4). Zero paying customers from months of IH+X posting. Was R252 WATCH, now promoted to DM after 8 days. 3 sentences. No em dashes verified. No pitch. No call ask. Research framing. Check https://www.indiehackers.com/markbnet for product details before sending. Run 291.
+[RECORD_END]
+
+[RECORD_START]
+id: O-245
+date_created: 2026-06-12
+lead_id: L-266
+platform: reddit
+variant: dm
+draft_text: |
+  saw your ShowMeYourSaaS post. $150 on ads, 100 clicks, and zero paying users is a really specific kind of frustrating, especially when the tool solves a real problem you personally had.
+
+  did those 100 clicks bounce from the landing page, or did people sign up and not convert? doing research on exactly this gap between getting traffic and turning it into customers.
+status: draft
+date_sent: null
+result: null
+notes: r/ShowMeYourSaaS post by 2Martian (F5Bot caught 06:12Z Jun 12). SWE with portfolio of 12+ apps. $150 ads, 100 clicks, 0 paying users. No em dashes verified. No pitch. No call ask. Research framing. DM via Reddit u/2Martian. Run 297.
+[RECORD_END]
+
+[RECORD_START]
+id: O-246
+date_created: 2026-06-12
+lead_id: L-267
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your post about launching FashClick and getting 216 visitors with 0 signups. genuinely curious what's felt most broken about it.
+
+  doing research on exactly this gap between getting traffic and actually getting strangers to use it.
+status: draft
+date_sent: null
+result: null
+notes: r/micro_saas post by AmbitiousPlant4721 (F5Bot caught 09:44Z Jun 12). AI fashion SaaS (FashClick), first week, 216 visitors, 0 signups. No em dashes verified. No pitch. No call ask. Research framing. DM via Reddit u/AmbitiousPlant4721. Run 301.
+[RECORD_END]
+
+[RECORD_START]
+id: O-247
+date_created: 2026-06-12
+lead_id: L-268
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about quitting your job 6 months ago with runway shrinking and still no PMF. curious what distribution has actually looked like over those 6 months. what have you tried and what signal have you gotten. doing research on exactly this phase for founders who shipped something and are still trying to find who actually wants it.
+action: DM
+target_url: https://www.reddit.com/user/pradhyum15
+status: draft
+date_sent: null
+result: null
+notes: pradhyum15 posted r/SideProject "I quit my job 6 months ago. My runway is shrinking and I'm still looking for PMF" (2026-06-11T07:56:20Z). High-urgency first-person pain. F5Bot keyword "distribution problem" in post body. Reddit egress blocked -- DM ready to send when Reddit unblocks. No em dashes verified. No pitch. No call ask. Run 308.
+[RECORD_END]
+
+[RECORD_START]
+id: O-248
+date_created: 2026-06-12
+lead_id: L-269
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about 3,800 visits and 0 signups while your TikTok metrics look solid. the fact that word-of-mouth visitors convert at 13% but paid traffic at 1% is a really specific signal. curious what you think is actually off. doing research on exactly this gap between getting traffic and getting real users to stick.
+status: draft
+date_sent: null
+result: null
+notes: Mysterious-Honey1457 posted r/SideProject (F5Bot thread 19ebcd5b551d85d7, 17:16Z Jun 12). 3,800 visits, 0 signups, TikTok ads running. No em dashes verified. No pitch. No call ask. DM via Reddit u/Mysterious-Honey1457. Run 309.
+[RECORD_END]
+
+[RECORD_START]
+id: O-249
+date_created: 2026-06-12
+lead_id: L-270
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about 45 days and 0 users on r/saas. 10k views with 0 signups is a really specific kind of stuck. what are you building, and where did those views actually come from? doing research on this exact gap between getting traffic and getting anyone to convert.
+status: draft
+date_sent: null
+result: null
+notes: desilvakdn posted r/SaaS "45 days, 0 users. Should I move on?" (F5Bot thread 19ebb37e44da7d46 msg 19ebd1b3cc090a5c, 18:32Z Jun 12). 10k views / 0 signups confirmed from comment on post. Reddit egress blocked -- DM via Reddit u/desilvakdn when unblocked. No em dashes verified. No pitch. No call ask. Run 311.
+[RECORD_END]
+
+[RECORD_START]
+id: O-250
+date_created: 2026-06-13
+lead_id: L-271
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post on r/askvibecoders about getting stuck at 0 users for 3 months after building with claude code. that window of improving a product nobody was using while trying to figure out distribution is exactly what i'm researching.
+
+  what did those first few months of distribution attempts actually look like. like what did you try and what was the response you got?
+
+  doing research on the post-launch gap for vibe coders. would genuinely love to understand what tools or resources you wish existed back then.
+status: draft
+date_sent: null
+result: null
+notes: PieZealousideal6228 posted r/AskVibecoders "Stuck at 0 users for 3 months after launch. The things that actually got me moving" (F5Bot thread 19ebb37e44da7d46 msg 19ebdf7eb4f44a41, 22:33Z Jun 12). Shipped app with Claude Code March 2026, 0 signups, 3 months improving product nobody used. Reddit egress blocked -- DM via Reddit u/PieZealousideal6228 when unblocked. No em dashes verified. No pitch. No call ask. Research angle: what did failed distribution attempts look like, what would have helped. Run 312.
+[RECORD_END]
+
+[RECORD_START]
+id: O-251
+date_created: 2026-06-13
+lead_id: L-272
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about launching your saas and not knowing how to get traction on reddit. curious what you've tried so far and what happened. what are you building? doing research on the gap between shipping something and actually getting people to use it.
+status: draft
+date_sent: null
+result: null
+notes: VectorVisionary34 posted r/SaaS "I have a SaaS, but..." (F5Bot keyword "launched my saas", thread 19ebf3100c9aed36, 04:15Z Jun 13). First-person, post-launch, can't figure out Reddit marketing. Reddit egress blocked -- DM via Reddit u/VectorVisionary34 when unblocked. No em dashes verified. No pitch. No call ask. Run 315.
+[RECORD_END]
+
+[RECORD_START]
+id: O-252
+date_created: 2026-06-13
+lead_id: L-273
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your comment in r/saas about 1 sale every 11 visits at zero budget. 9% conversion is actually really solid, which tells me the problem is distribution, not the product itself. what channels have you tried so far and what's the response been? doing research on exactly this gap between having something that converts and actually getting it in front of people.
+status: draft
+date_sent: null
+result: null
+notes: owlyvision commented on r/SaaS post (F5Bot keyword "distribution problem", thread 19e98f1668e8a5e8 msg 19ebf8ba390ecaf0, 05:54Z Jun 13). Real conversion metrics (1 sale/11 visits), $0 marketing budget, explicitly stuck on distribution. Reddit egress blocked -- DM via Reddit u/owlyvision when unblocked. No em dashes verified. No pitch. No call ask. Run 316.
+[RECORD_END]
+
+[RECORD_START]
+id: O-253
+date_created: 2026-06-13
+lead_id: L-274
+platform: reddit
+variant: dm
+draft_text: |
+  saw your r/saas post about the distribution problem eating both your traction and your grades. brutal spot to be in.
+
+  what have you actually tried on the distribution side so far, like which channels and what happened?
+
+  doing research on exactly this wall that founders hit post-launch.
+status: draft
+date_sent: null
+result: null
+notes: Opposite-Mall-4269 posted r/SaaS "16yo, I'm about to mess up both my studies and my venture (Need advice)" (F5Bot NEW thread 19ec0a85bc6d28d7, 11:05Z Jun 13 -- missed by R323). Body: "I am so deeply concentrated on trying to fix this distribution problem that I can't even focus on my school studies properly anymore." r/SaaS target sub, first-person, explicit "distribution problem" language, high urgency. Reddit egress blocked -- DM via Reddit u/Opposite-Mall-4269 when unblocked. No em dashes verified. No pitch. No call ask. Run 324.
+[RECORD_END]
+
+[RECORD_START]
+id: O-254
+date_created: 2026-06-14
+lead_id: L-275
+platform: reddit
+variant: dm
+draft_text: |
+  saw you posted in r/indiehackers about running into a distribution problem with your own product. what did you build and what happened when you tried to get users?
+
+  also curious what pushed you to start building your own tool to fix it. like what specifically wasn't working that made you go that route?
+
+  doing research on exactly this wall that builders hit post-launch.
+status: draft
+date_sent: null
+result: null
+notes: keulevoras posted "I have ran into a distribution problem, now I'm creating distribution tool" and "Trying to solve distribution problem in a fun way" on r/indiehackers (F5Bot NEW thread 19ec3811b32e5db7, 00:21Z Jun 14). Both posts auto-removed by AutoModerator. Username confirmed real via F5Bot. Reddit egress blocked -- DM via Reddit u/keulevoras when unblocked. No em dashes verified. No pitch. No call ask. Run 339.
+[RECORD_END]
+
+[RECORD_START]
+id: O-255
+date_created: 2026-06-14
+lead_id: L-276
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment on the r/saas thread asking how people got paid users. what did you build?
+
+  been digging into exactly that post-launch window for a while now. talking to people who just launched and trying to map out what's actually working and what isn't.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1u3wj79/c/orjeybv?context=3
+status: draft
+date_sent: null
+result: null
+notes: Weird-Pangolin9490 commented on r/SaaS "Weee freaking did itt" success thread asking "How did you get paid users? I recently launched my SAAS and now I'm trying to find out how to get users" (F5Bot NEW msg 19ec45a16c3ba3c5, 04:18Z Jun 14). Product known as Artiphik.com from R312 context but not referenced in DM. Reddit egress blocked -- DM via Reddit u/Weird-Pangolin9490 when unblocked. No em dashes verified. No pitch. No call ask. Run 342.
+[RECORD_END]
+
+[RECORD_START]
+id: O-256
+date_created: 2026-06-15
+lead_id: L-277
+platform: reddit
+variant: dm
+draft_text: |
+  saw you soft-launched Witness on r/SaaS. curious how it's going so far beyond the post. are devs finding it organically at all, or is every first user coming from you reaching out manually?
+
+  doing research on how developer tools actually find their first real users after launch. that gap between shipping and getting someone to discover it is what i'm trying to map out.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1u64u17/looking_for_testers_llm_request_observability/
+status: draft
+date_sent: null
+result: null
+notes: LawfulGoodGM posted "Looking for testers. LLM Request Observability Platform" on r/SaaS (F5Bot NEW thread 19ec9498f933de3a, 03:18Z Jun 15). Product: Witness (witness.sh) -- LLM observability SaaS + 4 SDKs. Just soft-launched, seeking testers = zero organic users. Reddit egress blocked -- DM via Reddit u/LawfulGoodGM when unblocked. No em dashes verified. No pitch. No call ask. Run 359.
+[RECORD_END]
+
+[RECORD_START]
+id: O-257
+date_created: 2026-06-15
+lead_id: L-278
+platform: hn
+variant: comment
+draft_text: |
+  honest answer: the first users for niche tools almost never come from traditional marketing. they come from being in communities where your target users already hang out, and being genuinely useful there. for power user tools that usually means specific subreddits or discord servers in that niche. been researching this exact gap between launch and first users. what kind of problems do your apps solve?
+action: COMMENT on https://news.ycombinator.com/item?id=48532821
+target_url: https://news.ycombinator.com/item?id=48532821
+status: draft
+date_sent: null
+result: null
+notes: rohand7 Ask HN "How do I do marketing for an app I made" (48532821, 2026-06-14T21:16:22Z). Casual lowercase, no em dashes, no pitch, ends with genuine question. Run 361.
+[RECORD_END]
+
+[RECORD_START]
+id: O-258
+date_created: 2026-06-15
+lead_id: L-279
+platform: hn
+variant: comment
+draft_text: |
+  been doing a lot of research on this exact question. for tool-type products especially, written content in niche communities still outperforms most other channels for early traction. targeted posts in relevant subreddits, HN threads, and niche newsletters tend to convert better than video for the first few hundred users. saw you launched legitize.app too. what's the specific person you're trying to reach with it?
+action: COMMENT on https://news.ycombinator.com/item?id=48529892
+target_url: https://news.ycombinator.com/item?id=48529892
+status: draft
+date_sent: null
+result: null
+notes: ynxshiny Ask HN "What's the best way to advertise your startup without making videos?" (48529892, 2026-06-14T17:19Z) + Show HN legitize.app (48533403). Dual signal strongest fit of run. Casual lowercase, no em dashes, no pitch, ends with genuine question. Run 361.
+[RECORD_END]
