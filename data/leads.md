@@ -4029,3 +4029,18 @@ status: new
 outreach_id: O-261
 notes: F5Bot keyword "launched my saas" (r/saasbuild 2026-06-15T19:53Z). Run 376.
 [RECORD_END]
+
+[RECORD_START]
+id: L-283
+date_found: 2026-06-15
+username: bnova
+platform: hn
+url: https://news.ycombinator.com/item?id=48542684
+pain_quote: "assume you are that demographic, but aren't part of a community"
+product_built: unknown (built something, is the target user, can't find their audience)
+fit_reason: explicit distribution-discovery pain in own words. asked how to find people who would benefit from their product when not already in a community. textbook Tide ICP gap between building and reaching users.
+opener_angle: comment on HN thread with genuine value about finding your audience from the pain side not the product side. end with question about what they built.
+status: new
+outreach_id: O-262
+notes: Ask HN 48542684 "How do you find your target audience" (2026-06-15T15:26Z, 2pts, 0 comments). HN comment action. Reddit egress blocked. No em dashes verified. No pitch. No call ask. Run 377.
+[RECORD_END]

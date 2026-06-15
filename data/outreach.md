@@ -4491,3 +4491,21 @@ date_sent: null
 result: null
 notes: 1Paz1234 posted r/saasbuild "Preparing for Product Hunt - already soft-launched" (2026-06-15T19:53Z). SaaS, soft-launched 1 week prior, some initial users, asking for practical PH launch advice and where to find early supporters. DM via Reddit u/1Paz1234 when egress unblocked. No em dashes verified. No pitch. No call ask. Run 376.
 [RECORD_END]
+
+[RECORD_START]
+id: O-262
+date_created: 2026-06-15
+lead_id: L-283
+platform: hn
+variant: comment
+draft_text: |
+  the community approach usually works backward from the pain, not the product. instead of looking for 'people who would benefit from my product,' look for threads where people are actively venting about the specific frustration your product solves. those conversations are already happening on reddit, discord, slack groups, even if there is no organized community around your exact niche.
+
+  what are you building? might help narrow down where those people are already talking.
+action: COMMENT on https://news.ycombinator.com/item?id=48542684
+target_url: https://news.ycombinator.com/item?id=48542684
+status: draft
+date_sent: null
+result: null
+notes: bnova Ask HN "How do you find your target audience" (48542684, 2026-06-15T15:26Z, 2pts, 0 comments). Zero comments -- first commenter opportunity. Genuine value on finding audience via pain-first approach. Ends with question about what they built. Casual lowercase, no em dashes, no pitch, no call ask. Run 377.
+[RECORD_END]
