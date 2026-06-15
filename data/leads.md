@@ -3999,3 +3999,33 @@ opener_angle: the nobody-cared-or-registered period -- ask what that actually lo
 status: new
 outreach_id: O-259
 [RECORD_END]
+
+[RECORD_START]
+id: L-281
+date_found: 2026-06-15
+username: Last_Monk_1122
+platform: reddit
+url: https://www.reddit.com/r/saasbuild/comments/1u6qjly/i_got_my_first_paying_user/
+pain_quote: "It has been just over a month since I launched my SaaS, and I was struggling with distribution. To get my first few users just to test the tool in real world, I gave away the pro version for free."
+product_built: meta-verified Instagram DM automation tool
+fit_reason: explicit "struggling with distribution" language, had to give away pro tier for free to get first testers, 1 month post-launch before any paying user -- textbook Tide ICP at the exact pain moment
+opener_angle: reference the distribution struggle and pro-giveaway workaround, ask what the plan looks like now that first paying user landed
+status: new
+outreach_id: O-260
+notes: F5Bot keyword "launched my saas" (r/saasbuild 2026-06-15T19:30Z). Run 376.
+[RECORD_END]
+
+[RECORD_START]
+id: L-282
+date_found: 2026-06-15
+username: 1Paz1234
+platform: reddit
+url: https://www.reddit.com/r/saasbuild/comments/1u6r88n/preparing_for_product_hunt_already_softlaunched/
+pain_quote: "I'm preparing for a Product Hunt launch and trying to do it properly instead of just posting and hoping for the best."
+product_built: unknown SaaS (soft-launched 1 week prior, some initial users)
+fit_reason: soft-launched without clear distribution strategy, actively asking "where do you actually find early supporters before launch?" -- distribution uncertainty in the exact pre-PH window
+opener_angle: ask what the product is and how the soft launch actually found initial users, research framing on pre-PH distribution
+status: new
+outreach_id: O-261
+notes: F5Bot keyword "launched my saas" (r/saasbuild 2026-06-15T19:53Z). Run 376.
+[RECORD_END]

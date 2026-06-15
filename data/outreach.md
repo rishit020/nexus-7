@@ -4457,3 +4457,37 @@ date_sent: null
 result: null
 notes: d4rk31337 commented on r/SaaS "I MADE MY FIRST SALE!!! my vibecoded SaaS got its first paying customer" (F5Bot NEW thread 19ec9498f933de3a msg 19ecbcc4887f9dac, 15:00Z Jun 15). Pain: "Did some posts on reddit and nobody cared or registered. I Was about to shut it down." Now has 2 customers. Commenting on others' success but describing own past pain -- first-person, r/SaaS in target list, not previously logged. Reddit egress blocked -- DM via Reddit u/d4rk31337 when unblocked. No em dashes verified. No pitch. No call ask. Run 372.
 [RECORD_END]
+
+[RECORD_START]
+id: O-260
+date_created: 2026-06-15
+lead_id: L-281
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about struggling with distribution for a month on the instagram dm tool before that first $2 came in.
+
+  giving away the pro version for free just to get real testers is such a specific workaround. now that you have one paying user, what does the distribution plan look like from here?
+
+  doing research on this gap between launching something and actually getting paying users. your situation is exactly what i'm trying to understand.
+status: draft
+date_sent: null
+result: null
+notes: Last_Monk_1122 posted r/saasbuild "I got my first paying user" (2026-06-15T19:30Z). Meta-verified Instagram DM automation tool. Had to give pro tier free to get initial testers, 1+ month of distribution struggle before first $2. DM via Reddit u/Last_Monk_1122 when egress unblocked. No em dashes verified. No pitch. No call ask. Run 376.
+[RECORD_END]
+
+[RECORD_START]
+id: O-261
+date_created: 2026-06-15
+lead_id: L-282
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about soft-launching a week ago and now prepping for PH. the question about where to actually find early supporters is one that doesn't get answered honestly very often.
+
+  what's the product, and what did the soft launch actually look like in terms of channels? doing research on the distribution problem for solo founders at exactly this pre-PH stage.
+status: draft
+date_sent: null
+result: null
+notes: 1Paz1234 posted r/saasbuild "Preparing for Product Hunt - already soft-launched" (2026-06-15T19:53Z). SaaS, soft-launched 1 week prior, some initial users, asking for practical PH launch advice and where to find early supporters. DM via Reddit u/1Paz1234 when egress unblocked. No em dashes verified. No pitch. No call ask. Run 376.
+[RECORD_END]
