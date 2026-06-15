@@ -4389,3 +4389,21 @@ date_sent: null
 result: null
 notes: Weird-Pangolin9490 commented on r/SaaS "Weee freaking did itt" success thread asking "How did you get paid users? I recently launched my SAAS and now I'm trying to find out how to get users" (F5Bot NEW msg 19ec45a16c3ba3c5, 04:18Z Jun 14). Product known as Artiphik.com from R312 context but not referenced in DM. Reddit egress blocked -- DM via Reddit u/Weird-Pangolin9490 when unblocked. No em dashes verified. No pitch. No call ask. Run 342.
 [RECORD_END]
+
+[RECORD_START]
+id: O-256
+date_created: 2026-06-15
+lead_id: L-277
+platform: reddit
+variant: dm
+draft_text: |
+  saw you soft-launched Witness on r/SaaS. curious how it's going so far beyond the post. are devs finding it organically at all, or is every first user coming from you reaching out manually?
+
+  doing research on how developer tools actually find their first real users after launch. that gap between shipping and getting someone to discover it is what i'm trying to map out.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1u64u17/looking_for_testers_llm_request_observability/
+status: draft
+date_sent: null
+result: null
+notes: LawfulGoodGM posted "Looking for testers. LLM Request Observability Platform" on r/SaaS (F5Bot NEW thread 19ec9498f933de3a, 03:18Z Jun 15). Product: Witness (witness.sh) -- LLM observability SaaS + 4 SDKs. Just soft-launched, seeking testers = zero organic users. Reddit egress blocked -- DM via Reddit u/LawfulGoodGM when unblocked. No em dashes verified. No pitch. No call ask. Run 359.
+[RECORD_END]

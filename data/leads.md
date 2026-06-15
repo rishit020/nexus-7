@@ -3940,3 +3940,18 @@ status: new
 outreach_id: O-255
 notes: F5Bot keyword "launched my saas" (thread 19ec0fcc0b34f18f msg 19ec45a16c3ba3c5, 04:18Z Jun 14, NOT processed in R341 despite being within 12h window). r/SaaS comment on "Weee freaking did itt" success thread. Reddit egress blocked -- DM via Reddit u/Weird-Pangolin9490 when unblocked. No em dashes verified. No pitch. No call ask. Run 342.
 [RECORD_END]
+
+[RECORD_START]
+id: L-277
+date_found: 2026-06-15
+username: LawfulGoodGM
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u64u17/looking_for_testers_llm_request_observability/
+pain_quote: "I've soft-launched my SaaS along with 4 SDKs. Would anyone be up for testing it?"
+product_built: Witness (witness.sh) -- LLM request observability platform. Logs token usage, time to first/last token, model spend. Built 4 SDKs alongside launch.
+fit_reason: just soft-launched, seeking testers on r/SaaS = zero organic users. first-time API/SDK builder. implicit distribution gap: no users finding it naturally, resorting to manual Reddit outreach for first users. r/SaaS target sub.
+opener_angle: soft launch + seeking testers = zero organic traction. ask how it's going beyond the Reddit post, whether any devs are finding it organically.
+status: new
+outreach_id: O-256
+notes: F5Bot keyword "launched my saas" (NEW thread 19ec9498f933de3a, 03:18Z Jun 15). r/SaaS post. Reddit egress blocked -- DM via Reddit u/LawfulGoodGM when unblocked. No em dashes verified. No pitch. No call ask. Run 359.
+[RECORD_END]
