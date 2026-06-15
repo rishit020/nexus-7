@@ -4439,3 +4439,21 @@ date_sent: null
 result: null
 notes: ynxshiny Ask HN "What's the best way to advertise your startup without making videos?" (48529892, 2026-06-14T17:19Z) + Show HN legitize.app (48533403). Dual signal strongest fit of run. Casual lowercase, no em dashes, no pitch, ends with genuine question. Run 361.
 [RECORD_END]
+
+[RECORD_START]
+id: O-259
+date_created: 2026-06-15
+lead_id: L-280
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about posting on reddit and getting zero registrations when you launched your saas. that almost-shut-it-down moment is exactly what i'm researching.
+
+  which channels did you try before anything clicked and was it silence everywhere or just certain places? doing research on this exact window between launching something and actually getting people to use it.
+action: DM
+target_url: https://www.reddit.com/r/SaaS/comments/1u6h5rc/c/orsr47e?context=3
+status: draft
+date_sent: null
+result: null
+notes: d4rk31337 commented on r/SaaS "I MADE MY FIRST SALE!!! my vibecoded SaaS got its first paying customer" (F5Bot NEW thread 19ec9498f933de3a msg 19ecbcc4887f9dac, 15:00Z Jun 15). Pain: "Did some posts on reddit and nobody cared or registered. I Was about to shut it down." Now has 2 customers. Commenting on others' success but describing own past pain -- first-person, r/SaaS in target list, not previously logged. Reddit egress blocked -- DM via Reddit u/d4rk31337 when unblocked. No em dashes verified. No pitch. No call ask. Run 372.
+[RECORD_END]

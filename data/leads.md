@@ -3985,3 +3985,17 @@ status: new
 outreach_id: O-258
 notes: HN Ask HN post 48529892 "What's the best way to advertise your startup without making videos?" (2026-06-14T17:19Z, 2pts/0c) + Show HN 48533403 legitize.app (2026-06-14T22:13Z, 2pts/0c). Dual signal. Reddit egress blocked -- HN COMMENT action on 48529892. No em dashes verified. No pitch. No call ask. Run 361.
 [RECORD_END]
+
+[RECORD_START]
+id: L-280
+date_found: 2026-06-15
+username: d4rk31337
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u6h5rc/c/orsr47e?context=3
+pain_quote: "Did some posts on reddit and nobody cared or registered. I Was about to shut it down."
+product_built: unknown SaaS (launched beginning of 2026, now has 2 paying customers)
+fit_reason: first-person distribution pain on r/SaaS, exact ICP language. Launched, got crickets, almost quit. Now has 2 customers -- still early stage, lived the exact zero-traction window Tide targets.
+opener_angle: the nobody-cared-or-registered period -- ask what that actually looked like, which channels they tried
+status: new
+outreach_id: O-259
+[RECORD_END]
