@@ -4509,3 +4509,19 @@ date_sent: null
 result: null
 notes: bnova Ask HN "How do you find your target audience" (48542684, 2026-06-15T15:26Z, 2pts, 0 comments). Zero comments -- first commenter opportunity. Genuine value on finding audience via pain-first approach. Ends with question about what they built. Casual lowercase, no em dashes, no pitch, no call ask. Run 377.
 [RECORD_END]
+
+[RECORD_START]
+id: O-263
+date_created: 2026-06-16
+lead_id: L-284
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about spending a week on the chrome extension. what channels have you actually tried to get those 11 users? curious whether it's been a reach problem or something else.
+
+  doing research on exactly this -- the gap between building something and getting anyone to use it. sounds like you're right in the middle of it.
+status: draft
+date_sent:
+result:
+notes: r/founder "I spent 1 week building a Chrome extension. Getting 11 users has been much harder than building it" -- glitch4000 (2026-06-15T17:37Z). No em dashes verified. No pitch. No call ask. Run 383.
+[RECORD_END]

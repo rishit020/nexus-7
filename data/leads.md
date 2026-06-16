@@ -4044,3 +4044,18 @@ status: new
 outreach_id: O-262
 notes: Ask HN 48542684 "How do you find your target audience" (2026-06-15T15:26Z, 2pts, 0 comments). HN comment action. Reddit egress blocked. No em dashes verified. No pitch. No call ask. Run 377.
 [RECORD_END]
+
+[RECORD_START]
+id: L-284
+date_found: 2026-06-16
+username: glitch4000
+platform: reddit
+url: https://www.reddit.com/r/founder/comments/1u6n9vs/
+pain_quote: "Getting 11 users has been much harder than building it"
+product_built: Chrome extension (built in 1 week)
+fit_reason: solo builder, vibe-coded extension quickly, post-launch user acquisition struggle -- explicitly describing the gap between building and getting users. textbook Tide ICP.
+opener_angle: ask what channels they've tried for those 11 users, genuine curiosity about reach vs other issues, research framing on the post-launch gap
+status: new
+outreach_id: O-263
+notes: F5Bot keyword "distribution problem" (r/founder, 2026-06-15T17:37Z, thread 19ec252fa17b58af post-R351 new message). Run 383. Post ~10h old at time of check.
+[RECORD_END]
