@@ -558,3 +558,4 @@ All discarded: irrelevant subreddits or observer/analyst language.
 Best candidate: Human-Marsupial-3623 /r/nocode -- "I keep seeing people build great no-code automations with zero way to sell them" -- discard, observer framing not first-person pain.
 No qualifying leads. No Telegram sent.
 Pipeline: 288 total. 45 drafts pending review (O-222 to O-266).
+
