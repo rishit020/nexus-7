@@ -4119,3 +4119,18 @@ status: watch
 outreach_id: null
 notes: Commenter on jackbuilds (reddbot.ai) IH thread June 14. Parent post outside 24h window but commenter pain is current. WATCH pending IH DM. Reddit Scout run 384.
 [RECORD_END]
+
+[RECORD_START]
+id: L-289
+date_found: 2026-06-16
+username: vaisaho
+platform: reddit
+url: https://www.reddit.com/r/appdev/comments/1u4asns/
+pain_quote: "getting even 50 people to download it was way harder than writing the whole thing. the distribution problem is just brutal when you're a solo dev without a built-in audience"
+product_built: niche habit tracker (built and launched, unknown current state)
+fit_reason: Solo dev who built a habit tracker and hit the exact post-launch distribution wall. First-person pain proactively shared. No audience, clear Tide ICP.
+opener_angle: The "getting 50 downloads harder than writing the code" contrast -- ask what they tried and what felt most broken
+status: new
+outreach_id: O-267
+notes: Commenter on r/appdev "I thought building the app would be the hard part. I was wrong" (thread 19ec252fa17b58af, 2026-06-13T21:39Z). Promoted from WATCH PENDING (run 383). PENDING Reddit unblock.
+[RECORD_END]

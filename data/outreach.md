@@ -4575,3 +4575,19 @@ date_sent:
 result:
 notes: hacker1010/IH "4 months in. 3 Chrome extensions live. First mobile app done. Still £0" (2026-06-16, 3h ago). Serial builder, 4 products, £0 across all. No em dashes verified. No pitch. No call ask. Reddit Scout run 384.
 [RECORD_END]
+
+[RECORD_START]
+id: O-267
+date_created: 2026-06-16
+lead_id: L-289
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about building a habit tracker and finding that getting even 50 downloads was harder than writing the whole code. genuinely curious what you actually tried and what felt most broken about it.
+
+  doing research on this exact gap for solo devs. that window between shipping something and actually getting people to use it.
+status: draft
+date_sent:
+result:
+notes: vaisaho/r/appdev commenter, 2026-06-13T21:39Z. Promoted from WATCH. PENDING Reddit unblock. No em dashes verified. No pitch. No call ask. Reddit Scout run 386.
+[RECORD_END]
