@@ -4074,3 +4074,48 @@ status: new
 outreach_id: O-264
 notes: F5Bot keyword "launched my saas" (r/SaaS thread 1u72t55, 2026-06-16T04:03Z). Reddit Scout run 2026-06-16. Reddit egress blocked -- DM via Reddit u/Current_Cow_4929 when unblocked. No em dashes verified. No pitch. No call ask.
 [RECORD_END]
+
+[RECORD_START]
+id: L-286
+date_found: 2026-06-16
+username: EarningsScores
+platform: indiehackers
+url: https://www.indiehackers.com/post/earningsscores-month-5-update-6-users-0-mrr-and-the-reframe-that-changed-how-i-think-about-the-product-c78315d112
+pain_quote: "Month 5 Update: 6 users, $0 MRR, and the reframe that changed how I think about the product"
+product_built: EarningsScores -- AI tool that scores earnings reports in real-time, helps investors identify genuinely surprising reports vs. routine noise. Free beta, $200/month costs, site currently paused.
+fit_reason: 5 months post-launch, 6 users, $0 MRR, spending $200/mo with nothing coming in. Flat two consecutive months. Solo builder in the exact distribution gap window Tide targets -- shipped something real, can't get traction, actively diagnosing why. Product is for investors (not vibe coders) but distribution pain is textbook.
+opener_angle: 5 months in with $200/mo costs and $0 MRR is the exact gap. Ask what distribution has looked like over those 5 months and what produced even weak signal. Research framing.
+status: new
+outreach_id: O-265
+notes: IH post 11h ago (2026-06-16). Site paused for second month -- high urgency window. DM via IH. No em dashes. No pitch. No call ask. Reddit Scout run 384.
+[RECORD_END]
+
+[RECORD_START]
+id: L-287
+date_found: 2026-06-16
+username: hacker1010
+platform: indiehackers
+url: https://www.indiehackers.com/hacker1010
+pain_quote: "4 months in. 3 Chrome extensions live. First mobile app done. Still £0."
+product_built: 3 Chrome extensions + 1 mobile app (names unknown). Serial builder, all products at £0 revenue.
+fit_reason: Classic serial-builder-no-revenue pattern. 4 months, 4 products shipped, £0 across all of them. Distribution gap is the only explanation. Textbook Tide ICP -- can build fast, can't distribute. Post 3h old at time of find.
+opener_angle: "still £0" after 4 products is the hook. Ask what distribution looked like across them -- same approach each time or tried different channels? Research framing.
+status: new
+outreach_id: O-266
+notes: IH post 3h ago (2026-06-16). Very fresh. DM via IH. No em dashes. No pitch. No call ask. Reddit Scout run 384. Possibly same person as HelixLabs-dev (May 19 post) but logging under IH display name hacker1010.
+[RECORD_END]
+
+[RECORD_START]
+id: L-288
+date_found: 2026-06-16
+username: zhencha
+platform: indiehackers
+url: https://www.indiehackers.com/post/i-posted-daily-on-reddit-for-3-months-zero-customers-heres-what-i-missed-9b3aece6c0
+pain_quote: "We were hiding behind our code...got our accounts banned...decided to freeze features for 30 days to force manual outreach"
+product_built: unknown -- likely a SaaS or tool, built by a team
+fit_reason: Tried Reddit distribution, got accounts banned, now freezing features to do 30 days of manual outreach. Clear post-launch distribution failure. Pain is specific and urgent. Commenting on jackbuilds thread (June 14) -- parent post outside 24h window but commenter is actively mid-crisis.
+opener_angle: The Reddit ban + features freeze is the hook. Ask what the product is and whether the manual outreach approach has produced anything yet.
+status: watch
+outreach_id: null
+notes: Commenter on jackbuilds (reddbot.ai) IH thread June 14. Parent post outside 24h window but commenter pain is current. WATCH pending IH DM. Reddit Scout run 384.
+[RECORD_END]

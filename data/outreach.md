@@ -4539,3 +4539,39 @@ date_sent:
 result:
 notes: r/SaaS "Aborting my Saas only after 10 days" -- Current_Cow_4929 (2026-06-16T04:03Z). Multi-channel attempt (Reddit ads, Meta ads, cold outreach, Instagram DMs), zero conversion. AI wrapper SaaS. Reddit egress blocked -- send when unblocked. No em dashes verified. No pitch. No call ask. Reddit Scout run 2026-06-16.
 [RECORD_END]
+
+[RECORD_START]
+id: O-265
+date_created: 2026-06-16
+lead_id: L-286
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your month 5 update on IH. 6 users, $0 MRR after 5 months with $200/month in costs going out. that gap is brutal.
+
+  what has distribution actually looked like over those 5 months? any channels that produced even weak signal, or has it mostly been silence?
+
+  doing research on the post-launch distribution problem for solo builders. specifically that window between shipping something and actually getting traction.
+status: draft
+date_sent:
+result:
+notes: EarningsScores/IH "Month 5 Update: 6 users, $0 MRR" (2026-06-16, 11h ago). AI earnings scoring tool for investors. Site paused 2nd month. No em dashes verified. No pitch. No call ask. Reddit Scout run 384.
+[RECORD_END]
+
+[RECORD_START]
+id: O-266
+date_created: 2026-06-16
+lead_id: L-287
+platform: indiehackers
+variant: dm
+draft_text: |
+  saw your update on IH. 4 months, 3 chrome extensions and a mobile app shipped, still £0. that pattern is more common than most people admit.
+
+  what did distribution look like for each of them? did you try different channels for each launch or mostly the same approach?
+
+  doing research on the post-launch gap for builders. specifically why shipping something doesn't automatically translate to people using it.
+status: draft
+date_sent:
+result:
+notes: hacker1010/IH "4 months in. 3 Chrome extensions live. First mobile app done. Still £0" (2026-06-16, 3h ago). Serial builder, 4 products, £0 across all. No em dashes verified. No pitch. No call ask. Reddit Scout run 384.
+[RECORD_END]
