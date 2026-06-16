@@ -4059,3 +4059,18 @@ status: new
 outreach_id: O-263
 notes: F5Bot keyword "distribution problem" (r/founder, 2026-06-15T17:37Z, thread 19ec252fa17b58af post-R351 new message). Run 383. Post ~10h old at time of check.
 [RECORD_END]
+
+[RECORD_START]
+id: L-285
+date_found: 2026-06-16
+username: Current_Cow_4929
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u72t55/aborting_my_saas_only_after_10_days/
+pain_quote: "marketing is much harder than building a SaaS. I did it all. Ran ads on Reddit and Meta, did cold outreach, got traffic. Most of them were bots or just ignored it."
+product_built: AI wrapper SaaS (unspecified niche, just launched)
+fit_reason: launched ~10 days ago, tried paid ads AND cold outreach AND Instagram DMs simultaneously, got bots and silence, now considering aborting. tried more channels than most but still nothing converted. first-person, high urgency, textbook Tide ICP at peak frustration.
+opener_angle: the multi-channel attempt with zero conversion. they tried everything and still got nowhere. ask what the cold outreach targeting looked like specifically, research framing on the gap between shipping and finding real users.
+status: new
+outreach_id: O-264
+notes: F5Bot keyword "launched my saas" (r/SaaS thread 1u72t55, 2026-06-16T04:03Z). Reddit Scout run 2026-06-16. Reddit egress blocked -- DM via Reddit u/Current_Cow_4929 when unblocked. No em dashes verified. No pitch. No call ask.
+[RECORD_END]

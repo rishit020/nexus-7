@@ -4525,3 +4525,17 @@ date_sent:
 result:
 notes: r/founder "I spent 1 week building a Chrome extension. Getting 11 users has been much harder than building it" -- glitch4000 (2026-06-15T17:37Z). No em dashes verified. No pitch. No call ask. Run 383.
 [RECORD_END]
+
+[RECORD_START]
+id: O-264
+date_created: 2026-06-16
+lead_id: L-285
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about aborting after 10 days. running ads, cold outreach, instagram all at once and still getting bots or silence is the exact pattern i've been researching. i'm looking into why the window between shipping and actually finding real users breaks down for most builders. what did the cold outreach look like for you, who were you targeting?
+status: draft
+date_sent:
+result:
+notes: r/SaaS "Aborting my Saas only after 10 days" -- Current_Cow_4929 (2026-06-16T04:03Z). Multi-channel attempt (Reddit ads, Meta ads, cold outreach, Instagram DMs), zero conversion. AI wrapper SaaS. Reddit egress blocked -- send when unblocked. No em dashes verified. No pitch. No call ask. Reddit Scout run 2026-06-16.
+[RECORD_END]
