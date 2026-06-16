@@ -4134,3 +4134,18 @@ status: new
 outreach_id: O-267
 notes: Commenter on r/appdev "I thought building the app would be the hard part. I was wrong" (thread 19ec252fa17b58af, 2026-06-13T21:39Z). Promoted from WATCH PENDING (run 383). PENDING Reddit unblock.
 [RECORD_END]
+
+[RECORD_START]
+id: L-290
+date_found: 2026-06-16
+username: notomarsol
+platform: reddit
+url: https://www.reddit.com/r/microsaas/comments/1u4vbhy
+pain_quote: "I launched my SaaS 20+ times before making my first sale"
+product_built: unknown SaaS (r/microsaas post)
+fit_reason: Has been through the distribution failure loop 20+ times before finally cracking the first sale. Invaluable research conversation -- not acute ICP pain but the deepest lived experience of the exact distribution gap Tide addresses. Could map what finally worked.
+opener_angle: The 20+ launches before first sale is the hook. Ask what distribution looked like across those attempts and what finally changed. Pure research framing.
+status: watch
+outreach_id: null
+notes: Flagged as WATCH PENDING by Reddit Scout run 384 (2026-06-16T11:00Z), formally logged in run 385. r/microsaas (not in target sub list but adjacent ICP). Past acute pain -- already made first sale. Research value is high. Reddit egress blocked -- DM via Reddit u/notomarsol when unblocked.
+[RECORD_END]
