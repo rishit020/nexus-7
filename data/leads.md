@@ -4163,3 +4163,17 @@ opener_angle: reference the 60-visitors-0-signups gap on a validation tool -- th
 status: new
 outreach_id: O-268
 [RECORD_END]
+
+[RECORD_START]
+id: L-292
+date_found: 2026-06-16
+username: Pale_Lettuce9074
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u7dz6f/built_a_tiny_world_cup_chrome_extension_learned/
+pain_quote: "now I'm trying to figure out how to talk about it without sounding like every other 'I launched my SaaS' post"
+product_built: World Cup Chrome extension (spoiler prevention -- "World Cup in your browser, without spoilers"), couple early sales post-launch
+fit_reason: post-launch distribution/messaging gap. has initial sales but stuck on how to market at scale in a crowded space. builder asking about channel strategy. first-person, real product, real confusion about distribution.
+opener_angle: reference the couple early sales then wall on messaging -- ask which angle they've tried and what produced signal
+status: new
+outreach_id: O-269
+[RECORD_END]
