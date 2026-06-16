@@ -504,3 +504,41 @@ session_start: 2026-06-16 00:01
 
 
 
+
+---
+REDDIT SCOUT RUN 384 | 2026-06-16 11:00 UTC
+
+Reddit: egress blocked (161st+ consecutive). IH fallback via homepage + direct post fetches.
+
+2 DM LEADS FOUND:
+
+L-286 | u/EarningsScores | indiehackers.com
+Post: "EarningsScores — Month 5 Update: 6 users, $0 MRR, and the reframe that changed how I think about the product"
+Product: AI earnings report scoring tool for investors
+Pain: 5 months in, 6 users, $0 MRR, $200/month costs, site paused second month
+URL: https://www.indiehackers.com/post/earningsscores-month-5-update-6-users-0-mrr-and-the-reframe-that-changed-how-i-think-about-the-product-c78315d112
+DM (O-265):
+  saw your month 5 update on IH. 6 users, $0 MRR after 5 months with $200/month in costs going out. that gap is brutal.
+
+  what has distribution actually looked like over those 5 months? any channels that produced even weak signal, or has it mostly been silence?
+
+  doing research on the post-launch distribution problem for solo builders. specifically that window between shipping something and actually getting traction.
+
+L-287 | u/hacker1010 | indiehackers.com
+Post: "4 months in. 3 Chrome extensions live. First mobile app done. Still £0."
+Product: 3 Chrome extensions + 1 mobile app (names unknown)
+Pain: Serial builder, 4 products, £0 across all of them
+URL: https://www.indiehackers.com/hacker1010
+DM (O-266):
+  saw your update on IH. 4 months, 3 chrome extensions and a mobile app shipped, still £0. that pattern is more common than most people admit.
+
+  what did distribution look like for each of them? did you try different channels for each launch or mostly the same approach?
+
+  doing research on the post-launch gap for builders. specifically why shipping something doesn't automatically translate to people using it.
+
+WATCH: L-288 | u/zhencha | IH commenter
+"accounts got banned, decided to freeze features for 30 days to force manual outreach"
+On jackbuilds thread (June 14). Check profile for DM when confirmed.
+
+Telegram blocked. PushNotification sent. Commit: 0d276b3.
+Pipeline: 288 total. 45 drafts pending review (O-222 to O-266).
