@@ -4191,3 +4191,31 @@ opener_angle: reference the Fluxerv launch and solo 3-month build. ask what the 
 status: new
 outreach_id: O-270
 [RECORD_END]
+
+[RECORD_START]
+id: L-294
+date_found: 2026-06-17
+username: Such_Maintenance1826
+platform: reddit
+url: https://www.reddit.com/r/startups/comments/1u79l6p/c/os0pvvf
+pain_quote: "6 months into trying to build SaaS products, and I still can't crack distribution"
+product_built: multiple SaaS products (building for 6 months, distribution still failing)
+fit_reason: first-person, 6 months explicit distribution struggle, r/startups, exact Tide ICP pain in their own words
+opener_angle: what specifically feels most broken after 6 months, channels tried vs any that produced signal
+status: new
+outreach_id: O-271
+[RECORD_END]
+
+[RECORD_START]
+id: L-295
+date_found: 2026-06-17
+username: NoEffect1189
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1u86ddp/building_in_public_on_x_with_zero_followers_what/
+pain_quote: "Building in public on X with zero followers --- what actually worked for you?"
+product_built: unknown (building in public with zero audience, posted 2026-06-17T10:33Z)
+fit_reason: zero followers, actively seeking what works, no audience pain in target sub r/buildinpublic, posted today
+opener_angle: what have they tried beyond posting, any signal at all even tiny
+status: new
+outreach_id: O-272
+[RECORD_END]

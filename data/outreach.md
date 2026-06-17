@@ -4643,3 +4643,31 @@ date_sent:
 result:
 notes: F5Bot "launched my saas" alert 2026-06-17T01:51Z. r/SaaS. Fluxerv -- notes + AI live tools in document. Solo dev, 3 months, no funding. Launched today on PH. Caught at exact launch moment. No em dashes verified. No pitch. No call ask. Run 388.
 [RECORD_END]
+
+[RECORD_START]
+id: O-271
+date_created: 2026-06-17
+lead_id: L-294
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about 6 months in and still not cracking distribution. curious what you've been trying and where it feels most broken. is it not knowing which channels to use, or more that you try them and just get nothing back? doing research on exactly this gap and trying to understand what the day-to-day looks like when nothing is working.
+status: draft
+date_sent:
+result:
+notes: F5Bot "distribution problem" thread, r/startups, 2026-06-16T17:14Z. 6 months of explicit first-person distribution pain. No em dashes verified. No pitch. No call ask. Run 395.
+[RECORD_END]
+
+[RECORD_START]
+id: O-272
+date_created: 2026-06-17
+lead_id: L-295
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about building in public on X with zero followers. what have you actually tried beyond just posting, and what was the best response you got even if tiny? doing research on exactly this window between shipping something and getting people to notice it.
+status: draft
+date_sent:
+result:
+notes: F5Bot "shouting into the void" thread, r/buildinpublic, 2026-06-17T10:33Z. Posted today asking what worked. Zero follower distribution pain. No em dashes verified. No pitch. No call ask. Run 395.
+[RECORD_END]
