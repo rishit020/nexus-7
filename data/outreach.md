@@ -4741,3 +4741,17 @@ date_sent:
 result:
 notes: F5Bot "0 paying users" alert 2026-06-18T08:26Z (thread 19ed9d6932c2f5f6). r/StartUpIndia. Post: "launched my first saas 2 weeks ago, 0 paying users." Solo dev, Amazon India listing scanner, 1000 views/2-3 comments/0 paying users. Perfect distribution skill gap ICP. No em dashes verified. No pitch. No call ask. Run 400.
 [RECORD_END]
+
+[RECORD_START]
+id: O-278
+date_created: 2026-06-18
+lead_id: L-301
+platform: reddit
+variant: dm
+draft_text: |
+  saw your microsaas post about FastPost AI. 3 months building and 0 paying users is a specific kind of frustrating. curious what you've actually tried on the distribution side since launch and where it felt like it stalled. doing research on exactly this gap, that window between shipping something and getting the first real users.
+status: draft
+date_sent:
+result:
+notes: F5Bot "0 paying users" alert 2026-06-18T12:29Z (thread 19edab56b25176ad). r/microsaas. Post title: "I spent 3 months growing an AI that writes in your actual voice, not ChatGPT's. 0 paying users". Solo builder, FastPost AI (AI content gen for X), 3 months building, 0 paying users. No em dashes verified. No pitch. No call ask. Scout run 404.
+[RECORD_END]

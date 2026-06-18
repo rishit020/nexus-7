@@ -4289,3 +4289,17 @@ opener_angle: the building-vs-getting-users skill gap they named directly, ask w
 status: new
 outreach_id: O-277
 [RECORD_END]
+
+[RECORD_START]
+id: L-301
+date_found: 2026-06-18
+username: mohamadbiomy_
+platform: reddit
+url: https://www.reddit.com/r/microsaas/comments/1u94wi7/i_spent_3_months_growing_an_ai_that_writes_in/
+pain_quote: "0 paying users" (post title); "Nothing I tried could actually write the way I write"
+product_built: FastPost AI -- AI tool that trains on your actual posts to generate content that sounds like you (for X/Twitter). Built over 3 months.
+fit_reason: solo builder, built and launched FastPost AI, 0 paying users, posting in r/microsaas, explicit distribution pain. textbook ICP: shipped something, can't get users.
+opener_angle: 3 months building + 0 paying users gap. ask what distribution actually looked like since launch and where it stalled.
+status: new
+outreach_id: O-278
+[RECORD_END]
