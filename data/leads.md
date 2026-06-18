@@ -4345,3 +4345,17 @@ opener_angle: "AI wasn't the bottleneck, distribution was" -- ask what the produ
 status: new
 outreach_id: O-281
 [RECORD_END]
+
+[RECORD_START]
+id: L-305
+date_found: 2026-06-18
+username: Zealousideal_Pace127
+platform: reddit
+url: https://www.reddit.com/r/StartUpIndia/comments/1u90h3y/launched_my_first_saas_2_weeks_ago_0_paying_users/
+pain_quote: "building and getting users are just two completely different skills and I spent all my time on one of them"
+product_built: Amazon India listing analyzer -- scans Amazon India listings and tells sellers what's killing their ranking. Solo dev from Ludhiana.
+fit_reason: first SaaS, 2 weeks post-launch, 0 paying users, reddit posts got ~1000 views and 2-3 comments total. explicitly names the skills gap Tide addresses. first-person pain, specific numbers.
+opener_angle: the "two completely different skills" line -- ask what distribution has actually looked like beyond reddit, what channels, what response
+status: new
+outreach_id: O-282
+[RECORD_END]

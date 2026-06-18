@@ -4801,3 +4801,21 @@ date_sent:
 result:
 notes: F5Bot "distribution problem" alert 2026-06-18T18:37Z (thread 19eda36b317d30ed, message 19edc05f9c06e7c9). r/SaaS post 1u9ecwp. DistributionLazy6510: "Founders of SaaS products don't have a product problem. They have a distribution problem. I spent weeks building features. And then I came to an uncomfortable realization. No one was using them because no one even knew about them." Missed by R409 (thread 19eda36b317d30ed had earlier messages processed but 18:37Z message was not listed in R409 audit). flavien_stasegames/r/SoloDevelopment in same email: game dev wishlist post-mortem, DISCARD. No em dashes verified. No pitch. No call ask. Scout run 410.
 [RECORD_END]
+
+[RECORD_START]
+id: O-282
+date_created: 2026-06-18
+lead_id: L-305
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in r/startupindia about launching the amazon listing analyzer 2 weeks ago with 0 paying users. "building and getting users are just two completely different skills and i spent all my time on one of them" is one of the more honest descriptions of that gap i've read.
+
+  what have you actually tried on the distribution side beyond reddit? like which channels and what happened?
+
+  doing research on exactly this gap for solo founders post-launch. your situation is exactly what i'm trying to map out.
+status: draft
+date_sent:
+result:
+notes: F5Bot "0 paying users" alert 2026-06-18T08:26Z (thread 19ed9d6932c2f5f6). r/StartUpIndia post 1u90h3y. Zealousideal_Pace127: solo dev from Ludhiana, built Amazon India listing analyzer (scans listings, tells sellers what kills their ranking), launched 2 weeks ago, 0 paying users, reddit posts got 1000 views + 2-3 comments. Pain quote verbatim from post body. No em dashes verified. No pitch. No call ask. Scout run 411.
+[RECORD_END]
