@@ -4713,3 +4713,17 @@ date_sent:
 result:
 notes: F5Bot "distribution problem" alert 2026-06-17T15:40Z (thread 19ed5afaf764f962). r/DevelEire. Post title explicitly names distribution problem. Built niche app, post-launch, founder-led organic approach. No em dashes verified. No pitch. No call ask. Scout run 396.
 [RECORD_END]
+
+[RECORD_START]
+id: O-276
+date_created: 2026-06-18
+lead_id: L-299
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about launching your ai saas 6 days ago with 7 signups and 0 paying users yet. that gap between signups and paying is exactly what i'm researching right now. curious what you tried to drive those signups and whether any channel felt even remotely promising. doing research specifically on this window right after launch.
+status: draft
+date_sent:
+result:
+notes: F5Bot "0 paying users" alert 2026-06-18T07:24Z (thread 19ed99df85f34205). r/startup. Post title: "Launched my AI SaaS 6 days ago -- 7 signups, 0 paying users. Looking for honest fee..." Post content [removed]. No em dashes verified. No pitch. No call ask. Run 398.
+[RECORD_END]

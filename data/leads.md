@@ -4261,3 +4261,17 @@ opener_angle: what's been hardest, finding where users actually are or getting t
 status: new
 outreach_id: O-275
 [RECORD_END]
+
+[RECORD_START]
+id: L-299
+date_found: 2026-06-18
+username: heelixai
+platform: reddit
+url: https://www.reddit.com/r/startup/comments/1u8zges/launched_my_ai_saas_6_days_ago_7_signups_0_paying/
+pain_quote: "Launched my AI SaaS 6 days ago -- 7 signups, 0 paying users. Looking for honest feedback..."
+product_built: AI SaaS (unknown specifics). 6 days post-launch, 7 signups, 0 paying users.
+fit_reason: first-person post-launch pain with exact numbers. launched ai saas, has signups but zero paying conversions. textbook distribution gap at exact launch window Tide targets.
+opener_angle: signups-to-paying gap specifically. ask what channels drove those 7 signups and whether any produced even weak signal.
+status: new
+outreach_id: O-276
+[RECORD_END]
