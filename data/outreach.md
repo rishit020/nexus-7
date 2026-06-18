@@ -4685,3 +4685,31 @@ date_sent:
 result:
 notes: F5Bot "shouting into the void" alert 2026-06-18T02:09Z. r/SideProject. Day 3 post-launch, zero Reddit replies, first organic user discovered via analytics. No em dashes verified. No pitch. No call ask. Run 397.
 [RECORD_END]
+
+[RECORD_START]
+id: O-274
+date_created: 2026-06-18
+lead_id: L-297
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about 15k subscribers and zero signups. that 46% open rate is solid but i'm curious what the subscribers originally signed up for vs what you're asking them to do now. doing research on exactly this gap for founders and trying to understand where things break. what's the product?
+status: draft
+date_sent:
+result:
+notes: F5Bot "0 signups" alert 2026-06-18T00:35Z (thread 19ed8275a08a65e1). r/microsaas. 15K email subscribers, 164 clicks, 0 signups. Post-launch conversion gap. No em dashes verified. No pitch. No call ask. Scout run 396.
+[RECORD_END]
+
+[RECORD_START]
+id: O-275
+date_created: 2026-06-18
+lead_id: L-298
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the Irish theory app. the part about distribution being the harder problem resonated. i'm doing research on exactly that window after you build something but before you figure out distribution. what's been the hardest part so far, finding where your users actually are or getting them to care?
+status: draft
+date_sent:
+result:
+notes: F5Bot "distribution problem" alert 2026-06-17T15:40Z (thread 19ed5afaf764f962). r/DevelEire. Post title explicitly names distribution problem. Built niche app, post-launch, founder-led organic approach. No em dashes verified. No pitch. No call ask. Scout run 396.
+[RECORD_END]

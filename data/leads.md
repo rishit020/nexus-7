@@ -4233,3 +4233,31 @@ opener_angle: the zero-reply days then spotting the first outside IP in analytic
 status: new
 outreach_id: O-273
 [RECORD_END]
+
+[RECORD_START]
+id: L-297
+date_found: 2026-06-18
+username: TeacherTrick4162
+platform: reddit
+url: https://www.reddit.com/r/microsaas/comments/1tl86ag/c/osah3j5
+pain_quote: "15,000 subscribers. 164 clicked. 46% opened. 0 Signups. What am I missing?"
+product_built: SaaS product with 15K email subscribers. Post-launch, running email campaigns that drive clicks but convert zero signups.
+fit_reason: post-launch conversion breakdown, first-person pain, r/microsaas = solid ICP sub, asking for help directly. has audience but product isn't converting. < 6h old at scout time.
+opener_angle: what subscribers signed up for vs what they're being asked to do now. research on the audience-to-product conversion gap.
+status: new
+outreach_id: O-274
+[RECORD_END]
+
+[RECORD_START]
+id: L-298
+date_found: 2026-06-18
+username: DotComGod
+platform: reddit
+url: https://www.reddit.com/r/DevelEire/comments/1u8dijj/i_built_a_niche_irish_theorytest_app_and_reddit/
+pain_quote: "The distribution problem is much harder: the target users are spread across local Irish subs, student groups, Facebook learner-driver groups, and short-form video."
+product_built: niche Irish theory-test app (driving test prep). launched, trying founder-led organic with free Premium slots for feedback.
+fit_reason: post title literally says "distribution problem." built an app, recognized distribution as the hard part, actively trying organic-first. first-person. 14.5h old at scout time. F5Bot via r/DevelEire.
+opener_angle: what's been hardest, finding where users actually are or getting them to care once they do.
+status: new
+outreach_id: O-275
+[RECORD_END]
