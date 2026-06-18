@@ -4769,3 +4769,17 @@ date_sent:
 result:
 notes: F5Bot "distribution problem" alert 2026-06-17T23:15Z (thread 19ed5afaf764f962, older thread). r/startups comment 1u79l6p/c/osa2trd. majrat comment: "6 months into trying to build SaaS products, and I still can't crack distribution". Solo SaaS builder, 6 months in, first-person pain. No em dashes verified. No pitch. No call ask. Scout run 405.
 [RECORD_END]
+
+[RECORD_START]
+id: O-280
+date_created: 2026-06-18
+lead_id: L-303
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in r/leanstartup about 3 years building cojauny with 0 paying users. you got 3k views and 35+ comments but only 1 whitelist signup. curious what you think caused that drop. doing research on this exact gap between getting attention and converting it into actual users.
+status: draft
+date_sent:
+result:
+notes: F5Bot "0 paying users" alert 2026-06-18T16:43Z (thread 19ed99df85f34205, message 19edb9dad4fb3973). r/leanstartup post 1u9b7of. butzema: "3 years building, 0 paying users -- doing my first real validation this week." Solo developer, Cojauny airport transfer sharing app, 3 years building, 0 paying users, whitelist open 1 signup from 3k views. Post was ~20 min old when found. No em dashes verified. No pitch. No call ask. Scout run 408.
+[RECORD_END]

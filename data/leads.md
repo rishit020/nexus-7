@@ -4317,3 +4317,17 @@ opener_angle: the 6-month gap between building and getting users -- ask what the
 status: new
 outreach_id: O-279
 [RECORD_END]
+
+[RECORD_START]
+id: L-303
+date_found: 2026-06-18
+username: butzema
+platform: reddit
+url: https://www.reddit.com/r/leanstartup/comments/1u9b7of/3_years_building_0_paying_users_doing_my_first/
+pain_quote: "3 years building, 0 paying users" (title); "Whitelist is open. 1 signup so far"
+product_built: Cojauny -- airport transfer sharing app. Match passengers on the same flight to share transfers, cutting costs 50%+. Built over 3 years alongside a day job. Whitelist just opened.
+fit_reason: solo developer, 3 years building, 0 paying users, just started first real validation this week. Got 3000+ views and 35+ comments in r/digitalnomad and r/travel but only 1 whitelist signup. Clear distribution-to-conversion pain. First-person, specific numbers, post < 1 hour old.
+opener_angle: the gap between 3k views + 35 comments and 1 actual whitelist signup. ask what they think caused that drop-off.
+status: new
+outreach_id: O-280
+[RECORD_END]
