@@ -4671,3 +4671,17 @@ date_sent:
 result:
 notes: F5Bot "shouting into the void" thread, r/buildinpublic, 2026-06-17T10:33Z. Posted today asking what worked. Zero follower distribution pain. No em dashes verified. No pitch. No call ask. Run 395.
 [RECORD_END]
+
+[RECORD_START]
+id: O-273
+date_created: 2026-06-18
+lead_id: L-296
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the zero-reply phase then checking analytics and seeing an ip that wasn't yours. curious what you built and what the posting looked like before that showed up. doing research on exactly this window between launching and getting real people to discover it.
+status: draft
+date_sent:
+result:
+notes: F5Bot "shouting into the void" alert 2026-06-18T02:09Z. r/SideProject. Day 3 post-launch, zero Reddit replies, first organic user discovered via analytics. No em dashes verified. No pitch. No call ask. Run 397.
+[RECORD_END]
