@@ -4783,3 +4783,21 @@ date_sent:
 result:
 notes: F5Bot "0 paying users" alert 2026-06-18T16:43Z (thread 19ed99df85f34205, message 19edb9dad4fb3973). r/leanstartup post 1u9b7of. butzema: "3 years building, 0 paying users -- doing my first real validation this week." Solo developer, Cojauny airport transfer sharing app, 3 years building, 0 paying users, whitelist open 1 signup from 3k views. Post was ~20 min old when found. No em dashes verified. No pitch. No call ask. Scout run 408.
 [RECORD_END]
+
+[RECORD_START]
+id: O-281
+date_created: 2026-06-18
+lead_id: L-304
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post in r/saas. "spent weeks building features...no one even knew about them. ai wasn't the bottleneck. distribution was" is exactly what i keep hearing from solo builders.
+
+  what are you building? and what has distribution actually looked like when you tried to fix it?
+
+  doing research on exactly this gap.
+status: draft
+date_sent:
+result:
+notes: F5Bot "distribution problem" alert 2026-06-18T18:37Z (thread 19eda36b317d30ed, message 19edc05f9c06e7c9). r/SaaS post 1u9ecwp. DistributionLazy6510: "Founders of SaaS products don't have a product problem. They have a distribution problem. I spent weeks building features. And then I came to an uncomfortable realization. No one was using them because no one even knew about them." Missed by R409 (thread 19eda36b317d30ed had earlier messages processed but 18:37Z message was not listed in R409 audit). flavien_stasegames/r/SoloDevelopment in same email: game dev wishlist post-mortem, DISCARD. No em dashes verified. No pitch. No call ask. Scout run 410.
+[RECORD_END]

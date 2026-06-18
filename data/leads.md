@@ -4331,3 +4331,17 @@ opener_angle: the gap between 3k views + 35 comments and 1 actual whitelist sign
 status: new
 outreach_id: O-280
 [RECORD_END]
+
+[RECORD_START]
+id: L-304
+date_found: 2026-06-18
+username: DistributionLazy6510
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u9ecwp/founders_of_saas_products_dont_have_a_product/
+pain_quote: "no one was using them because no one even knew about them. AI wasn't the bottleneck. Distribution was the bottleneck."
+product_built: unknown SaaS (weeks of features built, zero users aware it exists)
+fit_reason: first-person post on r/SaaS today admitting they shipped features nobody knew existed. Explicitly diagnosed their own problem as distribution, not product. Exact Tide ICP language.
+opener_angle: "AI wasn't the bottleneck, distribution was" -- ask what the product is and what distribution has actually looked like
+status: new
+outreach_id: O-281
+[RECORD_END]
