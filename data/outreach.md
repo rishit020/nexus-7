@@ -4755,3 +4755,17 @@ date_sent:
 result:
 notes: F5Bot "0 paying users" alert 2026-06-18T12:29Z (thread 19edab56b25176ad). r/microsaas. Post title: "I spent 3 months growing an AI that writes in your actual voice, not ChatGPT's. 0 paying users". Solo builder, FastPost AI (AI content gen for X), 3 months building, 0 paying users. No em dashes verified. No pitch. No call ask. Scout run 404.
 [RECORD_END]
+
+[RECORD_START]
+id: O-279
+date_created: 2026-06-18
+lead_id: L-302
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment in r/startups about 6 months of building saas and still not cracking distribution. curious what you've actually tried on the distribution side and where it felt like it broke down. doing research on exactly this gap between shipping something and getting real users. what's been the biggest blocker for you?
+status: draft
+date_sent:
+result:
+notes: F5Bot "distribution problem" alert 2026-06-17T23:15Z (thread 19ed5afaf764f962, older thread). r/startups comment 1u79l6p/c/osa2trd. majrat comment: "6 months into trying to build SaaS products, and I still can't crack distribution". Solo SaaS builder, 6 months in, first-person pain. No em dashes verified. No pitch. No call ask. Scout run 405.
+[RECORD_END]

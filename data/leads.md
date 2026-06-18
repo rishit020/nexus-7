@@ -4303,3 +4303,17 @@ opener_angle: 3 months building + 0 paying users gap. ask what distribution actu
 status: new
 outreach_id: O-278
 [RECORD_END]
+
+[RECORD_START]
+id: L-302
+date_found: 2026-06-18
+username: majrat
+platform: reddit
+url: https://www.reddit.com/r/startups/comments/1u79l6p/c/osa2trd?context=3
+pain_quote: "6 months into trying to build SaaS products, and I still can't crack distribution"
+product_built: SaaS product(s) -- details unknown, actively building for 6 months
+fit_reason: 6 months building SaaS, self-described inability to crack distribution, r/startups, first-person confession of the exact Tide ICP pain
+opener_angle: the 6-month gap between building and getting users -- ask what they've tried and where it stalls
+status: new
+outreach_id: O-279
+[RECORD_END]
