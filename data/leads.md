@@ -4275,3 +4275,17 @@ opener_angle: signups-to-paying gap specifically. ask what channels drove those 
 status: new
 outreach_id: O-276
 [RECORD_END]
+
+[RECORD_START]
+id: L-300
+date_found: 2026-06-18
+username: Zealousideal_Pace127
+platform: reddit
+url: https://www.reddit.com/r/StartUpIndia/comments/1u90h3y/launched_my_first_saas_2_weeks_ago_0_paying_users/
+pain_quote: "building and getting users are just two completely different skills and I spent all my time on one of them"
+product_built: Amazon India listing scanner for sellers (scans listings, tells sellers what's killing their ranking)
+fit_reason: solo dev from Ludhiana, 2 months building, launched 2 weeks ago, 1000 reddit views/2-3 comments/0 paying users, explicitly names the distribution skill gap, product works but can't get first scan
+opener_angle: the building-vs-getting-users skill gap they named directly, ask what distribution actually looked like
+status: new
+outreach_id: O-277
+[RECORD_END]

@@ -4727,3 +4727,17 @@ date_sent:
 result:
 notes: F5Bot "0 paying users" alert 2026-06-18T07:24Z (thread 19ed99df85f34205). r/startup. Post title: "Launched my AI SaaS 6 days ago -- 7 signups, 0 paying users. Looking for honest fee..." Post content [removed]. No em dashes verified. No pitch. No call ask. Run 398.
 [RECORD_END]
+
+[RECORD_START]
+id: O-277
+date_created: 2026-06-18
+lead_id: L-300
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the amazon listing scanner. that line about building and getting users being two completely different skills is exactly what i keep hearing from solo devs. curious what distribution actually looked like for you these past 2 weeks. which channels did you try and what felt most broken about it?
+status: draft
+date_sent:
+result:
+notes: F5Bot "0 paying users" alert 2026-06-18T08:26Z (thread 19ed9d6932c2f5f6). r/StartUpIndia. Post: "launched my first saas 2 weeks ago, 0 paying users." Solo dev, Amazon India listing scanner, 1000 views/2-3 comments/0 paying users. Perfect distribution skill gap ICP. No em dashes verified. No pitch. No call ask. Run 400.
+[RECORD_END]
