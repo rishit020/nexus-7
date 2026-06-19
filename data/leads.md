@@ -4359,3 +4359,17 @@ opener_angle: the "two completely different skills" line -- ask what distributio
 status: new
 outreach_id: O-282
 [RECORD_END]
+
+[RECORD_START]
+id: L-306
+date_found: 2026-06-19
+username: Avengerfx
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1u9k3jm
+pain_quote: "there's launched as in the product is live, and then there's launched as in enough of the right people have actually seen it"
+product_built: unknown (early-stage, in first-paid-user phase)
+fit_reason: r/SaaS, first-person "mine" reference to own product, articulating the distribution-not-product distinction, actively in the gap Tide addresses
+opener_angle: the "launched as in enough of the right people have seen it" insight -- ask what the product is and what distribution looks like right now
+status: new
+outreach_id: O-283
+[RECORD_END]

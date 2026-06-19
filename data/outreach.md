@@ -4819,3 +4819,21 @@ date_sent:
 result:
 notes: F5Bot "0 paying users" alert 2026-06-18T08:26Z (thread 19ed9d6932c2f5f6). r/StartUpIndia post 1u90h3y. Zealousideal_Pace127: solo dev from Ludhiana, built Amazon India listing analyzer (scans listings, tells sellers what kills their ranking), launched 2 weeks ago, 0 paying users, reddit posts got 1000 views + 2-3 comments. Pain quote verbatim from post body. No em dashes verified. No pitch. No call ask. Scout run 411.
 [RECORD_END]
+
+[RECORD_START]
+id: O-283
+date_created: 2026-06-19
+lead_id: L-306
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment on the r/saas thread about getting your first paid user. the point about "launched as in enough of the right people have seen it" is something most builders don't figure out until late.
+
+  what's the product and what does getting it in front of the right people actually look like for you right now?
+
+  doing research on this exact distribution gap for early-stage builders.
+status: draft
+date_sent:
+result:
+notes: F5Bot "distribution problem" alert 2026-06-18T23:08Z (thread 19ed5afaf764f962, message 19edcfe1fb715279). r/SaaS thread 1u9k3jm "how long it took you to get your first paid user?" Avengerfx commented: "Still early on mine...there's launched as in the product is live, and then there's launched as in enough of the right people have actually seen it...otherwise it's easy to call it a product problem when it might just be a distribution problem." Slipped past R415 (R415 processed thread 19ed5afaf764f962 through 14:54Z message; 23:08Z Avengerfx message not logged). No em dashes verified. No pitch. No call ask. Scout run 416.
+[RECORD_END]
