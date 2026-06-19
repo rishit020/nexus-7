@@ -4373,3 +4373,20 @@ opener_angle: the "launched as in enough of the right people have seen it" insig
 status: new
 outreach_id: O-283
 [RECORD_END]
+
+[RECORD_START]
+id: L-307
+date_found: 2026-06-19
+source: f5bot
+keyword: launched my saas
+platform: reddit
+subreddit: SaasDevelopers
+author: gsfq
+post_title: I launched my first SaaS, looking for feedback
+post_url: https://www.reddit.com/r/SaasDevelopers/comments/1u9n9iw/i_launched_my_first_saas_looking_for_feedback/
+product: Paso (trypaso.com) - step recording / Loom-like tool
+pain_quote: "today I launched my SaaS Paso and already just some friends try it and I want to get some feedback"
+icp_fit: high
+status: new
+notes: Launched TODAY (June 19). Only friends using it post-launch, posting on Reddit for feedback = no organic distribution. First SaaS. Perfect post-launch window. DM via Reddit.
+[RECORD_END]
