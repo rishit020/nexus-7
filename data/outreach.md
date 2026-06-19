@@ -4894,3 +4894,17 @@ date_sent:
 result:
 notes: F5Bot "0 signups" alert 2026-06-19T07:31Z (thread 19edeca9901e8bb6). r/SideProject post 1u9va29. ActorRating: "Built an AI tool in 2 days, launched today, 3 visitors, 0 signups." Post body [removed] but title confirms first-person day-of-launch ICP. No em dashes verified. No pitch. No call ask. Scout run 423.
 [RECORD_END]
+
+[RECORD_START]
+id: O-288
+date_created: 2026-06-19
+lead_id: L-311
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your comment about reddit nuking your post when you were looking for testers. that sounds genuinely rough, especially when you're just trying to get eyes on something you built. curious what you tried next and whether you found a way that actually worked. doing research on that exact gap between building something and getting real people to use it.
+status: draft
+date_sent:
+result:
+notes: F5Bot "shouting into the void" alert 2026-06-18T17:32Z (thread 19ed5cfc9f405204, message 19edbca80bbfdbe5). r/SideProject comment on post 1u8tk2p "I just got my 1st user!!!!!!!!". Active_Ant_9849 commented: "I totally get that feeling of shouting into the void, after Reddit literally removed my post where I was searching for testers (must have posted in the wrong sub, but it was like a punch in the throat)." Email from June 18; thread returned in newer_than:2h search because of later messages. Active_Ant_9849 was never logged in prior runs -- thread 19ed5cfc9f405204 was blanket-discarded in runs 396-397 due to irrelevant subreddits in other messages; this specific message was missed. No em dashes verified. No pitch. No call ask. Scout run 427.
+[RECORD_END]

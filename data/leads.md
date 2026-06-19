@@ -4428,3 +4428,17 @@ opener_angle: the 2-day build and same-day launch with 0 signups -- ask what the
 status: new
 outreach_id: O-287
 [RECORD_END]
+
+[RECORD_START]
+id: L-311
+date_found: 2026-06-19
+username: Active_Ant_9849
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1u8tk2p/c/osf3g9q?context=3
+pain_quote: "I totally get that feeling of shouting into the void, after Reddit literally removed my post where I was searching for testers (must have posted in the wrong sub, but it was like a punch in the throat)"
+product_built: unknown (searching for testers, pre or early launch stage)
+fit_reason: r/SideProject commenter describing own first-person pain -- Reddit nuked their post when looking for testers, empathizing with a first-user success story. Distribution failure, platform friction, zero-user phase. Exact Tide ICP.
+opener_angle: the Reddit removal of their tester search post -- raw and specific, ask what they tried next
+status: new
+outreach_id: O-288
+[RECORD_END]
