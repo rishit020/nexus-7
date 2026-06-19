@@ -4415,3 +4415,16 @@ opener_angle: the 80 signups / 0 paying gap -- they got some people in the door 
 status: new
 outreach_id: O-286
 [RECORD_END]
+[RECORD_START]
+id: L-310
+date_found: 2026-06-19
+username: ActorRating
+platform: reddit
+url: https://www.reddit.com/r/SideProject/comments/1u9va29/built_an_ai_tool_in_2_days_launched_today_3/
+pain_quote: "Built an AI tool in 2 days, launched today, 3 visitors, 0 signups"
+product_built: AI tool (details unavailable -- post removed from Reddit)
+fit_reason: solo builder, launched today, 3 visitors and 0 signups = textbook zero-distribution post-launch pain. r/SideProject = core target community. First-person, day-of-launch, exact ICP.
+opener_angle: the 2-day build and same-day launch with 0 signups -- ask what the launch actually looked like and where they shared it.
+status: new
+outreach_id: O-287
+[RECORD_END]

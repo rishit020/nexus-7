@@ -4881,3 +4881,16 @@ date_sent:
 result:
 notes: F5Bot "0 paying users" alert 2026-06-19T06:25Z (thread 19ed99df85f34205, message 19ede8e3b0db6223). r/Solopreneur post 1u9u4ta. Frosty_Station4970: "I built an automation platform full-time for 7 months - 80 signups, 0 paying users." Post body [removed] but title confirms ICP. Solo developer, 7 months full-time, 80 signups 0 paying -- distribution-to-revenue gap. Signal arrived at 06:25Z, after scout_421 ran at 06:06Z (first run to miss it). No em dashes verified. No pitch. No call ask. Scout run 422.
 [RECORD_END]
+[RECORD_START]
+id: O-287
+date_created: 2026-06-19
+lead_id: L-310
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about building an AI tool in 2 days and launching to 3 visitors and 0 signups. curious what your launch actually looked like and which channels you tried. doing research on exactly this gap between shipping something and getting your first users.
+status: draft
+date_sent:
+result:
+notes: F5Bot "0 signups" alert 2026-06-19T07:31Z (thread 19edeca9901e8bb6). r/SideProject post 1u9va29. ActorRating: "Built an AI tool in 2 days, launched today, 3 visitors, 0 signups." Post body [removed] but title confirms first-person day-of-launch ICP. No em dashes verified. No pitch. No call ask. Scout run 423.
+[RECORD_END]
