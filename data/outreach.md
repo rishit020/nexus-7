@@ -4867,3 +4867,17 @@ date_sent:
 result:
 notes: F5Bot "launched my saas" alert 2026-06-19T01:23Z (thread 19edbc338b487b38, message 19edd79aa17c5da4). r/Startup_Ideas comment on thread 1u9eesw "_NO_210: I launched my SaaS app, but I'm getting almost no users. It's really discouraging, and I'm honestly at a loss." New message in existing thread, arrived after last run (scout_412 at 00:50Z). r/Startup_Ideas not on approved subreddit list but builder-relevant; kept per ICP fit precedent (L-305/Zealousideal_Pace127/r/StartUpIndia). Busy-Syllabub-7540/r/ShowMeYourSaaS in same thread: confirmed DISCARD (multiple prior runs). omnisephiroth/r/Hololive: confirmed DISCARD (scout_412). gsfq/r/SaasDevelopers: already L-307/O-284 (scout_412). No em dashes verified. No pitch. No call ask. Scout run 418.
 [RECORD_END]
+
+[RECORD_START]
+id: O-286
+date_created: 2026-06-19
+lead_id: L-309
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the automation platform. 80 signups and 0 paying after 7 months of full-time work is a rough spot. curious what channels those signups came from and whether they've actually been using the product. doing research on the post-launch gap between signups and revenue for solo builders.
+status: draft
+date_sent:
+result:
+notes: F5Bot "0 paying users" alert 2026-06-19T06:25Z (thread 19ed99df85f34205, message 19ede8e3b0db6223). r/Solopreneur post 1u9u4ta. Frosty_Station4970: "I built an automation platform full-time for 7 months - 80 signups, 0 paying users." Post body [removed] but title confirms ICP. Solo developer, 7 months full-time, 80 signups 0 paying -- distribution-to-revenue gap. Signal arrived at 06:25Z, after scout_421 ran at 06:06Z (first run to miss it). No em dashes verified. No pitch. No call ask. Scout run 422.
+[RECORD_END]

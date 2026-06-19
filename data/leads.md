@@ -4401,3 +4401,17 @@ opener_angle: the "discouraging and at a loss" framing -- they've tried somethin
 status: new
 outreach_id: O-285
 [RECORD_END]
+
+[RECORD_START]
+id: L-309
+date_found: 2026-06-19
+username: Frosty_Station4970
+platform: reddit
+url: https://www.reddit.com/r/Solopreneur/comments/1u9u4ta/i_built_an_automation_platform_fulltime_for_7/
+pain_quote: "I built an automation platform full-time for 7 months - 80 signups, 0 paying users"
+product_built: automation platform (details unavailable -- post removed from Reddit)
+fit_reason: solo developer, 7 months building full-time, 80 signups but 0 converting to paying. Strong distribution-to-revenue gap signal. r/Solopreneur = target community. Title alone confirms ICP: built something, has partial traction, still 0 revenue.
+opener_angle: the 80 signups / 0 paying gap -- they got some people in the door but none converted. ask what those signups actually look like and where the drop-off is.
+status: new
+outreach_id: O-286
+[RECORD_END]
