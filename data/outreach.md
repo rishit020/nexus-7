@@ -4845,11 +4845,11 @@ lead_id: L-307
 platform: reddit
 variant: dm
 draft_text: |
-  saw your post about launching paso. curious where the plan goes from here now that you're past the friends stage.
+  hey - saw your post about launching paso today. only friends using it so far, and not sure if reddit is the right place for feedback. curious what your plan is for getting it in front of people who don't already know you.
 
-  which channels are you thinking about to find strangers who actually need step recording? doing research on exactly that window for founders right after launch.
+  doing research on exactly this gap between launching and finding your first real users.
 status: draft
-date_sent: null
-result: null
-notes: gsfq launched today, only friends using it so far. No explicit "crickets" but posting on Reddit for feedback/users is the signal. Ask about distribution plan going forward, not backward pain. Keep tone curious and peer-to-peer. DM via Reddit.
+date_sent:
+result:
+notes: F5Bot "launched my saas" alert 2026-06-19T00:37Z (thread 19edd4f898ae36a8). r/SaasDevelopers post 1u9n9iw. gsfq: just launched Paso (trypaso.com), browser step recorder like Loom. Today's launch, only friends tested it, "idk if here is the place or if this is the way to ask for it." Not on approved subreddit list but builder-relevant; kept per F5Bot ICP fit precedent (R396 DotComGod). omnisephiroth/r/Hololive in same email: fandom moderation context, DISCARD. r/collegeresults Reddit notification email in same batch: off-topic, DISCARD. No em dashes verified. No pitch. No call ask. Scout run 417.
 [RECORD_END]

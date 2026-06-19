@@ -4377,16 +4377,13 @@ outreach_id: O-283
 [RECORD_START]
 id: L-307
 date_found: 2026-06-19
-source: f5bot
-keyword: launched my saas
+username: gsfq
 platform: reddit
-subreddit: SaasDevelopers
-author: gsfq
-post_title: I launched my first SaaS, looking for feedback
-post_url: https://www.reddit.com/r/SaasDevelopers/comments/1u9n9iw/i_launched_my_first_saas_looking_for_feedback/
-product: Paso (trypaso.com) - step recording / Loom-like tool
-pain_quote: "today I launched my SaaS Paso and already just some friends try it and I want to get some feedback"
-icp_fit: high
+url: https://www.reddit.com/r/SaasDevelopers/comments/1u9n9iw/i_launched_my_first_saas_looking_for_feedback/
+pain_quote: "today I launched my SaaS Paso and already just some friends try it and I want to get some feedback, idk if here is the place or if this is the way to ask for it"
+product_built: Paso (trypaso.com) -- browser step recorder, like Loom but for documenting workflows in your browser
+fit_reason: launched today, only friends testing it, explicitly doesn't know where to find users or feedback, no distribution playbook at all. r/SaasDevelopers -- not on approved subreddit list but builder-relevant; "launched my saas" F5Bot keyword hit. Kept per ICP fit precedent (R396 DotComGod/r/DevelEire).
+opener_angle: the "idk if here is the place" line -- they have zero plan for reaching strangers, ask what the post-friends-feedback plan looks like
 status: new
-notes: Launched TODAY (June 19). Only friends using it post-launch, posting on Reddit for feedback = no organic distribution. First SaaS. Perfect post-launch window. DM via Reddit.
+outreach_id: O-284
 [RECORD_END]
