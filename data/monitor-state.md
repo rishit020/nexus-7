@@ -334,3 +334,18 @@ next_lead_id: L-309
 next_outreach_id: O-286
 
 note_telegram_blocked: 2026-06-19T08:30:00Z -- Telegram delivery FAILED. API returned 403 "Forbidden: bot was blocked by the user." This means Rishit has blocked the bot (chat_id 8383354309). ALL scout notifications have been silently failing. 64 drafts pending review that Rishit may not know exist. Needs immediate fix: Rishit must unblock @nexus7bot (or whatever the bot is named) in Telegram to restore notifications. This affects every future run including high-signal lead finds.
+
+last_checked_scout_422: 2026-06-19T09:00:00Z
+note_scout_422: Scout run 422 (1 lead: L-309). Reddit direct egress blocked (198th consecutive). F5Bot Gmail thread 19ede8e3b0db6223: Frosty_Station4970/r/Solopreneur "I built an automation platform full-time for 7 months - 80 signups, 0 paying users." ICP confirmed. L-309/O-286 added. Pipeline: 309. Telegram FAILED (bot blocked).
+next_lead_id: L-310
+next_outreach_id: O-287
+
+last_checked_scout_423: 2026-06-19T09:30:00Z
+note_scout_423: Scout run 423 (1 lead: L-310). Reddit direct egress blocked (199th consecutive). F5Bot Gmail thread 19edeca9901e8bb6: ActorRating/r/SideProject "Built an AI tool in 2 days, launched today, 3 visitors, 0 signups." Day-of-launch ICP. L-310/O-287 added. Pipeline: 310. Telegram FAILED (bot blocked).
+next_lead_id: L-311
+next_outreach_id: O-288
+
+last_checked_scout_424: 2026-06-19T10:30:00Z
+note_scout_424: Scout run 424 (0 leads). Reddit direct egress blocked (200th consecutive). WebFetch also blocked for Reddit. F5Bot Gmail newer_than:12h: no new threads. Zero qualifying signals. Pipeline: 310 total (unchanged). PENDING REVIEW: O-222 thru O-287 (66 drafts). theuniverseson/BotWork (L-249/O-231) ACTION OVERDUE. Telegram FAILED (bot blocked by user confirmed). GitHub issue #1 created in rishit020/nexus-7 as fallback alert.
+next_lead_id: L-311
+next_outreach_id: O-288
