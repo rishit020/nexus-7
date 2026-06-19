@@ -4853,3 +4853,17 @@ date_sent:
 result:
 notes: F5Bot "launched my saas" alert 2026-06-19T00:37Z (thread 19edd4f898ae36a8). r/SaasDevelopers post 1u9n9iw. gsfq: just launched Paso (trypaso.com), browser step recorder like Loom. Today's launch, only friends tested it, "idk if here is the place or if this is the way to ask for it." Not on approved subreddit list but builder-relevant; kept per F5Bot ICP fit precedent (R396 DotComGod). omnisephiroth/r/Hololive in same email: fandom moderation context, DISCARD. r/collegeresults Reddit notification email in same batch: off-topic, DISCARD. No em dashes verified. No pitch. No call ask. Scout run 417.
 [RECORD_END]
+
+[RECORD_START]
+id: O-285
+date_created: 2026-06-19
+lead_id: L-308
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about launching your saas with almost no users. genuinely curious what you've tried so far and where it felt most broken. doing research on exactly this gap between shipping something and actually getting people to use it.
+status: draft
+date_sent:
+result:
+notes: F5Bot "launched my saas" alert 2026-06-19T01:23Z (thread 19edbc338b487b38, message 19edd79aa17c5da4). r/Startup_Ideas comment on thread 1u9eesw "_NO_210: I launched my SaaS app, but I'm getting almost no users. It's really discouraging, and I'm honestly at a loss." New message in existing thread, arrived after last run (scout_412 at 00:50Z). r/Startup_Ideas not on approved subreddit list but builder-relevant; kept per ICP fit precedent (L-305/Zealousideal_Pace127/r/StartUpIndia). Busy-Syllabub-7540/r/ShowMeYourSaaS in same thread: confirmed DISCARD (multiple prior runs). omnisephiroth/r/Hololive: confirmed DISCARD (scout_412). gsfq/r/SaasDevelopers: already L-307/O-284 (scout_412). No em dashes verified. No pitch. No call ask. Scout run 418.
+[RECORD_END]

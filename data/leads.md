@@ -4387,3 +4387,17 @@ opener_angle: the "idk if here is the place" line -- they have zero plan for rea
 status: new
 outreach_id: O-284
 [RECORD_END]
+
+[RECORD_START]
+id: L-308
+date_found: 2026-06-19
+username: _NO_210
+platform: reddit
+url: https://www.reddit.com/r/Startup_Ideas/comments/1u9eesw/c/oshr7cw?context=3
+pain_quote: "I launched my SaaS app, but I'm getting almost no users. It's really discouraging, and I'm honestly at a loss."
+product_built: unknown SaaS (post-launch, struggling with traction)
+fit_reason: first-person comment expressing exact post-launch distribution pain. "almost no users", "really discouraging", "at a loss" -- textbook ICP. r/Startup_Ideas not in approved subreddit list but builder-relevant; kept per ICP fit precedent (Zealousideal_Pace127/r/StartUpIndia = L-305).
+opener_angle: the "discouraging and at a loss" framing -- they've tried something, it didn't work, they don't know what to do next. ask what the launch actually looked like.
+status: new
+outreach_id: O-285
+[RECORD_END]
