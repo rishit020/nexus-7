@@ -315,3 +315,8 @@ note_scout_419: Scout run 419 (0 leads). Reddit direct egress blocked (195th con
 next_lead_id: L-309
 next_outreach_id: O-286
 next_outreach_id: O-286
+
+last_checked_scout_420: 2026-06-19T06:30:00Z
+note_scout_420: Scout run 420 (0 leads). Reddit direct egress blocked (196th consecutive). F5Bot Gmail newer_than:3h returned 3 threads -- all fully processed in runs 418-419. Thread 19eddafb2d7e41ad: Turbulent_Beat_2992/r/Entrepreneurs "cant get users" = confirmed DISCARD (group payout chicken-and-egg, not SaaS ICP). Thread 19edbc338b487b38: Busy-Syllabub-7540/r/ShowMeYourSaaS = confirmed DISCARD; _NO_210/r/Startup_Ideas = already L-308/O-285 (run 418). Thread 19edd4f898ae36a8: omnisephiroth/r/Hololive = confirmed DISCARD (runs 412/417). No new qualifying signals since 04:30Z. Pipeline: 308 total (unchanged). PENDING REVIEW: O-222 thru O-285 (64 drafts await Rishit approval). PENDING Reddit unblock (196 consecutive): L-234 thru L-308. ACTION OVERDUE: theuniverseson/BotWork (L-249/O-231) -- DM drafted, never sent.
+next_lead_id: L-309
+next_outreach_id: O-286
