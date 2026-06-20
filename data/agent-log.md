@@ -644,4 +644,4 @@ session_end: 2026-06-19T21:00Z (scout run 433). 0 new leads. 2 F5Bot threads, 13
 
 
 
-session_end: 2026-06-20T00:01Z (scout run 428). 0 new leads. 2 threads evaluated (newer_than:2h). Thread 19ee24f2d0b385f7: r/collegeresults college admissions post, not ICP. Thread 19ed5cfc9f405204: already fully processed in run 427, all 56+ signals confirmed discarded. Pipeline: 311 total. No commit, no Telegram (bot blocked since run 421).
+session_start: 2026-06-20 00:03
