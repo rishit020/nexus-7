@@ -646,6 +646,9 @@ session_end: 2026-06-19T21:00Z (scout run 433). 0 new leads. 2 F5Bot threads, 13
 
 session_start: 2026-06-20 00:03
 
+monitor_run: 2026-06-20 18:50 UTC | 3 threads parsed (launched my saas x2, distribution problem x16, shouting into void x5) | 0 qualifying leads | all signals discarded: wrong subreddits, commenters not OPs, or celebrating wins not pain
+
+
 
 
 
