@@ -4908,3 +4908,17 @@ date_sent:
 result:
 notes: F5Bot "shouting into the void" alert 2026-06-18T17:32Z (thread 19ed5cfc9f405204, message 19edbca80bbfdbe5). r/SideProject comment on post 1u8tk2p "I just got my 1st user!!!!!!!!". Active_Ant_9849 commented: "I totally get that feeling of shouting into the void, after Reddit literally removed my post where I was searching for testers (must have posted in the wrong sub, but it was like a punch in the throat)." Email from June 18; thread returned in newer_than:2h search because of later messages. Active_Ant_9849 was never logged in prior runs -- thread 19ed5cfc9f405204 was blanket-discarded in runs 396-397 due to irrelevant subreddits in other messages; this specific message was missed. No em dashes verified. No pitch. No call ask. Scout run 427.
 [RECORD_END]
+
+[RECORD_START]
+id: O-289
+date_created: 2026-06-21
+lead_id: L-312
+platform: reddit
+variant: comment
+draft_text: |
+  seen this pattern a lot lately. built something genuinely useful, zero people know it exists. curious what distribution channels you tried and what actually moved the needle vs what was noise. doing research on exactly this gap between shipping and getting real users.
+status: draft
+date_sent:
+result:
+notes: F5Bot "distribution problem" alert 2026-06-21T09:45Z (thread 19edfe1a9166c57e). r/buildinpublic post 1ublq7o "built a great AI agent, still can't make money from it." OP username unknown due to Reddit egress block -- Rishit must visit URL to identify OP and DM. Comment draft above is for dropping in the thread as a visibility play if DM isn't possible. No em dashes verified. No pitch. Scout run 428.
+[RECORD_END]

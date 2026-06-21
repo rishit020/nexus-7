@@ -4442,3 +4442,31 @@ opener_angle: the Reddit removal of their tester search post -- raw and specific
 status: new
 outreach_id: O-288
 [RECORD_END]
+
+[RECORD_START]
+id: L-312
+date_found: 2026-06-21
+username: UNKNOWN -- visit https://www.reddit.com/r/buildinpublic/comments/1ublq7o/ to find OP and DM
+platform: reddit
+url: https://www.reddit.com/r/buildinpublic/comments/1ublq7o/
+pain_quote: "built a great AI agent still can't make money from it"
+product_built: AI agent (details unknown)
+fit_reason: FRESH TODAY. r/buildinpublic post title is pure ICP pain -- built something real with AI, zero monetization = zero distribution. Post attracted a comment using "distribution problem." Scout cannot read OP username because Reddit egress is blocked. Rishit must check URL and DM OP directly.
+opener_angle: the gap between shipping an AI agent and getting anyone to pay -- ask what they've tried so far to get their first paying user
+status: watch
+outreach_id: O-289
+[RECORD_END]
+
+[RECORD_START]
+id: L-313
+date_found: 2026-06-21
+username: UNKNOWN -- visit https://www.reddit.com/r/SaaS/comments/1ua0qmt/ to find OP and DM
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1ua0qmt/
+pain_quote: "Built the product, now staring at an empty stripe dashboard"
+product_built: SaaS (details unknown)
+fit_reason: Post title is textbook ICP pain -- built product, zero revenue, staring at empty Stripe. r/SaaS context. Flagged by F5Bot 2026-06-19 when commenter Indie-foundrs used "distribution problem" in a comment. Post is 2 days old. Rishit must check URL for OP username.
+opener_angle: the empty Stripe dashboard feeling -- ask how long since launch and what distribution they've tried so far
+status: watch
+outreach_id: null
+[RECORD_END]
