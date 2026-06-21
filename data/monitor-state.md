@@ -461,3 +461,9 @@ note_scout_466: Scout run 466 (0 new leads). Reddit direct egress blocked (232nd
 last_checked: 2026-06-21T13:00:00Z
 next_lead_id: L-314
 next_outreach_id: O-290
+
+last_checked_scout_467: 2026-06-21T14:02:31Z
+note_scout_467: Scout run 467 (0 new leads). Reddit direct egress blocked (233rd consecutive). Telegram blocked (403 Forbidden -- user must unblock @NEXUS7bot, 233rd consecutive). F5Bot Gmail audit (newer_than:1d, 7 threads): ALL confirmed processed in R424-R466. No new threads or messages since align7/r/gohighlevel at 2026-06-20T21:25Z (R454 DISCARD). Thread inventory: 19ee6c43a93de72b (1Paz1234 success R453 DISCARD), 19ee5275cd337719 (Jealous-Concern-7695 WATCH + 1Paz1234 R453 + align7 R454 DISCARD), 19edfe1a9166c57e (Coconaad/Helldivers/leanfire/r/SaaS posts all DISCARD or WATCH-prior), 19ee5f54a4451191 (darthsean19/Protomen R452 DISCARD), 19ee5a026996bda1 (Beginning-Step4397 non-SaaS R452 DISCARD), 19ee599bee622f67 (SilverElegant2302 WWE R451 DISCARD), 19ed5cfc9f405204 (L-311 extracted R427, all others DISCARD). Zero qualifying signals. Pipeline: 313 total (unchanged). PENDING REVIEW: O-222 thru O-289 (68 drafts await Rishit approval). PENDING Reddit unblock (233rd consecutive): L-234 thru L-313. ACTION OVERDUE: theuniverseson/BotWork (L-249/O-231). WATCH PENDING: Jealous-Concern-7695/r/ShowMeYourSaaS/1uaw4vv; OP r/SaaS/1ua0qmt; OP r/SaaS/1u9a9wp; AcademicRadio4986/r/micro_saas/1uacwbg; mmdhpan/r/SaaS/1u7wrch; Overall_Insurance956/r/micro_saas/1u80v9r; Sea_Statistician6304/r/SaaS/1u8q8po; Jay_parekh/r/SaaS/1u8b5n9; notomarsol/r/microsaas/1u4vbhy; BurnerAcco_67/r/AskMarketing/1u45jwh; SEPerk/r/founder/1uas31z; aniket-builds/r/startup/1u987dg.
+last_checked: 2026-06-21T14:02:31Z
+next_lead_id: L-314
+next_outreach_id: O-290
