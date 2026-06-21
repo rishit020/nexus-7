@@ -692,5 +692,6 @@ monitor_run_462: 2026-06-21 12:30 UTC | 0 leads | F5Bot Gmail (newer_than:2h): 1
 
 
 monitor_run_463: 2026-06-21 14:30 UTC | 0 leads | F5Bot Gmail full audit (newer_than:7d): no new signals since align7/gohighlevel 21:25Z Jun 20 (DISCARD R452). All 20+ threads confirmed processed R396-R462. Reddit blocked (238th). Telegram blocked (238th, bot blocked by user). Pipeline unchanged: 311 total, L-312 next, O-288 latest draft. 67 drafts pending review.
+monitor_run_464: 2026-06-21 11:06 UTC | 0 leads | F5Bot Gmail (newer_than:2h): 2 threads evaluated. Thread 19ed5cfc9f405204 (shouting into void, Jun 17) -- all 5 messages confirmed DISCARD R396-R414. Thread 19edfe1a9166c57e (distribution problem) -- 1 new message since R463: Complex-Pipe1500/r/buildinpublic/1ublq7o at 09:45Z DISCARD (commenter on already-WATCH post L-312, not first-person OP pain). Reddit blocked (239th). Telegram blocked (239th, bot blocked by user). Pipeline unchanged: 311 total, next L-314, 67 drafts pending review.
 
 
