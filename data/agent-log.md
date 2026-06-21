@@ -680,6 +680,8 @@ scout_run_454: 2026-06-21 06:00 UTC | 0 leads | Reddit egress blocked (229th) | 
 
 monitor_run_455: 2026-06-21 ~current UTC | 0 leads | 2 threads found (newer_than:2h) | F5Bot "shouting into the void" hits all DISCARD (r/redquill, r/bisexual, r/midlifecrisis, r/Marathon, r/cscareerquestions - none builder-relevant) | Reddit notification: r/collegeresults (irrelevant) | No Telegram sent
 scout_run_461: 2026-06-21 10:30 UTC | 0 leads | Reddit egress blocked (236th consecutive) | TELEGRAM STATUS CHANGE: bot blocked by user (was egress 403, now Telegram API 403 "bot was blocked by the user") | F5Bot Gmail audit: no new signals since 21:25Z Jun 20 | 1 unaccounted thread confirmed DISCARD (Shoddy_Peanut6957/r/SellMyMVP, SaaS-for-sale listing) | Pipeline: 311 total unchanged | 67 drafts pending review
+monitor_run_462: 2026-06-21 12:30 UTC | 0 leads | F5Bot Gmail (newer_than:2h): 1 thread returned (19edfe1a9166c57e, 5 messages) -- all confirmed DISCARD/WATCH in runs 428-436 (Ronin_001_/r/Coconaad, Quirky_Research_949/r/SaaS, ajgilpin/r/Helldivers, goglencocogo/r/leanfire, Indie-foundrs/r/SaaS) | No new F5Bot emails since Jun 19 21:48Z | WATCH PENDING: OP r/SaaS/1ua0qmt (username unknown, Reddit egress blocked 215th consecutive) | Telegram blocked | No commit, no Telegram
+
 
 
 
