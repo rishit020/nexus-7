@@ -675,3 +675,5 @@ monitor_run: 2026-06-20 18:50 UTC | 3 threads parsed (launched my saas x2, distr
 
 
 session_start: 2026-06-21 00:02
+
+scout_run_454: 2026-06-21 06:00 UTC | 0 leads | Reddit egress blocked (229th) | 8 F5Bot threads evaluated (all DISCARD) | Telegram blocked (229th, 403 Forbidden) | Pipeline: 311 total, 67 drafts pending review
