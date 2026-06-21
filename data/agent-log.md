@@ -692,3 +692,4 @@ monitor_run_462: 2026-06-21 12:30 UTC | 0 leads | F5Bot Gmail (newer_than:2h): 1
 
 
 monitor_run_463: 2026-06-21 14:30 UTC | 0 leads | F5Bot Gmail full audit (newer_than:7d): no new signals since align7/gohighlevel 21:25Z Jun 20 (DISCARD R452). All 20+ threads confirmed processed R396-R462. Reddit blocked (238th). Telegram blocked (238th, bot blocked by user). Pipeline unchanged: 311 total, L-312 next, O-288 latest draft. 67 drafts pending review.
+
