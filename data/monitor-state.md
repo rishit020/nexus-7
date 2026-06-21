@@ -449,3 +449,7 @@ note_scout_456: Scout run 456 (0 new leads). Machine wall clock: 2026-06-21T06:0
 last_checked: 2026-06-21T06:05:00Z
 next_lead_id: L-312
 next_outreach_id: O-289
+last_checked: 2026-06-21T11:02:00Z
+note_scout_465: Scout run 465 (0 new leads). Reddit egress blocked (240th consecutive, 403 Forbidden). Telegram blocked (240th consecutive, bot blocked by user). F5Bot Gmail audit (newer_than:24h): 8 threads evaluated -- all confirmed processed in R449-R461 (1Paz1234 VellumUp celebration, Chrg88/r/CasesWeFollow, darthsean19/r/Protomen, Beginning-Step4397/r/CAIRevolution, SilverElegant2302/r/SantiZapVideos, Jealous-Concern-7695/r/ShowMeYourSaaS WATCH, align7/r/gohighlevel, Shoddy_Peanut6957/r/SellMyMVP). No new F5Bot signals since align7 21:25Z Jun 20. Pipeline: 313 total (unchanged). next_lead_id: L-314. PENDING REVIEW: O-222 thru O-289 (68 drafts await Rishit approval). PENDING Reddit unblock (240th consecutive): L-234 thru L-313. ACTION OVERDUE: theuniverseson/BotWork (L-249/O-231). WATCH PENDING (unchanged): Jealous-Concern-7695/r/ShowMeYourSaaS/1uaw4vv; OP r/SaaS/1ua0qmt; OP r/SaaS/1u9a9wp; mmdhpan/r/SaaS/1u7wrch; AcademicRadio4986/r/micro_saas/1uacwbg; Overall_Insurance956/r/micro_saas/1u80v9r; Sea_Statistician6304/r/SaaS/1u8q8po; Jay_parekh/r/SaaS/1u8b5n9; notomarsol/r/microsaas/1u4vbhy; BurnerAcco_67/r/AskMarketing/1u45jwh; SEPerk/r/founder/1uas31z; aniket-builds/r/startup/1u987dg.
+next_lead_id: L-314
+next_outreach_id: O-290
