@@ -4568,3 +4568,31 @@ opener_angle: $6k in and 0 signups -- ask what they tried beyond the agency and 
 status: new
 outreach_id: O-296
 [RECORD_END]
+
+[RECORD_START]
+id: L-321
+date_found: 2026-06-22
+username: Plastic-Bar-6124
+platform: reddit
+url: https://www.reddit.com/r/Startup_Ideas/comments/1ucjrk0/does_anyone_else_feel_like_their_product_just/
+pain_quote: "Launched my SaaS a few months ago. Got a decent spike on launch day, a handful of signups, some nice comments... and then nothing. No new traffic, no new signups. Like the internet just forgot I existed."
+product_built: unknown SaaS (launched months ago, initial spike then dead traffic)
+fit_reason: FRESH (12:57Z Jun 22). r/Startup_Ideas OP on post-launch traffic death. Tried multiple channels (posting updates, socials, DMing people), still no traction. Classic distribution cliff. First-person pain, exact ICP. F5Bot "launched my saas" alert R484.
+opener_angle: launch spike then nothing, tried all channels, staying visible is the problem
+status: new
+outreach_id: O-297
+[RECORD_END]
+
+[RECORD_START]
+id: L-322
+date_found: 2026-06-22
+username: begylewis
+platform: reddit
+url: https://www.reddit.com/r/micro_saas/comments/1ucjoxr/created_an_ai_agent_through_whatsapp_that_manages/
+pain_quote: "I haven't really tried any other marketing channels yet. I'm now wondering whether this is a distribution problem or a product-market fit problem."
+product_built: AI agent via WhatsApp for restaurant reservations
+fit_reason: FRESH (12:57Z Jun 22). r/micro_saas OP questioning distribution vs PMF on restaurant AI agent. Pre-distribution phase, no channels tried yet. Weaker ICP -- hasn't hit the post-launch cliff yet, still diagnosing. WATCH for now.
+opener_angle: distribution vs PMF uncertainty before attempting any channels
+status: watch
+outreach_id: null
+[RECORD_END]
