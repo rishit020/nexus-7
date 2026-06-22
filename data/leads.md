@@ -4568,3 +4568,17 @@ opener_angle: $6k in and 0 signups -- ask what they tried beyond the agency and 
 status: new
 outreach_id: O-296
 [RECORD_END]
+
+[RECORD_START]
+id: L-321
+date_found: 2026-06-22
+username: Plastic-Bar-6124
+platform: reddit
+url: https://www.reddit.com/r/Startup_Ideas/comments/1ucjrk0/does_anyone_else_feel_like_their_product_just/
+pain_quote: "Like the internet just forgot I existed. I've been trying everything—posting updates, sharing on socials, even DMing people—but it feels like an uphill battle just to stay visible."
+product_built: SaaS (launched a few months ago, got spike on launch day with a handful of signups, then zero new traffic or signups since)
+fit_reason: FRESH (12:57Z Jun 22). r/Startup_Ideas OP describing post-launch cliff: launch spike then complete silence. First-person, actively trying multiple channels (social, updates, DMs) with no result. "The internet just forgot I existed" is textbook ICP pain. F5Bot "launched my saas" alert R484.
+opener_angle: post-launch cliff after the day-one spike -- ask what channels they tried and where each broke down
+status: new
+outreach_id: O-297
+[RECORD_END]

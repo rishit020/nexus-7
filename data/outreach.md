@@ -5030,3 +5030,21 @@ date_sent: null
 result: null
 notes: F5Bot "0 signups" alert. Thread 19eef00d647c6957 (2026-06-22T11:04Z). r/SaaS OP "Just burned $6,000 on an influencer agency and got exactly 0 signups." B2B SaaS, professional launch campaign, 300 visitors zero conversions. Classic post-launch distribution pain. Not in any prior runs. No em dashes verified. No pitch. Scout run 483.
 [RECORD_END]
+
+[RECORD_START]
+id: O-297
+date_created: 2026-06-22
+lead_id: L-321
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about your saas disappearing after launch. that window after the initial spike where the internet just forgets you exist is the one nobody warns you about.
+
+  what have you tried so far and where did each channel break down?
+
+  doing research on exactly this window between the launch bump and actually building consistent traction.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" alert. Thread 19eef68351eee27b (2026-06-22T12:57Z). r/Startup_Ideas OP "Does anyone else feel like their product just disappears a week after launch?" Launched SaaS months ago, spike on day one then nothing. Tried posting updates, sharing on socials, DMing. "The internet just forgot I existed." Not in any prior runs. No em dashes verified. No pitch. Scout run 484.
+[RECORD_END]
