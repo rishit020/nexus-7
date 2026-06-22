@@ -4526,3 +4526,17 @@ opener_angle: first tool silent for 6 months, second tool waitlist went nowhere 
 status: new
 outreach_id: O-293
 [RECORD_END]
+
+[RECORD_START]
+id: L-318
+date_found: 2026-06-22
+username: Useful_Accountant378
+platform: reddit
+url: https://www.reddit.com/r/vibecoding/comments/1ucfsdx/where_did_i_go_wrong/
+pain_quote: "Reddit posts feel like shouting into the void. Fitness influencers feel out of reach. Has anyone cracked this for a niche that's this crowded?"
+product_built: fitness product (vibe coded, launched, struggling with distribution in crowded fitness niche; also mentions retention issue post-onboarding)
+fit_reason: FRESH (09:32Z Jun 22). r/vibecoding OP post titled "Where did i go wrong?" -- first-person distribution pain, exact "shouting into the void" phrase used. Can't crack Reddit or influencer channels. r/vibecoding is HIGH orbit fit (literal vibe coders who built something). Not in any prior runs. Scout R481.
+opener_angle: the reddit void feeling in a crowded fitness niche -- ask what channels they've tried and where each one broke down
+status: new
+outreach_id: O-294
+[RECORD_END]

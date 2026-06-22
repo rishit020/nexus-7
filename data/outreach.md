@@ -4988,3 +4988,17 @@ date_sent: null
 result: null
 notes: F5Bot "distribution problem" alert. Thread 19edfe1a9166c57e msg 19eee0d54dec588b (2026-06-22T06:38Z). Commenter on r/SaaS "Founders, be honest: did you actually validate your idea" (1ubomh1) + r/SaasDevelopers Original_Yard_2796 thread (1ubs1cf). Personal pain: first tool 6 months silence = flopped, second tool X-focused with "cool idea" non-validation + waitlist = zero conversions. Run 479 missed BronsonDunbar as separate lead (attributed signal to Crafty-Savings6727). No em dashes verified. No pitch. Scout R480.
 [RECORD_END]
+
+[RECORD_START]
+id: O-294
+date_created: 2026-06-22
+lead_id: L-318
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your 'where did i go wrong' post in r/vibecoding. the reddit void feeling in a crowded niche is real. curious what channels you've tried and what actually happened when you did. doing research on exactly this gap between shipping and getting real users.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "shouting into the void" alert. Thread 19ed5cfc9f405204 msg 19eeeac6c5f217ed (2026-06-22T09:32Z). r/vibecoding OP post "Where did i go wrong?" Fitness product, explicit "reddit posts feel like shouting into the void," can't crack influencer channels either. First-person post in HIGH orbit fit sub. R480 missed this thread entirely. No em dashes verified. No pitch. Scout R481.
+[RECORD_END]
