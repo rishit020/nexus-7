@@ -4498,3 +4498,17 @@ opener_angle: the reddit removals while building alone -- ask what they have tri
 status: new
 outreach_id: O-291
 [RECORD_END]
+
+[RECORD_START]
+id: L-316
+date_found: 2026-06-22
+username: Crafty-Savings6727
+platform: reddit
+url: https://www.reddit.com/r/SaaS/
+pain_quote: "I have a distribution problem, I find it hard to get a few people to just test the product and give some honest feedback. And besides all of these, I got shadow banned on X, where all my potential users would live."
+product_built: X tool (second product; first tool built for 6 months with no validation, flopped; second has a waitlist that did not convert)
+fit_reason: FRESH (06:38Z Jun 22). r/SaaS commenter sharing own experience in validation thread. Explicitly says "I have a distribution problem." Two products: first 6 months in silence = zero traction; second did waitlist that didn't convert, then got shadow banned on X where ICP lives. Textbook Tide ICP. Scout R479.
+opener_angle: 6 months of silence on first build, then second one hits wall anyway -- waitlist dead, X shadow ban -- ask what else they tried
+status: new
+outreach_id: O-292
+[RECORD_END]

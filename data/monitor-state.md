@@ -543,3 +543,7 @@ last_checked: 2026-06-22T08:03:36Z
 next_lead_id: L-316
 next_outreach_id: O-292
 
+note_scout_479: Scout run 479 (1 new lead). F5Bot Gmail audit (newer_than:2h, 2 threads evaluated). Thread 19ed5cfc9f405204 "shouting into the void" (Jun 17): all 5 messages in non-builder subs (redquill, bisexual, midlifecrisis, Marathon, cscareerquestions) -- all DISCARD. Thread 19edfe1a9166c57e "distribution problem": full re-evaluation of all messages including new Jun 22 content missed by R478 which treated thread as fully processed. Most messages = commenters advising, non-builder subs, or already logged. NEW: 19ee0ba00d70265d (2026-06-22T06:38Z) Crafty-Savings6727/r/SaaS -- commenter in "Founders, be honest: did you actually validate your idea" sharing own first-person pain: 2 products built, first flopped (6mo silence), second waitlist didn't convert, X shadow ban. Explicit "I have a distribution problem." Textbook ICP. Logged as L-316/O-292. WATCH PENDING (unchanged): OP r/SaaS/1ubkt27; Existing_Bowler1376/r/SaaSMarketing/1ubvzxb; beef-runner/r/SaaS/1ua36lt; Jealous-Concern-7695/r/ShowMeYourSaaS/1uaw4vv; OP r/SaaS/1ua0qmt (L-313); OP r/buildinpublic/1ublq7o (L-312); AcademicRadio4986/r/micro_saas/1uacwbg; mmdhpan/r/SaaS/1u7wrch; Overall_Insurance956/r/micro_saas/1u80v9r; Sea_Statistician6304/r/SaaS/1u8q8po; Jay_parekh/r/SaaS/1u8b5n9; notomarsol/r/microsaas/1u4vbhy; BurnerAcco_67/r/AskMarketing/1u45jwh; SEPerk/r/founder/1uas31z; aniket-builds/r/startup/1u987dg.
+last_checked: 2026-06-22T09:00:00Z
+next_lead_id: L-317
+next_outreach_id: O-293

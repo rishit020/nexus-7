@@ -4954,3 +4954,19 @@ date_sent: null
 result: null
 notes: F5Bot "distribution problem" alert; OP confirmed valbolt via thread 19edfe1a9166c57e msg 29 (2026-06-21 ~21:26Z). r/EntrepreneurRideAlong post 1uc1l8q. Was WATCH in R475 (OP unknown). Confirmed this run R476. Solo builder 9 weeks in, posts getting removed = explicit platform distribution friction. No em dashes verified. No pitch. Scout run 476.
 [RECORD_END]
+
+[RECORD_START]
+id: O-292
+date_created: 2026-06-22
+lead_id: L-316
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about building a tool for 6 months in silence with zero traction, then the second one hitting the same wall even after doing a waitlist. the X shadow ban on top of that is rough timing.
+
+  curious what you tried before the ban to get people to actually test it. doing research on exactly this gap between shipping something and getting real users to see it.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "distribution problem" keyword. r/SaaS thread "Founders, be honest: did you actually validate your idea" (2026-06-22T06:38Z). Commenter sharing own experience -- two products built, first flopped, second waitlist dead, X shadow ban. Explicit "I have a distribution problem." Not in any prior runs; missed by R478 which treated thread 19edfe1a9166c57e as fully processed. No em dashes verified. No pitch. Scout run 479.
+[RECORD_END]
