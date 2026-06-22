@@ -4596,3 +4596,17 @@ opener_angle: distribution vs PMF uncertainty before attempting any channels
 status: watch
 outreach_id: null
 [RECORD_END]
+
+[RECORD_START]
+id: L-323
+date_found: 2026-06-22
+username: Financial-Swan4960
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1uajqa1/c/ot68gq5?context=3
+pain_quote: "How did you market your app? I've just launched my SaaS and haven't been able to find where my ICP hangs out."
+product_built: unknown SaaS (just launched)
+fit_reason: FRESH (18:22Z Jun 22). r/SaaS commenter on "I got my first paying customer" thread asking how OP marketed their app. First-person: just launched SaaS, cannot find ICP. Classic post-launch distribution problem. Not in any prior runs. F5Bot "launched my saas" alert. Scout run 489.
+opener_angle: just launched SaaS, can't find where ICP hangs out, ask what channels tried so far
+status: new
+outreach_id: O-298
+[RECORD_END]

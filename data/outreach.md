@@ -5048,3 +5048,17 @@ date_sent: null
 result: null
 notes: F5Bot "launched my saas" alert. Thread 19eef68351eee27b (2026-06-22T12:57Z). r/Startup_Ideas OP "Does anyone else feel like their product just disappears a week after launch?" Launched SaaS months ago, initial spike then dead, tried posting/socials/DMs, nothing worked. Not in any prior runs. No em dashes verified. No pitch. Scout R484.
 [RECORD_END]
+
+[RECORD_START]
+id: O-298
+date_created: 2026-06-22
+lead_id: L-323
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your comment about launching your SaaS and not being able to find where your ICP hangs out. what channels have you tried so far and where did each one break down? doing research on exactly this gap between shipping something and actually getting people to show up.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "launched my saas" alert. Thread 19ef091b5e93bf92 (2026-06-22T18:22Z). r/SaaS comment on "I got my first paying customer" thread. First-person: "I've just launched my SaaS and haven't been able to find where my ICP hangs out." Not in any prior runs. No em dashes verified. No pitch. Scout run 489.
+[RECORD_END]
