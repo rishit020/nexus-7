@@ -4484,3 +4484,17 @@ opener_angle: the 100-view video ceiling -- ask what channels beyond video they'
 status: new
 outreach_id: O-290
 [RECORD_END]
+
+[RECORD_START]
+id: L-315
+date_found: 2026-06-22
+username: valbolt
+platform: reddit
+url: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1uc1l8q/solo_building_an_ai_stock_analysis_system_trying/
+pain_quote: "9 weeks in. No co-founder. Building everything alone. Trying to share the work on Reddit. Keep getting removed."
+product_built: AI stock analysis system (solo, 15 years SW engineering + multiple years LLM-AI domain experience)
+fit_reason: Solo builder 9 weeks deep, explicit distribution failure -- Reddit keeps removing posts. Technical depth, zero audience, can't get work in front of people. Exact Tide ICP. Confirmed OP; was WATCH in R475 with username unknown, confirmed valbolt via F5Bot thread 19edfe1a9166c57e msg 29. Scout R476.
+opener_angle: the reddit removals while building alone -- ask what they have tried outside reddit
+status: new
+outreach_id: O-291
+[RECORD_END]

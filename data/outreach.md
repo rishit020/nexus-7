@@ -4938,3 +4938,19 @@ date_sent: null
 result: null
 notes: F5Bot find 14:58Z Jun 21 via "distribution problem" keyword. r/SaasDevelopers post. OP explicitly titled post "how do I get distribution" -- warm entry. Reference the 100-view video ceiling in line 1. No em dashes. No pitch. Scout run 470.
 [RECORD_END]
+
+[RECORD_START]
+id: O-291
+date_created: 2026-06-22
+lead_id: L-315
+platform: reddit
+variant: dm
+draft_text: |
+  saw your post about the AI stock analysis system and the reddit removals. 9 weeks in building something real and just trying to share the work. that is a rough wall to hit.
+
+  quick question: outside reddit, what have you tried to get the system in front of people? doing research on exactly this problem. builders who cannot get distribution figured out after shipping something solid.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "distribution problem" alert; OP confirmed valbolt via thread 19edfe1a9166c57e msg 29 (2026-06-21 ~21:26Z). r/EntrepreneurRideAlong post 1uc1l8q. Was WATCH in R475 (OP unknown). Confirmed this run R476. Solo builder 9 weeks in, posts getting removed = explicit platform distribution friction. No em dashes verified. No pitch. Scout run 476.
+[RECORD_END]
