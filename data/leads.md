@@ -4512,3 +4512,17 @@ opener_angle: 6 months of silence on first build, then second one hits wall anyw
 status: new
 outreach_id: O-292
 [RECORD_END]
+
+[RECORD_START]
+id: L-317
+date_found: 2026-06-22
+username: BronsonDunbar
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1ubomh1/
+pain_quote: "Built my first tool for 6 months in silence, no validation at all, and of course it flopped. Also did a waitlist (none of them converted)."
+product_built: X tool (second product; first tool: 6 months no validation, flopped; second: X-focused tool, "cool idea" feedback that did not validate, waitlist with zero conversions)
+fit_reason: FRESH (06:38Z Jun 22). Commenter on r/SaaS "Founders, be honest: did you actually validate your idea" thread sharing own first-person story. Two products: first built in silence for 6 months with no validation = flopped. Second is an X tool -- talked to people on X who said "cool idea" (self-aware: "this doesn't count as validation"), ran a waitlist, zero conversions. Distinct from L-316/Crafty-Savings6727 (different username, different pain details, no shadow ban mention). Textbook Tide ICP: serial builder who cannot crack distribution. Run 479 saw this message but attributed it to Crafty-Savings6727; BronsonDunbar is a separate commenter in the same thread. Scout R480.
+opener_angle: first tool silent for 6 months, second tool waitlist went nowhere -- ask what channels they tried beyond the waitlist and what showed any signal
+status: new
+outreach_id: O-293
+[RECORD_END]

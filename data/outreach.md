@@ -4970,3 +4970,21 @@ date_sent: null
 result: null
 notes: F5Bot "distribution problem" keyword. r/SaaS thread "Founders, be honest: did you actually validate your idea" (2026-06-22T06:38Z). Commenter sharing own experience -- two products built, first flopped, second waitlist dead, X shadow ban. Explicit "I have a distribution problem." Not in any prior runs; missed by R478 which treated thread 19edfe1a9166c57e as fully processed. No em dashes verified. No pitch. Scout run 479.
 [RECORD_END]
+
+[RECORD_START]
+id: O-293
+date_created: 2026-06-22
+lead_id: L-317
+platform: reddit
+variant: dm
+draft_text: |
+  saw your comment about building a tool for 6 months in silence with no validation then watching the second one hit the same wall with a waitlist that went nowhere.
+
+  what is the x tool? curious what the waitlist looked like and whether any channel showed even weak signal before you gave up on it.
+
+  doing research on exactly this gap between shipping something and getting real users.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "distribution problem" alert. Thread 19edfe1a9166c57e msg 19eee0d54dec588b (2026-06-22T06:38Z). Commenter on r/SaaS "Founders, be honest: did you actually validate your idea" (1ubomh1) + r/SaasDevelopers Original_Yard_2796 thread (1ubs1cf). Personal pain: first tool 6 months silence = flopped, second tool X-focused with "cool idea" non-validation + waitlist = zero conversions. Run 479 missed BronsonDunbar as separate lead (attributed signal to Crafty-Savings6727). No em dashes verified. No pitch. Scout R480.
+[RECORD_END]
