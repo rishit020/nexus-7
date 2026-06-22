@@ -701,6 +701,8 @@ scout_run_465: 2026-06-21 11:02 UTC | 0 leads | Reddit egress blocked (240th con
 
 monitor_run_466: 2026-06-21 20:30 UTC | 0 leads | F5Bot Gmail (newer_than:2h): 2 threads returned, both already fully processed. Thread 19ed5cfc9f405204 (shouting into void, Jun 17) -- all 5 messages confirmed DISCARD R396-R414. Thread 19edfe1a9166c57e (distribution problem, Jun 19) -- all messages confirmed DISCARD/WATCH R428-R465. No new F5Bot signals since align7 21:25Z Jun 20. Reddit egress blocked (241st consecutive). Telegram blocked (bot blocked by user). Pipeline unchanged: L-314 next, O-289 next, 67 drafts pending review.
 
+scout_run_467: 2026-06-22 00:30 UTC | 0 new leads | 1 new WATCH | Reddit egress blocked (242nd consecutive) | Telegram blocked (242nd consecutive, bot blocked by user) | F5Bot Gmail audit (newer_than:24h, 2 NEW threads, 6 signals total): 19eebce371e23744 (Jun 21 20:10-22:13Z) -- Emergency_Word_7123/r/NoStupidQuestions DISCARD (housing), Reporter011423/r/AWDTSGisToxic DISCARD (social media mod), digitalwankster/r/EntrepreneurRideAlong/1uc1l8q NEW WATCH (OP building AI stock tool, commenter confirmed distribution problem, OP username unknown), Salt_Mind_869/r/Music DISCARD (music debate); 19eeb12811677b4e (Jun 21 16:45-17:39Z) -- DCManor/r/Salary DISCARD (SaaS growing, off-topic), Existing_Bowler1376/r/SaaSMarketing DISCARD (solved distribution, not ICP). Gmail draft notification created (r-5645196989284624404). Pipeline: 314 total, next_lead_id L-315, next_outreach_id O-291, 69 drafts pending review.
+
 
 
 
