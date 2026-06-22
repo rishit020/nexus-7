@@ -5002,3 +5002,31 @@ date_sent: null
 result: null
 notes: F5Bot "shouting into the void" alert. Thread 19ed5cfc9f405204 msg 19eeeac6c5f217ed (2026-06-22T09:32Z). r/vibecoding OP post "Where did i go wrong?" Fitness product, explicit "reddit posts feel like shouting into the void," can't crack influencer channels either. First-person post in HIGH orbit fit sub. R480 missed this thread entirely. No em dashes verified. No pitch. Scout R481.
 [RECORD_END]
+
+[RECORD_START]
+id: O-295
+date_created: 2026-06-22
+lead_id: L-319
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your comment about trying different methods and still not being able to get users. what specifically did you try and where did each thing break down? doing research on exactly this gap between building something and actually getting people to use it.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "cant get users" alert. Thread 19eef245d3a6e055 (2026-06-22T11:43Z). r/StartupSoloFounder comment on "Whats the most annoying and time wasting thing when building." First-person: tried multiple methods, still can't get users. Not in any prior runs. No em dashes verified. No pitch. Scout run 483.
+[RECORD_END]
+
+[RECORD_START]
+id: O-296
+date_created: 2026-06-22
+lead_id: L-320
+platform: reddit
+variant: dm
+draft_text: |
+  hey - saw your post about burning $6k on influencers and getting 0 signups from 300 visitors. that's the nightmare scenario. what have you tried since and is the product still live? doing research on exactly this gap between launch campaigns and actual conversions.
+status: draft
+date_sent: null
+result: null
+notes: F5Bot "0 signups" alert. Thread 19eef00d647c6957 (2026-06-22T11:04Z). r/SaaS OP "Just burned $6,000 on an influencer agency and got exactly 0 signups." B2B SaaS, professional launch campaign, 300 visitors zero conversions. Classic post-launch distribution pain. Not in any prior runs. No em dashes verified. No pitch. Scout run 483.
+[RECORD_END]

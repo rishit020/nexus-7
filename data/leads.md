@@ -4540,3 +4540,31 @@ opener_angle: the reddit void feeling in a crowded fitness niche -- ask what cha
 status: new
 outreach_id: O-294
 [RECORD_END]
+
+[RECORD_START]
+id: L-319
+date_found: 2026-06-22
+username: Brilliant-Expert1084
+platform: reddit
+url: https://www.reddit.com/r/StartupSoloFounder/comments/1ucfrr0/c/ot3y51u
+pain_quote: "i tried different methods but i still cant get users. How did u solve this? Social media or what."
+product_built: unknown (comment in r/StartupSoloFounder thread about most frustrating things when building)
+fit_reason: FRESH (11:43Z Jun 22). r/StartupSoloFounder commenter sharing own first-person struggle with getting users. Tried multiple methods, still can't crack it. Explicitly asking how others solved it. Solo founder community, direct ICP. F5Bot "cant get users" alert R483.
+opener_angle: tried multiple methods still stuck -- ask specifically what they tried and where each one broke down
+status: new
+outreach_id: O-295
+[RECORD_END]
+
+[RECORD_START]
+id: L-320
+date_found: 2026-06-22
+username: Feisty_Feed1343
+platform: reddit
+url: https://www.reddit.com/r/SaaS/comments/1uchffe/just_burned_6000_on_an_influencer_agency_and_got/
+pain_quote: "We paid a specialized agency $6,000... On launch day... 48 hours later, reality hit: 0 signups."
+product_built: B2B SaaS (launched with influencer campaign, 2 mid-tier creators 850k combined followers, 300 unique visitors, 0 signups)
+fit_reason: FRESH (11:04Z Jun 22). r/SaaS OP posting about burning $6k on launch campaign and getting zero conversions. Tried the "professional" approach, got nothing. First-person distribution pain post-launch. Exact ICP: shipped something, did a launch push, completely struck out. R483.
+opener_angle: $6k in and 0 signups -- ask what they tried beyond the agency and whether the product is still live
+status: new
+outreach_id: O-296
+[RECORD_END]
